@@ -1,0 +1,688 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "DT"
+        },
+        {
+          "word": "impact",
+          "lemma": "impact",
+          "offsetBegin": 4,
+          "offsetEnd": 10,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 11,
+          "offsetEnd": 13,
+          "pos": "IN"
+        },
+        {
+          "word": "EAD",
+          "lemma": "EAD",
+          "offsetBegin": 14,
+          "offsetEnd": 17,
+          "pos": "NNP"
+        },
+        {
+          "word": "adoption",
+          "lemma": "adoption",
+          "offsetBegin": 18,
+          "offsetEnd": 26,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 27,
+          "offsetEnd": 29,
+          "pos": "IN"
+        },
+        {
+          "word": "archival",
+          "lemma": "archival",
+          "offsetBegin": 30,
+          "offsetEnd": 38,
+          "pos": "JJ"
+        },
+        {
+          "word": "programs",
+          "lemma": "program",
+          "offsetBegin": 39,
+          "offsetEnd": 47,
+          "pos": "NNS"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 47,
+          "offsetEnd": 48,
+          "pos": ":"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 49,
+          "offsetEnd": 50,
+          "pos": "DT"
+        },
+        {
+          "word": "pilot",
+          "lemma": "pilot",
+          "offsetBegin": 51,
+          "offsetEnd": 56,
+          "pos": "NN"
+        },
+        {
+          "word": "survey",
+          "lemma": "survey",
+          "offsetBegin": 57,
+          "offsetEnd": 63,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 64,
+          "offsetEnd": 66,
+          "pos": "IN"
+        },
+        {
+          "word": "early",
+          "lemma": "early",
+          "offsetBegin": 67,
+          "offsetEnd": 72,
+          "pos": "JJ"
+        },
+        {
+          "word": "implementers",
+          "lemma": "implementer",
+          "offsetBegin": 73,
+          "offsetEnd": 85,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 86,
+          "offsetEnd": 89,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 90,
+          "offsetEnd": 97,
+          "pos": "NN"
+        },
+        {
+          "word": "reports",
+          "lemma": "report",
+          "offsetBegin": 98,
+          "offsetEnd": 105,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 106,
+          "offsetEnd": 109,
+          "pos": "DT"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 110,
+          "offsetEnd": 117,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 118,
+          "offsetEnd": 120,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 121,
+          "offsetEnd": 122,
+          "pos": "DT"
+        },
+        {
+          "word": "survey",
+          "lemma": "survey",
+          "offsetBegin": 123,
+          "offsetEnd": 129,
+          "pos": "NN"
+        },
+        {
+          "word": "conducted",
+          "lemma": "conduct",
+          "offsetBegin": 130,
+          "offsetEnd": 139,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 140,
+          "offsetEnd": 142,
+          "pos": "TO"
+        },
+        {
+          "word": "assess",
+          "lemma": "assess",
+          "offsetBegin": 143,
+          "offsetEnd": 149,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 150,
+          "offsetEnd": 153,
+          "pos": "DT"
+        },
+        {
+          "word": "impact",
+          "lemma": "impact",
+          "offsetBegin": 154,
+          "offsetEnd": 160,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 161,
+          "offsetEnd": 165,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 166,
+          "offsetEnd": 169,
+          "pos": "DT"
+        },
+        {
+          "word": "implementation",
+          "lemma": "implementation",
+          "offsetBegin": 170,
+          "offsetEnd": 184,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 185,
+          "offsetEnd": 187,
+          "pos": "IN"
+        },
+        {
+          "word": "Encoded",
+          "lemma": "Encoded",
+          "offsetBegin": 188,
+          "offsetEnd": 195,
+          "pos": "NNP"
+        },
+        {
+          "word": "Archival",
+          "lemma": "Archival",
+          "offsetBegin": 196,
+          "offsetEnd": 204,
+          "pos": "NNP"
+        },
+        {
+          "word": "Description",
+          "lemma": "description",
+          "offsetBegin": 205,
+          "offsetEnd": 216,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 217,
+          "offsetEnd": 218,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "EAD",
+          "lemma": "ead",
+          "offsetBegin": 218,
+          "offsetEnd": 221,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 221,
+          "offsetEnd": 222,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 223,
+          "offsetEnd": 226,
+          "pos": "VBZ"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 227,
+          "offsetEnd": 229,
+          "pos": "IN"
+        },
+        {
+          "word": "archival",
+          "lemma": "archival",
+          "offsetBegin": 230,
+          "offsetEnd": 238,
+          "pos": "JJ"
+        },
+        {
+          "word": "programs",
+          "lemma": "program",
+          "offsetBegin": 239,
+          "offsetEnd": 247,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 247,
+          "offsetEnd": 248,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "By",
+          "lemma": "by",
+          "offsetBegin": 249,
+          "offsetEnd": 251,
+          "pos": "IN"
+        },
+        {
+          "word": "gathering",
+          "lemma": "gather",
+          "offsetBegin": 252,
+          "offsetEnd": 261,
+          "pos": "VBG"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 262,
+          "offsetEnd": 266,
+          "pos": "NNS"
+        },
+        {
+          "word": "related",
+          "lemma": "relate",
+          "offsetBegin": 267,
+          "offsetEnd": 274,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 275,
+          "offsetEnd": 277,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 278,
+          "offsetEnd": 281,
+          "pos": "DT"
+        },
+        {
+          "word": "funding",
+          "lemma": "funding",
+          "offsetBegin": 282,
+          "offsetEnd": 289,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 289,
+          "offsetEnd": 290,
+          "pos": ","
+        },
+        {
+          "word": "staffing",
+          "lemma": "staffing",
+          "offsetBegin": 291,
+          "offsetEnd": 299,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 299,
+          "offsetEnd": 300,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 301,
+          "offsetEnd": 304,
+          "pos": "CC"
+        },
+        {
+          "word": "evaluation",
+          "lemma": "evaluation",
+          "offsetBegin": 305,
+          "offsetEnd": 315,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 316,
+          "offsetEnd": 318,
+          "pos": "IN"
+        },
+        {
+          "word": "EAD",
+          "lemma": "ead",
+          "offsetBegin": 319,
+          "offsetEnd": 322,
+          "pos": "NN"
+        },
+        {
+          "word": "programs",
+          "lemma": "program",
+          "offsetBegin": 323,
+          "offsetEnd": 331,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 332,
+          "offsetEnd": 335,
+          "pos": "CC"
+        },
+        {
+          "word": "about",
+          "lemma": "about",
+          "offsetBegin": 336,
+          "offsetEnd": 341,
+          "pos": "IN"
+        },
+        {
+          "word": "institutional",
+          "lemma": "institutional",
+          "offsetBegin": 342,
+          "offsetEnd": 355,
+          "pos": "JJ"
+        },
+        {
+          "word": "goals",
+          "lemma": "goal",
+          "offsetBegin": 356,
+          "offsetEnd": 361,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 362,
+          "offsetEnd": 365,
+          "pos": "IN"
+        },
+        {
+          "word": "EAD",
+          "lemma": "EAD",
+          "offsetBegin": 366,
+          "offsetEnd": 369,
+          "pos": "NNP"
+        },
+        {
+          "word": "implementation",
+          "lemma": "implementation",
+          "offsetBegin": 370,
+          "offsetEnd": 384,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 384,
+          "offsetEnd": 385,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 386,
+          "offsetEnd": 389,
+          "pos": "DT"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 390,
+          "offsetEnd": 395,
+          "pos": "NN"
+        },
+        {
+          "word": "explored",
+          "lemma": "explore",
+          "offsetBegin": 396,
+          "offsetEnd": 404,
+          "pos": "VBD"
+        },
+        {
+          "word": "how",
+          "lemma": "how",
+          "offsetBegin": 405,
+          "offsetEnd": 408,
+          "pos": "WRB"
+        },
+        {
+          "word": "EAD",
+          "lemma": "EAD",
+          "offsetBegin": 409,
+          "offsetEnd": 412,
+          "pos": "NNP"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 413,
+          "offsetEnd": 416,
+          "pos": "VBZ"
+        },
+        {
+          "word": "affected",
+          "lemma": "affect",
+          "offsetBegin": 417,
+          "offsetEnd": 425,
+          "pos": "VBN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 426,
+          "offsetEnd": 429,
+          "pos": "DT"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 430,
+          "offsetEnd": 440,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 441,
+          "offsetEnd": 443,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 444,
+          "offsetEnd": 447,
+          "pos": "DT"
+        },
+        {
+          "word": "institutions",
+          "lemma": "institution",
+          "offsetBegin": 448,
+          "offsetEnd": 460,
+          "pos": "NNS"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 461,
+          "offsetEnd": 466,
+          "pos": "WDT"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 467,
+          "offsetEnd": 470,
+          "pos": "VBP"
+        },
+        {
+          "word": "utilizing",
+          "lemma": "utilize",
+          "offsetBegin": 471,
+          "offsetEnd": 480,
+          "pos": "VBG"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 481,
+          "offsetEnd": 483,
+          "pos": "PRP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 484,
+          "offsetEnd": 487,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 488,
+          "offsetEnd": 491,
+          "pos": "DT"
+        },
+        {
+          "word": "extent",
+          "lemma": "extent",
+          "offsetBegin": 492,
+          "offsetEnd": 498,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 499,
+          "offsetEnd": 501,
+          "pos": "TO"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 502,
+          "offsetEnd": 507,
+          "pos": "WDT"
+        },
+        {
+          "word": "EAD",
+          "lemma": "EAD",
+          "offsetBegin": 508,
+          "offsetEnd": 511,
+          "pos": "NNP"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 512,
+          "offsetEnd": 515,
+          "pos": "VBZ"
+        },
+        {
+          "word": "become",
+          "lemma": "become",
+          "offsetBegin": 516,
+          "offsetEnd": 522,
+          "pos": "VBN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 523,
+          "offsetEnd": 524,
+          "pos": "DT"
+        },
+        {
+          "word": "part",
+          "lemma": "part",
+          "offsetBegin": 525,
+          "offsetEnd": 529,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 530,
+          "offsetEnd": 532,
+          "pos": "IN"
+        },
+        {
+          "word": "regular",
+          "lemma": "regular",
+          "offsetBegin": 533,
+          "offsetEnd": 540,
+          "pos": "JJ"
+        },
+        {
+          "word": "repository",
+          "lemma": "repository",
+          "offsetBegin": 541,
+          "offsetEnd": 551,
+          "pos": "JJ"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 552,
+          "offsetEnd": 561,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

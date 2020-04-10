@@ -1,0 +1,728 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Horizontal",
+          "lemma": "horizontal",
+          "offsetBegin": 0,
+          "offsetEnd": 10,
+          "pos": "JJ"
+        },
+        {
+          "word": "waypoint",
+          "lemma": "waypoint",
+          "offsetBegin": 11,
+          "offsetEnd": 19,
+          "pos": "NN"
+        },
+        {
+          "word": "guidance",
+          "lemma": "guidance",
+          "offsetBegin": 20,
+          "offsetEnd": 28,
+          "pos": "NN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 29,
+          "offsetEnd": 35,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 36,
+          "offsetEnd": 41,
+          "pos": "VBG"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 42,
+          "offsetEnd": 49,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 50,
+          "offsetEnd": 57,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 58,
+          "offsetEnd": 59,
+          "pos": "DT"
+        },
+        {
+          "word": "horizontal",
+          "lemma": "horizontal",
+          "offsetBegin": 60,
+          "offsetEnd": 70,
+          "pos": "JJ"
+        },
+        {
+          "word": "waypoint",
+          "lemma": "waypoint",
+          "offsetBegin": 71,
+          "offsetEnd": 79,
+          "pos": "NN"
+        },
+        {
+          "word": "guidance",
+          "lemma": "guidance",
+          "offsetBegin": 80,
+          "offsetEnd": 88,
+          "pos": "NN"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 89,
+          "offsetEnd": 98,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 99,
+          "offsetEnd": 101,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 102,
+          "offsetEnd": 110,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 111,
+          "offsetEnd": 113,
+          "pos": "IN"
+        },
+        {
+          "word": "applying",
+          "lemma": "apply",
+          "offsetBegin": 114,
+          "offsetEnd": 122,
+          "pos": "VBG"
+        },
+        {
+          "word": "line-following",
+          "lemma": "line-following",
+          "offsetBegin": 123,
+          "offsetEnd": 137,
+          "pos": "JJ"
+        },
+        {
+          "word": "guidance",
+          "lemma": "guidance",
+          "offsetBegin": 138,
+          "offsetEnd": 146,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 147,
+          "offsetEnd": 149,
+          "pos": "TO"
+        },
+        {
+          "word": "waypoint",
+          "lemma": "waypoint",
+          "offsetBegin": 150,
+          "offsetEnd": 158,
+          "pos": "VB"
+        },
+        {
+          "word": "line",
+          "lemma": "line",
+          "offsetBegin": 159,
+          "offsetEnd": 163,
+          "pos": "NN"
+        },
+        {
+          "word": "segments",
+          "lemma": "segment",
+          "offsetBegin": 164,
+          "offsetEnd": 172,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 173,
+          "offsetEnd": 175,
+          "pos": "IN"
+        },
+        {
+          "word": "sequence",
+          "lemma": "sequence",
+          "offsetBegin": 176,
+          "offsetEnd": 184,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 184,
+          "offsetEnd": 185,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 186,
+          "offsetEnd": 189,
+          "pos": "DT"
+        },
+        {
+          "word": "line-following",
+          "lemma": "line-following",
+          "offsetBegin": 190,
+          "offsetEnd": 204,
+          "pos": "JJ"
+        },
+        {
+          "word": "guidance",
+          "lemma": "guidance",
+          "offsetBegin": 205,
+          "offsetEnd": 213,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 214,
+          "offsetEnd": 216,
+          "pos": "VBZ"
+        },
+        {
+          "word": "designed",
+          "lemma": "design",
+          "offsetBegin": 217,
+          "offsetEnd": 225,
+          "pos": "VBN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 226,
+          "offsetEnd": 231,
+          "pos": "VBG"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 232,
+          "offsetEnd": 234,
+          "pos": "DT"
+        },
+        {
+          "word": "LQR",
+          "lemma": "lqr",
+          "offsetBegin": 235,
+          "offsetEnd": 238,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 239,
+          "offsetEnd": 240,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 240,
+          "offsetEnd": 246,
+          "pos": "JJ"
+        },
+        {
+          "word": "quadratic",
+          "lemma": "quadratic",
+          "offsetBegin": 247,
+          "offsetEnd": 256,
+          "pos": "JJ"
+        },
+        {
+          "word": "regulator",
+          "lemma": "regulator",
+          "offsetBegin": 257,
+          "offsetEnd": 266,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 266,
+          "offsetEnd": 267,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 267,
+          "offsetEnd": 268,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Then",
+          "lemma": "then",
+          "offsetBegin": 269,
+          "offsetEnd": 273,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 273,
+          "offsetEnd": 274,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 275,
+          "offsetEnd": 278,
+          "pos": "DT"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 279,
+          "offsetEnd": 286,
+          "pos": "JJ"
+        },
+        {
+          "word": "waypoint",
+          "lemma": "waypoint",
+          "offsetBegin": 287,
+          "offsetEnd": 295,
+          "pos": "NN"
+        },
+        {
+          "word": "changing",
+          "lemma": "change",
+          "offsetBegin": 296,
+          "offsetEnd": 304,
+          "pos": "VBG"
+        },
+        {
+          "word": "points",
+          "lemma": "point",
+          "offsetBegin": 305,
+          "offsetEnd": 311,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 312,
+          "offsetEnd": 315,
+          "pos": "VBP"
+        },
+        {
+          "word": "derived",
+          "lemma": "derive",
+          "offsetBegin": 316,
+          "offsetEnd": 323,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 324,
+          "offsetEnd": 326,
+          "pos": "IN"
+        },
+        {
+          "word": "minimizing",
+          "lemma": "minimize",
+          "offsetBegin": 327,
+          "offsetEnd": 337,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 338,
+          "offsetEnd": 341,
+          "pos": "DT"
+        },
+        {
+          "word": "accelerations",
+          "lemma": "acceleration",
+          "offsetBegin": 342,
+          "offsetEnd": 355,
+          "pos": "NNS"
+        },
+        {
+          "word": "required",
+          "lemma": "require",
+          "offsetBegin": 356,
+          "offsetEnd": 364,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 365,
+          "offsetEnd": 368,
+          "pos": "IN"
+        },
+        {
+          "word": "changing",
+          "lemma": "change",
+          "offsetBegin": 369,
+          "offsetEnd": 377,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 378,
+          "offsetEnd": 381,
+          "pos": "DT"
+        },
+        {
+          "word": "waypoint",
+          "lemma": "waypoint",
+          "offsetBegin": 382,
+          "offsetEnd": 390,
+          "pos": "NN"
+        },
+        {
+          "word": "line",
+          "lemma": "line",
+          "offsetBegin": 391,
+          "offsetEnd": 395,
+          "pos": "NN"
+        },
+        {
+          "word": "segments",
+          "lemma": "segment",
+          "offsetBegin": 396,
+          "offsetEnd": 404,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 404,
+          "offsetEnd": 405,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Also",
+          "lemma": "also",
+          "offsetBegin": 406,
+          "offsetEnd": 410,
+          "pos": "RB"
+        },
+        {
+          "word": "derived",
+          "lemma": "derive",
+          "offsetBegin": 411,
+          "offsetEnd": 418,
+          "pos": "VBN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 419,
+          "offsetEnd": 421,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 422,
+          "offsetEnd": 423,
+          "pos": "DT"
+        },
+        {
+          "word": "sufficient",
+          "lemma": "sufficient",
+          "offsetBegin": 424,
+          "offsetEnd": 434,
+          "pos": "JJ"
+        },
+        {
+          "word": "condition",
+          "lemma": "condition",
+          "offsetBegin": 435,
+          "offsetEnd": 444,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 445,
+          "offsetEnd": 448,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 449,
+          "offsetEnd": 452,
+          "pos": "DT"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 453,
+          "offsetEnd": 462,
+          "pos": "NN"
+        },
+        {
+          "word": "bound",
+          "lemma": "bind",
+          "offsetBegin": 463,
+          "offsetEnd": 468,
+          "pos": "VBD"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 469,
+          "offsetEnd": 471,
+          "pos": "IN"
+        },
+        {
+          "word": "ground",
+          "lemma": "ground",
+          "offsetBegin": 472,
+          "offsetEnd": 478,
+          "pos": "NN"
+        },
+        {
+          "word": "speed",
+          "lemma": "speed",
+          "offsetBegin": 479,
+          "offsetEnd": 484,
+          "pos": "NN"
+        },
+        {
+          "word": "changes",
+          "lemma": "change",
+          "offsetBegin": 485,
+          "offsetEnd": 492,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 493,
+          "offsetEnd": 498,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 499,
+          "offsetEnd": 501,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 502,
+          "offsetEnd": 505,
+          "pos": "DT"
+        },
+        {
+          "word": "Lyapunov",
+          "lemma": "Lyapunov",
+          "offsetBegin": 506,
+          "offsetEnd": 514,
+          "pos": "NNP"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 515,
+          "offsetEnd": 524,
+          "pos": "NN"
+        },
+        {
+          "word": "theorem",
+          "lemma": "theorem",
+          "offsetBegin": 525,
+          "offsetEnd": 532,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 532,
+          "offsetEnd": 533,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Simulation",
+          "lemma": "simulation",
+          "offsetBegin": 534,
+          "offsetEnd": 544,
+          "pos": "NN"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 545,
+          "offsetEnd": 552,
+          "pos": "NNS"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 553,
+          "offsetEnd": 557,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 558,
+          "offsetEnd": 562,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 563,
+          "offsetEnd": 566,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 567,
+          "offsetEnd": 575,
+          "pos": "VBN"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 576,
+          "offsetEnd": 585,
+          "pos": "NN"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 586,
+          "offsetEnd": 589,
+          "pos": "MD"
+        },
+        {
+          "word": "effectively",
+          "lemma": "effectively",
+          "offsetBegin": 590,
+          "offsetEnd": 601,
+          "pos": "RB"
+        },
+        {
+          "word": "guide",
+          "lemma": "guide",
+          "offsetBegin": 602,
+          "offsetEnd": 607,
+          "pos": "VB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 608,
+          "offsetEnd": 609,
+          "pos": "DT"
+        },
+        {
+          "word": "vehicle",
+          "lemma": "vehicle",
+          "offsetBegin": 610,
+          "offsetEnd": 617,
+          "pos": "NN"
+        },
+        {
+          "word": "along",
+          "lemma": "along",
+          "offsetBegin": 618,
+          "offsetEnd": 623,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 624,
+          "offsetEnd": 627,
+          "pos": "DT"
+        },
+        {
+          "word": "sequence",
+          "lemma": "sequence",
+          "offsetBegin": 628,
+          "offsetEnd": 636,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 637,
+          "offsetEnd": 639,
+          "pos": "IN"
+        },
+        {
+          "word": "waypoint",
+          "lemma": "waypoint",
+          "offsetBegin": 640,
+          "offsetEnd": 648,
+          "pos": "NN"
+        },
+        {
+          "word": "line",
+          "lemma": "line",
+          "offsetBegin": 649,
+          "offsetEnd": 653,
+          "pos": "NN"
+        },
+        {
+          "word": "segments",
+          "lemma": "segment",
+          "offsetBegin": 654,
+          "offsetEnd": 662,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

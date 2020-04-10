@@ -1,0 +1,837 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Building",
+          "lemma": "building",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "NN"
+        },
+        {
+          "word": "3D",
+          "lemma": "3d",
+          "offsetBegin": 9,
+          "offsetEnd": 11,
+          "pos": "NN"
+        },
+        {
+          "word": "anatomical",
+          "lemma": "anatomical",
+          "offsetBegin": 12,
+          "offsetEnd": 22,
+          "pos": "JJ"
+        },
+        {
+          "word": "scenes",
+          "lemma": "scene",
+          "offsetBegin": 23,
+          "offsetEnd": 29,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 30,
+          "offsetEnd": 32,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 33,
+          "offsetEnd": 36,
+          "pos": "DT"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 37,
+          "offsetEnd": 40,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 41,
+          "offsetEnd": 43,
+          "pos": "PRP"
+        },
+        {
+          "word": "propose",
+          "lemma": "propose",
+          "offsetBegin": 44,
+          "offsetEnd": 51,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 52,
+          "offsetEnd": 53,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 54,
+          "offsetEnd": 57,
+          "pos": "JJ"
+        },
+        {
+          "word": "service",
+          "lemma": "service",
+          "offsetBegin": 58,
+          "offsetEnd": 65,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 66,
+          "offsetEnd": 69,
+          "pos": "IN"
+        },
+        {
+          "word": "building",
+          "lemma": "build",
+          "offsetBegin": 70,
+          "offsetEnd": 78,
+          "pos": "VBG"
+        },
+        {
+          "word": "user-defined",
+          "lemma": "user-defined",
+          "offsetBegin": 79,
+          "offsetEnd": 91,
+          "pos": "JJ"
+        },
+        {
+          "word": "3D",
+          "lemma": "3d",
+          "offsetBegin": 92,
+          "offsetEnd": 94,
+          "pos": "NN"
+        },
+        {
+          "word": "anatomical",
+          "lemma": "anatomical",
+          "offsetBegin": 95,
+          "offsetEnd": 105,
+          "pos": "JJ"
+        },
+        {
+          "word": "structures",
+          "lemma": "structure",
+          "offsetBegin": 106,
+          "offsetEnd": 116,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 117,
+          "offsetEnd": 119,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 120,
+          "offsetEnd": 123,
+          "pos": "DT"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 124,
+          "offsetEnd": 127,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 127,
+          "offsetEnd": 128,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 129,
+          "offsetEnd": 132,
+          "pos": "DT"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 133,
+          "offsetEnd": 136,
+          "pos": "NN"
+        },
+        {
+          "word": "server",
+          "lemma": "server",
+          "offsetBegin": 137,
+          "offsetEnd": 143,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 144,
+          "offsetEnd": 146,
+          "pos": "VBZ"
+        },
+        {
+          "word": "connected",
+          "lemma": "connect",
+          "offsetBegin": 147,
+          "offsetEnd": 156,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 157,
+          "offsetEnd": 159,
+          "pos": "TO"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 160,
+          "offsetEnd": 161,
+          "pos": "DT"
+        },
+        {
+          "word": "database",
+          "lemma": "database",
+          "offsetBegin": 162,
+          "offsetEnd": 170,
+          "pos": "NN"
+        },
+        {
+          "word": "storing",
+          "lemma": "store",
+          "offsetBegin": 171,
+          "offsetEnd": 178,
+          "pos": "VBG"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 179,
+          "offsetEnd": 183,
+          "pos": "JJR"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 184,
+          "offsetEnd": 188,
+          "pos": "IN"
+        },
+        {
+          "word": "1000",
+          "lemma": "1000",
+          "offsetBegin": 189,
+          "offsetEnd": 193,
+          "pos": "CD"
+        },
+        {
+          "word": "3D",
+          "lemma": "3d",
+          "offsetBegin": 194,
+          "offsetEnd": 196,
+          "pos": "NN"
+        },
+        {
+          "word": "anatomical",
+          "lemma": "anatomical",
+          "offsetBegin": 197,
+          "offsetEnd": 207,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 208,
+          "offsetEnd": 214,
+          "pos": "NNS"
+        },
+        {
+          "word": "reconstructed",
+          "lemma": "reconstruct",
+          "offsetBegin": 215,
+          "offsetEnd": 228,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 229,
+          "offsetEnd": 233,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 234,
+          "offsetEnd": 237,
+          "pos": "DT"
+        },
+        {
+          "word": "Visible",
+          "lemma": "Visible",
+          "offsetBegin": 238,
+          "offsetEnd": 245,
+          "pos": "NNP"
+        },
+        {
+          "word": "Human",
+          "lemma": "Human",
+          "offsetBegin": 246,
+          "offsetEnd": 251,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 251,
+          "offsetEnd": 252,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Users",
+          "lemma": "user",
+          "offsetBegin": 253,
+          "offsetEnd": 258,
+          "pos": "NNS"
+        },
+        {
+          "word": "may",
+          "lemma": "may",
+          "offsetBegin": 259,
+          "offsetEnd": 262,
+          "pos": "MD"
+        },
+        {
+          "word": "combine",
+          "lemma": "combine",
+          "offsetBegin": 263,
+          "offsetEnd": 270,
+          "pos": "VB"
+        },
+        {
+          "word": "existing",
+          "lemma": "exist",
+          "offsetBegin": 271,
+          "offsetEnd": 279,
+          "pos": "VBG"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 280,
+          "offsetEnd": 286,
+          "pos": "NNS"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 287,
+          "offsetEnd": 289,
+          "pos": "RB"
+        },
+        {
+          "word": "well",
+          "lemma": "well",
+          "offsetBegin": 290,
+          "offsetEnd": 294,
+          "pos": "RB"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 295,
+          "offsetEnd": 297,
+          "pos": "IN"
+        },
+        {
+          "word": "planar",
+          "lemma": "planar",
+          "offsetBegin": 298,
+          "offsetEnd": 304,
+          "pos": "JJ"
+        },
+        {
+          "word": "oblique",
+          "lemma": "oblique",
+          "offsetBegin": 305,
+          "offsetEnd": 312,
+          "pos": "JJ"
+        },
+        {
+          "word": "slices",
+          "lemma": "slice",
+          "offsetBegin": 313,
+          "offsetEnd": 319,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 320,
+          "offsetEnd": 322,
+          "pos": "IN"
+        },
+        {
+          "word": "order",
+          "lemma": "order",
+          "offsetBegin": 323,
+          "offsetEnd": 328,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 329,
+          "offsetEnd": 331,
+          "pos": "TO"
+        },
+        {
+          "word": "create",
+          "lemma": "create",
+          "offsetBegin": 332,
+          "offsetEnd": 338,
+          "pos": "VB"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 339,
+          "offsetEnd": 344,
+          "pos": "PRP$"
+        },
+        {
+          "word": "own",
+          "lemma": "own",
+          "offsetBegin": 345,
+          "offsetEnd": 348,
+          "pos": "JJ"
+        },
+        {
+          "word": "structured",
+          "lemma": "structured",
+          "offsetBegin": 349,
+          "offsetEnd": 359,
+          "pos": "JJ"
+        },
+        {
+          "word": "anatomical",
+          "lemma": "anatomical",
+          "offsetBegin": 360,
+          "offsetEnd": 370,
+          "pos": "JJ"
+        },
+        {
+          "word": "scenes",
+          "lemma": "scene",
+          "offsetBegin": 371,
+          "offsetEnd": 377,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 377,
+          "offsetEnd": 378,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Furthermore",
+          "lemma": "furthermore",
+          "offsetBegin": 379,
+          "offsetEnd": 390,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 390,
+          "offsetEnd": 391,
+          "pos": ","
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 392,
+          "offsetEnd": 396,
+          "pos": "PRP"
+        },
+        {
+          "word": "may",
+          "lemma": "may",
+          "offsetBegin": 397,
+          "offsetEnd": 400,
+          "pos": "MD"
+        },
+        {
+          "word": "record",
+          "lemma": "record",
+          "offsetBegin": 401,
+          "offsetEnd": 407,
+          "pos": "VB"
+        },
+        {
+          "word": "sequences",
+          "lemma": "sequence",
+          "offsetBegin": 408,
+          "offsetEnd": 417,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 418,
+          "offsetEnd": 420,
+          "pos": "IN"
+        },
+        {
+          "word": "scene",
+          "lemma": "scene",
+          "offsetBegin": 421,
+          "offsetEnd": 426,
+          "pos": "NN"
+        },
+        {
+          "word": "construction",
+          "lemma": "construction",
+          "offsetBegin": 427,
+          "offsetEnd": 439,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 440,
+          "offsetEnd": 443,
+          "pos": "CC"
+        },
+        {
+          "word": "visualization",
+          "lemma": "visualization",
+          "offsetBegin": 444,
+          "offsetEnd": 457,
+          "pos": "NN"
+        },
+        {
+          "word": "actions",
+          "lemma": "action",
+          "offsetBegin": 458,
+          "offsetEnd": 465,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 465,
+          "offsetEnd": 466,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "These",
+          "lemma": "these",
+          "offsetBegin": 467,
+          "offsetEnd": 472,
+          "pos": "DT"
+        },
+        {
+          "word": "actions",
+          "lemma": "action",
+          "offsetBegin": 473,
+          "offsetEnd": 480,
+          "pos": "NNS"
+        },
+        {
+          "word": "enable",
+          "lemma": "enable",
+          "offsetBegin": 481,
+          "offsetEnd": 487,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 488,
+          "offsetEnd": 491,
+          "pos": "DT"
+        },
+        {
+          "word": "server",
+          "lemma": "server",
+          "offsetBegin": 492,
+          "offsetEnd": 498,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 499,
+          "offsetEnd": 501,
+          "pos": "TO"
+        },
+        {
+          "word": "construct",
+          "lemma": "construct",
+          "offsetBegin": 502,
+          "offsetEnd": 511,
+          "pos": "VB"
+        },
+        {
+          "word": "high-quality",
+          "lemma": "high-quality",
+          "offsetBegin": 512,
+          "offsetEnd": 524,
+          "pos": "JJ"
+        },
+        {
+          "word": "video",
+          "lemma": "video",
+          "offsetBegin": 525,
+          "offsetEnd": 530,
+          "pos": "NN"
+        },
+        {
+          "word": "animations",
+          "lemma": "animation",
+          "offsetBegin": 531,
+          "offsetEnd": 541,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 541,
+          "offsetEnd": 542,
+          "pos": ","
+        },
+        {
+          "word": "downloadable",
+          "lemma": "downloadable",
+          "offsetBegin": 543,
+          "offsetEnd": 555,
+          "pos": "JJ"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 556,
+          "offsetEnd": 558,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 559,
+          "offsetEnd": 562,
+          "pos": "DT"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 563,
+          "offsetEnd": 567,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 567,
+          "offsetEnd": 568,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Professionals",
+          "lemma": "professional",
+          "offsetBegin": 569,
+          "offsetEnd": 582,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 583,
+          "offsetEnd": 586,
+          "pos": "CC"
+        },
+        {
+          "word": "students",
+          "lemma": "student",
+          "offsetBegin": 587,
+          "offsetEnd": 595,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 596,
+          "offsetEnd": 598,
+          "pos": "IN"
+        },
+        {
+          "word": "anatomy",
+          "lemma": "anatomy",
+          "offsetBegin": 599,
+          "offsetEnd": 606,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 606,
+          "offsetEnd": 607,
+          "pos": ","
+        },
+        {
+          "word": "medicine",
+          "lemma": "medicine",
+          "offsetBegin": 608,
+          "offsetEnd": 616,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 617,
+          "offsetEnd": 620,
+          "pos": "CC"
+        },
+        {
+          "word": "related",
+          "lemma": "related",
+          "offsetBegin": 621,
+          "offsetEnd": 628,
+          "pos": "JJ"
+        },
+        {
+          "word": "disciplines",
+          "lemma": "discipline",
+          "offsetBegin": 629,
+          "offsetEnd": 640,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 641,
+          "offsetEnd": 644,
+          "pos": "VBP"
+        },
+        {
+          "word": "invited",
+          "lemma": "invite",
+          "offsetBegin": 645,
+          "offsetEnd": 652,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 653,
+          "offsetEnd": 655,
+          "pos": "TO"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 656,
+          "offsetEnd": 659,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 660,
+          "offsetEnd": 663,
+          "pos": "DT"
+        },
+        {
+          "word": "server",
+          "lemma": "server",
+          "offsetBegin": 664,
+          "offsetEnd": 670,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 671,
+          "offsetEnd": 674,
+          "pos": "CC"
+        },
+        {
+          "word": "create",
+          "lemma": "create",
+          "offsetBegin": 675,
+          "offsetEnd": 681,
+          "pos": "VB"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 682,
+          "offsetEnd": 687,
+          "pos": "PRP$"
+        },
+        {
+          "word": "own",
+          "lemma": "own",
+          "offsetBegin": 688,
+          "offsetEnd": 691,
+          "pos": "JJ"
+        },
+        {
+          "word": "anatomical",
+          "lemma": "anatomical",
+          "offsetBegin": 692,
+          "offsetEnd": 702,
+          "pos": "JJ"
+        },
+        {
+          "word": "scenes",
+          "lemma": "scene",
+          "offsetBegin": 703,
+          "offsetEnd": 709,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 2,
+          "offsetEnd": 5,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 6,
+          "offsetEnd": 14,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 15,
+          "offsetEnd": 17,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 18,
+          "offsetEnd": 21,
+          "pos": "DT"
+        },
+        {
+          "word": "decomposition",
+          "lemma": "decomposition",
+          "offsetBegin": 22,
+          "offsetEnd": 35,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 36,
+          "offsetEnd": 38,
+          "pos": "IN"
+        },
+        {
+          "word": "Boolean",
+          "lemma": "boolean",
+          "offsetBegin": 39,
+          "offsetEnd": 46,
+          "pos": "JJ"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 47,
+          "offsetEnd": 56,
+          "pos": "NNS"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 57,
+          "offsetEnd": 59,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 60,
+          "offsetEnd": 63,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 64,
+          "offsetEnd": 70,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 71,
+          "offsetEnd": 73,
+          "pos": "IN"
+        },
+        {
+          "word": "q-partitions",
+          "lemma": "q-partition",
+          "offsetBegin": 74,
+          "offsetEnd": 86,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 86,
+          "offsetEnd": 87,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "II",
+          "lemma": "II",
+          "offsetBegin": 87,
+          "offsetEnd": 89,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 89,
+          "offsetEnd": 90,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Repeated",
+          "lemma": "repeated",
+          "offsetBegin": 91,
+          "offsetEnd": 99,
+          "pos": "JJ"
+        },
+        {
+          "word": "decomposition",
+          "lemma": "decomposition",
+          "offsetBegin": 100,
+          "offsetEnd": 113,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 114,
+          "offsetEnd": 117,
+          "pos": "IN"
+        },
+        {
+          "word": "pt.I",
+          "lemma": "pt.i",
+          "offsetBegin": 118,
+          "offsetEnd": 122,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 122,
+          "offsetEnd": 123,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "see",
+          "lemma": "see",
+          "offsetBegin": 124,
+          "offsetEnd": 127,
+          "pos": "VB"
+        },
+        {
+          "word": "Upr",
+          "lemma": "Upr",
+          "offsetBegin": 128,
+          "offsetEnd": 131,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 131,
+          "offsetEnd": 132,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Sist",
+          "lemma": "Sist",
+          "offsetBegin": 133,
+          "offsetEnd": 137,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 137,
+          "offsetEnd": 138,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Mash.",
+          "lemma": "Mash.",
+          "offsetBegin": 139,
+          "offsetEnd": 144,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 144,
+          "offsetEnd": 145,
+          "pos": ","
+        },
+        {
+          "word": "no.",
+          "lemma": "no.",
+          "offsetBegin": 146,
+          "offsetEnd": 149,
+          "pos": "NNP"
+        },
+        {
+          "word": "6",
+          "lemma": "6",
+          "offsetBegin": 150,
+          "offsetEnd": 151,
+          "pos": "CD"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 151,
+          "offsetEnd": 152,
+          "pos": ","
+        },
+        {
+          "word": "p.",
+          "lemma": "p.",
+          "offsetBegin": 153,
+          "offsetEnd": 155,
+          "pos": "NN"
+        },
+        {
+          "word": "29-42",
+          "lemma": "29-42",
+          "offsetBegin": 156,
+          "offsetEnd": 161,
+          "pos": "CD"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 162,
+          "offsetEnd": 163,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "1999",
+          "lemma": "1999",
+          "offsetBegin": 163,
+          "offsetEnd": 167,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 167,
+          "offsetEnd": 168,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 168,
+          "offsetEnd": 169,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 170,
+          "offsetEnd": 171,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 172,
+          "offsetEnd": 175,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 176,
+          "offsetEnd": 184,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 185,
+          "offsetEnd": 187,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 188,
+          "offsetEnd": 191,
+          "pos": "DT"
+        },
+        {
+          "word": "decomposition",
+          "lemma": "decomposition",
+          "offsetBegin": 192,
+          "offsetEnd": 205,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 206,
+          "offsetEnd": 208,
+          "pos": "IN"
+        },
+        {
+          "word": "Boolean",
+          "lemma": "Boolean",
+          "offsetBegin": 209,
+          "offsetEnd": 216,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 216,
+          "offsetEnd": 217,
+          "pos": ","
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 217,
+          "offsetEnd": 226,
+          "pos": "VBZ"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 227,
+          "offsetEnd": 231,
+          "pos": "IN"
+        },
+        {
+          "word": "depend",
+          "lemma": "depend",
+          "offsetBegin": 232,
+          "offsetEnd": 238,
+          "pos": "VBP"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 239,
+          "offsetEnd": 241,
+          "pos": "IN"
+        },
+        {
+          "word": "n",
+          "lemma": "n",
+          "offsetBegin": 242,
+          "offsetEnd": 243,
+          "pos": "NN"
+        },
+        {
+          "word": "variables",
+          "lemma": "variable",
+          "offsetBegin": 244,
+          "offsetEnd": 253,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 254,
+          "offsetEnd": 257,
+          "pos": "CC"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 258,
+          "offsetEnd": 261,
+          "pos": "VBP"
+        },
+        {
+          "word": "represented",
+          "lemma": "represent",
+          "offsetBegin": 262,
+          "offsetEnd": 273,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 274,
+          "offsetEnd": 276,
+          "pos": "IN"
+        },
+        {
+          "word": "various",
+          "lemma": "various",
+          "offsetBegin": 277,
+          "offsetEnd": 284,
+          "pos": "JJ"
+        },
+        {
+          "word": "forms",
+          "lemma": "form",
+          "offsetBegin": 285,
+          "offsetEnd": 290,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 291,
+          "offsetEnd": 293,
+          "pos": "VBZ"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 294,
+          "offsetEnd": 304,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 304,
+          "offsetEnd": 305,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 306,
+          "offsetEnd": 309,
+          "pos": "DT"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 310,
+          "offsetEnd": 318,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 319,
+          "offsetEnd": 321,
+          "pos": "VBZ"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 322,
+          "offsetEnd": 327,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 328,
+          "offsetEnd": 330,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 331,
+          "offsetEnd": 334,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 335,
+          "offsetEnd": 341,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 342,
+          "offsetEnd": 344,
+          "pos": "IN"
+        },
+        {
+          "word": "q-partitioning",
+          "lemma": "q-partitioning",
+          "offsetBegin": 345,
+          "offsetEnd": 359,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 360,
+          "offsetEnd": 362,
+          "pos": "IN"
+        },
+        {
+          "word": "minterms",
+          "lemma": "minterm",
+          "offsetBegin": 363,
+          "offsetEnd": 371,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 372,
+          "offsetEnd": 375,
+          "pos": "CC"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 376,
+          "offsetEnd": 378,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 379,
+          "offsetEnd": 382,
+          "pos": "DT"
+        },
+        {
+          "word": "introduced",
+          "lemma": "introduce",
+          "offsetBegin": 383,
+          "offsetEnd": 393,
+          "pos": "VBN"
+        },
+        {
+          "word": "concept",
+          "lemma": "concept",
+          "offsetBegin": 394,
+          "offsetEnd": 401,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 402,
+          "offsetEnd": 404,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 405,
+          "offsetEnd": 406,
+          "pos": "DT"
+        },
+        {
+          "word": "decomposition",
+          "lemma": "decomposition",
+          "offsetBegin": 407,
+          "offsetEnd": 420,
+          "pos": "NN"
+        },
+        {
+          "word": "clone",
+          "lemma": "clone",
+          "offsetBegin": 421,
+          "offsetEnd": 426,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 426,
+          "offsetEnd": 427,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 428,
+          "offsetEnd": 431,
+          "pos": "DT"
+        },
+        {
+          "word": "theorem",
+          "lemma": "theorem",
+          "offsetBegin": 432,
+          "offsetEnd": 439,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 440,
+          "offsetEnd": 442,
+          "pos": "IN"
+        },
+        {
+          "word": "simple",
+          "lemma": "simple",
+          "offsetBegin": 443,
+          "offsetEnd": 449,
+          "pos": "JJ"
+        },
+        {
+          "word": "disjunctive",
+          "lemma": "disjunctive",
+          "offsetBegin": 450,
+          "offsetEnd": 461,
+          "pos": "JJ"
+        },
+        {
+          "word": "decomposition",
+          "lemma": "decomposition",
+          "offsetBegin": 462,
+          "offsetEnd": 475,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 476,
+          "offsetEnd": 478,
+          "pos": "IN"
+        },
+        {
+          "word": "full",
+          "lemma": "full",
+          "offsetBegin": 479,
+          "offsetEnd": 483,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 484,
+          "offsetEnd": 487,
+          "pos": "CC"
+        },
+        {
+          "word": "partial",
+          "lemma": "partial",
+          "offsetBegin": 488,
+          "offsetEnd": 495,
+          "pos": "JJ"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 496,
+          "offsetEnd": 505,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 506,
+          "offsetEnd": 508,
+          "pos": "VBZ"
+        },
+        {
+          "word": "formulated",
+          "lemma": "formulate",
+          "offsetBegin": 509,
+          "offsetEnd": 519,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 519,
+          "offsetEnd": 520,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 521,
+          "offsetEnd": 524,
+          "pos": "DT"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 525,
+          "offsetEnd": 533,
+          "pos": "NN"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 534,
+          "offsetEnd": 542,
+          "pos": "VBN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 543,
+          "offsetEnd": 545,
+          "pos": "VBZ"
+        },
+        {
+          "word": "illustrated",
+          "lemma": "illustrate",
+          "offsetBegin": 546,
+          "offsetEnd": 557,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 558,
+          "offsetEnd": 560,
+          "pos": "IN"
+        },
+        {
+          "word": "examples",
+          "lemma": "example",
+          "offsetBegin": 561,
+          "offsetEnd": 569,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

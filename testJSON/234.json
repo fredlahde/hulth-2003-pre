@@ -1,0 +1,629 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "DT"
+        },
+        {
+          "word": "UK",
+          "lemma": "UK",
+          "offsetBegin": 4,
+          "offsetEnd": 6,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 6,
+          "offsetEnd": 8,
+          "pos": "POS"
+        },
+        {
+          "word": "National",
+          "lemma": "National",
+          "offsetBegin": 9,
+          "offsetEnd": 17,
+          "pos": "NNP"
+        },
+        {
+          "word": "Electronic",
+          "lemma": "Electronic",
+          "offsetBegin": 18,
+          "offsetEnd": 28,
+          "pos": "NNP"
+        },
+        {
+          "word": "Site",
+          "lemma": "site",
+          "offsetBegin": 29,
+          "offsetEnd": 33,
+          "pos": "NN"
+        },
+        {
+          "word": "Licensing",
+          "lemma": "licensing",
+          "offsetBegin": 34,
+          "offsetEnd": 43,
+          "pos": "NN"
+        },
+        {
+          "word": "Initiative",
+          "lemma": "Initiative",
+          "offsetBegin": 44,
+          "offsetEnd": 54,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 55,
+          "offsetEnd": 56,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "NESLI",
+          "lemma": "NESLI",
+          "offsetBegin": 56,
+          "offsetEnd": 61,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 61,
+          "offsetEnd": 62,
+          "pos": "-RRB-"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 63,
+          "offsetEnd": 65,
+          "pos": "IN"
+        },
+        {
+          "word": "1998",
+          "lemma": "1998",
+          "offsetBegin": 66,
+          "offsetEnd": 70,
+          "pos": "CD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 71,
+          "offsetEnd": 74,
+          "pos": "DT"
+        },
+        {
+          "word": "UK",
+          "lemma": "UK",
+          "offsetBegin": 75,
+          "offsetEnd": 77,
+          "pos": "NNP"
+        },
+        {
+          "word": "created",
+          "lemma": "create",
+          "offsetBegin": 78,
+          "offsetEnd": 85,
+          "pos": "VBD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 86,
+          "offsetEnd": 89,
+          "pos": "DT"
+        },
+        {
+          "word": "National",
+          "lemma": "National",
+          "offsetBegin": 90,
+          "offsetEnd": 98,
+          "pos": "NNP"
+        },
+        {
+          "word": "Electronic",
+          "lemma": "Electronic",
+          "offsetBegin": 99,
+          "offsetEnd": 109,
+          "pos": "NNP"
+        },
+        {
+          "word": "Site",
+          "lemma": "site",
+          "offsetBegin": 110,
+          "offsetEnd": 114,
+          "pos": "NN"
+        },
+        {
+          "word": "Licensing",
+          "lemma": "licensing",
+          "offsetBegin": 115,
+          "offsetEnd": 124,
+          "pos": "NN"
+        },
+        {
+          "word": "Initiative",
+          "lemma": "Initiative",
+          "offsetBegin": 125,
+          "offsetEnd": 135,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 136,
+          "offsetEnd": 137,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "NESLI",
+          "lemma": "NESLI",
+          "offsetBegin": 137,
+          "offsetEnd": 142,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 142,
+          "offsetEnd": 143,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 144,
+          "offsetEnd": 146,
+          "pos": "TO"
+        },
+        {
+          "word": "increase",
+          "lemma": "increase",
+          "offsetBegin": 147,
+          "offsetEnd": 155,
+          "pos": "VB"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 156,
+          "offsetEnd": 159,
+          "pos": "CC"
+        },
+        {
+          "word": "improve",
+          "lemma": "improve",
+          "offsetBegin": 160,
+          "offsetEnd": 167,
+          "pos": "VB"
+        },
+        {
+          "word": "access",
+          "lemma": "access",
+          "offsetBegin": 168,
+          "offsetEnd": 174,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 175,
+          "offsetEnd": 177,
+          "pos": "TO"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 178,
+          "offsetEnd": 188,
+          "pos": "JJ"
+        },
+        {
+          "word": "journals",
+          "lemma": "journal",
+          "offsetBegin": 189,
+          "offsetEnd": 197,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 198,
+          "offsetEnd": 201,
+          "pos": "CC"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 202,
+          "offsetEnd": 204,
+          "pos": "TO"
+        },
+        {
+          "word": "negotiate",
+          "lemma": "negotiate",
+          "offsetBegin": 205,
+          "offsetEnd": 214,
+          "pos": "VB"
+        },
+        {
+          "word": "license",
+          "lemma": "license",
+          "offsetBegin": 215,
+          "offsetEnd": 222,
+          "pos": "NN"
+        },
+        {
+          "word": "agreements",
+          "lemma": "agreement",
+          "offsetBegin": 223,
+          "offsetEnd": 233,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 234,
+          "offsetEnd": 236,
+          "pos": "IN"
+        },
+        {
+          "word": "behalf",
+          "lemma": "behalf",
+          "offsetBegin": 237,
+          "offsetEnd": 243,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 244,
+          "offsetEnd": 246,
+          "pos": "IN"
+        },
+        {
+          "word": "academic",
+          "lemma": "academic",
+          "offsetBegin": 247,
+          "offsetEnd": 255,
+          "pos": "JJ"
+        },
+        {
+          "word": "libraries",
+          "lemma": "library",
+          "offsetBegin": 256,
+          "offsetEnd": 265,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 265,
+          "offsetEnd": 266,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 267,
+          "offsetEnd": 270,
+          "pos": "DT"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 271,
+          "offsetEnd": 274,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 275,
+          "offsetEnd": 277,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 278,
+          "offsetEnd": 279,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 280,
+          "offsetEnd": 285,
+          "pos": "NN"
+        },
+        {
+          "word": "license",
+          "lemma": "license",
+          "offsetBegin": 286,
+          "offsetEnd": 293,
+          "pos": "NN"
+        },
+        {
+          "word": "agreement",
+          "lemma": "agreement",
+          "offsetBegin": 294,
+          "offsetEnd": 303,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 304,
+          "offsetEnd": 307,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 308,
+          "offsetEnd": 311,
+          "pos": "DT"
+        },
+        {
+          "word": "success",
+          "lemma": "success",
+          "offsetBegin": 312,
+          "offsetEnd": 319,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 320,
+          "offsetEnd": 322,
+          "pos": "IN"
+        },
+        {
+          "word": "site",
+          "lemma": "site",
+          "offsetBegin": 323,
+          "offsetEnd": 327,
+          "pos": "NN"
+        },
+        {
+          "word": "licensing",
+          "lemma": "licensing",
+          "offsetBegin": 328,
+          "offsetEnd": 337,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 338,
+          "offsetEnd": 340,
+          "pos": "VBZ"
+        },
+        {
+          "word": "discussed",
+          "lemma": "discuss",
+          "offsetBegin": 341,
+          "offsetEnd": 350,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 350,
+          "offsetEnd": 351,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Highlights",
+          "lemma": "highlight",
+          "offsetBegin": 352,
+          "offsetEnd": 362,
+          "pos": "NNS"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 363,
+          "offsetEnd": 367,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 368,
+          "offsetEnd": 370,
+          "pos": "DT"
+        },
+        {
+          "word": "interim",
+          "lemma": "interim",
+          "offsetBegin": 371,
+          "offsetEnd": 378,
+          "pos": "JJ"
+        },
+        {
+          "word": "evaluation",
+          "lemma": "evaluation",
+          "offsetBegin": 379,
+          "offsetEnd": 389,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 390,
+          "offsetEnd": 392,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 393,
+          "offsetEnd": 396,
+          "pos": "DT"
+        },
+        {
+          "word": "Joint",
+          "lemma": "Joint",
+          "offsetBegin": 397,
+          "offsetEnd": 402,
+          "pos": "NNP"
+        },
+        {
+          "word": "Information",
+          "lemma": "Information",
+          "offsetBegin": 403,
+          "offsetEnd": 414,
+          "pos": "NNP"
+        },
+        {
+          "word": "Systems",
+          "lemma": "Systems",
+          "offsetBegin": 415,
+          "offsetEnd": 422,
+          "pos": "NNP"
+        },
+        {
+          "word": "Committee",
+          "lemma": "Committee",
+          "offsetBegin": 423,
+          "offsetEnd": 432,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 433,
+          "offsetEnd": 434,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "JISC",
+          "lemma": "JISC",
+          "offsetBegin": 434,
+          "offsetEnd": 438,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 438,
+          "offsetEnd": 439,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 440,
+          "offsetEnd": 443,
+          "pos": "VBP"
+        },
+        {
+          "word": "noted",
+          "lemma": "note",
+          "offsetBegin": 444,
+          "offsetEnd": 449,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 450,
+          "offsetEnd": 453,
+          "pos": "CC"
+        },
+        {
+          "word": "key",
+          "lemma": "key",
+          "offsetBegin": 454,
+          "offsetEnd": 457,
+          "pos": "JJ"
+        },
+        {
+          "word": "issues",
+          "lemma": "issue",
+          "offsetBegin": 458,
+          "offsetEnd": 464,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 465,
+          "offsetEnd": 468,
+          "pos": "CC"
+        },
+        {
+          "word": "questions",
+          "lemma": "question",
+          "offsetBegin": 469,
+          "offsetEnd": 478,
+          "pos": "NNS"
+        },
+        {
+          "word": "arising",
+          "lemma": "arise",
+          "offsetBegin": 479,
+          "offsetEnd": 486,
+          "pos": "VBG"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 487,
+          "offsetEnd": 491,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 492,
+          "offsetEnd": 495,
+          "pos": "DT"
+        },
+        {
+          "word": "evaluation",
+          "lemma": "evaluation",
+          "offsetBegin": 496,
+          "offsetEnd": 506,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 507,
+          "offsetEnd": 510,
+          "pos": "VBP"
+        },
+        {
+          "word": "identified",
+          "lemma": "identify",
+          "offsetBegin": 511,
+          "offsetEnd": 521,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

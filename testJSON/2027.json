@@ -1,0 +1,577 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Motion",
+          "lemma": "Motion",
+          "offsetBegin": 0,
+          "offsetEnd": 6,
+          "pos": "NNP"
+        },
+        {
+          "word": "estimation",
+          "lemma": "estimation",
+          "offsetBegin": 7,
+          "offsetEnd": 17,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 18,
+          "offsetEnd": 23,
+          "pos": "VBG"
+        },
+        {
+          "word": "modified",
+          "lemma": "modify",
+          "offsetBegin": 24,
+          "offsetEnd": 32,
+          "pos": "VBN"
+        },
+        {
+          "word": "dynamic",
+          "lemma": "dynamic",
+          "offsetBegin": 33,
+          "offsetEnd": 40,
+          "pos": "JJ"
+        },
+        {
+          "word": "programming",
+          "lemma": "programming",
+          "offsetBegin": 41,
+          "offsetEnd": 52,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 53,
+          "offsetEnd": 54,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 55,
+          "offsetEnd": 58,
+          "pos": "JJ"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 59,
+          "offsetEnd": 65,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 66,
+          "offsetEnd": 69,
+          "pos": "IN"
+        },
+        {
+          "word": "computing",
+          "lemma": "compute",
+          "offsetBegin": 70,
+          "offsetEnd": 79,
+          "pos": "VBG"
+        },
+        {
+          "word": "precise",
+          "lemma": "precise",
+          "offsetBegin": 80,
+          "offsetEnd": 87,
+          "pos": "JJ"
+        },
+        {
+          "word": "estimates",
+          "lemma": "estimate",
+          "offsetBegin": 88,
+          "offsetEnd": 97,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 98,
+          "offsetEnd": 100,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 101,
+          "offsetEnd": 104,
+          "pos": "DT"
+        },
+        {
+          "word": "motion",
+          "lemma": "motion",
+          "offsetBegin": 105,
+          "offsetEnd": 111,
+          "pos": "NN"
+        },
+        {
+          "word": "vector",
+          "lemma": "vector",
+          "offsetBegin": 112,
+          "offsetEnd": 118,
+          "pos": "NN"
+        },
+        {
+          "word": "field",
+          "lemma": "field",
+          "offsetBegin": 119,
+          "offsetEnd": 124,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 125,
+          "offsetEnd": 127,
+          "pos": "IN"
+        },
+        {
+          "word": "moving",
+          "lemma": "move",
+          "offsetBegin": 128,
+          "offsetEnd": 134,
+          "pos": "VBG"
+        },
+        {
+          "word": "objects",
+          "lemma": "object",
+          "offsetBegin": 135,
+          "offsetEnd": 142,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 143,
+          "offsetEnd": 145,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 146,
+          "offsetEnd": 147,
+          "pos": "DT"
+        },
+        {
+          "word": "sequence",
+          "lemma": "sequence",
+          "offsetBegin": 148,
+          "offsetEnd": 156,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 157,
+          "offsetEnd": 159,
+          "pos": "IN"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 160,
+          "offsetEnd": 166,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 167,
+          "offsetEnd": 169,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 170,
+          "offsetEnd": 178,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 178,
+          "offsetEnd": 179,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Correspondence",
+          "lemma": "correspondence",
+          "offsetBegin": 180,
+          "offsetEnd": 194,
+          "pos": "NN"
+        },
+        {
+          "word": "vector-field",
+          "lemma": "vector-field",
+          "offsetBegin": 195,
+          "offsetEnd": 207,
+          "pos": "JJ"
+        },
+        {
+          "word": "computation",
+          "lemma": "computation",
+          "offsetBegin": 208,
+          "offsetEnd": 219,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 220,
+          "offsetEnd": 222,
+          "pos": "VBZ"
+        },
+        {
+          "word": "formulated",
+          "lemma": "formulate",
+          "offsetBegin": 223,
+          "offsetEnd": 233,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 234,
+          "offsetEnd": 236,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 237,
+          "offsetEnd": 238,
+          "pos": "DT"
+        },
+        {
+          "word": "matching",
+          "lemma": "matching",
+          "offsetBegin": 239,
+          "offsetEnd": 247,
+          "pos": "JJ"
+        },
+        {
+          "word": "optimization",
+          "lemma": "optimization",
+          "offsetBegin": 248,
+          "offsetEnd": 260,
+          "pos": "NN"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 261,
+          "offsetEnd": 268,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 269,
+          "offsetEnd": 272,
+          "pos": "IN"
+        },
+        {
+          "word": "multiple",
+          "lemma": "multiple",
+          "offsetBegin": 273,
+          "offsetEnd": 281,
+          "pos": "JJ"
+        },
+        {
+          "word": "dynamic",
+          "lemma": "dynamic",
+          "offsetBegin": 282,
+          "offsetEnd": 289,
+          "pos": "JJ"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 290,
+          "offsetEnd": 296,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 296,
+          "offsetEnd": 297,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 298,
+          "offsetEnd": 301,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 302,
+          "offsetEnd": 310,
+          "pos": "VBN"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 311,
+          "offsetEnd": 317,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 318,
+          "offsetEnd": 320,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 321,
+          "offsetEnd": 322,
+          "pos": "DT"
+        },
+        {
+          "word": "heuristic",
+          "lemma": "heuristic",
+          "offsetBegin": 323,
+          "offsetEnd": 332,
+          "pos": "NN"
+        },
+        {
+          "word": "modification",
+          "lemma": "modification",
+          "offsetBegin": 333,
+          "offsetEnd": 345,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 346,
+          "offsetEnd": 348,
+          "pos": "IN"
+        },
+        {
+          "word": "dynamic",
+          "lemma": "dynamic",
+          "offsetBegin": 349,
+          "offsetEnd": 356,
+          "pos": "JJ"
+        },
+        {
+          "word": "programming",
+          "lemma": "programming",
+          "offsetBegin": 357,
+          "offsetEnd": 368,
+          "pos": "NN"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 369,
+          "offsetEnd": 376,
+          "pos": "VBD"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 377,
+          "offsetEnd": 379,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 380,
+          "offsetEnd": 383,
+          "pos": "DT"
+        },
+        {
+          "word": "2-D",
+          "lemma": "2-d",
+          "offsetBegin": 384,
+          "offsetEnd": 387,
+          "pos": "JJ"
+        },
+        {
+          "word": "optimization",
+          "lemma": "optimization",
+          "offsetBegin": 388,
+          "offsetEnd": 400,
+          "pos": "NN"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 401,
+          "offsetEnd": 408,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 408,
+          "offsetEnd": 409,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Motion-vector-field",
+          "lemma": "motion-vector-field",
+          "offsetBegin": 410,
+          "offsetEnd": 429,
+          "pos": "JJ"
+        },
+        {
+          "word": "estimates",
+          "lemma": "estimate",
+          "offsetBegin": 430,
+          "offsetEnd": 439,
+          "pos": "NNS"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 440,
+          "offsetEnd": 445,
+          "pos": "VBG"
+        },
+        {
+          "word": "real",
+          "lemma": "real",
+          "offsetBegin": 446,
+          "offsetEnd": 450,
+          "pos": "JJ"
+        },
+        {
+          "word": "movie",
+          "lemma": "movie",
+          "offsetBegin": 451,
+          "offsetEnd": 456,
+          "pos": "NN"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 457,
+          "offsetEnd": 463,
+          "pos": "NNS"
+        },
+        {
+          "word": "demonstrate",
+          "lemma": "demonstrate",
+          "offsetBegin": 464,
+          "offsetEnd": 475,
+          "pos": "VBP"
+        },
+        {
+          "word": "good",
+          "lemma": "good",
+          "offsetBegin": 476,
+          "offsetEnd": 480,
+          "pos": "JJ"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 481,
+          "offsetEnd": 492,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 493,
+          "offsetEnd": 495,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 496,
+          "offsetEnd": 499,
+          "pos": "DT"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 500,
+          "offsetEnd": 509,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 510,
+          "offsetEnd": 512,
+          "pos": "IN"
+        },
+        {
+          "word": "terms",
+          "lemma": "term",
+          "offsetBegin": 513,
+          "offsetEnd": 518,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 519,
+          "offsetEnd": 521,
+          "pos": "IN"
+        },
+        {
+          "word": "dynamic",
+          "lemma": "dynamic",
+          "offsetBegin": 522,
+          "offsetEnd": 529,
+          "pos": "JJ"
+        },
+        {
+          "word": "motion",
+          "lemma": "motion",
+          "offsetBegin": 530,
+          "offsetEnd": 536,
+          "pos": "NN"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 537,
+          "offsetEnd": 545,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

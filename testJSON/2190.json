@@ -1,0 +1,724 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Standards",
+          "lemma": "Standards",
+          "offsetBegin": 0,
+          "offsetEnd": 9,
+          "pos": "NNPS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 10,
+          "offsetEnd": 13,
+          "pos": "IN"
+        },
+        {
+          "word": "service",
+          "lemma": "service",
+          "offsetBegin": 14,
+          "offsetEnd": 21,
+          "pos": "NN"
+        },
+        {
+          "word": "discovery",
+          "lemma": "discovery",
+          "offsetBegin": 22,
+          "offsetEnd": 31,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 32,
+          "offsetEnd": 35,
+          "pos": "CC"
+        },
+        {
+          "word": "delivery",
+          "lemma": "delivery",
+          "offsetBegin": 36,
+          "offsetEnd": 44,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 45,
+          "offsetEnd": 48,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 49,
+          "offsetEnd": 52,
+          "pos": "DT"
+        },
+        {
+          "word": "past",
+          "lemma": "past",
+          "offsetBegin": 53,
+          "offsetEnd": 57,
+          "pos": "JJ"
+        },
+        {
+          "word": "five",
+          "lemma": "five",
+          "offsetBegin": 58,
+          "offsetEnd": 62,
+          "pos": "CD"
+        },
+        {
+          "word": "years",
+          "lemma": "year",
+          "offsetBegin": 63,
+          "offsetEnd": 68,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 68,
+          "offsetEnd": 69,
+          "pos": ","
+        },
+        {
+          "word": "competing",
+          "lemma": "compete",
+          "offsetBegin": 70,
+          "offsetEnd": 79,
+          "pos": "VBG"
+        },
+        {
+          "word": "industries",
+          "lemma": "industry",
+          "offsetBegin": 80,
+          "offsetEnd": 90,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 91,
+          "offsetEnd": 94,
+          "pos": "CC"
+        },
+        {
+          "word": "standards",
+          "lemma": "standard",
+          "offsetBegin": 95,
+          "offsetEnd": 104,
+          "pos": "NNS"
+        },
+        {
+          "word": "developers",
+          "lemma": "developer",
+          "offsetBegin": 105,
+          "offsetEnd": 115,
+          "pos": "NNS"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 116,
+          "offsetEnd": 120,
+          "pos": "VBP"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 121,
+          "offsetEnd": 125,
+          "pos": "VBN"
+        },
+        {
+          "word": "hotly",
+          "lemma": "hotly",
+          "offsetBegin": 126,
+          "offsetEnd": 131,
+          "pos": "RB"
+        },
+        {
+          "word": "pursuing",
+          "lemma": "pursue",
+          "offsetBegin": 132,
+          "offsetEnd": 140,
+          "pos": "VBG"
+        },
+        {
+          "word": "automatic",
+          "lemma": "automatic",
+          "offsetBegin": 141,
+          "offsetEnd": 150,
+          "pos": "JJ"
+        },
+        {
+          "word": "configuration",
+          "lemma": "configuration",
+          "offsetBegin": 151,
+          "offsetEnd": 164,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 164,
+          "offsetEnd": 165,
+          "pos": ","
+        },
+        {
+          "word": "now",
+          "lemma": "now",
+          "offsetBegin": 166,
+          "offsetEnd": 169,
+          "pos": "RB"
+        },
+        {
+          "word": "coined",
+          "lemma": "coin",
+          "offsetBegin": 170,
+          "offsetEnd": 176,
+          "pos": "VBN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 177,
+          "offsetEnd": 180,
+          "pos": "DT"
+        },
+        {
+          "word": "broader",
+          "lemma": "broader",
+          "offsetBegin": 181,
+          "offsetEnd": 188,
+          "pos": "JJR"
+        },
+        {
+          "word": "term",
+          "lemma": "term",
+          "offsetBegin": 189,
+          "offsetEnd": 193,
+          "pos": "NN"
+        },
+        {
+          "word": "service",
+          "lemma": "service",
+          "offsetBegin": 194,
+          "offsetEnd": 201,
+          "pos": "NN"
+        },
+        {
+          "word": "discovery",
+          "lemma": "discovery",
+          "offsetBegin": 202,
+          "offsetEnd": 211,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 211,
+          "offsetEnd": 212,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Jini",
+          "lemma": "Jini",
+          "offsetBegin": 213,
+          "offsetEnd": 217,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 217,
+          "offsetEnd": 218,
+          "pos": ","
+        },
+        {
+          "word": "Universal",
+          "lemma": "Universal",
+          "offsetBegin": 219,
+          "offsetEnd": 228,
+          "pos": "NNP"
+        },
+        {
+          "word": "Plug",
+          "lemma": "Plug",
+          "offsetBegin": 229,
+          "offsetEnd": 233,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 234,
+          "offsetEnd": 237,
+          "pos": "CC"
+        },
+        {
+          "word": "Play",
+          "lemma": "Play",
+          "offsetBegin": 238,
+          "offsetEnd": 242,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 243,
+          "offsetEnd": 244,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "UPnP",
+          "lemma": "upnp",
+          "offsetBegin": 244,
+          "offsetEnd": 248,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 248,
+          "offsetEnd": 249,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 249,
+          "offsetEnd": 250,
+          "pos": ","
+        },
+        {
+          "word": "Salutation",
+          "lemma": "salutation",
+          "offsetBegin": 251,
+          "offsetEnd": 261,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 261,
+          "offsetEnd": 262,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 263,
+          "offsetEnd": 266,
+          "pos": "CC"
+        },
+        {
+          "word": "Service",
+          "lemma": "Service",
+          "offsetBegin": 267,
+          "offsetEnd": 274,
+          "pos": "NNP"
+        },
+        {
+          "word": "Location",
+          "lemma": "Location",
+          "offsetBegin": 275,
+          "offsetEnd": 283,
+          "pos": "NNP"
+        },
+        {
+          "word": "Protocol",
+          "lemma": "Protocol",
+          "offsetBegin": 284,
+          "offsetEnd": 292,
+          "pos": "NNP"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 293,
+          "offsetEnd": 296,
+          "pos": "VBP"
+        },
+        {
+          "word": "among",
+          "lemma": "among",
+          "offsetBegin": 297,
+          "offsetEnd": 302,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 303,
+          "offsetEnd": 306,
+          "pos": "DT"
+        },
+        {
+          "word": "front-runners",
+          "lemma": "front-runner",
+          "offsetBegin": 307,
+          "offsetEnd": 320,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 321,
+          "offsetEnd": 323,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 324,
+          "offsetEnd": 328,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 329,
+          "offsetEnd": 332,
+          "pos": "JJ"
+        },
+        {
+          "word": "race",
+          "lemma": "race",
+          "offsetBegin": 333,
+          "offsetEnd": 337,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 337,
+          "offsetEnd": 338,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "However",
+          "lemma": "however",
+          "offsetBegin": 339,
+          "offsetEnd": 346,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 346,
+          "offsetEnd": 347,
+          "pos": ","
+        },
+        {
+          "word": "choosing",
+          "lemma": "choose",
+          "offsetBegin": 348,
+          "offsetEnd": 356,
+          "pos": "VBG"
+        },
+        {
+          "word": "service",
+          "lemma": "service",
+          "offsetBegin": 357,
+          "offsetEnd": 364,
+          "pos": "NN"
+        },
+        {
+          "word": "discovery",
+          "lemma": "discovery",
+          "offsetBegin": 365,
+          "offsetEnd": 374,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 375,
+          "offsetEnd": 377,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 378,
+          "offsetEnd": 381,
+          "pos": "DT"
+        },
+        {
+          "word": "topic",
+          "lemma": "topic",
+          "offsetBegin": 382,
+          "offsetEnd": 387,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 388,
+          "offsetEnd": 390,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 391,
+          "offsetEnd": 394,
+          "pos": "DT"
+        },
+        {
+          "word": "hour",
+          "lemma": "hour",
+          "offsetBegin": 395,
+          "offsetEnd": 399,
+          "pos": "NN"
+        },
+        {
+          "word": "goes",
+          "lemma": "go",
+          "offsetBegin": 400,
+          "offsetEnd": 404,
+          "pos": "VBZ"
+        },
+        {
+          "word": "beyond",
+          "lemma": "beyond",
+          "offsetBegin": 405,
+          "offsetEnd": 411,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 412,
+          "offsetEnd": 415,
+          "pos": "DT"
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "offsetBegin": 416,
+          "offsetEnd": 420,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 421,
+          "offsetEnd": 424,
+          "pos": "IN"
+        },
+        {
+          "word": "plug-and-play",
+          "lemma": "plug-and-play",
+          "offsetBegin": 425,
+          "offsetEnd": 438,
+          "pos": "JJ"
+        },
+        {
+          "word": "solutions",
+          "lemma": "solution",
+          "offsetBegin": 439,
+          "offsetEnd": 448,
+          "pos": "NNS"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 449,
+          "offsetEnd": 451,
+          "pos": "CC"
+        },
+        {
+          "word": "support",
+          "lemma": "support",
+          "offsetBegin": 452,
+          "offsetEnd": 459,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 460,
+          "offsetEnd": 463,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 464,
+          "offsetEnd": 467,
+          "pos": "DT"
+        },
+        {
+          "word": "SOHO",
+          "lemma": "SOHO",
+          "offsetBegin": 468,
+          "offsetEnd": 472,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 473,
+          "offsetEnd": 474,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "small",
+          "lemma": "small",
+          "offsetBegin": 474,
+          "offsetEnd": 479,
+          "pos": "JJ"
+        },
+        {
+          "word": "office/home",
+          "lemma": "office/home",
+          "offsetBegin": 480,
+          "offsetEnd": 491,
+          "pos": "JJ"
+        },
+        {
+          "word": "office",
+          "lemma": "office",
+          "offsetBegin": 492,
+          "offsetEnd": 498,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 498,
+          "offsetEnd": 499,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 500,
+          "offsetEnd": 504,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 504,
+          "offsetEnd": 505,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Service",
+          "lemma": "Service",
+          "offsetBegin": 506,
+          "offsetEnd": 513,
+          "pos": "NNP"
+        },
+        {
+          "word": "discovery",
+          "lemma": "discovery",
+          "offsetBegin": 514,
+          "offsetEnd": 523,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 523,
+          "offsetEnd": 525,
+          "pos": "POS"
+        },
+        {
+          "word": "potential",
+          "lemma": "potential",
+          "offsetBegin": 526,
+          "offsetEnd": 535,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 536,
+          "offsetEnd": 538,
+          "pos": "IN"
+        },
+        {
+          "word": "mobile",
+          "lemma": "mobile",
+          "offsetBegin": 539,
+          "offsetEnd": 545,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 546,
+          "offsetEnd": 549,
+          "pos": "CC"
+        },
+        {
+          "word": "pervasive",
+          "lemma": "pervasive",
+          "offsetBegin": 550,
+          "offsetEnd": 559,
+          "pos": "JJ"
+        },
+        {
+          "word": "computing",
+          "lemma": "computing",
+          "offsetBegin": 560,
+          "offsetEnd": 569,
+          "pos": "NN"
+        },
+        {
+          "word": "environments",
+          "lemma": "environment",
+          "offsetBegin": 570,
+          "offsetEnd": 582,
+          "pos": "NNS"
+        },
+        {
+          "word": "motivated",
+          "lemma": "motivate",
+          "offsetBegin": 583,
+          "offsetEnd": 592,
+          "pos": "VBD"
+        },
+        {
+          "word": "my",
+          "lemma": "my",
+          "offsetBegin": 593,
+          "offsetEnd": 595,
+          "pos": "PRP$"
+        },
+        {
+          "word": "choice",
+          "lemma": "choice",
+          "offsetBegin": 596,
+          "offsetEnd": 602,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

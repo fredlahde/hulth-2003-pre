@@ -1,0 +1,797 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Product",
+          "lemma": "product",
+          "offsetBegin": 0,
+          "offsetEnd": 7,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 8,
+          "offsetEnd": 11,
+          "pos": "CC"
+        },
+        {
+          "word": "process",
+          "lemma": "process",
+          "offsetBegin": 12,
+          "offsetEnd": 19,
+          "pos": "NN"
+        },
+        {
+          "word": "innovations",
+          "lemma": "innovation",
+          "offsetBegin": 20,
+          "offsetEnd": 31,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 32,
+          "offsetEnd": 34,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 35,
+          "offsetEnd": 38,
+          "pos": "DT"
+        },
+        {
+          "word": "life",
+          "lemma": "life",
+          "offsetBegin": 39,
+          "offsetEnd": 43,
+          "pos": "NN"
+        },
+        {
+          "word": "cycle",
+          "lemma": "cycle",
+          "offsetBegin": 44,
+          "offsetEnd": 49,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 50,
+          "offsetEnd": 52,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 53,
+          "offsetEnd": 55,
+          "pos": "DT"
+        },
+        {
+          "word": "industry",
+          "lemma": "industry",
+          "offsetBegin": 56,
+          "offsetEnd": 64,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Filson",
+          "lemma": "Filson",
+          "offsetBegin": 65,
+          "offsetEnd": 71,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 72,
+          "offsetEnd": 73,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "2001",
+          "lemma": "2001",
+          "offsetBegin": 73,
+          "offsetEnd": 77,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 77,
+          "offsetEnd": 78,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "uses",
+          "lemma": "use",
+          "offsetBegin": 79,
+          "offsetEnd": 83,
+          "pos": "VBZ"
+        },
+        {
+          "word": "industry-level",
+          "lemma": "industry-level",
+          "offsetBegin": 84,
+          "offsetEnd": 98,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 99,
+          "offsetEnd": 103,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 104,
+          "offsetEnd": 106,
+          "pos": "IN"
+        },
+        {
+          "word": "firm",
+          "lemma": "firm",
+          "offsetBegin": 107,
+          "offsetEnd": 111,
+          "pos": "JJ"
+        },
+        {
+          "word": "numbers",
+          "lemma": "number",
+          "offsetBegin": 112,
+          "offsetEnd": 119,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 119,
+          "offsetEnd": 120,
+          "pos": ","
+        },
+        {
+          "word": "price",
+          "lemma": "price",
+          "offsetBegin": 121,
+          "offsetEnd": 126,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 126,
+          "offsetEnd": 127,
+          "pos": ","
+        },
+        {
+          "word": "quantity",
+          "lemma": "quantity",
+          "offsetBegin": 128,
+          "offsetEnd": 136,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 137,
+          "offsetEnd": 140,
+          "pos": "CC"
+        },
+        {
+          "word": "quality",
+          "lemma": "quality",
+          "offsetBegin": 141,
+          "offsetEnd": 148,
+          "pos": "NN"
+        },
+        {
+          "word": "along",
+          "lemma": "along",
+          "offsetBegin": 149,
+          "offsetEnd": 154,
+          "pos": "IN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 155,
+          "offsetEnd": 159,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 160,
+          "offsetEnd": 162,
+          "pos": "DT"
+        },
+        {
+          "word": "equilibrium",
+          "lemma": "equilibrium",
+          "offsetBegin": 163,
+          "offsetEnd": 174,
+          "pos": "NN"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 175,
+          "offsetEnd": 180,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 181,
+          "offsetEnd": 183,
+          "pos": "IN"
+        },
+        {
+          "word": "industry",
+          "lemma": "industry",
+          "offsetBegin": 184,
+          "offsetEnd": 192,
+          "pos": "NN"
+        },
+        {
+          "word": "evolution",
+          "lemma": "evolution",
+          "offsetBegin": 193,
+          "offsetEnd": 202,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 203,
+          "offsetEnd": 205,
+          "pos": "TO"
+        },
+        {
+          "word": "estimate",
+          "lemma": "estimate",
+          "offsetBegin": 206,
+          "offsetEnd": 214,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 215,
+          "offsetEnd": 218,
+          "pos": "DT"
+        },
+        {
+          "word": "nature",
+          "lemma": "nature",
+          "offsetBegin": 219,
+          "offsetEnd": 225,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 226,
+          "offsetEnd": 229,
+          "pos": "CC"
+        },
+        {
+          "word": "effects",
+          "lemma": "effect",
+          "offsetBegin": 230,
+          "offsetEnd": 237,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 238,
+          "offsetEnd": 240,
+          "pos": "IN"
+        },
+        {
+          "word": "quality",
+          "lemma": "quality",
+          "offsetBegin": 241,
+          "offsetEnd": 248,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 249,
+          "offsetEnd": 252,
+          "pos": "CC"
+        },
+        {
+          "word": "cost",
+          "lemma": "cost",
+          "offsetBegin": 253,
+          "offsetEnd": 257,
+          "pos": "NN"
+        },
+        {
+          "word": "improvements",
+          "lemma": "improvement",
+          "offsetBegin": 258,
+          "offsetEnd": 270,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 271,
+          "offsetEnd": 273,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 274,
+          "offsetEnd": 277,
+          "pos": "DT"
+        },
+        {
+          "word": "personal",
+          "lemma": "personal",
+          "offsetBegin": 278,
+          "offsetEnd": 286,
+          "pos": "JJ"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 287,
+          "offsetEnd": 295,
+          "pos": "NN"
+        },
+        {
+          "word": "industry",
+          "lemma": "industry",
+          "offsetBegin": 296,
+          "offsetEnd": 304,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 305,
+          "offsetEnd": 308,
+          "pos": "CC"
+        },
+        {
+          "word": "four",
+          "lemma": "four",
+          "offsetBegin": 309,
+          "offsetEnd": 313,
+          "pos": "CD"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 314,
+          "offsetEnd": 319,
+          "pos": "JJ"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 320,
+          "offsetEnd": 323,
+          "pos": "JJ"
+        },
+        {
+          "word": "industries",
+          "lemma": "industry",
+          "offsetBegin": 324,
+          "offsetEnd": 334,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 334,
+          "offsetEnd": 335,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 336,
+          "offsetEnd": 340,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 341,
+          "offsetEnd": 346,
+          "pos": "NN"
+        },
+        {
+          "word": "studies",
+          "lemma": "study",
+          "offsetBegin": 347,
+          "offsetEnd": 354,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 355,
+          "offsetEnd": 358,
+          "pos": "DT"
+        },
+        {
+          "word": "personal",
+          "lemma": "personal",
+          "offsetBegin": 359,
+          "offsetEnd": 367,
+          "pos": "JJ"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 368,
+          "offsetEnd": 376,
+          "pos": "NN"
+        },
+        {
+          "word": "industry",
+          "lemma": "industry",
+          "offsetBegin": 377,
+          "offsetEnd": 385,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 386,
+          "offsetEnd": 388,
+          "pos": "IN"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 389,
+          "offsetEnd": 393,
+          "pos": "RBR"
+        },
+        {
+          "word": "detail",
+          "lemma": "detail",
+          "offsetBegin": 394,
+          "offsetEnd": 400,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 401,
+          "offsetEnd": 404,
+          "pos": "CC"
+        },
+        {
+          "word": "shows",
+          "lemma": "show",
+          "offsetBegin": 405,
+          "offsetEnd": 410,
+          "pos": "VBZ"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 411,
+          "offsetEnd": 415,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 416,
+          "offsetEnd": 419,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 420,
+          "offsetEnd": 425,
+          "pos": "NN"
+        },
+        {
+          "word": "explains",
+          "lemma": "explain",
+          "offsetBegin": 426,
+          "offsetEnd": 434,
+          "pos": "VBZ"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 435,
+          "offsetEnd": 439,
+          "pos": "DT"
+        },
+        {
+          "word": "peculiar",
+          "lemma": "peculiar",
+          "offsetBegin": 440,
+          "offsetEnd": 448,
+          "pos": "JJ"
+        },
+        {
+          "word": "patterns",
+          "lemma": "pattern",
+          "offsetBegin": 449,
+          "offsetEnd": 457,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 458,
+          "offsetEnd": 462,
+          "pos": "WDT"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 463,
+          "offsetEnd": 466,
+          "pos": "MD"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 466,
+          "offsetEnd": 469,
+          "pos": "RB"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 470,
+          "offsetEnd": 472,
+          "pos": "VB"
+        },
+        {
+          "word": "explained",
+          "lemma": "explain",
+          "offsetBegin": 473,
+          "offsetEnd": 482,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 483,
+          "offsetEnd": 485,
+          "pos": "IN"
+        },
+        {
+          "word": "previous",
+          "lemma": "previous",
+          "offsetBegin": 486,
+          "offsetEnd": 494,
+          "pos": "JJ"
+        },
+        {
+          "word": "life-cycle",
+          "lemma": "life-cycle",
+          "offsetBegin": 495,
+          "offsetEnd": 505,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 506,
+          "offsetEnd": 512,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 512,
+          "offsetEnd": 513,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 514,
+          "offsetEnd": 517,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 518,
+          "offsetEnd": 523,
+          "pos": "NN"
+        },
+        {
+          "word": "estimates",
+          "lemma": "estimate",
+          "offsetBegin": 524,
+          "offsetEnd": 533,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 534,
+          "offsetEnd": 537,
+          "pos": "VBP"
+        },
+        {
+          "word": "evaluated",
+          "lemma": "evaluate",
+          "offsetBegin": 538,
+          "offsetEnd": 547,
+          "pos": "VBN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 548,
+          "offsetEnd": 553,
+          "pos": "VBG"
+        },
+        {
+          "word": "historical",
+          "lemma": "historical",
+          "offsetBegin": 554,
+          "offsetEnd": 564,
+          "pos": "JJ"
+        },
+        {
+          "word": "studies",
+          "lemma": "study",
+          "offsetBegin": 565,
+          "offsetEnd": 572,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 573,
+          "offsetEnd": 575,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 576,
+          "offsetEnd": 579,
+          "pos": "DT"
+        },
+        {
+          "word": "evolution",
+          "lemma": "evolution",
+          "offsetBegin": 580,
+          "offsetEnd": 589,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 590,
+          "offsetEnd": 592,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 593,
+          "offsetEnd": 596,
+          "pos": "DT"
+        },
+        {
+          "word": "personal",
+          "lemma": "personal",
+          "offsetBegin": 597,
+          "offsetEnd": 605,
+          "pos": "JJ"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 606,
+          "offsetEnd": 614,
+          "pos": "NN"
+        },
+        {
+          "word": "industry",
+          "lemma": "industry",
+          "offsetBegin": 615,
+          "offsetEnd": 623,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 624,
+          "offsetEnd": 627,
+          "pos": "CC"
+        },
+        {
+          "word": "patterns",
+          "lemma": "pattern",
+          "offsetBegin": 628,
+          "offsetEnd": 636,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 637,
+          "offsetEnd": 641,
+          "pos": "WDT"
+        },
+        {
+          "word": "require",
+          "lemma": "require",
+          "offsetBegin": 642,
+          "offsetEnd": 649,
+          "pos": "VBP"
+        },
+        {
+          "word": "further",
+          "lemma": "further",
+          "offsetBegin": 650,
+          "offsetEnd": 657,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 658,
+          "offsetEnd": 663,
+          "pos": "NN"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 664,
+          "offsetEnd": 675,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 676,
+          "offsetEnd": 679,
+          "pos": "VBP"
+        },
+        {
+          "word": "described",
+          "lemma": "describe",
+          "offsetBegin": 680,
+          "offsetEnd": 689,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Data",
+          "lemma": "datum",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "NNS"
+        },
+        {
+          "word": "management",
+          "lemma": "management",
+          "offsetBegin": 5,
+          "offsetEnd": 15,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 16,
+          "offsetEnd": 18,
+          "pos": "IN"
+        },
+        {
+          "word": "location-dependent",
+          "lemma": "location-dependent",
+          "offsetBegin": 19,
+          "offsetEnd": 37,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 38,
+          "offsetEnd": 49,
+          "pos": "NN"
+        },
+        {
+          "word": "services",
+          "lemma": "service",
+          "offsetBegin": 50,
+          "offsetEnd": 58,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Location-dependent",
+          "lemma": "location-dependent",
+          "offsetBegin": 59,
+          "offsetEnd": 77,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 78,
+          "offsetEnd": 89,
+          "pos": "NN"
+        },
+        {
+          "word": "services",
+          "lemma": "service",
+          "offsetBegin": 90,
+          "offsetEnd": 98,
+          "pos": "NNS"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 99,
+          "offsetEnd": 103,
+          "pos": "VBP"
+        },
+        {
+          "word": "great",
+          "lemma": "great",
+          "offsetBegin": 104,
+          "offsetEnd": 109,
+          "pos": "JJ"
+        },
+        {
+          "word": "promise",
+          "lemma": "promise",
+          "offsetBegin": 110,
+          "offsetEnd": 117,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 118,
+          "offsetEnd": 121,
+          "pos": "IN"
+        },
+        {
+          "word": "mobile",
+          "lemma": "mobile",
+          "offsetBegin": 122,
+          "offsetEnd": 128,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 129,
+          "offsetEnd": 132,
+          "pos": "CC"
+        },
+        {
+          "word": "pervasive",
+          "lemma": "pervasive",
+          "offsetBegin": 133,
+          "offsetEnd": 142,
+          "pos": "JJ"
+        },
+        {
+          "word": "computing",
+          "lemma": "computing",
+          "offsetBegin": 143,
+          "offsetEnd": 152,
+          "pos": "NN"
+        },
+        {
+          "word": "environments",
+          "lemma": "environment",
+          "offsetBegin": 153,
+          "offsetEnd": 165,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 165,
+          "offsetEnd": 166,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "They",
+          "lemma": "they",
+          "offsetBegin": 167,
+          "offsetEnd": 171,
+          "pos": "PRP"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 172,
+          "offsetEnd": 175,
+          "pos": "MD"
+        },
+        {
+          "word": "provide",
+          "lemma": "provide",
+          "offsetBegin": 176,
+          "offsetEnd": 183,
+          "pos": "VB"
+        },
+        {
+          "word": "local",
+          "lemma": "local",
+          "offsetBegin": 184,
+          "offsetEnd": 189,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 190,
+          "offsetEnd": 193,
+          "pos": "CC"
+        },
+        {
+          "word": "nonlocal",
+          "lemma": "nonlocal",
+          "offsetBegin": 194,
+          "offsetEnd": 202,
+          "pos": "JJ"
+        },
+        {
+          "word": "news",
+          "lemma": "news",
+          "offsetBegin": 203,
+          "offsetEnd": 207,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 207,
+          "offsetEnd": 208,
+          "pos": ","
+        },
+        {
+          "word": "weather",
+          "lemma": "weather",
+          "offsetBegin": 209,
+          "offsetEnd": 216,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 216,
+          "offsetEnd": 217,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 218,
+          "offsetEnd": 221,
+          "pos": "CC"
+        },
+        {
+          "word": "traffic",
+          "lemma": "traffic",
+          "offsetBegin": 222,
+          "offsetEnd": 229,
+          "pos": "NN"
+        },
+        {
+          "word": "reports",
+          "lemma": "report",
+          "offsetBegin": 230,
+          "offsetEnd": 237,
+          "pos": "NNS"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 238,
+          "offsetEnd": 240,
+          "pos": "RB"
+        },
+        {
+          "word": "well",
+          "lemma": "well",
+          "offsetBegin": 241,
+          "offsetEnd": 245,
+          "pos": "RB"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 246,
+          "offsetEnd": 248,
+          "pos": "IN"
+        },
+        {
+          "word": "directory",
+          "lemma": "directory",
+          "offsetBegin": 249,
+          "offsetEnd": 258,
+          "pos": "NN"
+        },
+        {
+          "word": "services",
+          "lemma": "service",
+          "offsetBegin": 259,
+          "offsetEnd": 267,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 267,
+          "offsetEnd": 268,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Before",
+          "lemma": "before",
+          "offsetBegin": 269,
+          "offsetEnd": 275,
+          "pos": "IN"
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 276,
+          "offsetEnd": 280,
+          "pos": "PRP"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 281,
+          "offsetEnd": 284,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 285,
+          "offsetEnd": 287,
+          "pos": "VB"
+        },
+        {
+          "word": "implemented",
+          "lemma": "implement",
+          "offsetBegin": 288,
+          "offsetEnd": 299,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 300,
+          "offsetEnd": 302,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 303,
+          "offsetEnd": 304,
+          "pos": "DT"
+        },
+        {
+          "word": "large",
+          "lemma": "large",
+          "offsetBegin": 305,
+          "offsetEnd": 310,
+          "pos": "JJ"
+        },
+        {
+          "word": "scale",
+          "lemma": "scale",
+          "offsetBegin": 311,
+          "offsetEnd": 316,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 316,
+          "offsetEnd": 317,
+          "pos": ","
+        },
+        {
+          "word": "however",
+          "lemma": "however",
+          "offsetBegin": 318,
+          "offsetEnd": 325,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 325,
+          "offsetEnd": 326,
+          "pos": ","
+        },
+        {
+          "word": "several",
+          "lemma": "several",
+          "offsetBegin": 327,
+          "offsetEnd": 334,
+          "pos": "JJ"
+        },
+        {
+          "word": "research",
+          "lemma": "research",
+          "offsetBegin": 335,
+          "offsetEnd": 343,
+          "pos": "NN"
+        },
+        {
+          "word": "issues",
+          "lemma": "issue",
+          "offsetBegin": 344,
+          "offsetEnd": 350,
+          "pos": "NNS"
+        },
+        {
+          "word": "must",
+          "lemma": "must",
+          "offsetBegin": 351,
+          "offsetEnd": 355,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 356,
+          "offsetEnd": 358,
+          "pos": "VB"
+        },
+        {
+          "word": "addressed",
+          "lemma": "address",
+          "offsetBegin": 359,
+          "offsetEnd": 368,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

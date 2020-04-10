@@ -1,0 +1,608 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "MEMS",
+          "lemma": "mem",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "NNS"
+        },
+        {
+          "word": "applications",
+          "lemma": "application",
+          "offsetBegin": 5,
+          "offsetEnd": 17,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 18,
+          "offsetEnd": 20,
+          "pos": "IN"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 21,
+          "offsetEnd": 29,
+          "pos": "NN"
+        },
+        {
+          "word": "disk",
+          "lemma": "disk",
+          "offsetBegin": 30,
+          "offsetEnd": 34,
+          "pos": "NN"
+        },
+        {
+          "word": "drive",
+          "lemma": "drive",
+          "offsetBegin": 35,
+          "offsetEnd": 40,
+          "pos": "NN"
+        },
+        {
+          "word": "dual-stage",
+          "lemma": "dual-stage",
+          "offsetBegin": 41,
+          "offsetEnd": 51,
+          "pos": "JJ"
+        },
+        {
+          "word": "servo",
+          "lemma": "servo",
+          "offsetBegin": 52,
+          "offsetEnd": 57,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 58,
+          "offsetEnd": 65,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 66,
+          "offsetEnd": 68,
+          "pos": "PRP"
+        },
+        {
+          "word": "present",
+          "lemma": "present",
+          "offsetBegin": 69,
+          "offsetEnd": 76,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 77,
+          "offsetEnd": 78,
+          "pos": "DT"
+        },
+        {
+          "word": "decoupled",
+          "lemma": "decoupled",
+          "offsetBegin": 79,
+          "offsetEnd": 88,
+          "pos": "JJ"
+        },
+        {
+          "word": "discrete",
+          "lemma": "discrete",
+          "offsetBegin": 89,
+          "offsetEnd": 97,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 98,
+          "offsetEnd": 102,
+          "pos": "NN"
+        },
+        {
+          "word": "pole",
+          "lemma": "pole",
+          "offsetBegin": 103,
+          "offsetEnd": 107,
+          "pos": "NN"
+        },
+        {
+          "word": "placement",
+          "lemma": "placement",
+          "offsetBegin": 108,
+          "offsetEnd": 117,
+          "pos": "NN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 118,
+          "offsetEnd": 124,
+          "pos": "NN"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 125,
+          "offsetEnd": 131,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 131,
+          "offsetEnd": 132,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 133,
+          "offsetEnd": 138,
+          "pos": "WDT"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 139,
+          "offsetEnd": 142,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 143,
+          "offsetEnd": 145,
+          "pos": "VB"
+        },
+        {
+          "word": "combined",
+          "lemma": "combine",
+          "offsetBegin": 146,
+          "offsetEnd": 154,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 155,
+          "offsetEnd": 159,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 160,
+          "offsetEnd": 161,
+          "pos": "DT"
+        },
+        {
+          "word": "self-tuning",
+          "lemma": "self-tuning",
+          "offsetBegin": 162,
+          "offsetEnd": 173,
+          "pos": "JJ"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 174,
+          "offsetEnd": 180,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 181,
+          "offsetEnd": 183,
+          "pos": "TO"
+        },
+        {
+          "word": "compensate",
+          "lemma": "compensate",
+          "offsetBegin": 184,
+          "offsetEnd": 194,
+          "pos": "VB"
+        },
+        {
+          "word": "variations",
+          "lemma": "variation",
+          "offsetBegin": 195,
+          "offsetEnd": 205,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 206,
+          "offsetEnd": 208,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 209,
+          "offsetEnd": 212,
+          "pos": "DT"
+        },
+        {
+          "word": "microactuator",
+          "lemma": "microactuator",
+          "offsetBegin": 213,
+          "offsetEnd": 226,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 226,
+          "offsetEnd": 228,
+          "pos": "POS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 229,
+          "offsetEnd": 230,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "MA",
+          "lemma": "MA",
+          "offsetBegin": 230,
+          "offsetEnd": 232,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 232,
+          "offsetEnd": 234,
+          "pos": "POS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 234,
+          "offsetEnd": 235,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "resonance",
+          "lemma": "resonance",
+          "offsetBegin": 236,
+          "offsetEnd": 245,
+          "pos": "NN"
+        },
+        {
+          "word": "mode",
+          "lemma": "mode",
+          "offsetBegin": 246,
+          "offsetEnd": 250,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 250,
+          "offsetEnd": 251,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Section",
+          "lemma": "section",
+          "offsetBegin": 252,
+          "offsetEnd": 259,
+          "pos": "NN"
+        },
+        {
+          "word": "I",
+          "lemma": "i",
+          "offsetBegin": 260,
+          "offsetEnd": 261,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 262,
+          "offsetEnd": 264,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 265,
+          "offsetEnd": 268,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 269,
+          "offsetEnd": 274,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 275,
+          "offsetEnd": 284,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 285,
+          "offsetEnd": 288,
+          "pos": "DT"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 289,
+          "offsetEnd": 295,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 296,
+          "offsetEnd": 299,
+          "pos": "CC"
+        },
+        {
+          "word": "fabrication",
+          "lemma": "fabrication",
+          "offsetBegin": 300,
+          "offsetEnd": 311,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 312,
+          "offsetEnd": 314,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 315,
+          "offsetEnd": 316,
+          "pos": "DT"
+        },
+        {
+          "word": "prototype",
+          "lemma": "prototype",
+          "offsetBegin": 317,
+          "offsetEnd": 326,
+          "pos": "NN"
+        },
+        {
+          "word": "microactuator",
+          "lemma": "microactuator",
+          "offsetBegin": 327,
+          "offsetEnd": 340,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 341,
+          "offsetEnd": 345,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 346,
+          "offsetEnd": 348,
+          "pos": "DT"
+        },
+        {
+          "word": "integrated",
+          "lemma": "integrate",
+          "offsetBegin": 349,
+          "offsetEnd": 359,
+          "pos": "VBN"
+        },
+        {
+          "word": "gimbal",
+          "lemma": "gimbal",
+          "offsetBegin": 360,
+          "offsetEnd": 366,
+          "pos": "NN"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 367,
+          "offsetEnd": 376,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 376,
+          "offsetEnd": 377,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Section",
+          "lemma": "section",
+          "offsetBegin": 378,
+          "offsetEnd": 385,
+          "pos": "NN"
+        },
+        {
+          "word": "II",
+          "lemma": "ii",
+          "offsetBegin": 386,
+          "offsetEnd": 388,
+          "pos": "CD"
+        },
+        {
+          "word": "presents",
+          "lemma": "present",
+          "offsetBegin": 389,
+          "offsetEnd": 397,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 398,
+          "offsetEnd": 399,
+          "pos": "DT"
+        },
+        {
+          "word": "decoupled",
+          "lemma": "decoupled",
+          "offsetBegin": 400,
+          "offsetEnd": 409,
+          "pos": "JJ"
+        },
+        {
+          "word": "track-following",
+          "lemma": "track-following",
+          "offsetBegin": 410,
+          "offsetEnd": 425,
+          "pos": "JJ"
+        },
+        {
+          "word": "controller",
+          "lemma": "controller",
+          "offsetBegin": 426,
+          "offsetEnd": 436,
+          "pos": "NN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 437,
+          "offsetEnd": 443,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 444,
+          "offsetEnd": 447,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 448,
+          "offsetEnd": 449,
+          "pos": "DT"
+        },
+        {
+          "word": "self-tuning",
+          "lemma": "self-tuning",
+          "offsetBegin": 450,
+          "offsetEnd": 461,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 462,
+          "offsetEnd": 469,
+          "pos": "NN"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 470,
+          "offsetEnd": 476,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 477,
+          "offsetEnd": 479,
+          "pos": "TO"
+        },
+        {
+          "word": "compensate",
+          "lemma": "compensate",
+          "offsetBegin": 480,
+          "offsetEnd": 490,
+          "pos": "VB"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 491,
+          "offsetEnd": 494,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 495,
+          "offsetEnd": 498,
+          "pos": "DT"
+        },
+        {
+          "word": "MA",
+          "lemma": "MA",
+          "offsetBegin": 499,
+          "offsetEnd": 501,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 501,
+          "offsetEnd": 503,
+          "pos": "POS"
+        },
+        {
+          "word": "resonance",
+          "lemma": "resonance",
+          "offsetBegin": 504,
+          "offsetEnd": 513,
+          "pos": "NN"
+        },
+        {
+          "word": "mode",
+          "lemma": "mode",
+          "offsetBegin": 514,
+          "offsetEnd": 518,
+          "pos": "NN"
+        },
+        {
+          "word": "variations",
+          "lemma": "variation",
+          "offsetBegin": 519,
+          "offsetEnd": 529,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

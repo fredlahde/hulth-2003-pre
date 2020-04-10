@@ -1,0 +1,1040 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Fault-tolerant",
+          "lemma": "fault-tolerant",
+          "offsetBegin": 0,
+          "offsetEnd": 14,
+          "pos": "JJ"
+        },
+        {
+          "word": "Hamiltonian",
+          "lemma": "hamiltonian",
+          "offsetBegin": 15,
+          "offsetEnd": 26,
+          "pos": "JJ"
+        },
+        {
+          "word": "laceability",
+          "lemma": "laceability",
+          "offsetBegin": 27,
+          "offsetEnd": 38,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 39,
+          "offsetEnd": 41,
+          "pos": "IN"
+        },
+        {
+          "word": "hypercubes",
+          "lemma": "hypercube",
+          "offsetBegin": 42,
+          "offsetEnd": 52,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "offsetBegin": 53,
+          "offsetEnd": 55,
+          "pos": "PRP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 56,
+          "offsetEnd": 58,
+          "pos": "VBZ"
+        },
+        {
+          "word": "known",
+          "lemma": "know",
+          "offsetBegin": 59,
+          "offsetEnd": 64,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 65,
+          "offsetEnd": 69,
+          "pos": "IN"
+        },
+        {
+          "word": "every",
+          "lemma": "every",
+          "offsetBegin": 70,
+          "offsetEnd": 75,
+          "pos": "DT"
+        },
+        {
+          "word": "hypercube",
+          "lemma": "hypercube",
+          "offsetBegin": 76,
+          "offsetEnd": 85,
+          "pos": "NN"
+        },
+        {
+          "word": "Q/sub",
+          "lemma": "q/sub",
+          "offsetBegin": 86,
+          "offsetEnd": 91,
+          "pos": "NN"
+        },
+        {
+          "word": "n",
+          "lemma": "n",
+          "offsetBegin": 92,
+          "offsetEnd": 93,
+          "pos": "NN"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 93,
+          "offsetEnd": 94,
+          "pos": ":"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 95,
+          "offsetEnd": 97,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 98,
+          "offsetEnd": 99,
+          "pos": "DT"
+        },
+        {
+          "word": "bipartite",
+          "lemma": "bipartite",
+          "offsetBegin": 100,
+          "offsetEnd": 109,
+          "pos": "JJ"
+        },
+        {
+          "word": "graph",
+          "lemma": "graph",
+          "offsetBegin": 110,
+          "offsetEnd": 115,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 115,
+          "offsetEnd": 116,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Assume",
+          "lemma": "assume",
+          "offsetBegin": 117,
+          "offsetEnd": 123,
+          "pos": "VB"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 124,
+          "offsetEnd": 128,
+          "pos": "DT"
+        },
+        {
+          "word": "n",
+          "lemma": "n",
+          "offsetBegin": 129,
+          "offsetEnd": 130,
+          "pos": "NN"
+        },
+        {
+          "word": "\u003e",
+          "lemma": "\u003e",
+          "offsetBegin": 130,
+          "offsetEnd": 131,
+          "pos": "JJR"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 131,
+          "offsetEnd": 133,
+          "pos": "CC"
+        },
+        {
+          "word": "\u003d",
+          "lemma": "\u003d",
+          "offsetBegin": 133,
+          "offsetEnd": 134,
+          "pos": "JJ"
+        },
+        {
+          "word": "2",
+          "lemma": "2",
+          "offsetBegin": 134,
+          "offsetEnd": 135,
+          "pos": "CD"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 136,
+          "offsetEnd": 139,
+          "pos": "CC"
+        },
+        {
+          "word": "F",
+          "lemma": "f",
+          "offsetBegin": 140,
+          "offsetEnd": 141,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 142,
+          "offsetEnd": 144,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 145,
+          "offsetEnd": 146,
+          "pos": "DT"
+        },
+        {
+          "word": "subset",
+          "lemma": "subset",
+          "offsetBegin": 147,
+          "offsetEnd": 153,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 154,
+          "offsetEnd": 156,
+          "pos": "IN"
+        },
+        {
+          "word": "edges",
+          "lemma": "edge",
+          "offsetBegin": 157,
+          "offsetEnd": 162,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 163,
+          "offsetEnd": 167,
+          "pos": "IN"
+        },
+        {
+          "word": "|",
+          "lemma": "|",
+          "offsetBegin": 168,
+          "offsetEnd": 169,
+          "pos": "CD"
+        },
+        {
+          "word": "F",
+          "lemma": "f",
+          "offsetBegin": 169,
+          "offsetEnd": 170,
+          "pos": "NN"
+        },
+        {
+          "word": "|",
+          "lemma": "|",
+          "offsetBegin": 170,
+          "offsetEnd": 171,
+          "pos": "NN"
+        },
+        {
+          "word": "\u003c",
+          "lemma": "\u003c",
+          "offsetBegin": 171,
+          "offsetEnd": 172,
+          "pos": "JJR"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 172,
+          "offsetEnd": 174,
+          "pos": "CC"
+        },
+        {
+          "word": "\u003d",
+          "lemma": "\u003d",
+          "offsetBegin": 174,
+          "offsetEnd": 175,
+          "pos": "JJ"
+        },
+        {
+          "word": "n-2",
+          "lemma": "n-2",
+          "offsetBegin": 175,
+          "offsetEnd": 178,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 178,
+          "offsetEnd": 179,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 180,
+          "offsetEnd": 182,
+          "pos": "PRP"
+        },
+        {
+          "word": "prove",
+          "lemma": "prove",
+          "offsetBegin": 183,
+          "offsetEnd": 188,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 189,
+          "offsetEnd": 193,
+          "pos": "IN"
+        },
+        {
+          "word": "there",
+          "lemma": "there",
+          "offsetBegin": 194,
+          "offsetEnd": 199,
+          "pos": "EX"
+        },
+        {
+          "word": "exists",
+          "lemma": "exist",
+          "offsetBegin": 200,
+          "offsetEnd": 206,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 207,
+          "offsetEnd": 208,
+          "pos": "DT"
+        },
+        {
+          "word": "Hamiltonian",
+          "lemma": "hamiltonian",
+          "offsetBegin": 209,
+          "offsetEnd": 220,
+          "pos": "JJ"
+        },
+        {
+          "word": "path",
+          "lemma": "path",
+          "offsetBegin": 221,
+          "offsetEnd": 225,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 226,
+          "offsetEnd": 228,
+          "pos": "IN"
+        },
+        {
+          "word": "Q/sub",
+          "lemma": "q/sub",
+          "offsetBegin": 229,
+          "offsetEnd": 234,
+          "pos": "NN"
+        },
+        {
+          "word": "n",
+          "lemma": "n",
+          "offsetBegin": 235,
+          "offsetEnd": 236,
+          "pos": "NN"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 236,
+          "offsetEnd": 237,
+          "pos": ":"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 237,
+          "offsetEnd": 238,
+          "pos": ":"
+        },
+        {
+          "word": "F",
+          "lemma": "f",
+          "offsetBegin": 238,
+          "offsetEnd": 239,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 240,
+          "offsetEnd": 247,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 248,
+          "offsetEnd": 251,
+          "pos": "DT"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 252,
+          "offsetEnd": 255,
+          "pos": "CD"
+        },
+        {
+          "word": "vertices",
+          "lemma": "vertex",
+          "offsetBegin": 256,
+          "offsetEnd": 264,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 265,
+          "offsetEnd": 267,
+          "pos": "IN"
+        },
+        {
+          "word": "different",
+          "lemma": "different",
+          "offsetBegin": 268,
+          "offsetEnd": 277,
+          "pos": "JJ"
+        },
+        {
+          "word": "partite",
+          "lemma": "partite",
+          "offsetBegin": 278,
+          "offsetEnd": 285,
+          "pos": "NN"
+        },
+        {
+          "word": "sets",
+          "lemma": "set",
+          "offsetBegin": 286,
+          "offsetEnd": 290,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 290,
+          "offsetEnd": 291,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Moreover",
+          "lemma": "moreover",
+          "offsetBegin": 292,
+          "offsetEnd": 300,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 300,
+          "offsetEnd": 301,
+          "pos": ","
+        },
+        {
+          "word": "there",
+          "lemma": "there",
+          "offsetBegin": 302,
+          "offsetEnd": 307,
+          "pos": "EX"
+        },
+        {
+          "word": "exists",
+          "lemma": "exist",
+          "offsetBegin": 308,
+          "offsetEnd": 314,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 315,
+          "offsetEnd": 316,
+          "pos": "DT"
+        },
+        {
+          "word": "path",
+          "lemma": "path",
+          "offsetBegin": 317,
+          "offsetEnd": 321,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 322,
+          "offsetEnd": 324,
+          "pos": "IN"
+        },
+        {
+          "word": "length",
+          "lemma": "length",
+          "offsetBegin": 325,
+          "offsetEnd": 331,
+          "pos": "NN"
+        },
+        {
+          "word": "2/sup",
+          "lemma": "2/sup",
+          "offsetBegin": 332,
+          "offsetEnd": 337,
+          "pos": "NN"
+        },
+        {
+          "word": "n",
+          "lemma": "n",
+          "offsetBegin": 338,
+          "offsetEnd": 339,
+          "pos": "NN"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 339,
+          "offsetEnd": 340,
+          "pos": ":"
+        },
+        {
+          "word": "-2",
+          "lemma": "-2",
+          "offsetBegin": 340,
+          "offsetEnd": 342,
+          "pos": "CD"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 343,
+          "offsetEnd": 350,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 351,
+          "offsetEnd": 354,
+          "pos": "DT"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 355,
+          "offsetEnd": 358,
+          "pos": "CD"
+        },
+        {
+          "word": "vertices",
+          "lemma": "vertex",
+          "offsetBegin": 359,
+          "offsetEnd": 367,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 368,
+          "offsetEnd": 370,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 371,
+          "offsetEnd": 374,
+          "pos": "DT"
+        },
+        {
+          "word": "same",
+          "lemma": "same",
+          "offsetBegin": 375,
+          "offsetEnd": 379,
+          "pos": "JJ"
+        },
+        {
+          "word": "partite",
+          "lemma": "partite",
+          "offsetBegin": 380,
+          "offsetEnd": 387,
+          "pos": "NN"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 388,
+          "offsetEnd": 391,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 391,
+          "offsetEnd": 392,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Assume",
+          "lemma": "assume",
+          "offsetBegin": 393,
+          "offsetEnd": 399,
+          "pos": "VB"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 400,
+          "offsetEnd": 404,
+          "pos": "DT"
+        },
+        {
+          "word": "n",
+          "lemma": "n",
+          "offsetBegin": 405,
+          "offsetEnd": 406,
+          "pos": "NN"
+        },
+        {
+          "word": "\u003e",
+          "lemma": "\u003e",
+          "offsetBegin": 406,
+          "offsetEnd": 407,
+          "pos": "JJR"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 407,
+          "offsetEnd": 409,
+          "pos": "CC"
+        },
+        {
+          "word": "\u003d",
+          "lemma": "\u003d",
+          "offsetBegin": 409,
+          "offsetEnd": 410,
+          "pos": "JJ"
+        },
+        {
+          "word": "3",
+          "lemma": "3",
+          "offsetBegin": 410,
+          "offsetEnd": 411,
+          "pos": "CD"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 412,
+          "offsetEnd": 415,
+          "pos": "CC"
+        },
+        {
+          "word": "F",
+          "lemma": "f",
+          "offsetBegin": 416,
+          "offsetEnd": 417,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 418,
+          "offsetEnd": 420,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 421,
+          "offsetEnd": 422,
+          "pos": "DT"
+        },
+        {
+          "word": "subset",
+          "lemma": "subset",
+          "offsetBegin": 423,
+          "offsetEnd": 429,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 430,
+          "offsetEnd": 432,
+          "pos": "IN"
+        },
+        {
+          "word": "edges",
+          "lemma": "edge",
+          "offsetBegin": 433,
+          "offsetEnd": 438,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 439,
+          "offsetEnd": 443,
+          "pos": "IN"
+        },
+        {
+          "word": "|",
+          "lemma": "|",
+          "offsetBegin": 444,
+          "offsetEnd": 445,
+          "pos": "CD"
+        },
+        {
+          "word": "F",
+          "lemma": "f",
+          "offsetBegin": 445,
+          "offsetEnd": 446,
+          "pos": "NN"
+        },
+        {
+          "word": "|",
+          "lemma": "|",
+          "offsetBegin": 446,
+          "offsetEnd": 447,
+          "pos": "NN"
+        },
+        {
+          "word": "\u003c",
+          "lemma": "\u003c",
+          "offsetBegin": 447,
+          "offsetEnd": 448,
+          "pos": "JJR"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 448,
+          "offsetEnd": 450,
+          "pos": "CC"
+        },
+        {
+          "word": "\u003d",
+          "lemma": "\u003d",
+          "offsetBegin": 450,
+          "offsetEnd": 451,
+          "pos": "JJ"
+        },
+        {
+          "word": "n-3",
+          "lemma": "n-3",
+          "offsetBegin": 451,
+          "offsetEnd": 454,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 454,
+          "offsetEnd": 455,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 456,
+          "offsetEnd": 458,
+          "pos": "PRP"
+        },
+        {
+          "word": "prove",
+          "lemma": "prove",
+          "offsetBegin": 459,
+          "offsetEnd": 464,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 465,
+          "offsetEnd": 469,
+          "pos": "IN"
+        },
+        {
+          "word": "there",
+          "lemma": "there",
+          "offsetBegin": 470,
+          "offsetEnd": 475,
+          "pos": "EX"
+        },
+        {
+          "word": "exists",
+          "lemma": "exist",
+          "offsetBegin": 476,
+          "offsetEnd": 482,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 483,
+          "offsetEnd": 484,
+          "pos": "DT"
+        },
+        {
+          "word": "Hamiltonian",
+          "lemma": "hamiltonian",
+          "offsetBegin": 485,
+          "offsetEnd": 496,
+          "pos": "JJ"
+        },
+        {
+          "word": "path",
+          "lemma": "path",
+          "offsetBegin": 497,
+          "offsetEnd": 501,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 502,
+          "offsetEnd": 504,
+          "pos": "IN"
+        },
+        {
+          "word": "Q/sub",
+          "lemma": "q/sub",
+          "offsetBegin": 505,
+          "offsetEnd": 510,
+          "pos": "NN"
+        },
+        {
+          "word": "n",
+          "lemma": "n",
+          "offsetBegin": 511,
+          "offsetEnd": 512,
+          "pos": "NN"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 512,
+          "offsetEnd": 513,
+          "pos": ":"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 513,
+          "offsetEnd": 514,
+          "pos": ":"
+        },
+        {
+          "word": "-LCB-",
+          "lemma": "-lcb-",
+          "offsetBegin": 514,
+          "offsetEnd": 515,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "v",
+          "lemma": "v",
+          "offsetBegin": 515,
+          "offsetEnd": 516,
+          "pos": "LS"
+        },
+        {
+          "word": "-RCB-",
+          "lemma": "-rcb-",
+          "offsetBegin": 516,
+          "offsetEnd": 517,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 517,
+          "offsetEnd": 518,
+          "pos": ":"
+        },
+        {
+          "word": "F",
+          "lemma": "f",
+          "offsetBegin": 518,
+          "offsetEnd": 519,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 520,
+          "offsetEnd": 527,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 528,
+          "offsetEnd": 531,
+          "pos": "DT"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 532,
+          "offsetEnd": 535,
+          "pos": "CD"
+        },
+        {
+          "word": "vertices",
+          "lemma": "vertex",
+          "offsetBegin": 536,
+          "offsetEnd": 544,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 545,
+          "offsetEnd": 547,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 548,
+          "offsetEnd": 551,
+          "pos": "DT"
+        },
+        {
+          "word": "partite",
+          "lemma": "partite",
+          "offsetBegin": 552,
+          "offsetEnd": 559,
+          "pos": "JJ"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 560,
+          "offsetEnd": 563,
+          "pos": "NN"
+        },
+        {
+          "word": "without",
+          "lemma": "without",
+          "offsetBegin": 564,
+          "offsetEnd": 571,
+          "pos": "IN"
+        },
+        {
+          "word": "v.",
+          "lemma": "v.",
+          "offsetBegin": 572,
+          "offsetEnd": 574,
+          "pos": "CC"
+        },
+        {
+          "word": "Furthermore",
+          "lemma": "furthermore",
+          "offsetBegin": 575,
+          "offsetEnd": 586,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 586,
+          "offsetEnd": 587,
+          "pos": ","
+        },
+        {
+          "word": "all",
+          "lemma": "all",
+          "offsetBegin": 588,
+          "offsetEnd": 591,
+          "pos": "DT"
+        },
+        {
+          "word": "bounds",
+          "lemma": "bound",
+          "offsetBegin": 592,
+          "offsetEnd": 598,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 599,
+          "offsetEnd": 602,
+          "pos": "VBP"
+        },
+        {
+          "word": "tight",
+          "lemma": "tight",
+          "offsetBegin": 603,
+          "offsetEnd": 608,
+          "pos": "JJ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,676 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Variable",
+          "lemma": "variable",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "JJ"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 9,
+          "offsetEnd": 18,
+          "pos": "NN"
+        },
+        {
+          "word": "intelligent",
+          "lemma": "intelligent",
+          "offsetBegin": 19,
+          "offsetEnd": 30,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 31,
+          "offsetEnd": 38,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 39,
+          "offsetEnd": 42,
+          "pos": "IN"
+        },
+        {
+          "word": "PM",
+          "lemma": "PM",
+          "offsetBegin": 43,
+          "offsetEnd": 45,
+          "pos": "NNP"
+        },
+        {
+          "word": "synchronous",
+          "lemma": "synchronous",
+          "offsetBegin": 46,
+          "offsetEnd": 57,
+          "pos": "JJ"
+        },
+        {
+          "word": "servo",
+          "lemma": "servo",
+          "offsetBegin": 58,
+          "offsetEnd": 63,
+          "pos": "NN"
+        },
+        {
+          "word": "motor",
+          "lemma": "motor",
+          "offsetBegin": 64,
+          "offsetEnd": 69,
+          "pos": "NN"
+        },
+        {
+          "word": "drive",
+          "lemma": "drive",
+          "offsetBegin": 70,
+          "offsetEnd": 75,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 76,
+          "offsetEnd": 79,
+          "pos": "DT"
+        },
+        {
+          "word": "variable",
+          "lemma": "variable",
+          "offsetBegin": 80,
+          "offsetEnd": 88,
+          "pos": "JJ"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 89,
+          "offsetEnd": 98,
+          "pos": "NN"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 99,
+          "offsetEnd": 106,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 107,
+          "offsetEnd": 108,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "VSC",
+          "lemma": "vsc",
+          "offsetBegin": 108,
+          "offsetEnd": 111,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 111,
+          "offsetEnd": 112,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 113,
+          "offsetEnd": 115,
+          "pos": "IN"
+        },
+        {
+          "word": "discrete",
+          "lemma": "discrete",
+          "offsetBegin": 116,
+          "offsetEnd": 124,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 125,
+          "offsetEnd": 129,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 130,
+          "offsetEnd": 137,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 138,
+          "offsetEnd": 143,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 144,
+          "offsetEnd": 146,
+          "pos": "IN"
+        },
+        {
+          "word": "intelligent",
+          "lemma": "intelligent",
+          "offsetBegin": 147,
+          "offsetEnd": 158,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 159,
+          "offsetEnd": 166,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 167,
+          "offsetEnd": 169,
+          "pos": "VBZ"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 170,
+          "offsetEnd": 179,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 180,
+          "offsetEnd": 182,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 183,
+          "offsetEnd": 187,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 188,
+          "offsetEnd": 193,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 193,
+          "offsetEnd": 194,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 195,
+          "offsetEnd": 196,
+          "pos": "DT"
+        },
+        {
+          "word": "novel",
+          "lemma": "novel",
+          "offsetBegin": 197,
+          "offsetEnd": 202,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 203,
+          "offsetEnd": 211,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 212,
+          "offsetEnd": 214,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 215,
+          "offsetEnd": 223,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 224,
+          "offsetEnd": 227,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 228,
+          "offsetEnd": 231,
+          "pos": "DT"
+        },
+        {
+          "word": "state",
+          "lemma": "state",
+          "offsetBegin": 232,
+          "offsetEnd": 237,
+          "pos": "NN"
+        },
+        {
+          "word": "estimation",
+          "lemma": "estimation",
+          "offsetBegin": 238,
+          "offsetEnd": 248,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 248,
+          "offsetEnd": 249,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 250,
+          "offsetEnd": 251,
+          "pos": "DT"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 252,
+          "offsetEnd": 258,
+          "pos": "JJ"
+        },
+        {
+          "word": "observer",
+          "lemma": "observer",
+          "offsetBegin": 259,
+          "offsetEnd": 267,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 268,
+          "offsetEnd": 270,
+          "pos": "VBZ"
+        },
+        {
+          "word": "firstly",
+          "lemma": "firstly",
+          "offsetBegin": 271,
+          "offsetEnd": 278,
+          "pos": "RB"
+        },
+        {
+          "word": "designed",
+          "lemma": "design",
+          "offsetBegin": 279,
+          "offsetEnd": 287,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 287,
+          "offsetEnd": 288,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Then",
+          "lemma": "then",
+          "offsetBegin": 289,
+          "offsetEnd": 293,
+          "pos": "RB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 294,
+          "offsetEnd": 295,
+          "pos": "DT"
+        },
+        {
+          "word": "neural",
+          "lemma": "neural",
+          "offsetBegin": 296,
+          "offsetEnd": 302,
+          "pos": "JJ"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 303,
+          "offsetEnd": 310,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 311,
+          "offsetEnd": 313,
+          "pos": "VBZ"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 314,
+          "offsetEnd": 318,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 319,
+          "offsetEnd": 322,
+          "pos": "IN"
+        },
+        {
+          "word": "compensating",
+          "lemma": "compensate",
+          "offsetBegin": 323,
+          "offsetEnd": 335,
+          "pos": "VBG"
+        },
+        {
+          "word": "uncertainty",
+          "lemma": "uncertainty",
+          "offsetBegin": 336,
+          "offsetEnd": 347,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 347,
+          "offsetEnd": 348,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 349,
+          "offsetEnd": 352,
+          "pos": "DT"
+        },
+        {
+          "word": "parameter",
+          "lemma": "parameter",
+          "offsetBegin": 353,
+          "offsetEnd": 362,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 363,
+          "offsetEnd": 365,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 366,
+          "offsetEnd": 369,
+          "pos": "DT"
+        },
+        {
+          "word": "VSC",
+          "lemma": "vsc",
+          "offsetBegin": 370,
+          "offsetEnd": 373,
+          "pos": "NN"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 374,
+          "offsetEnd": 380,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 381,
+          "offsetEnd": 383,
+          "pos": "VBZ"
+        },
+        {
+          "word": "adjusted",
+          "lemma": "adjust",
+          "offsetBegin": 384,
+          "offsetEnd": 392,
+          "pos": "VBN"
+        },
+        {
+          "word": "online",
+          "lemma": "online",
+          "offsetBegin": 393,
+          "offsetEnd": 399,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 400,
+          "offsetEnd": 402,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 403,
+          "offsetEnd": 404,
+          "pos": "DT"
+        },
+        {
+          "word": "neural",
+          "lemma": "neural",
+          "offsetBegin": 405,
+          "offsetEnd": 411,
+          "pos": "JJ"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 412,
+          "offsetEnd": 419,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 419,
+          "offsetEnd": 420,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Practical",
+          "lemma": "Practical",
+          "offsetBegin": 421,
+          "offsetEnd": 430,
+          "pos": "NNP"
+        },
+        {
+          "word": "operating",
+          "lemma": "operate",
+          "offsetBegin": 431,
+          "offsetEnd": 440,
+          "pos": "VBG"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 441,
+          "offsetEnd": 448,
+          "pos": "NNS"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 449,
+          "offsetEnd": 453,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 454,
+          "offsetEnd": 455,
+          "pos": "DT"
+        },
+        {
+          "word": "PM",
+          "lemma": "pm",
+          "offsetBegin": 456,
+          "offsetEnd": 458,
+          "pos": "NN"
+        },
+        {
+          "word": "synchronous",
+          "lemma": "synchronous",
+          "offsetBegin": 459,
+          "offsetEnd": 470,
+          "pos": "JJ"
+        },
+        {
+          "word": "motor",
+          "lemma": "motor",
+          "offsetBegin": 471,
+          "offsetEnd": 476,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 477,
+          "offsetEnd": 478,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "PMSM",
+          "lemma": "pmsm",
+          "offsetBegin": 478,
+          "offsetEnd": 482,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 482,
+          "offsetEnd": 483,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "illustrate",
+          "lemma": "illustrate",
+          "offsetBegin": 484,
+          "offsetEnd": 494,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 495,
+          "offsetEnd": 498,
+          "pos": "DT"
+        },
+        {
+          "word": "effectiveness",
+          "lemma": "effectiveness",
+          "offsetBegin": 499,
+          "offsetEnd": 512,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 513,
+          "offsetEnd": 516,
+          "pos": "CC"
+        },
+        {
+          "word": "practicability",
+          "lemma": "practicability",
+          "offsetBegin": 517,
+          "offsetEnd": 531,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 532,
+          "offsetEnd": 534,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 535,
+          "offsetEnd": 538,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 539,
+          "offsetEnd": 547,
+          "pos": "VBN"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 548,
+          "offsetEnd": 556,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

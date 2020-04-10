@@ -1,0 +1,833 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 2,
+          "offsetEnd": 7,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 8,
+          "offsetEnd": 10,
+          "pos": "IN"
+        },
+        {
+          "word": "meaning",
+          "lemma": "meaning",
+          "offsetBegin": 11,
+          "offsetEnd": 18,
+          "pos": "NN"
+        },
+        {
+          "word": "processing",
+          "lemma": "processing",
+          "offsetBegin": 19,
+          "offsetEnd": 29,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 30,
+          "offsetEnd": 32,
+          "pos": "IN"
+        },
+        {
+          "word": "dialogue",
+          "lemma": "dialogue",
+          "offsetBegin": 33,
+          "offsetEnd": 41,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 42,
+          "offsetEnd": 46,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 47,
+          "offsetEnd": 49,
+          "pos": "DT"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 50,
+          "offsetEnd": 57,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 58,
+          "offsetEnd": 60,
+          "pos": "IN"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 61,
+          "offsetEnd": 72,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 73,
+          "offsetEnd": 75,
+          "pos": "IN"
+        },
+        {
+          "word": "travel",
+          "lemma": "travel",
+          "offsetBegin": 76,
+          "offsetEnd": 82,
+          "pos": "NN"
+        },
+        {
+          "word": "consultation",
+          "lemma": "consultation",
+          "offsetBegin": 83,
+          "offsetEnd": 95,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 96,
+          "offsetEnd": 102,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 103,
+          "offsetEnd": 107,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 108,
+          "offsetEnd": 113,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 114,
+          "offsetEnd": 123,
+          "pos": "VBZ"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 124,
+          "offsetEnd": 126,
+          "pos": "DT"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 127,
+          "offsetEnd": 135,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 136,
+          "offsetEnd": 138,
+          "pos": "TO"
+        },
+        {
+          "word": "processing",
+          "lemma": "processing",
+          "offsetBegin": 139,
+          "offsetEnd": 149,
+          "pos": "NN"
+        },
+        {
+          "word": "meaning",
+          "lemma": "meaning",
+          "offsetBegin": 150,
+          "offsetEnd": 157,
+          "pos": "NN"
+        },
+        {
+          "word": "instead",
+          "lemma": "instead",
+          "offsetBegin": 158,
+          "offsetEnd": 165,
+          "pos": "RB"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 166,
+          "offsetEnd": 168,
+          "pos": "IN"
+        },
+        {
+          "word": "processing",
+          "lemma": "process",
+          "offsetBegin": 169,
+          "offsetEnd": 179,
+          "pos": "VBG"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 180,
+          "offsetEnd": 191,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 192,
+          "offsetEnd": 194,
+          "pos": "IN"
+        },
+        {
+          "word": "computing",
+          "lemma": "computing",
+          "offsetBegin": 195,
+          "offsetEnd": 204,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 204,
+          "offsetEnd": 205,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Human",
+          "lemma": "human",
+          "offsetBegin": 206,
+          "offsetEnd": 211,
+          "pos": "JJ"
+        },
+        {
+          "word": "intellectual",
+          "lemma": "intellectual",
+          "offsetBegin": 212,
+          "offsetEnd": 224,
+          "pos": "JJ"
+        },
+        {
+          "word": "activity",
+          "lemma": "activity",
+          "offsetBegin": 225,
+          "offsetEnd": 233,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 234,
+          "offsetEnd": 236,
+          "pos": "VBZ"
+        },
+        {
+          "word": "supported",
+          "lemma": "support",
+          "offsetBegin": 237,
+          "offsetEnd": 246,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 247,
+          "offsetEnd": 249,
+          "pos": "IN"
+        },
+        {
+          "word": "linguistic",
+          "lemma": "linguistic",
+          "offsetBegin": 250,
+          "offsetEnd": 260,
+          "pos": "JJ"
+        },
+        {
+          "word": "activities",
+          "lemma": "activity",
+          "offsetBegin": 261,
+          "offsetEnd": 271,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 272,
+          "offsetEnd": 274,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 275,
+          "offsetEnd": 278,
+          "pos": "DT"
+        },
+        {
+          "word": "brain",
+          "lemma": "brain",
+          "offsetBegin": 279,
+          "offsetEnd": 284,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 284,
+          "offsetEnd": 285,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Therefore",
+          "lemma": "therefore",
+          "offsetBegin": 286,
+          "offsetEnd": 295,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 295,
+          "offsetEnd": 296,
+          "pos": ","
+        },
+        {
+          "word": "processing",
+          "lemma": "process",
+          "offsetBegin": 297,
+          "offsetEnd": 307,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 308,
+          "offsetEnd": 311,
+          "pos": "DT"
+        },
+        {
+          "word": "meaning",
+          "lemma": "meaning",
+          "offsetBegin": 312,
+          "offsetEnd": 319,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 320,
+          "offsetEnd": 322,
+          "pos": "IN"
+        },
+        {
+          "word": "language",
+          "lemma": "language",
+          "offsetBegin": 323,
+          "offsetEnd": 331,
+          "pos": "NN"
+        },
+        {
+          "word": "instead",
+          "lemma": "instead",
+          "offsetBegin": 332,
+          "offsetEnd": 339,
+          "pos": "RB"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 340,
+          "offsetEnd": 342,
+          "pos": "IN"
+        },
+        {
+          "word": "processing",
+          "lemma": "process",
+          "offsetBegin": 343,
+          "offsetEnd": 353,
+          "pos": "VBG"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 354,
+          "offsetEnd": 365,
+          "pos": "NN"
+        },
+        {
+          "word": "should",
+          "lemma": "should",
+          "offsetBegin": 366,
+          "offsetEnd": 372,
+          "pos": "MD"
+        },
+        {
+          "word": "allow",
+          "lemma": "allow",
+          "offsetBegin": 373,
+          "offsetEnd": 378,
+          "pos": "VB"
+        },
+        {
+          "word": "us",
+          "lemma": "we",
+          "offsetBegin": 379,
+          "offsetEnd": 381,
+          "pos": "PRP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 382,
+          "offsetEnd": 384,
+          "pos": "TO"
+        },
+        {
+          "word": "realize",
+          "lemma": "realize",
+          "offsetBegin": 385,
+          "offsetEnd": 392,
+          "pos": "VB"
+        },
+        {
+          "word": "human",
+          "lemma": "human",
+          "offsetBegin": 393,
+          "offsetEnd": 398,
+          "pos": "JJ"
+        },
+        {
+          "word": "intelligence",
+          "lemma": "intelligence",
+          "offsetBegin": 399,
+          "offsetEnd": 411,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 412,
+          "offsetEnd": 414,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 415,
+          "offsetEnd": 416,
+          "pos": "DT"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 417,
+          "offsetEnd": 425,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 425,
+          "offsetEnd": 426,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "As",
+          "lemma": "as",
+          "offsetBegin": 427,
+          "offsetEnd": 429,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 430,
+          "offsetEnd": 432,
+          "pos": "DT"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 433,
+          "offsetEnd": 440,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 441,
+          "offsetEnd": 443,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 444,
+          "offsetEnd": 447,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 448,
+          "offsetEnd": 456,
+          "pos": "VBN"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 457,
+          "offsetEnd": 466,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 467,
+          "offsetEnd": 470,
+          "pos": "IN"
+        },
+        {
+          "word": "processing",
+          "lemma": "processing",
+          "offsetBegin": 471,
+          "offsetEnd": 481,
+          "pos": "NN"
+        },
+        {
+          "word": "meaning",
+          "lemma": "meaning",
+          "offsetBegin": 482,
+          "offsetEnd": 489,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 489,
+          "offsetEnd": 490,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 491,
+          "offsetEnd": 493,
+          "pos": "PRP"
+        },
+        {
+          "word": "build",
+          "lemma": "build",
+          "offsetBegin": 494,
+          "offsetEnd": 499,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 500,
+          "offsetEnd": 501,
+          "pos": "DT"
+        },
+        {
+          "word": "travel",
+          "lemma": "travel",
+          "offsetBegin": 502,
+          "offsetEnd": 508,
+          "pos": "NN"
+        },
+        {
+          "word": "consultation",
+          "lemma": "consultation",
+          "offsetBegin": 509,
+          "offsetEnd": 521,
+          "pos": "NN"
+        },
+        {
+          "word": "dialogue",
+          "lemma": "dialogue",
+          "offsetBegin": 522,
+          "offsetEnd": 530,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 531,
+          "offsetEnd": 537,
+          "pos": "NN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 538,
+          "offsetEnd": 543,
+          "pos": "WDT"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 544,
+          "offsetEnd": 547,
+          "pos": "MD"
+        },
+        {
+          "word": "understand",
+          "lemma": "understand",
+          "offsetBegin": 548,
+          "offsetEnd": 558,
+          "pos": "VB"
+        },
+        {
+          "word": "utterance",
+          "lemma": "utterance",
+          "offsetBegin": 559,
+          "offsetEnd": 568,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 569,
+          "offsetEnd": 571,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 572,
+          "offsetEnd": 573,
+          "pos": "DT"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 574,
+          "offsetEnd": 578,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 579,
+          "offsetEnd": 582,
+          "pos": "CC"
+        },
+        {
+          "word": "retrieve",
+          "lemma": "retrieve",
+          "offsetBegin": 583,
+          "offsetEnd": 591,
+          "pos": "VB"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 592,
+          "offsetEnd": 603,
+          "pos": "NN"
+        },
+        {
+          "word": "through",
+          "lemma": "through",
+          "offsetBegin": 604,
+          "offsetEnd": 611,
+          "pos": "IN"
+        },
+        {
+          "word": "dialogue",
+          "lemma": "dialogue",
+          "offsetBegin": 612,
+          "offsetEnd": 620,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 620,
+          "offsetEnd": 621,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Through",
+          "lemma": "through",
+          "offsetBegin": 622,
+          "offsetEnd": 629,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 630,
+          "offsetEnd": 631,
+          "pos": "DT"
+        },
+        {
+          "word": "simulation",
+          "lemma": "simulation",
+          "offsetBegin": 632,
+          "offsetEnd": 642,
+          "pos": "NN"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 643,
+          "offsetEnd": 650,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 651,
+          "offsetEnd": 653,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 654,
+          "offsetEnd": 657,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 658,
+          "offsetEnd": 664,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 664,
+          "offsetEnd": 665,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 666,
+          "offsetEnd": 668,
+          "pos": "PRP"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 669,
+          "offsetEnd": 673,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 674,
+          "offsetEnd": 678,
+          "pos": "IN"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 679,
+          "offsetEnd": 683,
+          "pos": "CC"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 684,
+          "offsetEnd": 695,
+          "pos": "NN"
+        },
+        {
+          "word": "processing",
+          "lemma": "processing",
+          "offsetBegin": 696,
+          "offsetEnd": 706,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 707,
+          "offsetEnd": 710,
+          "pos": "CC"
+        },
+        {
+          "word": "language",
+          "lemma": "language",
+          "offsetBegin": 711,
+          "offsetEnd": 719,
+          "pos": "NN"
+        },
+        {
+          "word": "processing",
+          "lemma": "processing",
+          "offsetBegin": 720,
+          "offsetEnd": 730,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 731,
+          "offsetEnd": 734,
+          "pos": "VBP"
+        },
+        {
+          "word": "integrated",
+          "lemma": "integrate",
+          "offsetBegin": 735,
+          "offsetEnd": 745,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

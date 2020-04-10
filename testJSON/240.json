@@ -1,0 +1,818 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Project",
+          "lemma": "Project",
+          "offsetBegin": 0,
+          "offsetEnd": 7,
+          "pos": "NNP"
+        },
+        {
+          "word": "Euclid",
+          "lemma": "Euclid",
+          "offsetBegin": 8,
+          "offsetEnd": 14,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 15,
+          "offsetEnd": 18,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 19,
+          "offsetEnd": 22,
+          "pos": "DT"
+        },
+        {
+          "word": "role",
+          "lemma": "role",
+          "offsetBegin": 23,
+          "offsetEnd": 27,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 28,
+          "offsetEnd": 30,
+          "pos": "IN"
+        },
+        {
+          "word": "research",
+          "lemma": "research",
+          "offsetBegin": 31,
+          "offsetEnd": 39,
+          "pos": "NN"
+        },
+        {
+          "word": "libraries",
+          "lemma": "library",
+          "offsetBegin": 40,
+          "offsetEnd": 49,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 50,
+          "offsetEnd": 52,
+          "pos": "IN"
+        },
+        {
+          "word": "scholarly",
+          "lemma": "scholarly",
+          "offsetBegin": 53,
+          "offsetEnd": 62,
+          "pos": "JJ"
+        },
+        {
+          "word": "publishing",
+          "lemma": "publishing",
+          "offsetBegin": 63,
+          "offsetEnd": 73,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Project",
+          "lemma": "Project",
+          "offsetBegin": 74,
+          "offsetEnd": 81,
+          "pos": "NNP"
+        },
+        {
+          "word": "Euclid",
+          "lemma": "Euclid",
+          "offsetBegin": 82,
+          "offsetEnd": 88,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 88,
+          "offsetEnd": 89,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 90,
+          "offsetEnd": 91,
+          "pos": "DT"
+        },
+        {
+          "word": "joint",
+          "lemma": "joint",
+          "offsetBegin": 92,
+          "offsetEnd": 97,
+          "pos": "JJ"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 98,
+          "offsetEnd": 108,
+          "pos": "JJ"
+        },
+        {
+          "word": "journal",
+          "lemma": "journal",
+          "offsetBegin": 109,
+          "offsetEnd": 116,
+          "pos": "NN"
+        },
+        {
+          "word": "publishing",
+          "lemma": "publishing",
+          "offsetBegin": 117,
+          "offsetEnd": 127,
+          "pos": "NN"
+        },
+        {
+          "word": "initiative",
+          "lemma": "initiative",
+          "offsetBegin": 128,
+          "offsetEnd": 138,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 139,
+          "offsetEnd": 141,
+          "pos": "IN"
+        },
+        {
+          "word": "Cornell",
+          "lemma": "Cornell",
+          "offsetBegin": 142,
+          "offsetEnd": 149,
+          "pos": "NNP"
+        },
+        {
+          "word": "University",
+          "lemma": "University",
+          "offsetBegin": 150,
+          "offsetEnd": 160,
+          "pos": "NNP"
+        },
+        {
+          "word": "Library",
+          "lemma": "Library",
+          "offsetBegin": 161,
+          "offsetEnd": 168,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 169,
+          "offsetEnd": 172,
+          "pos": "CC"
+        },
+        {
+          "word": "Duke",
+          "lemma": "Duke",
+          "offsetBegin": 173,
+          "offsetEnd": 177,
+          "pos": "NNP"
+        },
+        {
+          "word": "University",
+          "lemma": "University",
+          "offsetBegin": 178,
+          "offsetEnd": 188,
+          "pos": "NNP"
+        },
+        {
+          "word": "Press",
+          "lemma": "Press",
+          "offsetBegin": 189,
+          "offsetEnd": 194,
+          "pos": "NNP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 195,
+          "offsetEnd": 197,
+          "pos": "VBZ"
+        },
+        {
+          "word": "discussed",
+          "lemma": "discuss",
+          "offsetBegin": 198,
+          "offsetEnd": 207,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 208,
+          "offsetEnd": 210,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 211,
+          "offsetEnd": 214,
+          "pos": "DT"
+        },
+        {
+          "word": "broader",
+          "lemma": "broader",
+          "offsetBegin": 215,
+          "offsetEnd": 222,
+          "pos": "JJR"
+        },
+        {
+          "word": "contexts",
+          "lemma": "context",
+          "offsetBegin": 223,
+          "offsetEnd": 231,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 232,
+          "offsetEnd": 234,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 235,
+          "offsetEnd": 238,
+          "pos": "DT"
+        },
+        {
+          "word": "changing",
+          "lemma": "change",
+          "offsetBegin": 239,
+          "offsetEnd": 247,
+          "pos": "VBG"
+        },
+        {
+          "word": "patterns",
+          "lemma": "pattern",
+          "offsetBegin": 248,
+          "offsetEnd": 256,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 257,
+          "offsetEnd": 259,
+          "pos": "IN"
+        },
+        {
+          "word": "scholarly",
+          "lemma": "scholarly",
+          "offsetBegin": 260,
+          "offsetEnd": 269,
+          "pos": "JJ"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 270,
+          "offsetEnd": 283,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 284,
+          "offsetEnd": 287,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 288,
+          "offsetEnd": 291,
+          "pos": "DT"
+        },
+        {
+          "word": "publishing",
+          "lemma": "publishing",
+          "offsetBegin": 292,
+          "offsetEnd": 302,
+          "pos": "NN"
+        },
+        {
+          "word": "scene",
+          "lemma": "scene",
+          "offsetBegin": 303,
+          "offsetEnd": 308,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 309,
+          "offsetEnd": 311,
+          "pos": "IN"
+        },
+        {
+          "word": "mathematics",
+          "lemma": "mathematics",
+          "offsetBegin": 312,
+          "offsetEnd": 323,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 323,
+          "offsetEnd": 324,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Specific",
+          "lemma": "specific",
+          "offsetBegin": 325,
+          "offsetEnd": 333,
+          "pos": "JJ"
+        },
+        {
+          "word": "aspects",
+          "lemma": "aspect",
+          "offsetBegin": 334,
+          "offsetEnd": 341,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 342,
+          "offsetEnd": 344,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 345,
+          "offsetEnd": 348,
+          "pos": "DT"
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "offsetBegin": 349,
+          "offsetEnd": 356,
+          "pos": "NN"
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "offsetBegin": 357,
+          "offsetEnd": 361,
+          "pos": "JJ"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 362,
+          "offsetEnd": 364,
+          "pos": "IN"
+        },
+        {
+          "word": "partnerships",
+          "lemma": "partnership",
+          "offsetBegin": 365,
+          "offsetEnd": 377,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 378,
+          "offsetEnd": 381,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 382,
+          "offsetEnd": 385,
+          "pos": "DT"
+        },
+        {
+          "word": "creation",
+          "lemma": "creation",
+          "offsetBegin": 386,
+          "offsetEnd": 394,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 395,
+          "offsetEnd": 397,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 398,
+          "offsetEnd": 400,
+          "pos": "DT"
+        },
+        {
+          "word": "economic",
+          "lemma": "economic",
+          "offsetBegin": 401,
+          "offsetEnd": 409,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 410,
+          "offsetEnd": 415,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 416,
+          "offsetEnd": 419,
+          "pos": "VBP"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 420,
+          "offsetEnd": 429,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 430,
+          "offsetEnd": 432,
+          "pos": "RB"
+        },
+        {
+          "word": "well",
+          "lemma": "well",
+          "offsetBegin": 433,
+          "offsetEnd": 437,
+          "pos": "RB"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 438,
+          "offsetEnd": 440,
+          "pos": "IN"
+        },
+        {
+          "word": "what",
+          "lemma": "what",
+          "offsetBegin": 441,
+          "offsetEnd": 445,
+          "pos": "WP"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 446,
+          "offsetEnd": 448,
+          "pos": "PRP"
+        },
+        {
+          "word": "takes",
+          "lemma": "take",
+          "offsetBegin": 449,
+          "offsetEnd": 454,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 455,
+          "offsetEnd": 457,
+          "pos": "TO"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 458,
+          "offsetEnd": 460,
+          "pos": "VB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 461,
+          "offsetEnd": 462,
+          "pos": "DT"
+        },
+        {
+          "word": "publisher",
+          "lemma": "publisher",
+          "offsetBegin": 463,
+          "offsetEnd": 472,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 472,
+          "offsetEnd": 473,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Libraries",
+          "lemma": "library",
+          "offsetBegin": 474,
+          "offsetEnd": 483,
+          "pos": "NNS"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 484,
+          "offsetEnd": 488,
+          "pos": "VBP"
+        },
+        {
+          "word": "gained",
+          "lemma": "gain",
+          "offsetBegin": 489,
+          "offsetEnd": 495,
+          "pos": "VBN"
+        },
+        {
+          "word": "important",
+          "lemma": "important",
+          "offsetBegin": 496,
+          "offsetEnd": 505,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 506,
+          "offsetEnd": 509,
+          "pos": "CC"
+        },
+        {
+          "word": "relevant",
+          "lemma": "relevant",
+          "offsetBegin": 510,
+          "offsetEnd": 518,
+          "pos": "JJ"
+        },
+        {
+          "word": "experience",
+          "lemma": "experience",
+          "offsetBegin": 519,
+          "offsetEnd": 529,
+          "pos": "NN"
+        },
+        {
+          "word": "through",
+          "lemma": "through",
+          "offsetBegin": 530,
+          "offsetEnd": 537,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 538,
+          "offsetEnd": 541,
+          "pos": "DT"
+        },
+        {
+          "word": "creation",
+          "lemma": "creation",
+          "offsetBegin": 542,
+          "offsetEnd": 550,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 551,
+          "offsetEnd": 554,
+          "pos": "CC"
+        },
+        {
+          "word": "management",
+          "lemma": "management",
+          "offsetBegin": 555,
+          "offsetEnd": 565,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 566,
+          "offsetEnd": 568,
+          "pos": "IN"
+        },
+        {
+          "word": "digital",
+          "lemma": "digital",
+          "offsetBegin": 569,
+          "offsetEnd": 576,
+          "pos": "JJ"
+        },
+        {
+          "word": "libraries",
+          "lemma": "library",
+          "offsetBegin": 577,
+          "offsetEnd": 586,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 586,
+          "offsetEnd": 587,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 588,
+          "offsetEnd": 591,
+          "pos": "CC"
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 592,
+          "offsetEnd": 596,
+          "pos": "PRP"
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "offsetBegin": 597,
+          "offsetEnd": 601,
+          "pos": "VBP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 602,
+          "offsetEnd": 604,
+          "pos": "TO"
+        },
+        {
+          "word": "develop",
+          "lemma": "develop",
+          "offsetBegin": 605,
+          "offsetEnd": 612,
+          "pos": "VB"
+        },
+        {
+          "word": "further",
+          "lemma": "further",
+          "offsetBegin": 613,
+          "offsetEnd": 620,
+          "pos": "JJ"
+        },
+        {
+          "word": "skills",
+          "lemma": "skill",
+          "offsetBegin": 621,
+          "offsetEnd": 627,
+          "pos": "NNS"
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "offsetBegin": 628,
+          "offsetEnd": 630,
+          "pos": "IN"
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 631,
+          "offsetEnd": 635,
+          "pos": "PRP"
+        },
+        {
+          "word": "want",
+          "lemma": "want",
+          "offsetBegin": 636,
+          "offsetEnd": 640,
+          "pos": "VBP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 641,
+          "offsetEnd": 643,
+          "pos": "TO"
+        },
+        {
+          "word": "adopt",
+          "lemma": "adopt",
+          "offsetBegin": 644,
+          "offsetEnd": 649,
+          "pos": "VB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 650,
+          "offsetEnd": 651,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 652,
+          "offsetEnd": 655,
+          "pos": "JJ"
+        },
+        {
+          "word": "role",
+          "lemma": "role",
+          "offsetBegin": 656,
+          "offsetEnd": 660,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 661,
+          "offsetEnd": 663,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 664,
+          "offsetEnd": 667,
+          "pos": "DT"
+        },
+        {
+          "word": "life",
+          "lemma": "life",
+          "offsetBegin": 668,
+          "offsetEnd": 672,
+          "pos": "NN"
+        },
+        {
+          "word": "cycle",
+          "lemma": "cycle",
+          "offsetBegin": 673,
+          "offsetEnd": 678,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 679,
+          "offsetEnd": 681,
+          "pos": "IN"
+        },
+        {
+          "word": "scholarly",
+          "lemma": "scholarly",
+          "offsetBegin": 682,
+          "offsetEnd": 691,
+          "pos": "JJ"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 692,
+          "offsetEnd": 705,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 2,
+          "offsetEnd": 11,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 12,
+          "offsetEnd": 14,
+          "pos": "IN"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 15,
+          "offsetEnd": 25,
+          "pos": "JJ"
+        },
+        {
+          "word": "tendering",
+          "lemma": "tender",
+          "offsetBegin": 26,
+          "offsetEnd": 35,
+          "pos": "VBG"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 36,
+          "offsetEnd": 39,
+          "pos": "IN"
+        },
+        {
+          "word": "government",
+          "lemma": "government",
+          "offsetBegin": 40,
+          "offsetEnd": 50,
+          "pos": "NN"
+        },
+        {
+          "word": "procurement",
+          "lemma": "procurement",
+          "offsetBegin": 51,
+          "offsetEnd": 62,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 62,
+          "offsetEnd": 63,
+          "pos": ":"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 64,
+          "offsetEnd": 65,
+          "pos": "DT"
+        },
+        {
+          "word": "lesson",
+          "lemma": "lesson",
+          "offsetBegin": 66,
+          "offsetEnd": 72,
+          "pos": "NN"
+        },
+        {
+          "word": "learned",
+          "lemma": "learn",
+          "offsetBegin": 73,
+          "offsetEnd": 80,
+          "pos": "VBD"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 81,
+          "offsetEnd": 83,
+          "pos": "IN"
+        },
+        {
+          "word": "Taiwan",
+          "lemma": "Taiwan",
+          "offsetBegin": 84,
+          "offsetEnd": 90,
+          "pos": "NNP"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "To",
+          "lemma": "to",
+          "offsetBegin": 91,
+          "offsetEnd": 93,
+          "pos": "TO"
+        },
+        {
+          "word": "render",
+          "lemma": "render",
+          "offsetBegin": 94,
+          "offsetEnd": 100,
+          "pos": "VB"
+        },
+        {
+          "word": "government",
+          "lemma": "government",
+          "offsetBegin": 101,
+          "offsetEnd": 111,
+          "pos": "NN"
+        },
+        {
+          "word": "procurement",
+          "lemma": "procurement",
+          "offsetBegin": 112,
+          "offsetEnd": 123,
+          "pos": "NN"
+        },
+        {
+          "word": "efficient",
+          "lemma": "efficient",
+          "offsetBegin": 124,
+          "offsetEnd": 133,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 133,
+          "offsetEnd": 134,
+          "pos": ","
+        },
+        {
+          "word": "transparent",
+          "lemma": "transparent",
+          "offsetBegin": 135,
+          "offsetEnd": 146,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 146,
+          "offsetEnd": 147,
+          "pos": ","
+        },
+        {
+          "word": "nondiscriminating",
+          "lemma": "nondiscriminating",
+          "offsetBegin": 148,
+          "offsetEnd": 165,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 165,
+          "offsetEnd": 166,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 167,
+          "offsetEnd": 170,
+          "pos": "CC"
+        },
+        {
+          "word": "accountable",
+          "lemma": "accountable",
+          "offsetBegin": 171,
+          "offsetEnd": 182,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 182,
+          "offsetEnd": 183,
+          "pos": ","
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 184,
+          "offsetEnd": 186,
+          "pos": "DT"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 187,
+          "offsetEnd": 197,
+          "pos": "JJ"
+        },
+        {
+          "word": "government",
+          "lemma": "government",
+          "offsetBegin": 198,
+          "offsetEnd": 208,
+          "pos": "NN"
+        },
+        {
+          "word": "procurement",
+          "lemma": "procurement",
+          "offsetBegin": 209,
+          "offsetEnd": 220,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 221,
+          "offsetEnd": 227,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 228,
+          "offsetEnd": 230,
+          "pos": "VBZ"
+        },
+        {
+          "word": "required",
+          "lemma": "require",
+          "offsetBegin": 231,
+          "offsetEnd": 239,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 239,
+          "offsetEnd": 240,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Accordingly",
+          "lemma": "accordingly",
+          "offsetBegin": 241,
+          "offsetEnd": 252,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 252,
+          "offsetEnd": 253,
+          "pos": ","
+        },
+        {
+          "word": "Taiwan",
+          "lemma": "Taiwan",
+          "offsetBegin": 254,
+          "offsetEnd": 260,
+          "pos": "NNP"
+        },
+        {
+          "word": "government",
+          "lemma": "government",
+          "offsetBegin": 261,
+          "offsetEnd": 271,
+          "pos": "NN"
+        },
+        {
+          "word": "procurement",
+          "lemma": "procurement",
+          "offsetBegin": 272,
+          "offsetEnd": 283,
+          "pos": "NN"
+        },
+        {
+          "word": "law",
+          "lemma": "law",
+          "offsetBegin": 284,
+          "offsetEnd": 287,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 288,
+          "offsetEnd": 289,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "TGPL",
+          "lemma": "tgpl",
+          "offsetBegin": 289,
+          "offsetEnd": 293,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 293,
+          "offsetEnd": 294,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "states",
+          "lemma": "state",
+          "offsetBegin": 295,
+          "offsetEnd": 301,
+          "pos": "VBZ"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 302,
+          "offsetEnd": 306,
+          "pos": "IN"
+        },
+        {
+          "word": "suppliers",
+          "lemma": "supplier",
+          "offsetBegin": 307,
+          "offsetEnd": 316,
+          "pos": "NNS"
+        },
+        {
+          "word": "may",
+          "lemma": "may",
+          "offsetBegin": 317,
+          "offsetEnd": 320,
+          "pos": "MD"
+        },
+        {
+          "word": "employ",
+          "lemma": "employ",
+          "offsetBegin": 321,
+          "offsetEnd": 327,
+          "pos": "VB"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 328,
+          "offsetEnd": 338,
+          "pos": "JJ"
+        },
+        {
+          "word": "devices",
+          "lemma": "device",
+          "offsetBegin": 339,
+          "offsetEnd": 346,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 347,
+          "offsetEnd": 349,
+          "pos": "TO"
+        },
+        {
+          "word": "forward",
+          "lemma": "forward",
+          "offsetBegin": 350,
+          "offsetEnd": 357,
+          "pos": "RB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 358,
+          "offsetEnd": 359,
+          "pos": "DT"
+        },
+        {
+          "word": "tender",
+          "lemma": "tender",
+          "offsetBegin": 360,
+          "offsetEnd": 366,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 366,
+          "offsetEnd": 367,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 368,
+          "offsetEnd": 372,
+          "pos": "DT"
+        },
+        {
+          "word": "investigation",
+          "lemma": "investigation",
+          "offsetBegin": 373,
+          "offsetEnd": 386,
+          "pos": "NN"
+        },
+        {
+          "word": "demonstrates",
+          "lemma": "demonstrate",
+          "offsetBegin": 387,
+          "offsetEnd": 399,
+          "pos": "VBZ"
+        },
+        {
+          "word": "how",
+          "lemma": "how",
+          "offsetBegin": 400,
+          "offsetEnd": 403,
+          "pos": "WRB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 404,
+          "offsetEnd": 407,
+          "pos": "DT"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 408,
+          "offsetEnd": 418,
+          "pos": "JJ"
+        },
+        {
+          "word": "government",
+          "lemma": "government",
+          "offsetBegin": 419,
+          "offsetEnd": 429,
+          "pos": "NN"
+        },
+        {
+          "word": "procurement",
+          "lemma": "procurement",
+          "offsetBegin": 430,
+          "offsetEnd": 441,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 442,
+          "offsetEnd": 448,
+          "pos": "NN"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 449,
+          "offsetEnd": 458,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 459,
+          "offsetEnd": 462,
+          "pos": "CC"
+        },
+        {
+          "word": "reengineers",
+          "lemma": "reengineer",
+          "offsetBegin": 463,
+          "offsetEnd": 474,
+          "pos": "NNS"
+        },
+        {
+          "word": "internal",
+          "lemma": "internal",
+          "offsetBegin": 475,
+          "offsetEnd": 483,
+          "pos": "JJ"
+        },
+        {
+          "word": "procurement",
+          "lemma": "procurement",
+          "offsetBegin": 484,
+          "offsetEnd": 495,
+          "pos": "NN"
+        },
+        {
+          "word": "processes",
+          "lemma": "process",
+          "offsetBegin": 496,
+          "offsetEnd": 505,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 505,
+          "offsetEnd": 506,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 507,
+          "offsetEnd": 512,
+          "pos": "WDT"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 513,
+          "offsetEnd": 515,
+          "pos": "IN"
+        },
+        {
+          "word": "turn",
+          "lemma": "turn",
+          "offsetBegin": 516,
+          "offsetEnd": 520,
+          "pos": "NN"
+        },
+        {
+          "word": "benefits",
+          "lemma": "benefit",
+          "offsetBegin": 521,
+          "offsetEnd": 529,
+          "pos": "NNS"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 530,
+          "offsetEnd": 534,
+          "pos": "CC"
+        },
+        {
+          "word": "government",
+          "lemma": "government",
+          "offsetBegin": 535,
+          "offsetEnd": 545,
+          "pos": "NN"
+        },
+        {
+          "word": "bodies",
+          "lemma": "body",
+          "offsetBegin": 546,
+          "offsetEnd": 552,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 553,
+          "offsetEnd": 556,
+          "pos": "CC"
+        },
+        {
+          "word": "vendors",
+          "lemma": "vendor",
+          "offsetBegin": 557,
+          "offsetEnd": 564,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 564,
+          "offsetEnd": 565,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 566,
+          "offsetEnd": 569,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 570,
+          "offsetEnd": 576,
+          "pos": "NN"
+        },
+        {
+          "word": "features",
+          "lemma": "feature",
+          "offsetBegin": 577,
+          "offsetEnd": 585,
+          "pos": "VBZ"
+        },
+        {
+          "word": "explored",
+          "lemma": "explore",
+          "offsetBegin": 586,
+          "offsetEnd": 594,
+          "pos": "VBN"
+        },
+        {
+          "word": "herein",
+          "lemma": "herein",
+          "offsetBegin": 595,
+          "offsetEnd": 601,
+          "pos": "RB"
+        },
+        {
+          "word": "include",
+          "lemma": "include",
+          "offsetBegin": 602,
+          "offsetEnd": 609,
+          "pos": "VBP"
+        },
+        {
+          "word": "posting/receiving",
+          "lemma": "posting/receiving",
+          "offsetBegin": 610,
+          "offsetEnd": 627,
+          "pos": "VBG"
+        },
+        {
+          "word": "bids",
+          "lemma": "bid",
+          "offsetBegin": 628,
+          "offsetEnd": 632,
+          "pos": "NNS"
+        },
+        {
+          "word": "via",
+          "lemma": "via",
+          "offsetBegin": 633,
+          "offsetEnd": 636,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 637,
+          "offsetEnd": 640,
+          "pos": "DT"
+        },
+        {
+          "word": "Internet",
+          "lemma": "internet",
+          "offsetBegin": 641,
+          "offsetEnd": 649,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 649,
+          "offsetEnd": 650,
+          "pos": ","
+        },
+        {
+          "word": "vendor",
+          "lemma": "vendor",
+          "offsetBegin": 651,
+          "offsetEnd": 657,
+          "pos": "NN"
+        },
+        {
+          "word": "registration",
+          "lemma": "registration",
+          "offsetBegin": 658,
+          "offsetEnd": 670,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 670,
+          "offsetEnd": 671,
+          "pos": ","
+        },
+        {
+          "word": "certificate",
+          "lemma": "certificate",
+          "offsetBegin": 672,
+          "offsetEnd": 683,
+          "pos": "NN"
+        },
+        {
+          "word": "authorization",
+          "lemma": "authorization",
+          "offsetBegin": 684,
+          "offsetEnd": 697,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 697,
+          "offsetEnd": 698,
+          "pos": ","
+        },
+        {
+          "word": "contract",
+          "lemma": "contract",
+          "offsetBegin": 699,
+          "offsetEnd": 707,
+          "pos": "NN"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 708,
+          "offsetEnd": 719,
+          "pos": "NN"
+        },
+        {
+          "word": "tools",
+          "lemma": "tool",
+          "offsetBegin": 720,
+          "offsetEnd": 725,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 725,
+          "offsetEnd": 726,
+          "pos": ","
+        },
+        {
+          "word": "bid/request",
+          "lemma": "bid/request",
+          "offsetBegin": 727,
+          "offsetEnd": 738,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 739,
+          "offsetEnd": 742,
+          "pos": "IN"
+        },
+        {
+          "word": "proposal",
+          "lemma": "proposal",
+          "offsetBegin": 743,
+          "offsetEnd": 751,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 752,
+          "offsetEnd": 753,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "RFP",
+          "lemma": "rfp",
+          "offsetBegin": 753,
+          "offsetEnd": 756,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 756,
+          "offsetEnd": 757,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 758,
+          "offsetEnd": 769,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 769,
+          "offsetEnd": 770,
+          "pos": ","
+        },
+        {
+          "word": "online",
+          "lemma": "online",
+          "offsetBegin": 771,
+          "offsetEnd": 777,
+          "pos": "JJ"
+        },
+        {
+          "word": "bidding",
+          "lemma": "bidding",
+          "offsetBegin": 778,
+          "offsetEnd": 785,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 785,
+          "offsetEnd": 786,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 787,
+          "offsetEnd": 790,
+          "pos": "CC"
+        },
+        {
+          "word": "online",
+          "lemma": "online",
+          "offsetBegin": 791,
+          "offsetEnd": 797,
+          "pos": "JJ"
+        },
+        {
+          "word": "payment",
+          "lemma": "payment",
+          "offsetBegin": 798,
+          "offsetEnd": 805,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 805,
+          "offsetEnd": 806,
+          "pos": ","
+        },
+        {
+          "word": "all",
+          "lemma": "all",
+          "offsetBegin": 807,
+          "offsetEnd": 810,
+          "pos": "DT"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 811,
+          "offsetEnd": 813,
+          "pos": "IN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 814,
+          "offsetEnd": 819,
+          "pos": "WDT"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 820,
+          "offsetEnd": 823,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 824,
+          "offsetEnd": 826,
+          "pos": "VB"
+        },
+        {
+          "word": "integrated",
+          "lemma": "integrate",
+          "offsetBegin": 827,
+          "offsetEnd": 837,
+          "pos": "VBN"
+        },
+        {
+          "word": "easily",
+          "lemma": "easily",
+          "offsetBegin": 838,
+          "offsetEnd": 844,
+          "pos": "RB"
+        },
+        {
+          "word": "within",
+          "lemma": "within",
+          "offsetBegin": 845,
+          "offsetEnd": 851,
+          "pos": "IN"
+        },
+        {
+          "word": "most",
+          "lemma": "most",
+          "offsetBegin": 852,
+          "offsetEnd": 856,
+          "pos": "JJS"
+        },
+        {
+          "word": "existing",
+          "lemma": "exist",
+          "offsetBegin": 857,
+          "offsetEnd": 865,
+          "pos": "VBG"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 866,
+          "offsetEnd": 877,
+          "pos": "NN"
+        },
+        {
+          "word": "infrastructures",
+          "lemma": "infrastructure",
+          "offsetBegin": 878,
+          "offsetEnd": 893,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

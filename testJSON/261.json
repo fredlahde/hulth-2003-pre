@@ -1,0 +1,1803 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Union",
+          "lemma": "Union",
+          "offsetBegin": 0,
+          "offsetEnd": 5,
+          "pos": "NNP"
+        },
+        {
+          "word": "outreach",
+          "lemma": "outreach",
+          "offsetBegin": 6,
+          "offsetEnd": 14,
+          "pos": "NN"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 15,
+          "offsetEnd": 16,
+          "pos": ":"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 17,
+          "offsetEnd": 18,
+          "pos": "DT"
+        },
+        {
+          "word": "pilgrim",
+          "lemma": "pilgrim",
+          "offsetBegin": 19,
+          "offsetEnd": 26,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 26,
+          "offsetEnd": 28,
+          "pos": "POS"
+        },
+        {
+          "word": "progress",
+          "lemma": "progress",
+          "offsetBegin": 29,
+          "offsetEnd": 37,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "As",
+          "lemma": "as",
+          "offsetBegin": 38,
+          "offsetEnd": 40,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 41,
+          "offsetEnd": 44,
+          "pos": "DT"
+        },
+        {
+          "word": "American",
+          "lemma": "american",
+          "offsetBegin": 45,
+          "offsetEnd": 53,
+          "pos": "JJ"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 54,
+          "offsetEnd": 59,
+          "pos": "NN"
+        },
+        {
+          "word": "movement",
+          "lemma": "movement",
+          "offsetBegin": 60,
+          "offsetEnd": 68,
+          "pos": "NN"
+        },
+        {
+          "word": "continues",
+          "lemma": "continue",
+          "offsetBegin": 69,
+          "offsetEnd": 78,
+          "pos": "VBZ"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 79,
+          "offsetEnd": 81,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 82,
+          "offsetEnd": 85,
+          "pos": "PRP$"
+        },
+        {
+          "word": "path",
+          "lemma": "path",
+          "offsetBegin": 86,
+          "offsetEnd": 90,
+          "pos": "NN"
+        },
+        {
+          "word": "toward",
+          "lemma": "toward",
+          "offsetBegin": 91,
+          "offsetEnd": 97,
+          "pos": "IN"
+        },
+        {
+          "word": "reorganization",
+          "lemma": "reorganization",
+          "offsetBegin": 98,
+          "offsetEnd": 112,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 113,
+          "offsetEnd": 116,
+          "pos": "CC"
+        },
+        {
+          "word": "rejuvenation",
+          "lemma": "rejuvenation",
+          "offsetBegin": 117,
+          "offsetEnd": 129,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 129,
+          "offsetEnd": 130,
+          "pos": ","
+        },
+        {
+          "word": "archivists",
+          "lemma": "archivist",
+          "offsetBegin": 131,
+          "offsetEnd": 141,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 142,
+          "offsetEnd": 145,
+          "pos": "VBP"
+        },
+        {
+          "word": "challenged",
+          "lemma": "challenge",
+          "offsetBegin": 146,
+          "offsetEnd": 156,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 157,
+          "offsetEnd": 159,
+          "pos": "TO"
+        },
+        {
+          "word": "ensure",
+          "lemma": "ensure",
+          "offsetBegin": 160,
+          "offsetEnd": 166,
+          "pos": "VB"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 167,
+          "offsetEnd": 171,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 172,
+          "offsetEnd": 175,
+          "pos": "DT"
+        },
+        {
+          "word": "organizational",
+          "lemma": "organizational",
+          "offsetBegin": 176,
+          "offsetEnd": 190,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 190,
+          "offsetEnd": 191,
+          "pos": ","
+        },
+        {
+          "word": "political",
+          "lemma": "political",
+          "offsetBegin": 192,
+          "offsetEnd": 201,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 201,
+          "offsetEnd": 202,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 203,
+          "offsetEnd": 206,
+          "pos": "CC"
+        },
+        {
+          "word": "cultural",
+          "lemma": "cultural",
+          "offsetBegin": 207,
+          "offsetEnd": 215,
+          "pos": "JJ"
+        },
+        {
+          "word": "changes",
+          "lemma": "change",
+          "offsetBegin": 216,
+          "offsetEnd": 223,
+          "pos": "NNS"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 224,
+          "offsetEnd": 229,
+          "pos": "NN"
+        },
+        {
+          "word": "unions",
+          "lemma": "union",
+          "offsetBegin": 230,
+          "offsetEnd": 236,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 237,
+          "offsetEnd": 240,
+          "pos": "VBP"
+        },
+        {
+          "word": "experiencing",
+          "lemma": "experience",
+          "offsetBegin": 241,
+          "offsetEnd": 253,
+          "pos": "VBG"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 254,
+          "offsetEnd": 257,
+          "pos": "VBP"
+        },
+        {
+          "word": "fully",
+          "lemma": "fully",
+          "offsetBegin": 258,
+          "offsetEnd": 263,
+          "pos": "RB"
+        },
+        {
+          "word": "documented",
+          "lemma": "document",
+          "offsetBegin": 264,
+          "offsetEnd": 274,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 274,
+          "offsetEnd": 275,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 276,
+          "offsetEnd": 279,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 280,
+          "offsetEnd": 287,
+          "pos": "NN"
+        },
+        {
+          "word": "examines",
+          "lemma": "examine",
+          "offsetBegin": 288,
+          "offsetEnd": 296,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 297,
+          "offsetEnd": 300,
+          "pos": "DT"
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "offsetBegin": 301,
+          "offsetEnd": 305,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 306,
+          "offsetEnd": 309,
+          "pos": "IN"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 310,
+          "offsetEnd": 315,
+          "pos": "NN"
+        },
+        {
+          "word": "archivists",
+          "lemma": "archivist",
+          "offsetBegin": 316,
+          "offsetEnd": 326,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 327,
+          "offsetEnd": 329,
+          "pos": "TO"
+        },
+        {
+          "word": "reach",
+          "lemma": "reach",
+          "offsetBegin": 330,
+          "offsetEnd": 335,
+          "pos": "VB"
+        },
+        {
+          "word": "out",
+          "lemma": "out",
+          "offsetBegin": 336,
+          "offsetEnd": 339,
+          "pos": "RP"
+        },
+        {
+          "word": "actively",
+          "lemma": "actively",
+          "offsetBegin": 340,
+          "offsetEnd": 348,
+          "pos": "RB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 349,
+          "offsetEnd": 351,
+          "pos": "TO"
+        },
+        {
+          "word": "unions",
+          "lemma": "union",
+          "offsetBegin": 352,
+          "offsetEnd": 358,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 359,
+          "offsetEnd": 362,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 363,
+          "offsetEnd": 366,
+          "pos": "DT"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 367,
+          "offsetEnd": 375,
+          "pos": "NNS"
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 376,
+          "offsetEnd": 380,
+          "pos": "PRP"
+        },
+        {
+          "word": "face",
+          "lemma": "face",
+          "offsetBegin": 381,
+          "offsetEnd": 385,
+          "pos": "VBP"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 386,
+          "offsetEnd": 388,
+          "pos": "IN"
+        },
+        {
+          "word": "getting",
+          "lemma": "get",
+          "offsetBegin": 389,
+          "offsetEnd": 396,
+          "pos": "VBG"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 397,
+          "offsetEnd": 402,
+          "pos": "PRP$"
+        },
+        {
+          "word": "message",
+          "lemma": "message",
+          "offsetBegin": 403,
+          "offsetEnd": 410,
+          "pos": "NN"
+        },
+        {
+          "word": "across",
+          "lemma": "across",
+          "offsetBegin": 411,
+          "offsetEnd": 417,
+          "pos": "IN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 417,
+          "offsetEnd": 418,
+          "pos": ","
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 419,
+          "offsetEnd": 422,
+          "pos": "RB"
+        },
+        {
+          "word": "only",
+          "lemma": "only",
+          "offsetBegin": 423,
+          "offsetEnd": 427,
+          "pos": "RB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 428,
+          "offsetEnd": 430,
+          "pos": "TO"
+        },
+        {
+          "word": "union",
+          "lemma": "union",
+          "offsetBegin": 431,
+          "offsetEnd": 436,
+          "pos": "NN"
+        },
+        {
+          "word": "leadership",
+          "lemma": "leadership",
+          "offsetBegin": 437,
+          "offsetEnd": 447,
+          "pos": "NN"
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 448,
+          "offsetEnd": 451,
+          "pos": "CC"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 452,
+          "offsetEnd": 456,
+          "pos": "RB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 457,
+          "offsetEnd": 459,
+          "pos": "TO"
+        },
+        {
+          "word": "union",
+          "lemma": "union",
+          "offsetBegin": 460,
+          "offsetEnd": 465,
+          "pos": "NN"
+        },
+        {
+          "word": "members",
+          "lemma": "member",
+          "offsetBegin": 466,
+          "offsetEnd": 473,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 473,
+          "offsetEnd": 474,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Outreach",
+          "lemma": "Outreach",
+          "offsetBegin": 475,
+          "offsetEnd": 483,
+          "pos": "NNP"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 484,
+          "offsetEnd": 486,
+          "pos": "IN"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 487,
+          "offsetEnd": 492,
+          "pos": "NN"
+        },
+        {
+          "word": "archivists",
+          "lemma": "archivist",
+          "offsetBegin": 493,
+          "offsetEnd": 503,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 504,
+          "offsetEnd": 506,
+          "pos": "VBZ"
+        },
+        {
+          "word": "vital",
+          "lemma": "vital",
+          "offsetBegin": 507,
+          "offsetEnd": 512,
+          "pos": "JJ"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 513,
+          "offsetEnd": 515,
+          "pos": "IN"
+        },
+        {
+          "word": "three",
+          "lemma": "three",
+          "offsetBegin": 516,
+          "offsetEnd": 521,
+          "pos": "CD"
+        },
+        {
+          "word": "critical",
+          "lemma": "critical",
+          "offsetBegin": 522,
+          "offsetEnd": 530,
+          "pos": "JJ"
+        },
+        {
+          "word": "fronts",
+          "lemma": "front",
+          "offsetBegin": 531,
+          "offsetEnd": 537,
+          "pos": "NNS"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 537,
+          "offsetEnd": 538,
+          "pos": ":"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 539,
+          "offsetEnd": 542,
+          "pos": "DT"
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "offsetBegin": 543,
+          "offsetEnd": 547,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 548,
+          "offsetEnd": 550,
+          "pos": "TO"
+        },
+        {
+          "word": "secure",
+          "lemma": "secure",
+          "offsetBegin": 551,
+          "offsetEnd": 557,
+          "pos": "VB"
+        },
+        {
+          "word": "union",
+          "lemma": "union",
+          "offsetBegin": 558,
+          "offsetEnd": 563,
+          "pos": "NN"
+        },
+        {
+          "word": "funding",
+          "lemma": "funding",
+          "offsetBegin": 564,
+          "offsetEnd": 571,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 572,
+          "offsetEnd": 574,
+          "pos": "IN"
+        },
+        {
+          "word": "support",
+          "lemma": "support",
+          "offsetBegin": 575,
+          "offsetEnd": 582,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 583,
+          "offsetEnd": 585,
+          "pos": "IN"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 586,
+          "offsetEnd": 591,
+          "pos": "NN"
+        },
+        {
+          "word": "archival",
+          "lemma": "archival",
+          "offsetBegin": 592,
+          "offsetEnd": 600,
+          "pos": "JJ"
+        },
+        {
+          "word": "programs",
+          "lemma": "program",
+          "offsetBegin": 601,
+          "offsetEnd": 609,
+          "pos": "NNS"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 609,
+          "offsetEnd": 610,
+          "pos": ":"
+        },
+        {
+          "word": "obtaining",
+          "lemma": "obtain",
+          "offsetBegin": 611,
+          "offsetEnd": 620,
+          "pos": "VBG"
+        },
+        {
+          "word": "union",
+          "lemma": "union",
+          "offsetBegin": 621,
+          "offsetEnd": 626,
+          "pos": "NN"
+        },
+        {
+          "word": "cooperation",
+          "lemma": "cooperation",
+          "offsetBegin": 627,
+          "offsetEnd": 638,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 639,
+          "offsetEnd": 641,
+          "pos": "IN"
+        },
+        {
+          "word": "reviewing",
+          "lemma": "review",
+          "offsetBegin": 642,
+          "offsetEnd": 651,
+          "pos": "VBG"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 652,
+          "offsetEnd": 655,
+          "pos": "CC"
+        },
+        {
+          "word": "amending",
+          "lemma": "amend",
+          "offsetBegin": 656,
+          "offsetEnd": 664,
+          "pos": "VBG"
+        },
+        {
+          "word": "obsolete",
+          "lemma": "obsolete",
+          "offsetBegin": 665,
+          "offsetEnd": 673,
+          "pos": "JJ"
+        },
+        {
+          "word": "deposit",
+          "lemma": "deposit",
+          "offsetBegin": 674,
+          "offsetEnd": 681,
+          "pos": "NN"
+        },
+        {
+          "word": "agreements",
+          "lemma": "agreement",
+          "offsetBegin": 682,
+          "offsetEnd": 692,
+          "pos": "NNS"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 692,
+          "offsetEnd": 693,
+          "pos": ":"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 694,
+          "offsetEnd": 697,
+          "pos": "CC"
+        },
+        {
+          "word": "coordinating",
+          "lemma": "coordinate",
+          "offsetBegin": 698,
+          "offsetEnd": 710,
+          "pos": "VBG"
+        },
+        {
+          "word": "efforts",
+          "lemma": "effort",
+          "offsetBegin": 711,
+          "offsetEnd": 718,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 719,
+          "offsetEnd": 723,
+          "pos": "IN"
+        },
+        {
+          "word": "unions",
+          "lemma": "union",
+          "offsetBegin": 724,
+          "offsetEnd": 730,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 731,
+          "offsetEnd": 733,
+          "pos": "TO"
+        },
+        {
+          "word": "save",
+          "lemma": "save",
+          "offsetBegin": 734,
+          "offsetEnd": 738,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 739,
+          "offsetEnd": 742,
+          "pos": "DT"
+        },
+        {
+          "word": "records",
+          "lemma": "record",
+          "offsetBegin": 743,
+          "offsetEnd": 750,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 751,
+          "offsetEnd": 753,
+          "pos": "IN"
+        },
+        {
+          "word": "closing",
+          "lemma": "close",
+          "offsetBegin": 754,
+          "offsetEnd": 761,
+          "pos": "VBG"
+        },
+        {
+          "word": "district",
+          "lemma": "district",
+          "offsetBegin": 762,
+          "offsetEnd": 770,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 771,
+          "offsetEnd": 774,
+          "pos": "CC"
+        },
+        {
+          "word": "local",
+          "lemma": "local",
+          "offsetBegin": 775,
+          "offsetEnd": 780,
+          "pos": "JJ"
+        },
+        {
+          "word": "union",
+          "lemma": "union",
+          "offsetBegin": 781,
+          "offsetEnd": 786,
+          "pos": "NN"
+        },
+        {
+          "word": "offices",
+          "lemma": "office",
+          "offsetBegin": 787,
+          "offsetEnd": 794,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 794,
+          "offsetEnd": 795,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Attempting",
+          "lemma": "attempt",
+          "offsetBegin": 796,
+          "offsetEnd": 806,
+          "pos": "VBG"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 807,
+          "offsetEnd": 809,
+          "pos": "TO"
+        },
+        {
+          "word": "resolve",
+          "lemma": "resolve",
+          "offsetBegin": 810,
+          "offsetEnd": 817,
+          "pos": "VB"
+        },
+        {
+          "word": "these",
+          "lemma": "these",
+          "offsetBegin": 818,
+          "offsetEnd": 823,
+          "pos": "DT"
+        },
+        {
+          "word": "outstanding",
+          "lemma": "outstanding",
+          "offsetBegin": 824,
+          "offsetEnd": 835,
+          "pos": "JJ"
+        },
+        {
+          "word": "issues",
+          "lemma": "issue",
+          "offsetBegin": 836,
+          "offsetEnd": 842,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 842,
+          "offsetEnd": 843,
+          "pos": ","
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 844,
+          "offsetEnd": 849,
+          "pos": "NN"
+        },
+        {
+          "word": "archivists",
+          "lemma": "archivist",
+          "offsetBegin": 850,
+          "offsetEnd": 860,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 861,
+          "offsetEnd": 864,
+          "pos": "VBP"
+        },
+        {
+          "word": "pulled",
+          "lemma": "pull",
+          "offsetBegin": 865,
+          "offsetEnd": 871,
+          "pos": "VBN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 872,
+          "offsetEnd": 879,
+          "pos": "IN"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 880,
+          "offsetEnd": 883,
+          "pos": "CD"
+        },
+        {
+          "word": "distinct",
+          "lemma": "distinct",
+          "offsetBegin": 884,
+          "offsetEnd": 892,
+          "pos": "JJ"
+        },
+        {
+          "word": "institutional",
+          "lemma": "institutional",
+          "offsetBegin": 893,
+          "offsetEnd": 906,
+          "pos": "JJ"
+        },
+        {
+          "word": "cultures",
+          "lemma": "culture",
+          "offsetBegin": 907,
+          "offsetEnd": 915,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 916,
+          "offsetEnd": 917,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "offsetBegin": 917,
+          "offsetEnd": 920,
+          "pos": "CD"
+        },
+        {
+          "word": "academic",
+          "lemma": "academic",
+          "offsetBegin": 921,
+          "offsetEnd": 929,
+          "pos": "JJ"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 930,
+          "offsetEnd": 932,
+          "pos": "IN"
+        },
+        {
+          "word": "nature",
+          "lemma": "nature",
+          "offsetBegin": 933,
+          "offsetEnd": 939,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 939,
+          "offsetEnd": 940,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 941,
+          "offsetEnd": 944,
+          "pos": "DT"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 945,
+          "offsetEnd": 950,
+          "pos": "JJ"
+        },
+        {
+          "word": "enmeshed",
+          "lemma": "enmesh",
+          "offsetBegin": 951,
+          "offsetEnd": 959,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 960,
+          "offsetEnd": 962,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 963,
+          "offsetEnd": 964,
+          "pos": "DT"
+        },
+        {
+          "word": "union",
+          "lemma": "union",
+          "offsetBegin": 965,
+          "offsetEnd": 970,
+          "pos": "NN"
+        },
+        {
+          "word": "bureaucracy",
+          "lemma": "bureaucracy",
+          "offsetBegin": 971,
+          "offsetEnd": 982,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 982,
+          "offsetEnd": 983,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 984,
+          "offsetEnd": 987,
+          "pos": "CC"
+        },
+        {
+          "word": "often",
+          "lemma": "often",
+          "offsetBegin": 988,
+          "offsetEnd": 993,
+          "pos": "RB"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 994,
+          "offsetEnd": 998,
+          "pos": "VBP"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 999,
+          "offsetEnd": 1004,
+          "pos": "PRP$"
+        },
+        {
+          "word": "own",
+          "lemma": "own",
+          "offsetBegin": 1005,
+          "offsetEnd": 1008,
+          "pos": "JJ"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 1009,
+          "offsetEnd": 1014,
+          "pos": "NN"
+        },
+        {
+          "word": "archival",
+          "lemma": "archival",
+          "offsetBegin": 1015,
+          "offsetEnd": 1023,
+          "pos": "JJ"
+        },
+        {
+          "word": "programs",
+          "lemma": "program",
+          "offsetBegin": 1024,
+          "offsetEnd": 1032,
+          "pos": "NNS"
+        },
+        {
+          "word": "compromised",
+          "lemma": "compromise",
+          "offsetBegin": 1033,
+          "offsetEnd": 1044,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 1045,
+          "offsetEnd": 1047,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1048,
+          "offsetEnd": 1051,
+          "pos": "DT"
+        },
+        {
+          "word": "internal",
+          "lemma": "internal",
+          "offsetBegin": 1052,
+          "offsetEnd": 1060,
+          "pos": "JJ"
+        },
+        {
+          "word": "dynamics",
+          "lemma": "dynamics",
+          "offsetBegin": 1061,
+          "offsetEnd": 1069,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1070,
+          "offsetEnd": 1073,
+          "pos": "CC"
+        },
+        {
+          "word": "politics",
+          "lemma": "politics",
+          "offsetBegin": 1074,
+          "offsetEnd": 1082,
+          "pos": "NNS"
+        },
+        {
+          "word": "inherent",
+          "lemma": "inherent",
+          "offsetBegin": 1083,
+          "offsetEnd": 1091,
+          "pos": "JJ"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1092,
+          "offsetEnd": 1094,
+          "pos": "IN"
+        },
+        {
+          "word": "administering",
+          "lemma": "administer",
+          "offsetBegin": 1095,
+          "offsetEnd": 1108,
+          "pos": "VBG"
+        },
+        {
+          "word": "large",
+          "lemma": "large",
+          "offsetBegin": 1109,
+          "offsetEnd": 1114,
+          "pos": "JJ"
+        },
+        {
+          "word": "academic",
+          "lemma": "academic",
+          "offsetBegin": 1115,
+          "offsetEnd": 1123,
+          "pos": "JJ"
+        },
+        {
+          "word": "libraries",
+          "lemma": "library",
+          "offsetBegin": 1124,
+          "offsetEnd": 1133,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1134,
+          "offsetEnd": 1137,
+          "pos": "CC"
+        },
+        {
+          "word": "unions",
+          "lemma": "union",
+          "offsetBegin": 1138,
+          "offsetEnd": 1144,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1144,
+          "offsetEnd": 1145,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "If",
+          "lemma": "if",
+          "offsetBegin": 1146,
+          "offsetEnd": 1148,
+          "pos": "IN"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 1149,
+          "offsetEnd": 1154,
+          "pos": "NN"
+        },
+        {
+          "word": "archivists",
+          "lemma": "archivist",
+          "offsetBegin": 1155,
+          "offsetEnd": 1165,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 1166,
+          "offsetEnd": 1169,
+          "pos": "VBP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1170,
+          "offsetEnd": 1172,
+          "pos": "TO"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 1173,
+          "offsetEnd": 1175,
+          "pos": "VB"
+        },
+        {
+          "word": "successful",
+          "lemma": "successful",
+          "offsetBegin": 1176,
+          "offsetEnd": 1186,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1186,
+          "offsetEnd": 1187,
+          "pos": ","
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 1188,
+          "offsetEnd": 1192,
+          "pos": "PRP"
+        },
+        {
+          "word": "must",
+          "lemma": "must",
+          "offsetBegin": 1193,
+          "offsetEnd": 1197,
+          "pos": "MD"
+        },
+        {
+          "word": "find",
+          "lemma": "find",
+          "offsetBegin": 1198,
+          "offsetEnd": 1202,
+          "pos": "VB"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 1203,
+          "offsetEnd": 1208,
+          "pos": "PRP$"
+        },
+        {
+          "word": "collective",
+          "lemma": "collective",
+          "offsetBegin": 1209,
+          "offsetEnd": 1219,
+          "pos": "JJ"
+        },
+        {
+          "word": "voice",
+          "lemma": "voice",
+          "offsetBegin": 1220,
+          "offsetEnd": 1225,
+          "pos": "NN"
+        },
+        {
+          "word": "within",
+          "lemma": "within",
+          "offsetBegin": 1226,
+          "offsetEnd": 1232,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1233,
+          "offsetEnd": 1236,
+          "pos": "DT"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 1237,
+          "offsetEnd": 1242,
+          "pos": "NN"
+        },
+        {
+          "word": "movement",
+          "lemma": "movement",
+          "offsetBegin": 1243,
+          "offsetEnd": 1251,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1252,
+          "offsetEnd": 1255,
+          "pos": "CC"
+        },
+        {
+          "word": "establish",
+          "lemma": "establish",
+          "offsetBegin": 1256,
+          "offsetEnd": 1265,
+          "pos": "VB"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 1266,
+          "offsetEnd": 1271,
+          "pos": "PRP$"
+        },
+        {
+          "word": "relevancy",
+          "lemma": "relevancy",
+          "offsetBegin": 1272,
+          "offsetEnd": 1281,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1282,
+          "offsetEnd": 1284,
+          "pos": "TO"
+        },
+        {
+          "word": "unions",
+          "lemma": "union",
+          "offsetBegin": 1285,
+          "offsetEnd": 1291,
+          "pos": "NNS"
+        },
+        {
+          "word": "during",
+          "lemma": "during",
+          "offsetBegin": 1292,
+          "offsetEnd": 1298,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 1299,
+          "offsetEnd": 1300,
+          "pos": "DT"
+        },
+        {
+          "word": "period",
+          "lemma": "period",
+          "offsetBegin": 1301,
+          "offsetEnd": 1307,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1308,
+          "offsetEnd": 1310,
+          "pos": "IN"
+        },
+        {
+          "word": "momentous",
+          "lemma": "momentous",
+          "offsetBegin": 1311,
+          "offsetEnd": 1320,
+          "pos": "JJ"
+        },
+        {
+          "word": "change",
+          "lemma": "change",
+          "offsetBegin": 1321,
+          "offsetEnd": 1327,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1328,
+          "offsetEnd": 1331,
+          "pos": "CC"
+        },
+        {
+          "word": "restructuring",
+          "lemma": "restructuring",
+          "offsetBegin": 1332,
+          "offsetEnd": 1345,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1345,
+          "offsetEnd": 1346,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Moreover",
+          "lemma": "moreover",
+          "offsetBegin": 1347,
+          "offsetEnd": 1355,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1355,
+          "offsetEnd": 1356,
+          "pos": ","
+        },
+        {
+          "word": "archivists",
+          "lemma": "archivist",
+          "offsetBegin": 1357,
+          "offsetEnd": 1367,
+          "pos": "NNS"
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "offsetBegin": 1368,
+          "offsetEnd": 1372,
+          "pos": "VBP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1373,
+          "offsetEnd": 1375,
+          "pos": "TO"
+        },
+        {
+          "word": "give",
+          "lemma": "give",
+          "offsetBegin": 1376,
+          "offsetEnd": 1380,
+          "pos": "VB"
+        },
+        {
+          "word": "greater",
+          "lemma": "greater",
+          "offsetBegin": 1381,
+          "offsetEnd": 1388,
+          "pos": "JJR"
+        },
+        {
+          "word": "thought",
+          "lemma": "thought",
+          "offsetBegin": 1389,
+          "offsetEnd": 1396,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1397,
+          "offsetEnd": 1399,
+          "pos": "TO"
+        },
+        {
+          "word": "designing",
+          "lemma": "design",
+          "offsetBegin": 1400,
+          "offsetEnd": 1409,
+          "pos": "VBG"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1410,
+          "offsetEnd": 1413,
+          "pos": "CC"
+        },
+        {
+          "word": "implementing",
+          "lemma": "implement",
+          "offsetBegin": 1414,
+          "offsetEnd": 1426,
+          "pos": "VBG"
+        },
+        {
+          "word": "outreach",
+          "lemma": "outreach",
+          "offsetBegin": 1427,
+          "offsetEnd": 1435,
+          "pos": "JJ"
+        },
+        {
+          "word": "programs",
+          "lemma": "program",
+          "offsetBegin": 1436,
+          "offsetEnd": 1444,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 1445,
+          "offsetEnd": 1449,
+          "pos": "WDT"
+        },
+        {
+          "word": "bridge",
+          "lemma": "bridge",
+          "offsetBegin": 1450,
+          "offsetEnd": 1456,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1457,
+          "offsetEnd": 1460,
+          "pos": "DT"
+        },
+        {
+          "word": "fundamental",
+          "lemma": "fundamental",
+          "offsetBegin": 1461,
+          "offsetEnd": 1472,
+          "pos": "JJ"
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 1473,
+          "offsetEnd": 1474,
+          "pos": "``"
+        },
+        {
+          "word": "disconnect",
+          "lemma": "disconnect",
+          "offsetBegin": 1474,
+          "offsetEnd": 1484,
+          "pos": "VB"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 1484,
+          "offsetEnd": 1485,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 1486,
+          "offsetEnd": 1493,
+          "pos": "IN"
+        },
+        {
+          "word": "union",
+          "lemma": "union",
+          "offsetBegin": 1494,
+          "offsetEnd": 1499,
+          "pos": "NN"
+        },
+        {
+          "word": "bureaucracies",
+          "lemma": "bureaucracy",
+          "offsetBegin": 1500,
+          "offsetEnd": 1513,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1514,
+          "offsetEnd": 1517,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1518,
+          "offsetEnd": 1521,
+          "pos": "DT"
+        },
+        {
+          "word": "rank",
+          "lemma": "rank",
+          "offsetBegin": 1522,
+          "offsetEnd": 1526,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1527,
+          "offsetEnd": 1530,
+          "pos": "CC"
+        },
+        {
+          "word": "file",
+          "lemma": "file",
+          "offsetBegin": 1531,
+          "offsetEnd": 1535,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1535,
+          "offsetEnd": 1536,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1537,
+          "offsetEnd": 1540,
+          "pos": "CC"
+        },
+        {
+          "word": "unions",
+          "lemma": "union",
+          "offsetBegin": 1541,
+          "offsetEnd": 1547,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1548,
+          "offsetEnd": 1551,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1552,
+          "offsetEnd": 1555,
+          "pos": "DT"
+        },
+        {
+          "word": "public",
+          "lemma": "public",
+          "offsetBegin": 1556,
+          "offsetEnd": 1562,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

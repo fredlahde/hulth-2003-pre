@@ -1,0 +1,264 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Verifying",
+          "lemma": "verify",
+          "offsetBegin": 0,
+          "offsetEnd": 9,
+          "pos": "VBG"
+        },
+        {
+          "word": "resonant",
+          "lemma": "resonant",
+          "offsetBegin": 10,
+          "offsetEnd": 18,
+          "pos": "JJ"
+        },
+        {
+          "word": "grounding",
+          "lemma": "ground",
+          "offsetBegin": 19,
+          "offsetEnd": 28,
+          "pos": "VBG"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 29,
+          "offsetEnd": 31,
+          "pos": "IN"
+        },
+        {
+          "word": "distribution",
+          "lemma": "distribution",
+          "offsetBegin": 32,
+          "offsetEnd": 44,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 45,
+          "offsetEnd": 52,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 53,
+          "offsetEnd": 56,
+          "pos": "DT"
+        },
+        {
+          "word": "authors",
+          "lemma": "author",
+          "offsetBegin": 57,
+          "offsetEnd": 64,
+          "pos": "NNS"
+        },
+        {
+          "word": "describe",
+          "lemma": "describe",
+          "offsetBegin": 65,
+          "offsetEnd": 73,
+          "pos": "VBP"
+        },
+        {
+          "word": "RESFAL",
+          "lemma": "RESFAL",
+          "offsetBegin": 74,
+          "offsetEnd": 80,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 80,
+          "offsetEnd": 81,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 82,
+          "offsetEnd": 83,
+          "pos": "DT"
+        },
+        {
+          "word": "software",
+          "lemma": "software",
+          "offsetBegin": 84,
+          "offsetEnd": 92,
+          "pos": "NN"
+        },
+        {
+          "word": "tool",
+          "lemma": "tool",
+          "offsetBegin": 93,
+          "offsetEnd": 97,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 98,
+          "offsetEnd": 102,
+          "pos": "WDT"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 103,
+          "offsetEnd": 106,
+          "pos": "MD"
+        },
+        {
+          "word": "check",
+          "lemma": "check",
+          "offsetBegin": 107,
+          "offsetEnd": 112,
+          "pos": "VB"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 113,
+          "offsetEnd": 115,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 116,
+          "offsetEnd": 119,
+          "pos": "DT"
+        },
+        {
+          "word": "behavior",
+          "lemma": "behavior",
+          "offsetBegin": 120,
+          "offsetEnd": 128,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 129,
+          "offsetEnd": 131,
+          "pos": "IN"
+        },
+        {
+          "word": "distribution",
+          "lemma": "distribution",
+          "offsetBegin": 132,
+          "offsetEnd": 144,
+          "pos": "NN"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 145,
+          "offsetEnd": 152,
+          "pos": "NN"
+        },
+        {
+          "word": "resonant",
+          "lemma": "resonant",
+          "offsetBegin": 153,
+          "offsetEnd": 161,
+          "pos": "JJ"
+        },
+        {
+          "word": "grounding",
+          "lemma": "ground",
+          "offsetBegin": 162,
+          "offsetEnd": 171,
+          "pos": "VBG"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 172,
+          "offsetEnd": 179,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 180,
+          "offsetEnd": 184,
+          "pos": "IN"
+        },
+        {
+          "word": "regard",
+          "lemma": "regard",
+          "offsetBegin": 185,
+          "offsetEnd": 191,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 192,
+          "offsetEnd": 194,
+          "pos": "TO"
+        },
+        {
+          "word": "compensation",
+          "lemma": "compensation",
+          "offsetBegin": 195,
+          "offsetEnd": 207,
+          "pos": "NN"
+        },
+        {
+          "word": "coil",
+          "lemma": "coil",
+          "offsetBegin": 208,
+          "offsetEnd": 212,
+          "pos": "NN"
+        },
+        {
+          "word": "tuning",
+          "lemma": "tuning",
+          "offsetBegin": 213,
+          "offsetEnd": 219,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 220,
+          "offsetEnd": 223,
+          "pos": "CC"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 224,
+          "offsetEnd": 226,
+          "pos": "TO"
+        },
+        {
+          "word": "fault",
+          "lemma": "fault",
+          "offsetBegin": 227,
+          "offsetEnd": 232,
+          "pos": "VB"
+        },
+        {
+          "word": "detection",
+          "lemma": "detection",
+          "offsetBegin": 233,
+          "offsetEnd": 242,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

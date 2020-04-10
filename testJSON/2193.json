@@ -1,0 +1,334 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Integrating",
+          "lemma": "integrate",
+          "offsetBegin": 0,
+          "offsetEnd": 11,
+          "pos": "VBG"
+        },
+        {
+          "word": "virtual",
+          "lemma": "virtual",
+          "offsetBegin": 12,
+          "offsetEnd": 19,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 20,
+          "offsetEnd": 23,
+          "pos": "CC"
+        },
+        {
+          "word": "physical",
+          "lemma": "physical",
+          "offsetBegin": 24,
+          "offsetEnd": 32,
+          "pos": "JJ"
+        },
+        {
+          "word": "context",
+          "lemma": "context",
+          "offsetBegin": 33,
+          "offsetEnd": 40,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 41,
+          "offsetEnd": 43,
+          "pos": "TO"
+        },
+        {
+          "word": "support",
+          "lemma": "support",
+          "offsetBegin": 44,
+          "offsetEnd": 51,
+          "pos": "VB"
+        },
+        {
+          "word": "knowledge",
+          "lemma": "knowledge",
+          "offsetBegin": 52,
+          "offsetEnd": 61,
+          "pos": "NN"
+        },
+        {
+          "word": "workers",
+          "lemma": "worker",
+          "offsetBegin": 62,
+          "offsetEnd": 69,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 70,
+          "offsetEnd": 73,
+          "pos": "DT"
+        },
+        {
+          "word": "Kimura",
+          "lemma": "Kimura",
+          "offsetBegin": 74,
+          "offsetEnd": 80,
+          "pos": "NNP"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 81,
+          "offsetEnd": 87,
+          "pos": "NN"
+        },
+        {
+          "word": "augments",
+          "lemma": "augment",
+          "offsetBegin": 88,
+          "offsetEnd": 96,
+          "pos": "VBZ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 97,
+          "offsetEnd": 100,
+          "pos": "CC"
+        },
+        {
+          "word": "integrates",
+          "lemma": "integrate",
+          "offsetBegin": 101,
+          "offsetEnd": 111,
+          "pos": "VBZ"
+        },
+        {
+          "word": "independent",
+          "lemma": "independent",
+          "offsetBegin": 112,
+          "offsetEnd": 123,
+          "pos": "JJ"
+        },
+        {
+          "word": "tools",
+          "lemma": "tool",
+          "offsetBegin": 124,
+          "offsetEnd": 129,
+          "pos": "NNS"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 130,
+          "offsetEnd": 134,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 135,
+          "offsetEnd": 136,
+          "pos": "DT"
+        },
+        {
+          "word": "pervasive",
+          "lemma": "pervasive",
+          "offsetBegin": 137,
+          "offsetEnd": 146,
+          "pos": "JJ"
+        },
+        {
+          "word": "computing",
+          "lemma": "computing",
+          "offsetBegin": 147,
+          "offsetEnd": 156,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 157,
+          "offsetEnd": 163,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 164,
+          "offsetEnd": 168,
+          "pos": "WDT"
+        },
+        {
+          "word": "monitors",
+          "lemma": "monitor",
+          "offsetBegin": 169,
+          "offsetEnd": 177,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 178,
+          "offsetEnd": 179,
+          "pos": "DT"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 180,
+          "offsetEnd": 184,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 184,
+          "offsetEnd": 186,
+          "pos": "POS"
+        },
+        {
+          "word": "interactions",
+          "lemma": "interaction",
+          "offsetBegin": 187,
+          "offsetEnd": 199,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 200,
+          "offsetEnd": 204,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 205,
+          "offsetEnd": 208,
+          "pos": "DT"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 209,
+          "offsetEnd": 217,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 217,
+          "offsetEnd": 218,
+          "pos": ","
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 219,
+          "offsetEnd": 221,
+          "pos": "DT"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 222,
+          "offsetEnd": 232,
+          "pos": "JJ"
+        },
+        {
+          "word": "whiteboard",
+          "lemma": "whiteboard",
+          "offsetBegin": 233,
+          "offsetEnd": 243,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 243,
+          "offsetEnd": 244,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 245,
+          "offsetEnd": 248,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 249,
+          "offsetEnd": 250,
+          "pos": "DT"
+        },
+        {
+          "word": "variety",
+          "lemma": "variety",
+          "offsetBegin": 251,
+          "offsetEnd": 258,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 259,
+          "offsetEnd": 261,
+          "pos": "IN"
+        },
+        {
+          "word": "networked",
+          "lemma": "networked",
+          "offsetBegin": 262,
+          "offsetEnd": 271,
+          "pos": "JJ"
+        },
+        {
+          "word": "peripheral",
+          "lemma": "peripheral",
+          "offsetBegin": 272,
+          "offsetEnd": 282,
+          "pos": "JJ"
+        },
+        {
+          "word": "devices",
+          "lemma": "device",
+          "offsetBegin": 283,
+          "offsetEnd": 290,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 291,
+          "offsetEnd": 294,
+          "pos": "CC"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 295,
+          "offsetEnd": 299,
+          "pos": "NNS"
+        },
+        {
+          "word": "sources",
+          "lemma": "source",
+          "offsetBegin": 300,
+          "offsetEnd": 307,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Lossy",
+          "lemma": "Lossy",
+          "offsetBegin": 0,
+          "offsetEnd": 5,
+          "pos": "NNP"
+        },
+        {
+          "word": "SPICE",
+          "lemma": "SPICE",
+          "offsetBegin": 6,
+          "offsetEnd": 11,
+          "pos": "NNP"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 12,
+          "offsetEnd": 18,
+          "pos": "NNS"
+        },
+        {
+          "word": "produce",
+          "lemma": "produce",
+          "offsetBegin": 19,
+          "offsetEnd": 26,
+          "pos": "VBP"
+        },
+        {
+          "word": "realistic",
+          "lemma": "realistic",
+          "offsetBegin": 27,
+          "offsetEnd": 36,
+          "pos": "JJ"
+        },
+        {
+          "word": "averaged",
+          "lemma": "average",
+          "offsetBegin": 37,
+          "offsetEnd": 45,
+          "pos": "VBD"
+        },
+        {
+          "word": "simulations",
+          "lemma": "simulation",
+          "offsetBegin": 46,
+          "offsetEnd": 57,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 58,
+          "offsetEnd": 60,
+          "pos": "IN"
+        },
+        {
+          "word": "previous",
+          "lemma": "previous",
+          "offsetBegin": 61,
+          "offsetEnd": 69,
+          "pos": "JJ"
+        },
+        {
+          "word": "averaged",
+          "lemma": "average",
+          "offsetBegin": 70,
+          "offsetEnd": 78,
+          "pos": "VBD"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 79,
+          "offsetEnd": 85,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 85,
+          "offsetEnd": 86,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 87,
+          "offsetEnd": 90,
+          "pos": "DT"
+        },
+        {
+          "word": "state-space",
+          "lemma": "state-space",
+          "offsetBegin": 91,
+          "offsetEnd": 102,
+          "pos": "JJ"
+        },
+        {
+          "word": "averaging",
+          "lemma": "averaging",
+          "offsetBegin": 103,
+          "offsetEnd": 112,
+          "pos": "NN"
+        },
+        {
+          "word": "technique",
+          "lemma": "technique",
+          "offsetBegin": 113,
+          "offsetEnd": 122,
+          "pos": "NN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 123,
+          "offsetEnd": 125,
+          "pos": "CC"
+        },
+        {
+          "word": "switch",
+          "lemma": "switch",
+          "offsetBegin": 126,
+          "offsetEnd": 132,
+          "pos": "NN"
+        },
+        {
+          "word": "waveforms",
+          "lemma": "waveform",
+          "offsetBegin": 133,
+          "offsetEnd": 142,
+          "pos": "NNS"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 143,
+          "offsetEnd": 151,
+          "pos": "NN"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 152,
+          "offsetEnd": 156,
+          "pos": "VBD"
+        },
+        {
+          "word": "usually",
+          "lemma": "usually",
+          "offsetBegin": 157,
+          "offsetEnd": 164,
+          "pos": "RB"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 165,
+          "offsetEnd": 172,
+          "pos": "VBN"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 173,
+          "offsetEnd": 177,
+          "pos": "IN"
+        },
+        {
+          "word": "perfect",
+          "lemma": "perfect",
+          "offsetBegin": 178,
+          "offsetEnd": 185,
+          "pos": "JJ"
+        },
+        {
+          "word": "elements",
+          "lemma": "element",
+          "offsetBegin": 186,
+          "offsetEnd": 194,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 194,
+          "offsetEnd": 195,
+          "pos": ","
+        },
+        {
+          "word": "non-inclusive",
+          "lemma": "non-inclusive",
+          "offsetBegin": 196,
+          "offsetEnd": 209,
+          "pos": "JJ"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 210,
+          "offsetEnd": 212,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 213,
+          "offsetEnd": 216,
+          "pos": "DT"
+        },
+        {
+          "word": "ohmic",
+          "lemma": "ohmic",
+          "offsetBegin": 217,
+          "offsetEnd": 222,
+          "pos": "JJ"
+        },
+        {
+          "word": "losses",
+          "lemma": "loss",
+          "offsetBegin": 223,
+          "offsetEnd": 229,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 229,
+          "offsetEnd": 230,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "However",
+          "lemma": "however",
+          "offsetBegin": 231,
+          "offsetEnd": 238,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 238,
+          "offsetEnd": 239,
+          "pos": ","
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "offsetBegin": 240,
+          "offsetEnd": 242,
+          "pos": "IN"
+        },
+        {
+          "word": "these",
+          "lemma": "these",
+          "offsetBegin": 243,
+          "offsetEnd": 248,
+          "pos": "DT"
+        },
+        {
+          "word": "elements",
+          "lemma": "element",
+          "offsetBegin": 249,
+          "offsetEnd": 257,
+          "pos": "NNS"
+        },
+        {
+          "word": "play",
+          "lemma": "play",
+          "offsetBegin": 258,
+          "offsetEnd": 262,
+          "pos": "VBP"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 263,
+          "offsetEnd": 265,
+          "pos": "DT"
+        },
+        {
+          "word": "active",
+          "lemma": "active",
+          "offsetBegin": 266,
+          "offsetEnd": 272,
+          "pos": "JJ"
+        },
+        {
+          "word": "role",
+          "lemma": "role",
+          "offsetBegin": 273,
+          "offsetEnd": 277,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 278,
+          "offsetEnd": 280,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 281,
+          "offsetEnd": 284,
+          "pos": "DT"
+        },
+        {
+          "word": "DC",
+          "lemma": "dc",
+          "offsetBegin": 285,
+          "offsetEnd": 287,
+          "pos": "NN"
+        },
+        {
+          "word": "transfer",
+          "lemma": "transfer",
+          "offsetBegin": 288,
+          "offsetEnd": 296,
+          "pos": "NN"
+        },
+        {
+          "word": "function",
+          "lemma": "function",
+          "offsetBegin": 297,
+          "offsetEnd": 305,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 305,
+          "offsetEnd": 306,
+          "pos": ","
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 307,
+          "offsetEnd": 311,
+          "pos": "PRP"
+        },
+        {
+          "word": "affect",
+          "lemma": "affect",
+          "offsetBegin": 312,
+          "offsetEnd": 318,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 319,
+          "offsetEnd": 322,
+          "pos": "DT"
+        },
+        {
+          "word": "small-signal",
+          "lemma": "small-signal",
+          "offsetBegin": 323,
+          "offsetEnd": 335,
+          "pos": "JJ"
+        },
+        {
+          "word": "AC",
+          "lemma": "ac",
+          "offsetBegin": 336,
+          "offsetEnd": 338,
+          "pos": "NN"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 339,
+          "offsetEnd": 347,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 348,
+          "offsetEnd": 350,
+          "pos": "IN"
+        },
+        {
+          "word": "introducing",
+          "lemma": "introduce",
+          "offsetBegin": 351,
+          "offsetEnd": 362,
+          "pos": "VBG"
+        },
+        {
+          "word": "various",
+          "lemma": "various",
+          "offsetBegin": 363,
+          "offsetEnd": 370,
+          "pos": "JJ"
+        },
+        {
+          "word": "damping",
+          "lemma": "damp",
+          "offsetBegin": 371,
+          "offsetEnd": 378,
+          "pos": "VBG"
+        },
+        {
+          "word": "effects",
+          "lemma": "effect",
+          "offsetBegin": 379,
+          "offsetEnd": 386,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 386,
+          "offsetEnd": 387,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 388,
+          "offsetEnd": 389,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 390,
+          "offsetEnd": 395,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 396,
+          "offsetEnd": 398,
+          "pos": "VBZ"
+        },
+        {
+          "word": "introduced",
+          "lemma": "introduce",
+          "offsetBegin": 399,
+          "offsetEnd": 409,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 410,
+          "offsetEnd": 412,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 413,
+          "offsetEnd": 414,
+          "pos": "DT"
+        },
+        {
+          "word": "boost",
+          "lemma": "boost",
+          "offsetBegin": 415,
+          "offsetEnd": 420,
+          "pos": "NN"
+        },
+        {
+          "word": "voltage-mode",
+          "lemma": "voltage-mode",
+          "offsetBegin": 421,
+          "offsetEnd": 433,
+          "pos": "NN"
+        },
+        {
+          "word": "application",
+          "lemma": "application",
+          "offsetBegin": 434,
+          "offsetEnd": 445,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,893 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Stochastic",
+          "lemma": "stochastic",
+          "offsetBegin": 0,
+          "offsetEnd": 10,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 11,
+          "offsetEnd": 18,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 19,
+          "offsetEnd": 23,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 24,
+          "offsetEnd": 25,
+          "pos": "DT"
+        },
+        {
+          "word": "random",
+          "lemma": "random",
+          "offsetBegin": 26,
+          "offsetEnd": 32,
+          "pos": "JJ"
+        },
+        {
+          "word": "jump",
+          "lemma": "jump",
+          "offsetBegin": 33,
+          "offsetEnd": 37,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 38,
+          "offsetEnd": 40,
+          "pos": "IN"
+        },
+        {
+          "word": "phase",
+          "lemma": "phase",
+          "offsetBegin": 41,
+          "offsetEnd": 46,
+          "pos": "NN"
+        },
+        {
+          "word": "trajectory",
+          "lemma": "trajectory",
+          "offsetBegin": 47,
+          "offsetEnd": 57,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 57,
+          "offsetEnd": 58,
+          "pos": ":"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 59,
+          "offsetEnd": 68,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 69,
+          "offsetEnd": 71,
+          "pos": "IN"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 72,
+          "offsetEnd": 77,
+          "pos": "PRP$"
+        },
+        {
+          "word": "motions",
+          "lemma": "motion",
+          "offsetBegin": 78,
+          "offsetEnd": 85,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 86,
+          "offsetEnd": 89,
+          "pos": "DT"
+        },
+        {
+          "word": "probabilistic",
+          "lemma": "probabilistic",
+          "offsetBegin": 90,
+          "offsetEnd": 103,
+          "pos": "JJ"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 104,
+          "offsetEnd": 113,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 114,
+          "offsetEnd": 116,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 117,
+          "offsetEnd": 120,
+          "pos": "DT"
+        },
+        {
+          "word": "perturbed",
+          "lemma": "perturb",
+          "offsetBegin": 121,
+          "offsetEnd": 130,
+          "pos": "VBN"
+        },
+        {
+          "word": "motion",
+          "lemma": "motion",
+          "offsetBegin": 131,
+          "offsetEnd": 137,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 138,
+          "offsetEnd": 140,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 141,
+          "offsetEnd": 142,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 143,
+          "offsetEnd": 149,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 150,
+          "offsetEnd": 154,
+          "pos": "IN"
+        },
+        {
+          "word": "parameters",
+          "lemma": "parameter",
+          "offsetBegin": 155,
+          "offsetEnd": 165,
+          "pos": "NNS"
+        },
+        {
+          "word": "under",
+          "lemma": "under",
+          "offsetBegin": 166,
+          "offsetEnd": 171,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 172,
+          "offsetEnd": 175,
+          "pos": "DT"
+        },
+        {
+          "word": "action",
+          "lemma": "action",
+          "offsetBegin": 176,
+          "offsetEnd": 182,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 183,
+          "offsetEnd": 185,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 186,
+          "offsetEnd": 187,
+          "pos": "DT"
+        },
+        {
+          "word": "general",
+          "lemma": "general",
+          "offsetBegin": 188,
+          "offsetEnd": 195,
+          "pos": "JJ"
+        },
+        {
+          "word": "Markov",
+          "lemma": "Markov",
+          "offsetBegin": 196,
+          "offsetEnd": 202,
+          "pos": "NNP"
+        },
+        {
+          "word": "process",
+          "lemma": "process",
+          "offsetBegin": 203,
+          "offsetEnd": 210,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 211,
+          "offsetEnd": 213,
+          "pos": "VBZ"
+        },
+        {
+          "word": "studied",
+          "lemma": "study",
+          "offsetBegin": 214,
+          "offsetEnd": 221,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 221,
+          "offsetEnd": 222,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 223,
+          "offsetEnd": 226,
+          "pos": "DT"
+        },
+        {
+          "word": "phase",
+          "lemma": "phase",
+          "offsetBegin": 227,
+          "offsetEnd": 232,
+          "pos": "NN"
+        },
+        {
+          "word": "vector",
+          "lemma": "vector",
+          "offsetBegin": 233,
+          "offsetEnd": 239,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 240,
+          "offsetEnd": 242,
+          "pos": "VBZ"
+        },
+        {
+          "word": "assumed",
+          "lemma": "assume",
+          "offsetBegin": 243,
+          "offsetEnd": 250,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 251,
+          "offsetEnd": 253,
+          "pos": "TO"
+        },
+        {
+          "word": "experience",
+          "lemma": "experience",
+          "offsetBegin": 254,
+          "offsetEnd": 264,
+          "pos": "VB"
+        },
+        {
+          "word": "random",
+          "lemma": "random",
+          "offsetBegin": 265,
+          "offsetEnd": 271,
+          "pos": "JJ"
+        },
+        {
+          "word": "jumps",
+          "lemma": "jump",
+          "offsetBegin": 272,
+          "offsetEnd": 277,
+          "pos": "NNS"
+        },
+        {
+          "word": "when",
+          "lemma": "when",
+          "offsetBegin": 278,
+          "offsetEnd": 282,
+          "pos": "WRB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 283,
+          "offsetEnd": 286,
+          "pos": "DT"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 287,
+          "offsetEnd": 296,
+          "pos": "NN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 297,
+          "offsetEnd": 300,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 301,
+          "offsetEnd": 307,
+          "pos": "NN"
+        },
+        {
+          "word": "suffers",
+          "lemma": "suffer",
+          "offsetBegin": 308,
+          "offsetEnd": 315,
+          "pos": "VBZ"
+        },
+        {
+          "word": "random",
+          "lemma": "random",
+          "offsetBegin": 316,
+          "offsetEnd": 322,
+          "pos": "JJ"
+        },
+        {
+          "word": "jumps",
+          "lemma": "jump",
+          "offsetBegin": 323,
+          "offsetEnd": 328,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 328,
+          "offsetEnd": 329,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Such",
+          "lemma": "such",
+          "offsetBegin": 330,
+          "offsetEnd": 334,
+          "pos": "PDT"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 335,
+          "offsetEnd": 336,
+          "pos": "DT"
+        },
+        {
+          "word": "situation",
+          "lemma": "situation",
+          "offsetBegin": 337,
+          "offsetEnd": 346,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 347,
+          "offsetEnd": 349,
+          "pos": "VBZ"
+        },
+        {
+          "word": "encountered",
+          "lemma": "encounter",
+          "offsetBegin": 350,
+          "offsetEnd": 361,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 361,
+          "offsetEnd": 362,
+          "pos": ","
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 363,
+          "offsetEnd": 366,
+          "pos": "IN"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 367,
+          "offsetEnd": 374,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 374,
+          "offsetEnd": 375,
+          "pos": ","
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 376,
+          "offsetEnd": 378,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 379,
+          "offsetEnd": 382,
+          "pos": "DT"
+        },
+        {
+          "word": "motion",
+          "lemma": "motion",
+          "offsetBegin": 383,
+          "offsetEnd": 389,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 390,
+          "offsetEnd": 392,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 393,
+          "offsetEnd": 394,
+          "pos": "DT"
+        },
+        {
+          "word": "solid",
+          "lemma": "solid",
+          "offsetBegin": 395,
+          "offsetEnd": 400,
+          "pos": "JJ"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 401,
+          "offsetEnd": 405,
+          "pos": "IN"
+        },
+        {
+          "word": "random",
+          "lemma": "random",
+          "offsetBegin": 406,
+          "offsetEnd": 412,
+          "pos": "JJ"
+        },
+        {
+          "word": "jumps",
+          "lemma": "jump",
+          "offsetBegin": 413,
+          "offsetEnd": 418,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 419,
+          "offsetEnd": 421,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 422,
+          "offsetEnd": 425,
+          "pos": "PRP$"
+        },
+        {
+          "word": "mass",
+          "lemma": "mass",
+          "offsetBegin": 426,
+          "offsetEnd": 430,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 430,
+          "offsetEnd": 431,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 432,
+          "offsetEnd": 435,
+          "pos": "DT"
+        },
+        {
+          "word": "mean-square",
+          "lemma": "mean-square",
+          "offsetBegin": 436,
+          "offsetEnd": 447,
+          "pos": "JJ"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 448,
+          "offsetEnd": 457,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 458,
+          "offsetEnd": 460,
+          "pos": "IN"
+        },
+        {
+          "word": "random-structure",
+          "lemma": "random-structure",
+          "offsetBegin": 461,
+          "offsetEnd": 477,
+          "pos": "JJ"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 478,
+          "offsetEnd": 484,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 485,
+          "offsetEnd": 492,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 493,
+          "offsetEnd": 496,
+          "pos": "CC"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 497,
+          "offsetEnd": 506,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 506,
+          "offsetEnd": 507,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 508,
+          "offsetEnd": 510,
+          "pos": "IN"
+        },
+        {
+          "word": "nonlinear",
+          "lemma": "nonlinear",
+          "offsetBegin": 511,
+          "offsetEnd": 520,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 521,
+          "offsetEnd": 528,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 529,
+          "offsetEnd": 531,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 532,
+          "offsetEnd": 535,
+          "pos": "DT"
+        },
+        {
+          "word": "first",
+          "lemma": "first",
+          "offsetBegin": 536,
+          "offsetEnd": 541,
+          "pos": "JJ"
+        },
+        {
+          "word": "approximation",
+          "lemma": "approximation",
+          "offsetBegin": 542,
+          "offsetEnd": 555,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 556,
+          "offsetEnd": 559,
+          "pos": "VBP"
+        },
+        {
+          "word": "studied",
+          "lemma": "study",
+          "offsetBegin": 560,
+          "offsetEnd": 567,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 567,
+          "offsetEnd": 568,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 569,
+          "offsetEnd": 572,
+          "pos": "DT"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 573,
+          "offsetEnd": 580,
+          "pos": "VBN"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 581,
+          "offsetEnd": 589,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 590,
+          "offsetEnd": 592,
+          "pos": "VBZ"
+        },
+        {
+          "word": "helpful",
+          "lemma": "helpful",
+          "offsetBegin": 593,
+          "offsetEnd": 600,
+          "pos": "JJ"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 601,
+          "offsetEnd": 603,
+          "pos": "IN"
+        },
+        {
+          "word": "studying",
+          "lemma": "study",
+          "offsetBegin": 604,
+          "offsetEnd": 612,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 613,
+          "offsetEnd": 616,
+          "pos": "DT"
+        },
+        {
+          "word": "asymptotic",
+          "lemma": "asymptotic",
+          "offsetBegin": 617,
+          "offsetEnd": 627,
+          "pos": "JJ"
+        },
+        {
+          "word": "probabilistic",
+          "lemma": "probabilistic",
+          "offsetBegin": 628,
+          "offsetEnd": 641,
+          "pos": "JJ"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 642,
+          "offsetEnd": 651,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 652,
+          "offsetEnd": 655,
+          "pos": "CC"
+        },
+        {
+          "word": "mean-square",
+          "lemma": "mean-square",
+          "offsetBegin": 656,
+          "offsetEnd": 667,
+          "pos": "JJ"
+        },
+        {
+          "word": "exponential",
+          "lemma": "exponential",
+          "offsetBegin": 668,
+          "offsetEnd": 679,
+          "pos": "JJ"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 680,
+          "offsetEnd": 689,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 690,
+          "offsetEnd": 692,
+          "pos": "IN"
+        },
+        {
+          "word": "stochastic",
+          "lemma": "stochastic",
+          "offsetBegin": 693,
+          "offsetEnd": 703,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 704,
+          "offsetEnd": 711,
+          "pos": "NNS"
+        },
+        {
+          "word": "through",
+          "lemma": "through",
+          "offsetBegin": 712,
+          "offsetEnd": 719,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 720,
+          "offsetEnd": 723,
+          "pos": "DT"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 724,
+          "offsetEnd": 733,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 734,
+          "offsetEnd": 736,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 737,
+          "offsetEnd": 740,
+          "pos": "DT"
+        },
+        {
+          "word": "respective",
+          "lemma": "respective",
+          "offsetBegin": 741,
+          "offsetEnd": 751,
+          "pos": "JJ"
+        },
+        {
+          "word": "deterministic",
+          "lemma": "deterministic",
+          "offsetBegin": 752,
+          "offsetEnd": 765,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 766,
+          "offsetEnd": 773,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

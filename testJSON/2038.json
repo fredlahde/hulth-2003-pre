@@ -1,0 +1,1172 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Choice",
+          "lemma": "choice",
+          "offsetBegin": 0,
+          "offsetEnd": 6,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 7,
+          "offsetEnd": 11,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 12,
+          "offsetEnd": 13,
+          "pos": "DT"
+        },
+        {
+          "word": "three-element",
+          "lemma": "three-element",
+          "offsetBegin": 14,
+          "offsetEnd": 27,
+          "pos": "JJ"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 28,
+          "offsetEnd": 31,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 31,
+          "offsetEnd": 32,
+          "pos": ":"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 33,
+          "offsetEnd": 37,
+          "pos": "DT"
+        },
+        {
+          "word": "lessons",
+          "lemma": "lesson",
+          "offsetBegin": 38,
+          "offsetEnd": 45,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 46,
+          "offsetEnd": 48,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 49,
+          "offsetEnd": 52,
+          "pos": "DT"
+        },
+        {
+          "word": "2000",
+          "lemma": "2000",
+          "offsetBegin": 53,
+          "offsetEnd": 57,
+          "pos": "CD"
+        },
+        {
+          "word": "presidential",
+          "lemma": "presidential",
+          "offsetBegin": 58,
+          "offsetEnd": 70,
+          "pos": "JJ"
+        },
+        {
+          "word": "campaign",
+          "lemma": "campaign",
+          "offsetBegin": 71,
+          "offsetEnd": 79,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 80,
+          "offsetEnd": 82,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 83,
+          "offsetEnd": 86,
+          "pos": "DT"
+        },
+        {
+          "word": "United",
+          "lemma": "United",
+          "offsetBegin": 87,
+          "offsetEnd": 93,
+          "pos": "NNP"
+        },
+        {
+          "word": "States",
+          "lemma": "States",
+          "offsetBegin": 94,
+          "offsetEnd": 100,
+          "pos": "NNPS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 101,
+          "offsetEnd": 103,
+          "pos": "PRP"
+        },
+        {
+          "word": "consider",
+          "lemma": "consider",
+          "offsetBegin": 104,
+          "offsetEnd": 112,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 113,
+          "offsetEnd": 116,
+          "pos": "DT"
+        },
+        {
+          "word": "behavior",
+          "lemma": "behavior",
+          "offsetBegin": 117,
+          "offsetEnd": 125,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 126,
+          "offsetEnd": 128,
+          "pos": "IN"
+        },
+        {
+          "word": "four",
+          "lemma": "four",
+          "offsetBegin": 129,
+          "offsetEnd": 133,
+          "pos": "CD"
+        },
+        {
+          "word": "choice",
+          "lemma": "choice",
+          "offsetBegin": 134,
+          "offsetEnd": 140,
+          "pos": "NN"
+        },
+        {
+          "word": "rules",
+          "lemma": "rule",
+          "offsetBegin": 141,
+          "offsetEnd": 146,
+          "pos": "NNS"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 147,
+          "offsetEnd": 148,
+          "pos": ":"
+        },
+        {
+          "word": "plurality",
+          "lemma": "plurality",
+          "offsetBegin": 149,
+          "offsetEnd": 158,
+          "pos": "NN"
+        },
+        {
+          "word": "voting",
+          "lemma": "voting",
+          "offsetBegin": 159,
+          "offsetEnd": 165,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 165,
+          "offsetEnd": 166,
+          "pos": ","
+        },
+        {
+          "word": "approval",
+          "lemma": "approval",
+          "offsetBegin": 167,
+          "offsetEnd": 175,
+          "pos": "NN"
+        },
+        {
+          "word": "voting",
+          "lemma": "voting",
+          "offsetBegin": 176,
+          "offsetEnd": 182,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 182,
+          "offsetEnd": 183,
+          "pos": ","
+        },
+        {
+          "word": "Borda",
+          "lemma": "Borda",
+          "offsetBegin": 184,
+          "offsetEnd": 189,
+          "pos": "NNP"
+        },
+        {
+          "word": "count",
+          "lemma": "count",
+          "offsetBegin": 190,
+          "offsetEnd": 195,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 195,
+          "offsetEnd": 196,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 197,
+          "offsetEnd": 200,
+          "pos": "CC"
+        },
+        {
+          "word": "self-consistent",
+          "lemma": "self-consistent",
+          "offsetBegin": 201,
+          "offsetEnd": 216,
+          "pos": "JJ"
+        },
+        {
+          "word": "choice",
+          "lemma": "choice",
+          "offsetBegin": 217,
+          "offsetEnd": 223,
+          "pos": "NN"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 224,
+          "offsetEnd": 225,
+          "pos": ":"
+        },
+        {
+          "word": "when",
+          "lemma": "when",
+          "offsetBegin": 226,
+          "offsetEnd": 230,
+          "pos": "WRB"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 231,
+          "offsetEnd": 238,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 239,
+          "offsetEnd": 241,
+          "pos": "TO"
+        },
+        {
+          "word": "choose",
+          "lemma": "choose",
+          "offsetBegin": 242,
+          "offsetEnd": 248,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 249,
+          "offsetEnd": 252,
+          "pos": "DT"
+        },
+        {
+          "word": "best",
+          "lemma": "best",
+          "offsetBegin": 253,
+          "offsetEnd": 257,
+          "pos": "JJS"
+        },
+        {
+          "word": "option",
+          "lemma": "option",
+          "offsetBegin": 258,
+          "offsetEnd": 264,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 265,
+          "offsetEnd": 269,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 270,
+          "offsetEnd": 271,
+          "pos": "DT"
+        },
+        {
+          "word": "three-element",
+          "lemma": "three-element",
+          "offsetBegin": 272,
+          "offsetEnd": 285,
+          "pos": "JJ"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 286,
+          "offsetEnd": 289,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 289,
+          "offsetEnd": 290,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "offsetBegin": 291,
+          "offsetEnd": 293,
+          "pos": "PRP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 294,
+          "offsetEnd": 296,
+          "pos": "VBZ"
+        },
+        {
+          "word": "assumed",
+          "lemma": "assume",
+          "offsetBegin": 297,
+          "offsetEnd": 304,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 305,
+          "offsetEnd": 309,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 310,
+          "offsetEnd": 313,
+          "pos": "DT"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 314,
+          "offsetEnd": 317,
+          "pos": "CD"
+        },
+        {
+          "word": "main",
+          "lemma": "main",
+          "offsetBegin": 318,
+          "offsetEnd": 322,
+          "pos": "JJ"
+        },
+        {
+          "word": "options",
+          "lemma": "option",
+          "offsetBegin": 323,
+          "offsetEnd": 330,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 331,
+          "offsetEnd": 334,
+          "pos": "VBP"
+        },
+        {
+          "word": "preferred",
+          "lemma": "prefer",
+          "offsetBegin": 335,
+          "offsetEnd": 344,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 345,
+          "offsetEnd": 347,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 348,
+          "offsetEnd": 349,
+          "pos": "DT"
+        },
+        {
+          "word": "large",
+          "lemma": "large",
+          "offsetBegin": 350,
+          "offsetEnd": 355,
+          "pos": "JJ"
+        },
+        {
+          "word": "majority",
+          "lemma": "majority",
+          "offsetBegin": 356,
+          "offsetEnd": 364,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 365,
+          "offsetEnd": 367,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 368,
+          "offsetEnd": 371,
+          "pos": "DT"
+        },
+        {
+          "word": "voters",
+          "lemma": "voter",
+          "offsetBegin": 372,
+          "offsetEnd": 378,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 378,
+          "offsetEnd": 379,
+          "pos": ","
+        },
+        {
+          "word": "while",
+          "lemma": "while",
+          "offsetBegin": 380,
+          "offsetEnd": 385,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 386,
+          "offsetEnd": 389,
+          "pos": "DT"
+        },
+        {
+          "word": "third",
+          "lemma": "third",
+          "offsetBegin": 390,
+          "offsetEnd": 395,
+          "pos": "JJ"
+        },
+        {
+          "word": "option",
+          "lemma": "option",
+          "offsetBegin": 396,
+          "offsetEnd": 402,
+          "pos": "NN"
+        },
+        {
+          "word": "gets",
+          "lemma": "get",
+          "offsetBegin": 403,
+          "offsetEnd": 407,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 408,
+          "offsetEnd": 409,
+          "pos": "DT"
+        },
+        {
+          "word": "very",
+          "lemma": "very",
+          "offsetBegin": 410,
+          "offsetEnd": 414,
+          "pos": "RB"
+        },
+        {
+          "word": "small",
+          "lemma": "small",
+          "offsetBegin": 415,
+          "offsetEnd": 420,
+          "pos": "JJ"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 421,
+          "offsetEnd": 427,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 428,
+          "offsetEnd": 430,
+          "pos": "IN"
+        },
+        {
+          "word": "votes",
+          "lemma": "vote",
+          "offsetBegin": 431,
+          "offsetEnd": 436,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 437,
+          "offsetEnd": 440,
+          "pos": "CC"
+        },
+        {
+          "word": "influences",
+          "lemma": "influence",
+          "offsetBegin": 441,
+          "offsetEnd": 451,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 452,
+          "offsetEnd": 455,
+          "pos": "DT"
+        },
+        {
+          "word": "election",
+          "lemma": "election",
+          "offsetBegin": 456,
+          "offsetEnd": 464,
+          "pos": "NN"
+        },
+        {
+          "word": "outcome",
+          "lemma": "outcome",
+          "offsetBegin": 465,
+          "offsetEnd": 472,
+          "pos": "NN"
+        },
+        {
+          "word": "only",
+          "lemma": "only",
+          "offsetBegin": 473,
+          "offsetEnd": 477,
+          "pos": "RB"
+        },
+        {
+          "word": "when",
+          "lemma": "when",
+          "offsetBegin": 478,
+          "offsetEnd": 482,
+          "pos": "WRB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 483,
+          "offsetEnd": 486,
+          "pos": "DT"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 487,
+          "offsetEnd": 490,
+          "pos": "CD"
+        },
+        {
+          "word": "main",
+          "lemma": "main",
+          "offsetBegin": 491,
+          "offsetEnd": 495,
+          "pos": "JJ"
+        },
+        {
+          "word": "options",
+          "lemma": "option",
+          "offsetBegin": 496,
+          "offsetEnd": 503,
+          "pos": "NNS"
+        },
+        {
+          "word": "receive",
+          "lemma": "receive",
+          "offsetBegin": 504,
+          "offsetEnd": 511,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 512,
+          "offsetEnd": 513,
+          "pos": "DT"
+        },
+        {
+          "word": "close",
+          "lemma": "close",
+          "offsetBegin": 514,
+          "offsetEnd": 519,
+          "pos": "JJ"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 520,
+          "offsetEnd": 526,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 527,
+          "offsetEnd": 529,
+          "pos": "IN"
+        },
+        {
+          "word": "votes",
+          "lemma": "vote",
+          "offsetBegin": 530,
+          "offsetEnd": 535,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 535,
+          "offsetEnd": 536,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "When",
+          "lemma": "when",
+          "offsetBegin": 537,
+          "offsetEnd": 541,
+          "pos": "WRB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 542,
+          "offsetEnd": 546,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 547,
+          "offsetEnd": 549,
+          "pos": "TO"
+        },
+        {
+          "word": "rate",
+          "lemma": "rate",
+          "offsetBegin": 550,
+          "offsetEnd": 554,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 555,
+          "offsetEnd": 558,
+          "pos": "DT"
+        },
+        {
+          "word": "main",
+          "lemma": "main",
+          "offsetBegin": 559,
+          "offsetEnd": 563,
+          "pos": "JJ"
+        },
+        {
+          "word": "options",
+          "lemma": "option",
+          "offsetBegin": 564,
+          "offsetEnd": 571,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 571,
+          "offsetEnd": 572,
+          "pos": ","
+        },
+        {
+          "word": "Borda",
+          "lemma": "Borda",
+          "offsetBegin": 573,
+          "offsetEnd": 578,
+          "pos": "NNP"
+        },
+        {
+          "word": "count",
+          "lemma": "count",
+          "offsetBegin": 579,
+          "offsetEnd": 584,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 585,
+          "offsetEnd": 588,
+          "pos": "CC"
+        },
+        {
+          "word": "self-consistent",
+          "lemma": "self-consistent",
+          "offsetBegin": 589,
+          "offsetEnd": 604,
+          "pos": "JJ"
+        },
+        {
+          "word": "choice",
+          "lemma": "choice",
+          "offsetBegin": 605,
+          "offsetEnd": 611,
+          "pos": "NN"
+        },
+        {
+          "word": "contain",
+          "lemma": "contain",
+          "offsetBegin": 612,
+          "offsetEnd": 619,
+          "pos": "VBP"
+        },
+        {
+          "word": "terms",
+          "lemma": "term",
+          "offsetBegin": 620,
+          "offsetEnd": 625,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 626,
+          "offsetEnd": 630,
+          "pos": "WDT"
+        },
+        {
+          "word": "allow",
+          "lemma": "allow",
+          "offsetBegin": 631,
+          "offsetEnd": 636,
+          "pos": "VBP"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 637,
+          "offsetEnd": 641,
+          "pos": "DT"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 642,
+          "offsetEnd": 645,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 646,
+          "offsetEnd": 649,
+          "pos": "DT"
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 650,
+          "offsetEnd": 651,
+          "pos": "``"
+        },
+        {
+          "word": "strength",
+          "lemma": "strength",
+          "offsetBegin": 651,
+          "offsetEnd": 659,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 660,
+          "offsetEnd": 662,
+          "pos": "IN"
+        },
+        {
+          "word": "preferences",
+          "lemma": "preference",
+          "offsetBegin": 663,
+          "offsetEnd": 674,
+          "pos": "NNS"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 674,
+          "offsetEnd": 675,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 676,
+          "offsetEnd": 678,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 679,
+          "offsetEnd": 682,
+          "pos": "DT"
+        },
+        {
+          "word": "voters",
+          "lemma": "voter",
+          "offsetBegin": 683,
+          "offsetEnd": 689,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 690,
+          "offsetEnd": 693,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 694,
+          "offsetEnd": 697,
+          "pos": "DT"
+        },
+        {
+          "word": "rating",
+          "lemma": "rating",
+          "offsetBegin": 698,
+          "offsetEnd": 704,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 705,
+          "offsetEnd": 707,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 708,
+          "offsetEnd": 711,
+          "pos": "DT"
+        },
+        {
+          "word": "main",
+          "lemma": "main",
+          "offsetBegin": 712,
+          "offsetEnd": 716,
+          "pos": "JJ"
+        },
+        {
+          "word": "candidates",
+          "lemma": "candidate",
+          "offsetBegin": 717,
+          "offsetEnd": 727,
+          "pos": "NNS"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 728,
+          "offsetEnd": 730,
+          "pos": "IN"
+        },
+        {
+          "word": "voters",
+          "lemma": "voter",
+          "offsetBegin": 731,
+          "offsetEnd": 737,
+          "pos": "NNS"
+        },
+        {
+          "word": "who",
+          "lemma": "who",
+          "offsetBegin": 738,
+          "offsetEnd": 741,
+          "pos": "WP"
+        },
+        {
+          "word": "vote",
+          "lemma": "vote",
+          "offsetBegin": 742,
+          "offsetEnd": 746,
+          "pos": "VBP"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 747,
+          "offsetEnd": 750,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 751,
+          "offsetEnd": 754,
+          "pos": "DT"
+        },
+        {
+          "word": "third",
+          "lemma": "third",
+          "offsetBegin": 755,
+          "offsetEnd": 760,
+          "pos": "JJ"
+        },
+        {
+          "word": "option",
+          "lemma": "option",
+          "offsetBegin": 761,
+          "offsetEnd": 767,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 767,
+          "offsetEnd": 768,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 769,
+          "offsetEnd": 771,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 772,
+          "offsetEnd": 776,
+          "pos": "DT"
+        },
+        {
+          "word": "way",
+          "lemma": "way",
+          "offsetBegin": 777,
+          "offsetEnd": 780,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 780,
+          "offsetEnd": 781,
+          "pos": ","
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 782,
+          "offsetEnd": 784,
+          "pos": "PRP"
+        },
+        {
+          "word": "becomes",
+          "lemma": "become",
+          "offsetBegin": 785,
+          "offsetEnd": 792,
+          "pos": "VBZ"
+        },
+        {
+          "word": "possible",
+          "lemma": "possible",
+          "offsetBegin": 793,
+          "offsetEnd": 801,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 802,
+          "offsetEnd": 804,
+          "pos": "TO"
+        },
+        {
+          "word": "determine",
+          "lemma": "determine",
+          "offsetBegin": 805,
+          "offsetEnd": 814,
+          "pos": "VB"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 815,
+          "offsetEnd": 819,
+          "pos": "JJR"
+        },
+        {
+          "word": "reliably",
+          "lemma": "reliably",
+          "offsetBegin": 820,
+          "offsetEnd": 828,
+          "pos": "RB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 829,
+          "offsetEnd": 832,
+          "pos": "DT"
+        },
+        {
+          "word": "winner",
+          "lemma": "winner",
+          "offsetBegin": 833,
+          "offsetEnd": 839,
+          "pos": "NN"
+        },
+        {
+          "word": "when",
+          "lemma": "when",
+          "offsetBegin": 840,
+          "offsetEnd": 844,
+          "pos": "WRB"
+        },
+        {
+          "word": "plurality",
+          "lemma": "plurality",
+          "offsetBegin": 845,
+          "offsetEnd": 854,
+          "pos": "NN"
+        },
+        {
+          "word": "voting",
+          "lemma": "voting",
+          "offsetBegin": 855,
+          "offsetEnd": 861,
+          "pos": "NN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 862,
+          "offsetEnd": 864,
+          "pos": "CC"
+        },
+        {
+          "word": "approval",
+          "lemma": "approval",
+          "offsetBegin": 865,
+          "offsetEnd": 873,
+          "pos": "NN"
+        },
+        {
+          "word": "voting",
+          "lemma": "voting",
+          "offsetBegin": 874,
+          "offsetEnd": 880,
+          "pos": "NN"
+        },
+        {
+          "word": "produce",
+          "lemma": "produce",
+          "offsetBegin": 881,
+          "offsetEnd": 888,
+          "pos": "VBP"
+        },
+        {
+          "word": "close",
+          "lemma": "close",
+          "offsetBegin": 889,
+          "offsetEnd": 894,
+          "pos": "JJ"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 895,
+          "offsetEnd": 902,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Building",
+          "lemma": "building",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "NN"
+        },
+        {
+          "word": "digital",
+          "lemma": "digital",
+          "offsetBegin": 9,
+          "offsetEnd": 16,
+          "pos": "JJ"
+        },
+        {
+          "word": "collections",
+          "lemma": "collection",
+          "offsetBegin": 17,
+          "offsetEnd": 28,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 29,
+          "offsetEnd": 31,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 32,
+          "offsetEnd": 35,
+          "pos": "DT"
+        },
+        {
+          "word": "OAC",
+          "lemma": "OAC",
+          "offsetBegin": 36,
+          "offsetEnd": 39,
+          "pos": "NNP"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 39,
+          "offsetEnd": 40,
+          "pos": ":"
+        },
+        {
+          "word": "current",
+          "lemma": "current",
+          "offsetBegin": 41,
+          "offsetEnd": 48,
+          "pos": "JJ"
+        },
+        {
+          "word": "strategies",
+          "lemma": "strategy",
+          "offsetBegin": 49,
+          "offsetEnd": 59,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 60,
+          "offsetEnd": 64,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 65,
+          "offsetEnd": 66,
+          "pos": "DT"
+        },
+        {
+          "word": "view",
+          "lemma": "view",
+          "offsetBegin": 67,
+          "offsetEnd": 71,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 72,
+          "offsetEnd": 74,
+          "pos": "TO"
+        },
+        {
+          "word": "future",
+          "lemma": "future",
+          "offsetBegin": 75,
+          "offsetEnd": 81,
+          "pos": "JJ"
+        },
+        {
+          "word": "uses",
+          "lemma": "use",
+          "offsetBegin": 82,
+          "offsetEnd": 86,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Providing",
+          "lemma": "provide",
+          "offsetBegin": 87,
+          "offsetEnd": 96,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 97,
+          "offsetEnd": 98,
+          "pos": "DT"
+        },
+        {
+          "word": "context",
+          "lemma": "context",
+          "offsetBegin": 99,
+          "offsetEnd": 106,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 107,
+          "offsetEnd": 110,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 111,
+          "offsetEnd": 114,
+          "pos": "DT"
+        },
+        {
+          "word": "exploration",
+          "lemma": "exploration",
+          "offsetBegin": 115,
+          "offsetEnd": 126,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 127,
+          "offsetEnd": 129,
+          "pos": "IN"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 130,
+          "offsetEnd": 134,
+          "pos": "NN"
+        },
+        {
+          "word": "defined",
+          "lemma": "define",
+          "offsetBegin": 135,
+          "offsetEnd": 142,
+          "pos": "VBN"
+        },
+        {
+          "word": "virtual",
+          "lemma": "virtual",
+          "offsetBegin": 143,
+          "offsetEnd": 150,
+          "pos": "JJ"
+        },
+        {
+          "word": "collections",
+          "lemma": "collection",
+          "offsetBegin": 151,
+          "offsetEnd": 162,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 162,
+          "offsetEnd": 163,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 164,
+          "offsetEnd": 167,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 168,
+          "offsetEnd": 175,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 176,
+          "offsetEnd": 185,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 186,
+          "offsetEnd": 189,
+          "pos": "DT"
+        },
+        {
+          "word": "history",
+          "lemma": "history",
+          "offsetBegin": 190,
+          "offsetEnd": 197,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 198,
+          "offsetEnd": 201,
+          "pos": "CC"
+        },
+        {
+          "word": "recent",
+          "lemma": "recent",
+          "offsetBegin": 202,
+          "offsetEnd": 208,
+          "pos": "JJ"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 209,
+          "offsetEnd": 220,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 221,
+          "offsetEnd": 223,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 224,
+          "offsetEnd": 227,
+          "pos": "DT"
+        },
+        {
+          "word": "Online",
+          "lemma": "Online",
+          "offsetBegin": 228,
+          "offsetEnd": 234,
+          "pos": "NNP"
+        },
+        {
+          "word": "Archive",
+          "lemma": "Archive",
+          "offsetBegin": 235,
+          "offsetEnd": 242,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 243,
+          "offsetEnd": 245,
+          "pos": "IN"
+        },
+        {
+          "word": "California",
+          "lemma": "California",
+          "offsetBegin": 246,
+          "offsetEnd": 256,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 257,
+          "offsetEnd": 258,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "OAC",
+          "lemma": "OAC",
+          "offsetBegin": 258,
+          "offsetEnd": 261,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 261,
+          "offsetEnd": 262,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 262,
+          "offsetEnd": 263,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Stating",
+          "lemma": "state",
+          "offsetBegin": 264,
+          "offsetEnd": 271,
+          "pos": "VBG"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 272,
+          "offsetEnd": 276,
+          "pos": "DT"
+        },
+        {
+          "word": "usability",
+          "lemma": "usability",
+          "offsetBegin": 277,
+          "offsetEnd": 286,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 287,
+          "offsetEnd": 290,
+          "pos": "CC"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 291,
+          "offsetEnd": 295,
+          "pos": "NN"
+        },
+        {
+          "word": "needs",
+          "lemma": "need",
+          "offsetBegin": 296,
+          "offsetEnd": 301,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 302,
+          "offsetEnd": 305,
+          "pos": "VBP"
+        },
+        {
+          "word": "primary",
+          "lemma": "primary",
+          "offsetBegin": 306,
+          "offsetEnd": 313,
+          "pos": "JJ"
+        },
+        {
+          "word": "factors",
+          "lemma": "factor",
+          "offsetBegin": 314,
+          "offsetEnd": 321,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 322,
+          "offsetEnd": 324,
+          "pos": "IN"
+        },
+        {
+          "word": "digital",
+          "lemma": "digital",
+          "offsetBegin": 325,
+          "offsetEnd": 332,
+          "pos": "JJ"
+        },
+        {
+          "word": "resource",
+          "lemma": "resource",
+          "offsetBegin": 333,
+          "offsetEnd": 341,
+          "pos": "NN"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 342,
+          "offsetEnd": 353,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 353,
+          "offsetEnd": 354,
+          "pos": ","
+        },
+        {
+          "word": "issues",
+          "lemma": "issue",
+          "offsetBegin": 355,
+          "offsetEnd": 361,
+          "pos": "NNS"
+        },
+        {
+          "word": "explored",
+          "lemma": "explore",
+          "offsetBegin": 362,
+          "offsetEnd": 370,
+          "pos": "VBN"
+        },
+        {
+          "word": "include",
+          "lemma": "include",
+          "offsetBegin": 371,
+          "offsetEnd": 378,
+          "pos": "VBP"
+        },
+        {
+          "word": "collaborations",
+          "lemma": "collaboration",
+          "offsetBegin": 379,
+          "offsetEnd": 393,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 394,
+          "offsetEnd": 396,
+          "pos": "TO"
+        },
+        {
+          "word": "build",
+          "lemma": "build",
+          "offsetBegin": 397,
+          "offsetEnd": 402,
+          "pos": "VB"
+        },
+        {
+          "word": "digital",
+          "lemma": "digital",
+          "offsetBegin": 403,
+          "offsetEnd": 410,
+          "pos": "JJ"
+        },
+        {
+          "word": "collections",
+          "lemma": "collection",
+          "offsetBegin": 411,
+          "offsetEnd": 422,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 422,
+          "offsetEnd": 423,
+          "pos": ","
+        },
+        {
+          "word": "reliance",
+          "lemma": "reliance",
+          "offsetBegin": 424,
+          "offsetEnd": 432,
+          "pos": "NN"
+        },
+        {
+          "word": "upon",
+          "lemma": "upon",
+          "offsetBegin": 433,
+          "offsetEnd": 437,
+          "pos": "IN"
+        },
+        {
+          "word": "professional",
+          "lemma": "professional",
+          "offsetBegin": 438,
+          "offsetEnd": 450,
+          "pos": "JJ"
+        },
+        {
+          "word": "standards",
+          "lemma": "standard",
+          "offsetBegin": 451,
+          "offsetEnd": 460,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 461,
+          "offsetEnd": 464,
+          "pos": "IN"
+        },
+        {
+          "word": "description",
+          "lemma": "description",
+          "offsetBegin": 465,
+          "offsetEnd": 476,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 477,
+          "offsetEnd": 480,
+          "pos": "CC"
+        },
+        {
+          "word": "encoding",
+          "lemma": "encoding",
+          "offsetBegin": 481,
+          "offsetEnd": 489,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 489,
+          "offsetEnd": 490,
+          "pos": ","
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 491,
+          "offsetEnd": 497,
+          "pos": "NN"
+        },
+        {
+          "word": "architecture",
+          "lemma": "architecture",
+          "offsetBegin": 498,
+          "offsetEnd": 510,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 510,
+          "offsetEnd": 511,
+          "pos": ","
+        },
+        {
+          "word": "interface",
+          "lemma": "interface",
+          "offsetBegin": 512,
+          "offsetEnd": 521,
+          "pos": "NN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 522,
+          "offsetEnd": 528,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 528,
+          "offsetEnd": 529,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 530,
+          "offsetEnd": 533,
+          "pos": "DT"
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "offsetBegin": 534,
+          "offsetEnd": 538,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 539,
+          "offsetEnd": 542,
+          "pos": "IN"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 543,
+          "offsetEnd": 547,
+          "pos": "NN"
+        },
+        {
+          "word": "tools",
+          "lemma": "tool",
+          "offsetBegin": 548,
+          "offsetEnd": 553,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 553,
+          "offsetEnd": 554,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 555,
+          "offsetEnd": 558,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 559,
+          "offsetEnd": 562,
+          "pos": "DT"
+        },
+        {
+          "word": "role",
+          "lemma": "role",
+          "offsetBegin": 563,
+          "offsetEnd": 567,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 568,
+          "offsetEnd": 570,
+          "pos": "IN"
+        },
+        {
+          "word": "archivists",
+          "lemma": "archivist",
+          "offsetBegin": 571,
+          "offsetEnd": 581,
+          "pos": "NNS"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 582,
+          "offsetEnd": 584,
+          "pos": "IN"
+        },
+        {
+          "word": "interpreters",
+          "lemma": "interpreter",
+          "offsetBegin": 585,
+          "offsetEnd": 597,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 598,
+          "offsetEnd": 600,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 601,
+          "offsetEnd": 604,
+          "pos": "DT"
+        },
+        {
+          "word": "digital",
+          "lemma": "digital",
+          "offsetBegin": 605,
+          "offsetEnd": 612,
+          "pos": "JJ"
+        },
+        {
+          "word": "environment",
+          "lemma": "environment",
+          "offsetBegin": 613,
+          "offsetEnd": 624,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

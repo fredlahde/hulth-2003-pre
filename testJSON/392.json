@@ -1,0 +1,2393 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Time-varying",
+          "lemma": "time-varying",
+          "offsetBegin": 0,
+          "offsetEnd": 12,
+          "pos": "JJ"
+        },
+        {
+          "word": "properties",
+          "lemma": "property",
+          "offsetBegin": 13,
+          "offsetEnd": 23,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 24,
+          "offsetEnd": 26,
+          "pos": "IN"
+        },
+        {
+          "word": "renal",
+          "lemma": "renal",
+          "offsetBegin": 27,
+          "offsetEnd": 32,
+          "pos": "JJ"
+        },
+        {
+          "word": "autoregulatory",
+          "lemma": "autoregulatory",
+          "offsetBegin": 33,
+          "offsetEnd": 47,
+          "pos": "JJ"
+        },
+        {
+          "word": "mechanisms",
+          "lemma": "mechanism",
+          "offsetBegin": 48,
+          "offsetEnd": 58,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 59,
+          "offsetEnd": 61,
+          "pos": "IN"
+        },
+        {
+          "word": "order",
+          "lemma": "order",
+          "offsetBegin": 62,
+          "offsetEnd": 67,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 68,
+          "offsetEnd": 70,
+          "pos": "TO"
+        },
+        {
+          "word": "assess",
+          "lemma": "assess",
+          "offsetBegin": 71,
+          "offsetEnd": 77,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 78,
+          "offsetEnd": 81,
+          "pos": "DT"
+        },
+        {
+          "word": "possible",
+          "lemma": "possible",
+          "offsetBegin": 82,
+          "offsetEnd": 90,
+          "pos": "JJ"
+        },
+        {
+          "word": "time-varying",
+          "lemma": "time-varying",
+          "offsetBegin": 91,
+          "offsetEnd": 103,
+          "pos": "JJ"
+        },
+        {
+          "word": "properties",
+          "lemma": "property",
+          "offsetBegin": 104,
+          "offsetEnd": 114,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 115,
+          "offsetEnd": 117,
+          "pos": "IN"
+        },
+        {
+          "word": "renal",
+          "lemma": "renal",
+          "offsetBegin": 118,
+          "offsetEnd": 123,
+          "pos": "JJ"
+        },
+        {
+          "word": "autoregulation",
+          "lemma": "autoregulation",
+          "offsetBegin": 124,
+          "offsetEnd": 138,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 138,
+          "offsetEnd": 139,
+          "pos": ","
+        },
+        {
+          "word": "time-frequency",
+          "lemma": "time-frequency",
+          "offsetBegin": 140,
+          "offsetEnd": 154,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 155,
+          "offsetEnd": 158,
+          "pos": "CC"
+        },
+        {
+          "word": "time-scaling",
+          "lemma": "time-scaling",
+          "offsetBegin": 159,
+          "offsetEnd": 171,
+          "pos": "JJ"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 172,
+          "offsetEnd": 179,
+          "pos": "NNS"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 180,
+          "offsetEnd": 184,
+          "pos": "VBD"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 185,
+          "offsetEnd": 192,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 193,
+          "offsetEnd": 195,
+          "pos": "TO"
+        },
+        {
+          "word": "renal",
+          "lemma": "renal",
+          "offsetBegin": 196,
+          "offsetEnd": 201,
+          "pos": "JJ"
+        },
+        {
+          "word": "blood",
+          "lemma": "blood",
+          "offsetBegin": 202,
+          "offsetEnd": 207,
+          "pos": "NN"
+        },
+        {
+          "word": "flow",
+          "lemma": "flow",
+          "offsetBegin": 208,
+          "offsetEnd": 212,
+          "pos": "NN"
+        },
+        {
+          "word": "under",
+          "lemma": "under",
+          "offsetBegin": 213,
+          "offsetEnd": 218,
+          "pos": "IN"
+        },
+        {
+          "word": "broad-band",
+          "lemma": "broad-band",
+          "offsetBegin": 219,
+          "offsetEnd": 229,
+          "pos": "JJ"
+        },
+        {
+          "word": "forced",
+          "lemma": "forced",
+          "offsetBegin": 230,
+          "offsetEnd": 236,
+          "pos": "JJ"
+        },
+        {
+          "word": "arterial",
+          "lemma": "arterial",
+          "offsetBegin": 237,
+          "offsetEnd": 245,
+          "pos": "JJ"
+        },
+        {
+          "word": "blood",
+          "lemma": "blood",
+          "offsetBegin": 246,
+          "offsetEnd": 251,
+          "pos": "NN"
+        },
+        {
+          "word": "pressure",
+          "lemma": "pressure",
+          "offsetBegin": 252,
+          "offsetEnd": 260,
+          "pos": "NN"
+        },
+        {
+          "word": "fluctuations",
+          "lemma": "fluctuation",
+          "offsetBegin": 261,
+          "offsetEnd": 273,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 274,
+          "offsetEnd": 277,
+          "pos": "CC"
+        },
+        {
+          "word": "single-nephron",
+          "lemma": "single-nephron",
+          "offsetBegin": 278,
+          "offsetEnd": 292,
+          "pos": "JJ"
+        },
+        {
+          "word": "renal",
+          "lemma": "renal",
+          "offsetBegin": 293,
+          "offsetEnd": 298,
+          "pos": "JJ"
+        },
+        {
+          "word": "blood",
+          "lemma": "blood",
+          "offsetBegin": 299,
+          "offsetEnd": 304,
+          "pos": "NN"
+        },
+        {
+          "word": "flow",
+          "lemma": "flow",
+          "offsetBegin": 305,
+          "offsetEnd": 309,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 310,
+          "offsetEnd": 314,
+          "pos": "IN"
+        },
+        {
+          "word": "spontaneous",
+          "lemma": "spontaneous",
+          "offsetBegin": 315,
+          "offsetEnd": 326,
+          "pos": "JJ"
+        },
+        {
+          "word": "oscillations",
+          "lemma": "oscillation",
+          "offsetBegin": 327,
+          "offsetEnd": 339,
+          "pos": "NNS"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 340,
+          "offsetEnd": 348,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 349,
+          "offsetEnd": 353,
+          "pos": "IN"
+        },
+        {
+          "word": "normotensive",
+          "lemma": "normotensive",
+          "offsetBegin": 354,
+          "offsetEnd": 366,
+          "pos": "JJ"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 367,
+          "offsetEnd": 368,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "Sprague-Dawley",
+          "lemma": "sprague-dawley",
+          "offsetBegin": 368,
+          "offsetEnd": 382,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 382,
+          "offsetEnd": 383,
+          "pos": ","
+        },
+        {
+          "word": "Wistar",
+          "lemma": "Wistar",
+          "offsetBegin": 384,
+          "offsetEnd": 390,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 390,
+          "offsetEnd": 391,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 392,
+          "offsetEnd": 395,
+          "pos": "CC"
+        },
+        {
+          "word": "Long-Evans",
+          "lemma": "Long-Evans",
+          "offsetBegin": 396,
+          "offsetEnd": 406,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 406,
+          "offsetEnd": 407,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "rats",
+          "lemma": "rat",
+          "offsetBegin": 408,
+          "offsetEnd": 412,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 412,
+          "offsetEnd": 413,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 414,
+          "offsetEnd": 417,
+          "pos": "CC"
+        },
+        {
+          "word": "spontaneously",
+          "lemma": "spontaneously",
+          "offsetBegin": 418,
+          "offsetEnd": 431,
+          "pos": "RB"
+        },
+        {
+          "word": "hypertensive",
+          "lemma": "hypertensive",
+          "offsetBegin": 432,
+          "offsetEnd": 444,
+          "pos": "JJ"
+        },
+        {
+          "word": "rats",
+          "lemma": "rat",
+          "offsetBegin": 445,
+          "offsetEnd": 449,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 449,
+          "offsetEnd": 450,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Time-frequency",
+          "lemma": "time-frequency",
+          "offsetBegin": 451,
+          "offsetEnd": 465,
+          "pos": "NN"
+        },
+        {
+          "word": "analyses",
+          "lemma": "analysis",
+          "offsetBegin": 466,
+          "offsetEnd": 474,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 475,
+          "offsetEnd": 477,
+          "pos": "IN"
+        },
+        {
+          "word": "normotensive",
+          "lemma": "normotensive",
+          "offsetBegin": 478,
+          "offsetEnd": 490,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 491,
+          "offsetEnd": 494,
+          "pos": "CC"
+        },
+        {
+          "word": "hypertensive",
+          "lemma": "hypertensive",
+          "offsetBegin": 495,
+          "offsetEnd": 507,
+          "pos": "JJ"
+        },
+        {
+          "word": "blood",
+          "lemma": "blood",
+          "offsetBegin": 508,
+          "offsetEnd": 513,
+          "pos": "NN"
+        },
+        {
+          "word": "flow",
+          "lemma": "flow",
+          "offsetBegin": 514,
+          "offsetEnd": 518,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 519,
+          "offsetEnd": 523,
+          "pos": "NNS"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 524,
+          "offsetEnd": 532,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 533,
+          "offsetEnd": 537,
+          "pos": "IN"
+        },
+        {
+          "word": "either",
+          "lemma": "either",
+          "offsetBegin": 538,
+          "offsetEnd": 544,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 545,
+          "offsetEnd": 548,
+          "pos": "DT"
+        },
+        {
+          "word": "whole",
+          "lemma": "whole",
+          "offsetBegin": 549,
+          "offsetEnd": 554,
+          "pos": "JJ"
+        },
+        {
+          "word": "kidney",
+          "lemma": "kidney",
+          "offsetBegin": 555,
+          "offsetEnd": 561,
+          "pos": "NN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 562,
+          "offsetEnd": 564,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 565,
+          "offsetEnd": 568,
+          "pos": "DT"
+        },
+        {
+          "word": "single-nephron",
+          "lemma": "single-nephron",
+          "offsetBegin": 569,
+          "offsetEnd": 583,
+          "pos": "JJ"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 584,
+          "offsetEnd": 588,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 589,
+          "offsetEnd": 593,
+          "pos": "IN"
+        },
+        {
+          "word": "indeed",
+          "lemma": "indeed",
+          "offsetBegin": 594,
+          "offsetEnd": 600,
+          "pos": "RB"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 601,
+          "offsetEnd": 605,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 606,
+          "offsetEnd": 609,
+          "pos": "DT"
+        },
+        {
+          "word": "myogenic",
+          "lemma": "myogenic",
+          "offsetBegin": 610,
+          "offsetEnd": 618,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 619,
+          "offsetEnd": 622,
+          "pos": "CC"
+        },
+        {
+          "word": "tubuloglomerular",
+          "lemma": "tubuloglomerular",
+          "offsetBegin": 623,
+          "offsetEnd": 639,
+          "pos": "JJ"
+        },
+        {
+          "word": "feedback",
+          "lemma": "feedback",
+          "offsetBegin": 640,
+          "offsetEnd": 648,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 649,
+          "offsetEnd": 650,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "TGF",
+          "lemma": "tgf",
+          "offsetBegin": 650,
+          "offsetEnd": 653,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 653,
+          "offsetEnd": 654,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "mechanisms",
+          "lemma": "mechanism",
+          "offsetBegin": 655,
+          "offsetEnd": 665,
+          "pos": "NNS"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 666,
+          "offsetEnd": 670,
+          "pos": "VBP"
+        },
+        {
+          "word": "time-varying",
+          "lemma": "time-varying",
+          "offsetBegin": 671,
+          "offsetEnd": 683,
+          "pos": "JJ"
+        },
+        {
+          "word": "characteristics",
+          "lemma": "characteristic",
+          "offsetBegin": 684,
+          "offsetEnd": 699,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 699,
+          "offsetEnd": 700,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Furthermore",
+          "lemma": "furthermore",
+          "offsetBegin": 701,
+          "offsetEnd": 712,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 712,
+          "offsetEnd": 713,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 714,
+          "offsetEnd": 716,
+          "pos": "PRP"
+        },
+        {
+          "word": "utilized",
+          "lemma": "utilize",
+          "offsetBegin": 717,
+          "offsetEnd": 725,
+          "pos": "VBD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 726,
+          "offsetEnd": 729,
+          "pos": "DT"
+        },
+        {
+          "word": "Renyi",
+          "lemma": "Renyi",
+          "offsetBegin": 730,
+          "offsetEnd": 735,
+          "pos": "NNP"
+        },
+        {
+          "word": "entropy",
+          "lemma": "entropy",
+          "offsetBegin": 736,
+          "offsetEnd": 743,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 744,
+          "offsetEnd": 746,
+          "pos": "TO"
+        },
+        {
+          "word": "measure",
+          "lemma": "measure",
+          "offsetBegin": 747,
+          "offsetEnd": 754,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 755,
+          "offsetEnd": 758,
+          "pos": "DT"
+        },
+        {
+          "word": "complexity",
+          "lemma": "complexity",
+          "offsetBegin": 759,
+          "offsetEnd": 769,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 770,
+          "offsetEnd": 772,
+          "pos": "IN"
+        },
+        {
+          "word": "blood-flow",
+          "lemma": "blood-flow",
+          "offsetBegin": 773,
+          "offsetEnd": 783,
+          "pos": "JJ"
+        },
+        {
+          "word": "dynamics",
+          "lemma": "dynamics",
+          "offsetBegin": 784,
+          "offsetEnd": 792,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 793,
+          "offsetEnd": 795,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 796,
+          "offsetEnd": 799,
+          "pos": "DT"
+        },
+        {
+          "word": "time-frequency",
+          "lemma": "time-frequency",
+          "offsetBegin": 800,
+          "offsetEnd": 814,
+          "pos": "NN"
+        },
+        {
+          "word": "plane",
+          "lemma": "plane",
+          "offsetBegin": 815,
+          "offsetEnd": 820,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 821,
+          "offsetEnd": 823,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 824,
+          "offsetEnd": 826,
+          "pos": "DT"
+        },
+        {
+          "word": "effort",
+          "lemma": "effort",
+          "offsetBegin": 827,
+          "offsetEnd": 833,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 834,
+          "offsetEnd": 836,
+          "pos": "TO"
+        },
+        {
+          "word": "discern",
+          "lemma": "discern",
+          "offsetBegin": 837,
+          "offsetEnd": 844,
+          "pos": "VB"
+        },
+        {
+          "word": "differences",
+          "lemma": "difference",
+          "offsetBegin": 845,
+          "offsetEnd": 856,
+          "pos": "NNS"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 857,
+          "offsetEnd": 864,
+          "pos": "IN"
+        },
+        {
+          "word": "normotensive",
+          "lemma": "normotensive",
+          "offsetBegin": 865,
+          "offsetEnd": 877,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 878,
+          "offsetEnd": 881,
+          "pos": "CC"
+        },
+        {
+          "word": "hypertensive",
+          "lemma": "hypertensive",
+          "offsetBegin": 882,
+          "offsetEnd": 894,
+          "pos": "JJ"
+        },
+        {
+          "word": "recordings",
+          "lemma": "recording",
+          "offsetBegin": 895,
+          "offsetEnd": 905,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 905,
+          "offsetEnd": 906,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 907,
+          "offsetEnd": 909,
+          "pos": "PRP"
+        },
+        {
+          "word": "found",
+          "lemma": "find",
+          "offsetBegin": 910,
+          "offsetEnd": 915,
+          "pos": "VBD"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 916,
+          "offsetEnd": 917,
+          "pos": "DT"
+        },
+        {
+          "word": "clear",
+          "lemma": "clear",
+          "offsetBegin": 918,
+          "offsetEnd": 923,
+          "pos": "JJ"
+        },
+        {
+          "word": "difference",
+          "lemma": "difference",
+          "offsetBegin": 924,
+          "offsetEnd": 934,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 935,
+          "offsetEnd": 937,
+          "pos": "IN"
+        },
+        {
+          "word": "Renyi",
+          "lemma": "Renyi",
+          "offsetBegin": 938,
+          "offsetEnd": 943,
+          "pos": "NNP"
+        },
+        {
+          "word": "entropy",
+          "lemma": "entropy",
+          "offsetBegin": 944,
+          "offsetEnd": 951,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 952,
+          "offsetEnd": 959,
+          "pos": "IN"
+        },
+        {
+          "word": "normotensive",
+          "lemma": "normotensive",
+          "offsetBegin": 960,
+          "offsetEnd": 972,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 973,
+          "offsetEnd": 976,
+          "pos": "CC"
+        },
+        {
+          "word": "hypertensive",
+          "lemma": "hypertensive",
+          "offsetBegin": 977,
+          "offsetEnd": 989,
+          "pos": "JJ"
+        },
+        {
+          "word": "blood",
+          "lemma": "blood",
+          "offsetBegin": 990,
+          "offsetEnd": 995,
+          "pos": "NN"
+        },
+        {
+          "word": "flow",
+          "lemma": "flow",
+          "offsetBegin": 996,
+          "offsetEnd": 1000,
+          "pos": "NN"
+        },
+        {
+          "word": "recordings",
+          "lemma": "recording",
+          "offsetBegin": 1001,
+          "offsetEnd": 1011,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 1012,
+          "offsetEnd": 1014,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1015,
+          "offsetEnd": 1018,
+          "pos": "DT"
+        },
+        {
+          "word": "whole",
+          "lemma": "whole",
+          "offsetBegin": 1019,
+          "offsetEnd": 1024,
+          "pos": "JJ"
+        },
+        {
+          "word": "kidney",
+          "lemma": "kidney",
+          "offsetBegin": 1025,
+          "offsetEnd": 1031,
+          "pos": "NN"
+        },
+        {
+          "word": "level",
+          "lemma": "level",
+          "offsetBegin": 1032,
+          "offsetEnd": 1037,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 1038,
+          "offsetEnd": 1041,
+          "pos": "IN"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 1042,
+          "offsetEnd": 1046,
+          "pos": "DT"
+        },
+        {
+          "word": "forced",
+          "lemma": "force",
+          "offsetBegin": 1047,
+          "offsetEnd": 1053,
+          "pos": "VBN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 1054,
+          "offsetEnd": 1055,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "p",
+          "lemma": "p",
+          "offsetBegin": 1055,
+          "offsetEnd": 1056,
+          "pos": "NN"
+        },
+        {
+          "word": "\u003c",
+          "lemma": "\u003c",
+          "offsetBegin": 1057,
+          "offsetEnd": 1058,
+          "pos": "JJR"
+        },
+        {
+          "word": "0.037",
+          "lemma": "0.037",
+          "offsetBegin": 1059,
+          "offsetEnd": 1064,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 1064,
+          "offsetEnd": 1065,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1066,
+          "offsetEnd": 1069,
+          "pos": "CC"
+        },
+        {
+          "word": "spontaneous",
+          "lemma": "spontaneous",
+          "offsetBegin": 1070,
+          "offsetEnd": 1081,
+          "pos": "JJ"
+        },
+        {
+          "word": "arterial",
+          "lemma": "arterial",
+          "offsetBegin": 1082,
+          "offsetEnd": 1090,
+          "pos": "JJ"
+        },
+        {
+          "word": "pressure",
+          "lemma": "pressure",
+          "offsetBegin": 1091,
+          "offsetEnd": 1099,
+          "pos": "NN"
+        },
+        {
+          "word": "fluctuations",
+          "lemma": "fluctuation",
+          "offsetBegin": 1100,
+          "offsetEnd": 1112,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 1113,
+          "offsetEnd": 1114,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "p",
+          "lemma": "p",
+          "offsetBegin": 1114,
+          "offsetEnd": 1115,
+          "pos": "NN"
+        },
+        {
+          "word": "\u003c",
+          "lemma": "\u003c",
+          "offsetBegin": 1116,
+          "offsetEnd": 1117,
+          "pos": "JJR"
+        },
+        {
+          "word": "0.033",
+          "lemma": "0.033",
+          "offsetBegin": 1118,
+          "offsetEnd": 1123,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 1123,
+          "offsetEnd": 1124,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1124,
+          "offsetEnd": 1125,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1126,
+          "offsetEnd": 1129,
+          "pos": "CC"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 1130,
+          "offsetEnd": 1132,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1133,
+          "offsetEnd": 1136,
+          "pos": "DT"
+        },
+        {
+          "word": "single-nephron",
+          "lemma": "single-nephron",
+          "offsetBegin": 1137,
+          "offsetEnd": 1151,
+          "pos": "JJ"
+        },
+        {
+          "word": "level",
+          "lemma": "level",
+          "offsetBegin": 1152,
+          "offsetEnd": 1157,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 1158,
+          "offsetEnd": 1159,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "p",
+          "lemma": "p",
+          "offsetBegin": 1159,
+          "offsetEnd": 1160,
+          "pos": "NN"
+        },
+        {
+          "word": "\u003c",
+          "lemma": "\u003c",
+          "offsetBegin": 1161,
+          "offsetEnd": 1162,
+          "pos": "JJR"
+        },
+        {
+          "word": "0.008",
+          "lemma": "0.008",
+          "offsetBegin": 1163,
+          "offsetEnd": 1168,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 1168,
+          "offsetEnd": 1169,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1169,
+          "offsetEnd": 1170,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Especially",
+          "lemma": "especially",
+          "offsetBegin": 1171,
+          "offsetEnd": 1181,
+          "pos": "RB"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 1182,
+          "offsetEnd": 1184,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1185,
+          "offsetEnd": 1188,
+          "pos": "DT"
+        },
+        {
+          "word": "single-nephron",
+          "lemma": "single-nephron",
+          "offsetBegin": 1189,
+          "offsetEnd": 1203,
+          "pos": "JJ"
+        },
+        {
+          "word": "level",
+          "lemma": "level",
+          "offsetBegin": 1204,
+          "offsetEnd": 1209,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1209,
+          "offsetEnd": 1210,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1211,
+          "offsetEnd": 1214,
+          "pos": "DT"
+        },
+        {
+          "word": "mean",
+          "lemma": "mean",
+          "offsetBegin": 1215,
+          "offsetEnd": 1219,
+          "pos": "JJ"
+        },
+        {
+          "word": "Renyi",
+          "lemma": "Renyi",
+          "offsetBegin": 1220,
+          "offsetEnd": 1225,
+          "pos": "NNP"
+        },
+        {
+          "word": "entropy",
+          "lemma": "entropy",
+          "offsetBegin": 1226,
+          "offsetEnd": 1233,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 1234,
+          "offsetEnd": 1236,
+          "pos": "VBZ"
+        },
+        {
+          "word": "significantly",
+          "lemma": "significantly",
+          "offsetBegin": 1237,
+          "offsetEnd": 1250,
+          "pos": "RB"
+        },
+        {
+          "word": "larger",
+          "lemma": "larger",
+          "offsetBegin": 1251,
+          "offsetEnd": 1257,
+          "pos": "JJR"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 1258,
+          "offsetEnd": 1261,
+          "pos": "IN"
+        },
+        {
+          "word": "hypertensive",
+          "lemma": "hypertensive",
+          "offsetBegin": 1262,
+          "offsetEnd": 1274,
+          "pos": "JJ"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 1275,
+          "offsetEnd": 1279,
+          "pos": "IN"
+        },
+        {
+          "word": "normotensive",
+          "lemma": "normotensive",
+          "offsetBegin": 1280,
+          "offsetEnd": 1292,
+          "pos": "JJ"
+        },
+        {
+          "word": "rats",
+          "lemma": "rat",
+          "offsetBegin": 1293,
+          "offsetEnd": 1297,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1297,
+          "offsetEnd": 1298,
+          "pos": ","
+        },
+        {
+          "word": "suggesting",
+          "lemma": "suggest",
+          "offsetBegin": 1299,
+          "offsetEnd": 1309,
+          "pos": "VBG"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 1310,
+          "offsetEnd": 1314,
+          "pos": "RBR"
+        },
+        {
+          "word": "complex",
+          "lemma": "complex",
+          "offsetBegin": 1315,
+          "offsetEnd": 1322,
+          "pos": "JJ"
+        },
+        {
+          "word": "dynamics",
+          "lemma": "dynamics",
+          "offsetBegin": 1323,
+          "offsetEnd": 1331,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1332,
+          "offsetEnd": 1334,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1335,
+          "offsetEnd": 1338,
+          "pos": "DT"
+        },
+        {
+          "word": "hypertensive",
+          "lemma": "hypertensive",
+          "offsetBegin": 1339,
+          "offsetEnd": 1351,
+          "pos": "JJ"
+        },
+        {
+          "word": "condition",
+          "lemma": "condition",
+          "offsetBegin": 1352,
+          "offsetEnd": 1361,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1361,
+          "offsetEnd": 1362,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "To",
+          "lemma": "to",
+          "offsetBegin": 1363,
+          "offsetEnd": 1365,
+          "pos": "TO"
+        },
+        {
+          "word": "further",
+          "lemma": "further",
+          "offsetBegin": 1366,
+          "offsetEnd": 1373,
+          "pos": "RB"
+        },
+        {
+          "word": "evaluate",
+          "lemma": "evaluate",
+          "offsetBegin": 1374,
+          "offsetEnd": 1382,
+          "pos": "VB"
+        },
+        {
+          "word": "whether",
+          "lemma": "whether",
+          "offsetBegin": 1383,
+          "offsetEnd": 1390,
+          "pos": "IN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 1391,
+          "offsetEnd": 1393,
+          "pos": "CC"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 1394,
+          "offsetEnd": 1397,
+          "pos": "RB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1398,
+          "offsetEnd": 1401,
+          "pos": "DT"
+        },
+        {
+          "word": "separation",
+          "lemma": "separation",
+          "offsetBegin": 1402,
+          "offsetEnd": 1412,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1413,
+          "offsetEnd": 1415,
+          "pos": "IN"
+        },
+        {
+          "word": "dynamics",
+          "lemma": "dynamics",
+          "offsetBegin": 1416,
+          "offsetEnd": 1424,
+          "pos": "NNS"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 1425,
+          "offsetEnd": 1432,
+          "pos": "IN"
+        },
+        {
+          "word": "normotensive",
+          "lemma": "normotensive",
+          "offsetBegin": 1433,
+          "offsetEnd": 1445,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1446,
+          "offsetEnd": 1449,
+          "pos": "CC"
+        },
+        {
+          "word": "hypertensive",
+          "lemma": "hypertensive",
+          "offsetBegin": 1450,
+          "offsetEnd": 1462,
+          "pos": "JJ"
+        },
+        {
+          "word": "rats",
+          "lemma": "rat",
+          "offsetBegin": 1463,
+          "offsetEnd": 1467,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 1468,
+          "offsetEnd": 1470,
+          "pos": "VBZ"
+        },
+        {
+          "word": "found",
+          "lemma": "find",
+          "offsetBegin": 1471,
+          "offsetEnd": 1476,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1477,
+          "offsetEnd": 1479,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1480,
+          "offsetEnd": 1483,
+          "pos": "DT"
+        },
+        {
+          "word": "prescribed",
+          "lemma": "prescribed",
+          "offsetBegin": 1484,
+          "offsetEnd": 1494,
+          "pos": "JJ"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 1495,
+          "offsetEnd": 1504,
+          "pos": "NN"
+        },
+        {
+          "word": "ranges",
+          "lemma": "range",
+          "offsetBegin": 1505,
+          "offsetEnd": 1511,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1512,
+          "offsetEnd": 1514,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1515,
+          "offsetEnd": 1518,
+          "pos": "DT"
+        },
+        {
+          "word": "myogenic",
+          "lemma": "myogenic",
+          "offsetBegin": 1519,
+          "offsetEnd": 1527,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1528,
+          "offsetEnd": 1531,
+          "pos": "CC"
+        },
+        {
+          "word": "TGF",
+          "lemma": "tgf",
+          "offsetBegin": 1532,
+          "offsetEnd": 1535,
+          "pos": "NN"
+        },
+        {
+          "word": "mechanisms",
+          "lemma": "mechanism",
+          "offsetBegin": 1536,
+          "offsetEnd": 1546,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1546,
+          "offsetEnd": 1547,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 1548,
+          "offsetEnd": 1550,
+          "pos": "PRP"
+        },
+        {
+          "word": "employed",
+          "lemma": "employ",
+          "offsetBegin": 1551,
+          "offsetEnd": 1559,
+          "pos": "VBD"
+        },
+        {
+          "word": "multiresolution",
+          "lemma": "multiresolution",
+          "offsetBegin": 1560,
+          "offsetEnd": 1575,
+          "pos": "JJ"
+        },
+        {
+          "word": "wavelet",
+          "lemma": "wavelet",
+          "offsetBegin": 1576,
+          "offsetEnd": 1583,
+          "pos": "NN"
+        },
+        {
+          "word": "transform",
+          "lemma": "transform",
+          "offsetBegin": 1584,
+          "offsetEnd": 1593,
+          "pos": "VB"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1593,
+          "offsetEnd": 1594,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Our",
+          "lemma": "we",
+          "offsetBegin": 1595,
+          "offsetEnd": 1598,
+          "pos": "PRP$"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 1599,
+          "offsetEnd": 1607,
+          "pos": "NN"
+        },
+        {
+          "word": "revealed",
+          "lemma": "reveal",
+          "offsetBegin": 1608,
+          "offsetEnd": 1616,
+          "pos": "VBD"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 1617,
+          "offsetEnd": 1621,
+          "pos": "IN"
+        },
+        {
+          "word": "exclusively",
+          "lemma": "exclusively",
+          "offsetBegin": 1622,
+          "offsetEnd": 1633,
+          "pos": "RB"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 1634,
+          "offsetEnd": 1638,
+          "pos": "IN"
+        },
+        {
+          "word": "scale",
+          "lemma": "scale",
+          "offsetBegin": 1639,
+          "offsetEnd": 1644,
+          "pos": "NN"
+        },
+        {
+          "word": "ranges",
+          "lemma": "range",
+          "offsetBegin": 1645,
+          "offsetEnd": 1651,
+          "pos": "VBZ"
+        },
+        {
+          "word": "corresponding",
+          "lemma": "correspond",
+          "offsetBegin": 1652,
+          "offsetEnd": 1665,
+          "pos": "VBG"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1666,
+          "offsetEnd": 1668,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1669,
+          "offsetEnd": 1672,
+          "pos": "DT"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 1673,
+          "offsetEnd": 1682,
+          "pos": "NN"
+        },
+        {
+          "word": "intervals",
+          "lemma": "interval",
+          "offsetBegin": 1683,
+          "offsetEnd": 1692,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1693,
+          "offsetEnd": 1695,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1696,
+          "offsetEnd": 1699,
+          "pos": "DT"
+        },
+        {
+          "word": "myogenic",
+          "lemma": "myogenic",
+          "offsetBegin": 1700,
+          "offsetEnd": 1708,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1709,
+          "offsetEnd": 1712,
+          "pos": "CC"
+        },
+        {
+          "word": "TGF",
+          "lemma": "tgf",
+          "offsetBegin": 1713,
+          "offsetEnd": 1716,
+          "pos": "NN"
+        },
+        {
+          "word": "mechanisms",
+          "lemma": "mechanism",
+          "offsetBegin": 1717,
+          "offsetEnd": 1727,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1727,
+          "offsetEnd": 1728,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1729,
+          "offsetEnd": 1732,
+          "pos": "DT"
+        },
+        {
+          "word": "widths",
+          "lemma": "width",
+          "offsetBegin": 1733,
+          "offsetEnd": 1739,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1740,
+          "offsetEnd": 1742,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1743,
+          "offsetEnd": 1746,
+          "pos": "DT"
+        },
+        {
+          "word": "blood",
+          "lemma": "blood",
+          "offsetBegin": 1747,
+          "offsetEnd": 1752,
+          "pos": "NN"
+        },
+        {
+          "word": "flow",
+          "lemma": "flow",
+          "offsetBegin": 1753,
+          "offsetEnd": 1757,
+          "pos": "NN"
+        },
+        {
+          "word": "wavelet",
+          "lemma": "wavelet",
+          "offsetBegin": 1758,
+          "offsetEnd": 1765,
+          "pos": "NN"
+        },
+        {
+          "word": "coefficients",
+          "lemma": "coefficient",
+          "offsetBegin": 1766,
+          "offsetEnd": 1778,
+          "pos": "NNS"
+        },
+        {
+          "word": "fall",
+          "lemma": "fall",
+          "offsetBegin": 1779,
+          "offsetEnd": 1783,
+          "pos": "VBP"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 1784,
+          "offsetEnd": 1788,
+          "pos": "IN"
+        },
+        {
+          "word": "disjoint",
+          "lemma": "disjoint",
+          "offsetBegin": 1789,
+          "offsetEnd": 1797,
+          "pos": "NN"
+        },
+        {
+          "word": "sets",
+          "lemma": "set",
+          "offsetBegin": 1798,
+          "offsetEnd": 1802,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 1803,
+          "offsetEnd": 1806,
+          "pos": "IN"
+        },
+        {
+          "word": "normotensive",
+          "lemma": "normotensive",
+          "offsetBegin": 1807,
+          "offsetEnd": 1819,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1820,
+          "offsetEnd": 1823,
+          "pos": "CC"
+        },
+        {
+          "word": "hypertensive",
+          "lemma": "hypertensive",
+          "offsetBegin": 1824,
+          "offsetEnd": 1836,
+          "pos": "JJ"
+        },
+        {
+          "word": "rats",
+          "lemma": "rat",
+          "offsetBegin": 1837,
+          "offsetEnd": 1841,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1841,
+          "offsetEnd": 1842,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 1843,
+          "offsetEnd": 1846,
+          "pos": "DT"
+        },
+        {
+          "word": "separation",
+          "lemma": "separation",
+          "offsetBegin": 1847,
+          "offsetEnd": 1857,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1858,
+          "offsetEnd": 1860,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1861,
+          "offsetEnd": 1864,
+          "pos": "DT"
+        },
+        {
+          "word": "scales",
+          "lemma": "scale",
+          "offsetBegin": 1865,
+          "offsetEnd": 1871,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 1872,
+          "offsetEnd": 1874,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1875,
+          "offsetEnd": 1878,
+          "pos": "DT"
+        },
+        {
+          "word": "myogenic",
+          "lemma": "myogenic",
+          "offsetBegin": 1879,
+          "offsetEnd": 1887,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1888,
+          "offsetEnd": 1891,
+          "pos": "CC"
+        },
+        {
+          "word": "TGF",
+          "lemma": "tgf",
+          "offsetBegin": 1892,
+          "offsetEnd": 1895,
+          "pos": "NN"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 1896,
+          "offsetEnd": 1905,
+          "pos": "NN"
+        },
+        {
+          "word": "ranges",
+          "lemma": "range",
+          "offsetBegin": 1906,
+          "offsetEnd": 1912,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 1913,
+          "offsetEnd": 1915,
+          "pos": "VBZ"
+        },
+        {
+          "word": "distinct",
+          "lemma": "distinct",
+          "offsetBegin": 1916,
+          "offsetEnd": 1924,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1925,
+          "offsetEnd": 1928,
+          "pos": "CC"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 1929,
+          "offsetEnd": 1937,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 1938,
+          "offsetEnd": 1942,
+          "pos": "IN"
+        },
+        {
+          "word": "100",
+          "lemma": "100",
+          "offsetBegin": 1943,
+          "offsetEnd": 1946,
+          "pos": "CD"
+        },
+        {
+          "word": "%",
+          "lemma": "%",
+          "offsetBegin": 1946,
+          "offsetEnd": 1947,
+          "pos": "NN"
+        },
+        {
+          "word": "accuracy",
+          "lemma": "accuracy",
+          "offsetBegin": 1948,
+          "offsetEnd": 1956,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1956,
+          "offsetEnd": 1957,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "However",
+          "lemma": "however",
+          "offsetBegin": 1958,
+          "offsetEnd": 1965,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1965,
+          "offsetEnd": 1966,
+          "pos": ","
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 1967,
+          "offsetEnd": 1971,
+          "pos": "DT"
+        },
+        {
+          "word": "observation",
+          "lemma": "observation",
+          "offsetBegin": 1972,
+          "offsetEnd": 1983,
+          "pos": "NN"
+        },
+        {
+          "word": "remains",
+          "lemma": "remain",
+          "offsetBegin": 1984,
+          "offsetEnd": 1991,
+          "pos": "VBZ"
+        },
+        {
+          "word": "valid",
+          "lemma": "valid",
+          "offsetBegin": 1992,
+          "offsetEnd": 1997,
+          "pos": "JJ"
+        },
+        {
+          "word": "only",
+          "lemma": "only",
+          "offsetBegin": 1998,
+          "offsetEnd": 2002,
+          "pos": "RB"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 2003,
+          "offsetEnd": 2006,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 2007,
+          "offsetEnd": 2010,
+          "pos": "DT"
+        },
+        {
+          "word": "whole",
+          "lemma": "whole",
+          "offsetBegin": 2011,
+          "offsetEnd": 2016,
+          "pos": "JJ"
+        },
+        {
+          "word": "kidney",
+          "lemma": "kidney",
+          "offsetBegin": 2017,
+          "offsetEnd": 2023,
+          "pos": "NN"
+        },
+        {
+          "word": "blood",
+          "lemma": "blood",
+          "offsetBegin": 2024,
+          "offsetEnd": 2029,
+          "pos": "NN"
+        },
+        {
+          "word": "pressure/flow",
+          "lemma": "pressure/flow",
+          "offsetBegin": 2030,
+          "offsetEnd": 2043,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 2044,
+          "offsetEnd": 2048,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 2048,
+          "offsetEnd": 2049,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 2050,
+          "offsetEnd": 2053,
+          "pos": "DT"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 2054,
+          "offsetEnd": 2061,
+          "pos": "NNS"
+        },
+        {
+          "word": "suggest",
+          "lemma": "suggest",
+          "offsetBegin": 2062,
+          "offsetEnd": 2069,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 2070,
+          "offsetEnd": 2074,
+          "pos": "IN"
+        },
+        {
+          "word": "understanding",
+          "lemma": "understanding",
+          "offsetBegin": 2075,
+          "offsetEnd": 2088,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 2089,
+          "offsetEnd": 2091,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 2092,
+          "offsetEnd": 2095,
+          "pos": "DT"
+        },
+        {
+          "word": "time-varying",
+          "lemma": "time-varying",
+          "offsetBegin": 2096,
+          "offsetEnd": 2108,
+          "pos": "JJ"
+        },
+        {
+          "word": "properties",
+          "lemma": "property",
+          "offsetBegin": 2109,
+          "offsetEnd": 2119,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 2120,
+          "offsetEnd": 2122,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 2123,
+          "offsetEnd": 2126,
+          "pos": "DT"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 2127,
+          "offsetEnd": 2130,
+          "pos": "CD"
+        },
+        {
+          "word": "mechanisms",
+          "lemma": "mechanism",
+          "offsetBegin": 2131,
+          "offsetEnd": 2141,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 2142,
+          "offsetEnd": 2144,
+          "pos": "VBZ"
+        },
+        {
+          "word": "required",
+          "lemma": "require",
+          "offsetBegin": 2145,
+          "offsetEnd": 2153,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 2154,
+          "offsetEnd": 2157,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 2158,
+          "offsetEnd": 2159,
+          "pos": "DT"
+        },
+        {
+          "word": "complete",
+          "lemma": "complete",
+          "offsetBegin": 2160,
+          "offsetEnd": 2168,
+          "pos": "JJ"
+        },
+        {
+          "word": "description",
+          "lemma": "description",
+          "offsetBegin": 2169,
+          "offsetEnd": 2180,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 2181,
+          "offsetEnd": 2183,
+          "pos": "IN"
+        },
+        {
+          "word": "renal",
+          "lemma": "renal",
+          "offsetBegin": 2184,
+          "offsetEnd": 2189,
+          "pos": "JJ"
+        },
+        {
+          "word": "autoregulation",
+          "lemma": "autoregulation",
+          "offsetBegin": 2190,
+          "offsetEnd": 2204,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,903 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "comparison",
+          "lemma": "comparison",
+          "offsetBegin": 2,
+          "offsetEnd": 12,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 13,
+          "offsetEnd": 15,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 16,
+          "offsetEnd": 19,
+          "pos": "DT"
+        },
+        {
+          "word": "discounted",
+          "lemma": "discounted",
+          "offsetBegin": 20,
+          "offsetEnd": 30,
+          "pos": "JJ"
+        },
+        {
+          "word": "utility",
+          "lemma": "utility",
+          "offsetBegin": 31,
+          "offsetEnd": 38,
+          "pos": "NN"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 39,
+          "offsetEnd": 44,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 45,
+          "offsetEnd": 48,
+          "pos": "CC"
+        },
+        {
+          "word": "hyperbolic",
+          "lemma": "hyperbolic",
+          "offsetBegin": 49,
+          "offsetEnd": 59,
+          "pos": "JJ"
+        },
+        {
+          "word": "discounting",
+          "lemma": "discounting",
+          "offsetBegin": 60,
+          "offsetEnd": 71,
+          "pos": "NN"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 72,
+          "offsetEnd": 78,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 79,
+          "offsetEnd": 81,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 82,
+          "offsetEnd": 85,
+          "pos": "DT"
+        },
+        {
+          "word": "case",
+          "lemma": "case",
+          "offsetBegin": 86,
+          "offsetEnd": 90,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 91,
+          "offsetEnd": 93,
+          "pos": "IN"
+        },
+        {
+          "word": "social",
+          "lemma": "social",
+          "offsetBegin": 94,
+          "offsetEnd": 100,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 101,
+          "offsetEnd": 104,
+          "pos": "CC"
+        },
+        {
+          "word": "private",
+          "lemma": "private",
+          "offsetBegin": 105,
+          "offsetEnd": 112,
+          "pos": "JJ"
+        },
+        {
+          "word": "intertemporal",
+          "lemma": "intertemporal",
+          "offsetBegin": 113,
+          "offsetEnd": 126,
+          "pos": "JJ"
+        },
+        {
+          "word": "preferences",
+          "lemma": "preference",
+          "offsetBegin": 127,
+          "offsetEnd": 138,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 139,
+          "offsetEnd": 142,
+          "pos": "IN"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 143,
+          "offsetEnd": 149,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Whilst",
+          "lemma": "whilst",
+          "offsetBegin": 150,
+          "offsetEnd": 156,
+          "pos": "IN"
+        },
+        {
+          "word": "there",
+          "lemma": "there",
+          "offsetBegin": 157,
+          "offsetEnd": 162,
+          "pos": "EX"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 163,
+          "offsetEnd": 165,
+          "pos": "VBZ"
+        },
+        {
+          "word": "substantial",
+          "lemma": "substantial",
+          "offsetBegin": 166,
+          "offsetEnd": 177,
+          "pos": "JJ"
+        },
+        {
+          "word": "evidence",
+          "lemma": "evidence",
+          "offsetBegin": 178,
+          "offsetEnd": 186,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 187,
+          "offsetEnd": 191,
+          "pos": "IN"
+        },
+        {
+          "word": "hyperbolic",
+          "lemma": "hyperbolic",
+          "offsetBegin": 192,
+          "offsetEnd": 202,
+          "pos": "JJ"
+        },
+        {
+          "word": "discounting",
+          "lemma": "discounting",
+          "offsetBegin": 203,
+          "offsetEnd": 214,
+          "pos": "NN"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 215,
+          "offsetEnd": 221,
+          "pos": "NNS"
+        },
+        {
+          "word": "describe",
+          "lemma": "describe",
+          "offsetBegin": 222,
+          "offsetEnd": 230,
+          "pos": "VBP"
+        },
+        {
+          "word": "intertemporal",
+          "lemma": "intertemporal",
+          "offsetBegin": 231,
+          "offsetEnd": 244,
+          "pos": "JJ"
+        },
+        {
+          "word": "preferences",
+          "lemma": "preference",
+          "offsetBegin": 245,
+          "offsetEnd": 256,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 257,
+          "offsetEnd": 260,
+          "pos": "IN"
+        },
+        {
+          "word": "monetary",
+          "lemma": "monetary",
+          "offsetBegin": 261,
+          "offsetEnd": 269,
+          "pos": "JJ"
+        },
+        {
+          "word": "outcomes",
+          "lemma": "outcome",
+          "offsetBegin": 270,
+          "offsetEnd": 278,
+          "pos": "NNS"
+        },
+        {
+          "word": "better",
+          "lemma": "better",
+          "offsetBegin": 279,
+          "offsetEnd": 285,
+          "pos": "RBR"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 286,
+          "offsetEnd": 290,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 291,
+          "offsetEnd": 294,
+          "pos": "DT"
+        },
+        {
+          "word": "discounted",
+          "lemma": "discounted",
+          "offsetBegin": 295,
+          "offsetEnd": 305,
+          "pos": "JJ"
+        },
+        {
+          "word": "utility",
+          "lemma": "utility",
+          "offsetBegin": 306,
+          "offsetEnd": 313,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 314,
+          "offsetEnd": 315,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "DU",
+          "lemma": "du",
+          "offsetBegin": 315,
+          "offsetEnd": 317,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 317,
+          "offsetEnd": 318,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 319,
+          "offsetEnd": 324,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 324,
+          "offsetEnd": 325,
+          "pos": ","
+        },
+        {
+          "word": "there",
+          "lemma": "there",
+          "offsetBegin": 326,
+          "offsetEnd": 331,
+          "pos": "EX"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 332,
+          "offsetEnd": 334,
+          "pos": "VBZ"
+        },
+        {
+          "word": "only",
+          "lemma": "only",
+          "offsetBegin": 335,
+          "offsetEnd": 339,
+          "pos": "RB"
+        },
+        {
+          "word": "very",
+          "lemma": "very",
+          "offsetBegin": 340,
+          "offsetEnd": 344,
+          "pos": "RB"
+        },
+        {
+          "word": "limited",
+          "lemma": "limited",
+          "offsetBegin": 345,
+          "offsetEnd": 352,
+          "pos": "JJ"
+        },
+        {
+          "word": "evidence",
+          "lemma": "evidence",
+          "offsetBegin": 353,
+          "offsetEnd": 361,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 362,
+          "offsetEnd": 364,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 365,
+          "offsetEnd": 368,
+          "pos": "DT"
+        },
+        {
+          "word": "context",
+          "lemma": "context",
+          "offsetBegin": 369,
+          "offsetEnd": 376,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 377,
+          "offsetEnd": 379,
+          "pos": "IN"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 380,
+          "offsetEnd": 386,
+          "pos": "NN"
+        },
+        {
+          "word": "outcomes",
+          "lemma": "outcome",
+          "offsetBegin": 387,
+          "offsetEnd": 395,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 395,
+          "offsetEnd": 396,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 397,
+          "offsetEnd": 401,
+          "pos": "DT"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 402,
+          "offsetEnd": 407,
+          "pos": "NN"
+        },
+        {
+          "word": "elicits",
+          "lemma": "elicit",
+          "offsetBegin": 408,
+          "offsetEnd": 415,
+          "pos": "VBZ"
+        },
+        {
+          "word": "private",
+          "lemma": "private",
+          "offsetBegin": 416,
+          "offsetEnd": 423,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 424,
+          "offsetEnd": 427,
+          "pos": "CC"
+        },
+        {
+          "word": "social",
+          "lemma": "social",
+          "offsetBegin": 428,
+          "offsetEnd": 434,
+          "pos": "JJ"
+        },
+        {
+          "word": "intertemporal",
+          "lemma": "intertemporal",
+          "offsetBegin": 435,
+          "offsetEnd": 448,
+          "pos": "JJ"
+        },
+        {
+          "word": "preferences",
+          "lemma": "preference",
+          "offsetBegin": 449,
+          "offsetEnd": 460,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 461,
+          "offsetEnd": 464,
+          "pos": "IN"
+        },
+        {
+          "word": "non-fatal",
+          "lemma": "non-fatal",
+          "offsetBegin": 465,
+          "offsetEnd": 474,
+          "pos": "JJ"
+        },
+        {
+          "word": "changes",
+          "lemma": "change",
+          "offsetBegin": 475,
+          "offsetEnd": 482,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 483,
+          "offsetEnd": 485,
+          "pos": "IN"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 486,
+          "offsetEnd": 492,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 492,
+          "offsetEnd": 493,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Specific",
+          "lemma": "specific",
+          "offsetBegin": 494,
+          "offsetEnd": 502,
+          "pos": "JJ"
+        },
+        {
+          "word": "functional",
+          "lemma": "functional",
+          "offsetBegin": 503,
+          "offsetEnd": 513,
+          "pos": "JJ"
+        },
+        {
+          "word": "forms",
+          "lemma": "form",
+          "offsetBegin": 514,
+          "offsetEnd": 519,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 520,
+          "offsetEnd": 522,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 523,
+          "offsetEnd": 526,
+          "pos": "DT"
+        },
+        {
+          "word": "DU",
+          "lemma": "DU",
+          "offsetBegin": 527,
+          "offsetEnd": 529,
+          "pos": "NNP"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 530,
+          "offsetEnd": 535,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 536,
+          "offsetEnd": 539,
+          "pos": "CC"
+        },
+        {
+          "word": "three",
+          "lemma": "three",
+          "offsetBegin": 540,
+          "offsetEnd": 545,
+          "pos": "CD"
+        },
+        {
+          "word": "hyperbolic",
+          "lemma": "hyperbolic",
+          "offsetBegin": 546,
+          "offsetEnd": 556,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 557,
+          "offsetEnd": 563,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 564,
+          "offsetEnd": 567,
+          "pos": "VBP"
+        },
+        {
+          "word": "fitted",
+          "lemma": "fit",
+          "offsetBegin": 568,
+          "offsetEnd": 574,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 574,
+          "offsetEnd": 575,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 576,
+          "offsetEnd": 579,
+          "pos": "DT"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 580,
+          "offsetEnd": 587,
+          "pos": "NNS"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 588,
+          "offsetEnd": 592,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 593,
+          "offsetEnd": 597,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 598,
+          "offsetEnd": 601,
+          "pos": "DT"
+        },
+        {
+          "word": "stationarity",
+          "lemma": "stationarity",
+          "offsetBegin": 602,
+          "offsetEnd": 614,
+          "pos": "NN"
+        },
+        {
+          "word": "axiom",
+          "lemma": "axiom",
+          "offsetBegin": 615,
+          "offsetEnd": 620,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 621,
+          "offsetEnd": 623,
+          "pos": "VBZ"
+        },
+        {
+          "word": "violated",
+          "lemma": "violate",
+          "offsetBegin": 624,
+          "offsetEnd": 632,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 632,
+          "offsetEnd": 633,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 634,
+          "offsetEnd": 637,
+          "pos": "CC"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 638,
+          "offsetEnd": 642,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 643,
+          "offsetEnd": 646,
+          "pos": "DT"
+        },
+        {
+          "word": "hyperbolic",
+          "lemma": "hyperbolic",
+          "offsetBegin": 647,
+          "offsetEnd": 657,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 658,
+          "offsetEnd": 664,
+          "pos": "NNS"
+        },
+        {
+          "word": "fit",
+          "lemma": "fit",
+          "offsetBegin": 665,
+          "offsetEnd": 668,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 669,
+          "offsetEnd": 672,
+          "pos": "DT"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 673,
+          "offsetEnd": 677,
+          "pos": "NNS"
+        },
+        {
+          "word": "better",
+          "lemma": "better",
+          "offsetBegin": 678,
+          "offsetEnd": 684,
+          "pos": "JJR"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 685,
+          "offsetEnd": 689,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 690,
+          "offsetEnd": 693,
+          "pos": "DT"
+        },
+        {
+          "word": "DU",
+          "lemma": "DU",
+          "offsetBegin": 694,
+          "offsetEnd": 696,
+          "pos": "NNP"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 697,
+          "offsetEnd": 702,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 702,
+          "offsetEnd": 703,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Intertemporal",
+          "lemma": "intertemporal",
+          "offsetBegin": 704,
+          "offsetEnd": 717,
+          "pos": "JJ"
+        },
+        {
+          "word": "preferences",
+          "lemma": "preference",
+          "offsetBegin": 718,
+          "offsetEnd": 729,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 730,
+          "offsetEnd": 733,
+          "pos": "IN"
+        },
+        {
+          "word": "private",
+          "lemma": "private",
+          "offsetBegin": 734,
+          "offsetEnd": 741,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 742,
+          "offsetEnd": 745,
+          "pos": "CC"
+        },
+        {
+          "word": "social",
+          "lemma": "social",
+          "offsetBegin": 746,
+          "offsetEnd": 752,
+          "pos": "JJ"
+        },
+        {
+          "word": "decisions",
+          "lemma": "decision",
+          "offsetBegin": 753,
+          "offsetEnd": 762,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 763,
+          "offsetEnd": 766,
+          "pos": "VBP"
+        },
+        {
+          "word": "found",
+          "lemma": "find",
+          "offsetBegin": 767,
+          "offsetEnd": 772,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 773,
+          "offsetEnd": 775,
+          "pos": "TO"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 776,
+          "offsetEnd": 778,
+          "pos": "VB"
+        },
+        {
+          "word": "very",
+          "lemma": "very",
+          "offsetBegin": 779,
+          "offsetEnd": 783,
+          "pos": "RB"
+        },
+        {
+          "word": "similar",
+          "lemma": "similar",
+          "offsetBegin": 784,
+          "offsetEnd": 791,
+          "pos": "JJ"
+        }
+      ]
+    }
+  ]
+}

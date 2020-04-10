@@ -1,0 +1,461 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Option",
+          "lemma": "option",
+          "offsetBegin": 0,
+          "offsetEnd": 6,
+          "pos": "NN"
+        },
+        {
+          "word": "pricing",
+          "lemma": "pricing",
+          "offsetBegin": 7,
+          "offsetEnd": 14,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 15,
+          "offsetEnd": 19,
+          "pos": "IN"
+        },
+        {
+          "word": "path",
+          "lemma": "path",
+          "offsetBegin": 20,
+          "offsetEnd": 24,
+          "pos": "NN"
+        },
+        {
+          "word": "integral",
+          "lemma": "integral",
+          "offsetBegin": 25,
+          "offsetEnd": 33,
+          "pos": "JJ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 34,
+          "offsetEnd": 37,
+          "pos": "IN"
+        },
+        {
+          "word": "non-Gaussian",
+          "lemma": "non-gaussian",
+          "offsetBegin": 38,
+          "offsetEnd": 50,
+          "pos": "JJ"
+        },
+        {
+          "word": "fluctuations",
+          "lemma": "fluctuation",
+          "offsetBegin": 51,
+          "offsetEnd": 63,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 63,
+          "offsetEnd": 64,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Natural",
+          "lemma": "natural",
+          "offsetBegin": 65,
+          "offsetEnd": 72,
+          "pos": "JJ"
+        },
+        {
+          "word": "martingale",
+          "lemma": "martingale",
+          "offsetBegin": 73,
+          "offsetEnd": 83,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 84,
+          "offsetEnd": 87,
+          "pos": "CC"
+        },
+        {
+          "word": "application",
+          "lemma": "application",
+          "offsetBegin": 88,
+          "offsetEnd": 99,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 100,
+          "offsetEnd": 102,
+          "pos": "TO"
+        },
+        {
+          "word": "truncated",
+          "lemma": "truncate",
+          "offsetBegin": 103,
+          "offsetEnd": 112,
+          "pos": "VBN"
+        },
+        {
+          "word": "Levy",
+          "lemma": "Levy",
+          "offsetBegin": 113,
+          "offsetEnd": 117,
+          "pos": "NNP"
+        },
+        {
+          "word": "distributions",
+          "lemma": "distribution",
+          "offsetBegin": 118,
+          "offsetEnd": 131,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Within",
+          "lemma": "within",
+          "offsetBegin": 132,
+          "offsetEnd": 138,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 139,
+          "offsetEnd": 140,
+          "pos": "DT"
+        },
+        {
+          "word": "path",
+          "lemma": "path",
+          "offsetBegin": 141,
+          "offsetEnd": 145,
+          "pos": "NN"
+        },
+        {
+          "word": "integral",
+          "lemma": "integral",
+          "offsetBegin": 146,
+          "offsetEnd": 154,
+          "pos": "JJ"
+        },
+        {
+          "word": "formalism",
+          "lemma": "formalism",
+          "offsetBegin": 155,
+          "offsetEnd": 164,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 165,
+          "offsetEnd": 168,
+          "pos": "IN"
+        },
+        {
+          "word": "non-Gaussian",
+          "lemma": "non-gaussian",
+          "offsetBegin": 169,
+          "offsetEnd": 181,
+          "pos": "JJ"
+        },
+        {
+          "word": "price",
+          "lemma": "price",
+          "offsetBegin": 182,
+          "offsetEnd": 187,
+          "pos": "NN"
+        },
+        {
+          "word": "fluctuations",
+          "lemma": "fluctuation",
+          "offsetBegin": 188,
+          "offsetEnd": 200,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 200,
+          "offsetEnd": 201,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 202,
+          "offsetEnd": 204,
+          "pos": "PRP"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 205,
+          "offsetEnd": 208,
+          "pos": "VBD"
+        },
+        {
+          "word": "up",
+          "lemma": "up",
+          "offsetBegin": 209,
+          "offsetEnd": 211,
+          "pos": "RP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 212,
+          "offsetEnd": 213,
+          "pos": "DT"
+        },
+        {
+          "word": "simple",
+          "lemma": "simple",
+          "offsetBegin": 214,
+          "offsetEnd": 220,
+          "pos": "JJ"
+        },
+        {
+          "word": "stochastic",
+          "lemma": "stochastic",
+          "offsetBegin": 221,
+          "offsetEnd": 231,
+          "pos": "JJ"
+        },
+        {
+          "word": "calculus",
+          "lemma": "calculus",
+          "offsetBegin": 232,
+          "offsetEnd": 240,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 241,
+          "offsetEnd": 244,
+          "pos": "CC"
+        },
+        {
+          "word": "derive",
+          "lemma": "derive",
+          "offsetBegin": 245,
+          "offsetEnd": 251,
+          "pos": "VB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 252,
+          "offsetEnd": 253,
+          "pos": "DT"
+        },
+        {
+          "word": "natural",
+          "lemma": "natural",
+          "offsetBegin": 254,
+          "offsetEnd": 261,
+          "pos": "JJ"
+        },
+        {
+          "word": "martingale",
+          "lemma": "martingale",
+          "offsetBegin": 262,
+          "offsetEnd": 272,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 273,
+          "offsetEnd": 276,
+          "pos": "IN"
+        },
+        {
+          "word": "option",
+          "lemma": "option",
+          "offsetBegin": 277,
+          "offsetEnd": 283,
+          "pos": "NN"
+        },
+        {
+          "word": "pricing",
+          "lemma": "pricing",
+          "offsetBegin": 284,
+          "offsetEnd": 291,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 292,
+          "offsetEnd": 296,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 297,
+          "offsetEnd": 300,
+          "pos": "DT"
+        },
+        {
+          "word": "wealth",
+          "lemma": "wealth",
+          "offsetBegin": 301,
+          "offsetEnd": 307,
+          "pos": "NN"
+        },
+        {
+          "word": "balance",
+          "lemma": "balance",
+          "offsetBegin": 308,
+          "offsetEnd": 315,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 316,
+          "offsetEnd": 318,
+          "pos": "IN"
+        },
+        {
+          "word": "options",
+          "lemma": "option",
+          "offsetBegin": 319,
+          "offsetEnd": 326,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 326,
+          "offsetEnd": 327,
+          "pos": ","
+        },
+        {
+          "word": "stocks",
+          "lemma": "stock",
+          "offsetBegin": 328,
+          "offsetEnd": 334,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 334,
+          "offsetEnd": 335,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 336,
+          "offsetEnd": 339,
+          "pos": "CC"
+        },
+        {
+          "word": "bonds",
+          "lemma": "bond",
+          "offsetBegin": 340,
+          "offsetEnd": 345,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 345,
+          "offsetEnd": 346,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 347,
+          "offsetEnd": 350,
+          "pos": "DT"
+        },
+        {
+          "word": "resulting",
+          "lemma": "result",
+          "offsetBegin": 351,
+          "offsetEnd": 360,
+          "pos": "VBG"
+        },
+        {
+          "word": "formula",
+          "lemma": "formula",
+          "offsetBegin": 361,
+          "offsetEnd": 368,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 369,
+          "offsetEnd": 371,
+          "pos": "VBZ"
+        },
+        {
+          "word": "evaluated",
+          "lemma": "evaluate",
+          "offsetBegin": 372,
+          "offsetEnd": 381,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 382,
+          "offsetEnd": 385,
+          "pos": "IN"
+        },
+        {
+          "word": "truncated",
+          "lemma": "truncate",
+          "offsetBegin": 386,
+          "offsetEnd": 395,
+          "pos": "VBN"
+        },
+        {
+          "word": "Levy",
+          "lemma": "Levy",
+          "offsetBegin": 396,
+          "offsetEnd": 400,
+          "pos": "NNP"
+        },
+        {
+          "word": "distributions",
+          "lemma": "distribution",
+          "offsetBegin": 401,
+          "offsetEnd": 414,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1675 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "State-of-the-art",
+          "lemma": "state-of-the-art",
+          "offsetBegin": 0,
+          "offsetEnd": 16,
+          "pos": "JJ"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 17,
+          "offsetEnd": 19,
+          "pos": "IN"
+        },
+        {
+          "word": "orthopaedic",
+          "lemma": "orthopaedic",
+          "offsetBegin": 20,
+          "offsetEnd": 31,
+          "pos": "JJ"
+        },
+        {
+          "word": "surgical",
+          "lemma": "surgical",
+          "offsetBegin": 32,
+          "offsetEnd": 40,
+          "pos": "JJ"
+        },
+        {
+          "word": "navigation",
+          "lemma": "navigation",
+          "offsetBegin": 41,
+          "offsetEnd": 51,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 52,
+          "offsetEnd": 56,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 57,
+          "offsetEnd": 58,
+          "pos": "DT"
+        },
+        {
+          "word": "focus",
+          "lemma": "focus",
+          "offsetBegin": 59,
+          "offsetEnd": 64,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 65,
+          "offsetEnd": 67,
+          "pos": "IN"
+        },
+        {
+          "word": "medical",
+          "lemma": "medical",
+          "offsetBegin": 68,
+          "offsetEnd": 75,
+          "pos": "JJ"
+        },
+        {
+          "word": "image",
+          "lemma": "image",
+          "offsetBegin": 76,
+          "offsetEnd": 81,
+          "pos": "NN"
+        },
+        {
+          "word": "modalities",
+          "lemma": "modality",
+          "offsetBegin": 82,
+          "offsetEnd": 92,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 93,
+          "offsetEnd": 97,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 98,
+          "offsetEnd": 103,
+          "pos": "NN"
+        },
+        {
+          "word": "presents",
+          "lemma": "present",
+          "offsetBegin": 104,
+          "offsetEnd": 112,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 113,
+          "offsetEnd": 114,
+          "pos": "DT"
+        },
+        {
+          "word": "review",
+          "lemma": "review",
+          "offsetBegin": 115,
+          "offsetEnd": 121,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 122,
+          "offsetEnd": 124,
+          "pos": "IN"
+        },
+        {
+          "word": "surgical",
+          "lemma": "surgical",
+          "offsetBegin": 125,
+          "offsetEnd": 133,
+          "pos": "JJ"
+        },
+        {
+          "word": "navigation",
+          "lemma": "navigation",
+          "offsetBegin": 134,
+          "offsetEnd": 144,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 145,
+          "offsetEnd": 152,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 153,
+          "offsetEnd": 155,
+          "pos": "IN"
+        },
+        {
+          "word": "orthopaedics",
+          "lemma": "orthopaedics",
+          "offsetBegin": 156,
+          "offsetEnd": 168,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 169,
+          "offsetEnd": 172,
+          "pos": "CC"
+        },
+        {
+          "word": "categorizes",
+          "lemma": "categorize",
+          "offsetBegin": 173,
+          "offsetEnd": 184,
+          "pos": "VBZ"
+        },
+        {
+          "word": "these",
+          "lemma": "these",
+          "offsetBegin": 185,
+          "offsetEnd": 190,
+          "pos": "DT"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 191,
+          "offsetEnd": 198,
+          "pos": "NNS"
+        },
+        {
+          "word": "according",
+          "lemma": "accord",
+          "offsetBegin": 199,
+          "offsetEnd": 208,
+          "pos": "VBG"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 209,
+          "offsetEnd": 211,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 212,
+          "offsetEnd": 215,
+          "pos": "DT"
+        },
+        {
+          "word": "image",
+          "lemma": "image",
+          "offsetBegin": 216,
+          "offsetEnd": 221,
+          "pos": "NN"
+        },
+        {
+          "word": "modalities",
+          "lemma": "modality",
+          "offsetBegin": 222,
+          "offsetEnd": 232,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 233,
+          "offsetEnd": 237,
+          "pos": "WDT"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 238,
+          "offsetEnd": 241,
+          "pos": "VBP"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 242,
+          "offsetEnd": 246,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 247,
+          "offsetEnd": 250,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 251,
+          "offsetEnd": 254,
+          "pos": "DT"
+        },
+        {
+          "word": "visualization",
+          "lemma": "visualization",
+          "offsetBegin": 255,
+          "offsetEnd": 268,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 269,
+          "offsetEnd": 271,
+          "pos": "IN"
+        },
+        {
+          "word": "surgical",
+          "lemma": "surgical",
+          "offsetBegin": 272,
+          "offsetEnd": 280,
+          "pos": "JJ"
+        },
+        {
+          "word": "action",
+          "lemma": "action",
+          "offsetBegin": 281,
+          "offsetEnd": 287,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 287,
+          "offsetEnd": 288,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Medical",
+          "lemma": "medical",
+          "offsetBegin": 289,
+          "offsetEnd": 296,
+          "pos": "JJ"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 297,
+          "offsetEnd": 303,
+          "pos": "NNS"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 304,
+          "offsetEnd": 308,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 309,
+          "offsetEnd": 311,
+          "pos": "TO"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 312,
+          "offsetEnd": 314,
+          "pos": "VB"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 315,
+          "offsetEnd": 317,
+          "pos": "DT"
+        },
+        {
+          "word": "essential",
+          "lemma": "essential",
+          "offsetBegin": 318,
+          "offsetEnd": 327,
+          "pos": "JJ"
+        },
+        {
+          "word": "part",
+          "lemma": "part",
+          "offsetBegin": 328,
+          "offsetEnd": 332,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 333,
+          "offsetEnd": 335,
+          "pos": "IN"
+        },
+        {
+          "word": "surgical",
+          "lemma": "surgical",
+          "offsetBegin": 336,
+          "offsetEnd": 344,
+          "pos": "JJ"
+        },
+        {
+          "word": "education",
+          "lemma": "education",
+          "offsetBegin": 345,
+          "offsetEnd": 354,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 355,
+          "offsetEnd": 358,
+          "pos": "CC"
+        },
+        {
+          "word": "documentation",
+          "lemma": "documentation",
+          "offsetBegin": 359,
+          "offsetEnd": 372,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 373,
+          "offsetEnd": 375,
+          "pos": "RB"
+        },
+        {
+          "word": "well",
+          "lemma": "well",
+          "offsetBegin": 376,
+          "offsetEnd": 380,
+          "pos": "RB"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 381,
+          "offsetEnd": 383,
+          "pos": "IN"
+        },
+        {
+          "word": "diagnosis",
+          "lemma": "diagnosis",
+          "offsetBegin": 384,
+          "offsetEnd": 393,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 394,
+          "offsetEnd": 397,
+          "pos": "CC"
+        },
+        {
+          "word": "operation",
+          "lemma": "operation",
+          "offsetBegin": 398,
+          "offsetEnd": 407,
+          "pos": "NN"
+        },
+        {
+          "word": "planning",
+          "lemma": "planning",
+          "offsetBegin": 408,
+          "offsetEnd": 416,
+          "pos": "NN"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 417,
+          "offsetEnd": 421,
+          "pos": "IN"
+        },
+        {
+          "word": "many",
+          "lemma": "many",
+          "offsetBegin": 422,
+          "offsetEnd": 426,
+          "pos": "JJ"
+        },
+        {
+          "word": "years",
+          "lemma": "year",
+          "offsetBegin": 427,
+          "offsetEnd": 432,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 432,
+          "offsetEnd": 433,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "With",
+          "lemma": "with",
+          "offsetBegin": 434,
+          "offsetEnd": 438,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 439,
+          "offsetEnd": 442,
+          "pos": "DT"
+        },
+        {
+          "word": "recent",
+          "lemma": "recent",
+          "offsetBegin": 443,
+          "offsetEnd": 449,
+          "pos": "JJ"
+        },
+        {
+          "word": "introduction",
+          "lemma": "introduction",
+          "offsetBegin": 450,
+          "offsetEnd": 462,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 463,
+          "offsetEnd": 465,
+          "pos": "IN"
+        },
+        {
+          "word": "navigation",
+          "lemma": "navigation",
+          "offsetBegin": 466,
+          "offsetEnd": 476,
+          "pos": "NN"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 477,
+          "offsetEnd": 487,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 488,
+          "offsetEnd": 490,
+          "pos": "IN"
+        },
+        {
+          "word": "orthopaedic",
+          "lemma": "orthopaedic",
+          "offsetBegin": 491,
+          "offsetEnd": 502,
+          "pos": "JJ"
+        },
+        {
+          "word": "surgery",
+          "lemma": "surgery",
+          "offsetBegin": 503,
+          "offsetEnd": 510,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 510,
+          "offsetEnd": 511,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 512,
+          "offsetEnd": 513,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 514,
+          "offsetEnd": 517,
+          "pos": "JJ"
+        },
+        {
+          "word": "field",
+          "lemma": "field",
+          "offsetBegin": 518,
+          "offsetEnd": 523,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 524,
+          "offsetEnd": 526,
+          "pos": "IN"
+        },
+        {
+          "word": "application",
+          "lemma": "application",
+          "offsetBegin": 527,
+          "offsetEnd": 538,
+          "pos": "NN"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 539,
+          "offsetEnd": 542,
+          "pos": "VBZ"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 543,
+          "offsetEnd": 547,
+          "pos": "VBN"
+        },
+        {
+          "word": "opened",
+          "lemma": "open",
+          "offsetBegin": 548,
+          "offsetEnd": 554,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 554,
+          "offsetEnd": 555,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Today",
+          "lemma": "today",
+          "offsetBegin": 556,
+          "offsetEnd": 561,
+          "pos": "NN"
+        },
+        {
+          "word": "surgical",
+          "lemma": "surgical",
+          "offsetBegin": 562,
+          "offsetEnd": 570,
+          "pos": "JJ"
+        },
+        {
+          "word": "navigation",
+          "lemma": "navigation",
+          "offsetBegin": 571,
+          "offsetEnd": 581,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 582,
+          "offsetEnd": 589,
+          "pos": "NNS"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 590,
+          "offsetEnd": 591,
+          "pos": ":"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 592,
+          "offsetEnd": 596,
+          "pos": "RB"
+        },
+        {
+          "word": "known",
+          "lemma": "know",
+          "offsetBegin": 597,
+          "offsetEnd": 602,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 603,
+          "offsetEnd": 605,
+          "pos": "IN"
+        },
+        {
+          "word": "image-guided",
+          "lemma": "image-guided",
+          "offsetBegin": 606,
+          "offsetEnd": 618,
+          "pos": "JJ"
+        },
+        {
+          "word": "surgery",
+          "lemma": "surgery",
+          "offsetBegin": 619,
+          "offsetEnd": 626,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 627,
+          "offsetEnd": 634,
+          "pos": "NNS"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 635,
+          "offsetEnd": 636,
+          "pos": ":"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 637,
+          "offsetEnd": 640,
+          "pos": "VBP"
+        },
+        {
+          "word": "available",
+          "lemma": "available",
+          "offsetBegin": 641,
+          "offsetEnd": 650,
+          "pos": "JJ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 651,
+          "offsetEnd": 654,
+          "pos": "IN"
+        },
+        {
+          "word": "various",
+          "lemma": "various",
+          "offsetBegin": 655,
+          "offsetEnd": 662,
+          "pos": "JJ"
+        },
+        {
+          "word": "applications",
+          "lemma": "application",
+          "offsetBegin": 663,
+          "offsetEnd": 675,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 676,
+          "offsetEnd": 678,
+          "pos": "IN"
+        },
+        {
+          "word": "orthopaedic",
+          "lemma": "orthopaedic",
+          "offsetBegin": 679,
+          "offsetEnd": 690,
+          "pos": "JJ"
+        },
+        {
+          "word": "surgery",
+          "lemma": "surgery",
+          "offsetBegin": 691,
+          "offsetEnd": 698,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 698,
+          "offsetEnd": 699,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "They",
+          "lemma": "they",
+          "offsetBegin": 700,
+          "offsetEnd": 704,
+          "pos": "PRP"
+        },
+        {
+          "word": "visualize",
+          "lemma": "visualize",
+          "offsetBegin": 705,
+          "offsetEnd": 714,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 715,
+          "offsetEnd": 718,
+          "pos": "DT"
+        },
+        {
+          "word": "position",
+          "lemma": "position",
+          "offsetBegin": 719,
+          "offsetEnd": 727,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 728,
+          "offsetEnd": 731,
+          "pos": "CC"
+        },
+        {
+          "word": "orientation",
+          "lemma": "orientation",
+          "offsetBegin": 732,
+          "offsetEnd": 743,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 744,
+          "offsetEnd": 746,
+          "pos": "IN"
+        },
+        {
+          "word": "surgical",
+          "lemma": "surgical",
+          "offsetBegin": 747,
+          "offsetEnd": 755,
+          "pos": "JJ"
+        },
+        {
+          "word": "instruments",
+          "lemma": "instrument",
+          "offsetBegin": 756,
+          "offsetEnd": 767,
+          "pos": "NNS"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 768,
+          "offsetEnd": 770,
+          "pos": "IN"
+        },
+        {
+          "word": "graphical",
+          "lemma": "graphical",
+          "offsetBegin": 771,
+          "offsetEnd": 780,
+          "pos": "JJ"
+        },
+        {
+          "word": "overlays",
+          "lemma": "overlay",
+          "offsetBegin": 781,
+          "offsetEnd": 789,
+          "pos": "NNS"
+        },
+        {
+          "word": "onto",
+          "lemma": "onto",
+          "offsetBegin": 790,
+          "offsetEnd": 794,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 795,
+          "offsetEnd": 796,
+          "pos": "DT"
+        },
+        {
+          "word": "medical",
+          "lemma": "medical",
+          "offsetBegin": 797,
+          "offsetEnd": 804,
+          "pos": "JJ"
+        },
+        {
+          "word": "image",
+          "lemma": "image",
+          "offsetBegin": 805,
+          "offsetEnd": 810,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 811,
+          "offsetEnd": 813,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 814,
+          "offsetEnd": 817,
+          "pos": "DT"
+        },
+        {
+          "word": "operated",
+          "lemma": "operate",
+          "offsetBegin": 818,
+          "offsetEnd": 826,
+          "pos": "VBN"
+        },
+        {
+          "word": "anatomy",
+          "lemma": "anatomy",
+          "offsetBegin": 827,
+          "offsetEnd": 834,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 835,
+          "offsetEnd": 837,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 838,
+          "offsetEnd": 839,
+          "pos": "DT"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 840,
+          "offsetEnd": 848,
+          "pos": "NN"
+        },
+        {
+          "word": "monitor",
+          "lemma": "monitor",
+          "offsetBegin": 849,
+          "offsetEnd": 856,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 856,
+          "offsetEnd": 857,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Preoperative",
+          "lemma": "preoperative",
+          "offsetBegin": 858,
+          "offsetEnd": 870,
+          "pos": "JJ"
+        },
+        {
+          "word": "image",
+          "lemma": "image",
+          "offsetBegin": 871,
+          "offsetEnd": 876,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 877,
+          "offsetEnd": 881,
+          "pos": "NNS"
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "offsetBegin": 882,
+          "offsetEnd": 886,
+          "pos": "JJ"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 887,
+          "offsetEnd": 889,
+          "pos": "IN"
+        },
+        {
+          "word": "computed",
+          "lemma": "computed",
+          "offsetBegin": 890,
+          "offsetEnd": 898,
+          "pos": "JJ"
+        },
+        {
+          "word": "tomography",
+          "lemma": "tomography",
+          "offsetBegin": 899,
+          "offsetEnd": 909,
+          "pos": "NN"
+        },
+        {
+          "word": "scans",
+          "lemma": "scan",
+          "offsetBegin": 910,
+          "offsetEnd": 915,
+          "pos": "NNS"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 916,
+          "offsetEnd": 918,
+          "pos": "CC"
+        },
+        {
+          "word": "intra",
+          "lemma": "intra",
+          "offsetBegin": 919,
+          "offsetEnd": 924,
+          "pos": "JJ"
+        },
+        {
+          "word": "operatively",
+          "lemma": "operatively",
+          "offsetBegin": 925,
+          "offsetEnd": 936,
+          "pos": "RB"
+        },
+        {
+          "word": "generated",
+          "lemma": "generate",
+          "offsetBegin": 937,
+          "offsetEnd": 946,
+          "pos": "VBN"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 947,
+          "offsetEnd": 953,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 954,
+          "offsetEnd": 955,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 955,
+          "offsetEnd": 958,
+          "pos": "IN"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 959,
+          "offsetEnd": 966,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 966,
+          "offsetEnd": 967,
+          "pos": ","
+        },
+        {
+          "word": "ultrasonic",
+          "lemma": "ultrasonic",
+          "offsetBegin": 968,
+          "offsetEnd": 978,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 978,
+          "offsetEnd": 979,
+          "pos": ","
+        },
+        {
+          "word": "endoscopic",
+          "lemma": "endoscopic",
+          "offsetBegin": 980,
+          "offsetEnd": 990,
+          "pos": "JJ"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 991,
+          "offsetEnd": 993,
+          "pos": "CC"
+        },
+        {
+          "word": "fluoroscopic",
+          "lemma": "fluoroscopic",
+          "offsetBegin": 994,
+          "offsetEnd": 1006,
+          "pos": "JJ"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 1007,
+          "offsetEnd": 1013,
+          "pos": "NNS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 1013,
+          "offsetEnd": 1014,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 1015,
+          "offsetEnd": 1018,
+          "pos": "VBP"
+        },
+        {
+          "word": "suitable",
+          "lemma": "suitable",
+          "offsetBegin": 1019,
+          "offsetEnd": 1027,
+          "pos": "JJ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 1028,
+          "offsetEnd": 1031,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 1032,
+          "offsetEnd": 1036,
+          "pos": "DT"
+        },
+        {
+          "word": "purpose",
+          "lemma": "purpose",
+          "offsetBegin": 1037,
+          "offsetEnd": 1044,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1044,
+          "offsetEnd": 1045,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 1046,
+          "offsetEnd": 1047,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 1048,
+          "offsetEnd": 1051,
+          "pos": "JJ"
+        },
+        {
+          "word": "category",
+          "lemma": "category",
+          "offsetBegin": 1052,
+          "offsetEnd": 1060,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1061,
+          "offsetEnd": 1063,
+          "pos": "IN"
+        },
+        {
+          "word": "medical",
+          "lemma": "medical",
+          "offsetBegin": 1064,
+          "offsetEnd": 1071,
+          "pos": "JJ"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 1072,
+          "offsetEnd": 1078,
+          "pos": "NNS"
+        },
+        {
+          "word": "termed",
+          "lemma": "term",
+          "offsetBegin": 1079,
+          "offsetEnd": 1085,
+          "pos": "VBN"
+        },
+        {
+          "word": "`",
+          "lemma": "`",
+          "offsetBegin": 1086,
+          "offsetEnd": 1087,
+          "pos": "``"
+        },
+        {
+          "word": "surgeon-defined",
+          "lemma": "surgeon-defined",
+          "offsetBegin": 1087,
+          "offsetEnd": 1102,
+          "pos": "JJ"
+        },
+        {
+          "word": "anatomy",
+          "lemma": "anatomy",
+          "offsetBegin": 1103,
+          "offsetEnd": 1110,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027",
+          "lemma": "\u0027",
+          "offsetBegin": 1110,
+          "offsetEnd": 1111,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 1112,
+          "offsetEnd": 1115,
+          "pos": "VBZ"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 1116,
+          "offsetEnd": 1120,
+          "pos": "VBN"
+        },
+        {
+          "word": "developed",
+          "lemma": "develop",
+          "offsetBegin": 1121,
+          "offsetEnd": 1130,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 1131,
+          "offsetEnd": 1135,
+          "pos": "IN"
+        },
+        {
+          "word": "exclusively",
+          "lemma": "exclusively",
+          "offsetBegin": 1136,
+          "offsetEnd": 1147,
+          "pos": "RB"
+        },
+        {
+          "word": "relies",
+          "lemma": "rely",
+          "offsetBegin": 1148,
+          "offsetEnd": 1154,
+          "pos": "VBZ"
+        },
+        {
+          "word": "upon",
+          "lemma": "upon",
+          "offsetBegin": 1155,
+          "offsetEnd": 1159,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1160,
+          "offsetEnd": 1163,
+          "pos": "DT"
+        },
+        {
+          "word": "usage",
+          "lemma": "usage",
+          "offsetBegin": 1164,
+          "offsetEnd": 1169,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1170,
+          "offsetEnd": 1172,
+          "pos": "IN"
+        },
+        {
+          "word": "navigation",
+          "lemma": "navigation",
+          "offsetBegin": 1173,
+          "offsetEnd": 1183,
+          "pos": "NN"
+        },
+        {
+          "word": "technology",
+          "lemma": "technology",
+          "offsetBegin": 1184,
+          "offsetEnd": 1194,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1194,
+          "offsetEnd": 1195,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Points",
+          "lemma": "point",
+          "offsetBegin": 1196,
+          "offsetEnd": 1202,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 1203,
+          "offsetEnd": 1205,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1206,
+          "offsetEnd": 1209,
+          "pos": "DT"
+        },
+        {
+          "word": "anatomy",
+          "lemma": "anatomy",
+          "offsetBegin": 1210,
+          "offsetEnd": 1217,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 1218,
+          "offsetEnd": 1221,
+          "pos": "VBP"
+        },
+        {
+          "word": "digitized",
+          "lemma": "digitize",
+          "offsetBegin": 1222,
+          "offsetEnd": 1231,
+          "pos": "VBN"
+        },
+        {
+          "word": "interactively",
+          "lemma": "interactively",
+          "offsetBegin": 1232,
+          "offsetEnd": 1245,
+          "pos": "RB"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 1246,
+          "offsetEnd": 1248,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1249,
+          "offsetEnd": 1252,
+          "pos": "DT"
+        },
+        {
+          "word": "surgeon",
+          "lemma": "surgeon",
+          "offsetBegin": 1253,
+          "offsetEnd": 1260,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1261,
+          "offsetEnd": 1264,
+          "pos": "CC"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 1265,
+          "offsetEnd": 1268,
+          "pos": "VBP"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 1269,
+          "offsetEnd": 1273,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1274,
+          "offsetEnd": 1276,
+          "pos": "TO"
+        },
+        {
+          "word": "build",
+          "lemma": "build",
+          "offsetBegin": 1277,
+          "offsetEnd": 1282,
+          "pos": "VB"
+        },
+        {
+          "word": "up",
+          "lemma": "up",
+          "offsetBegin": 1283,
+          "offsetEnd": 1285,
+          "pos": "RP"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 1286,
+          "offsetEnd": 1288,
+          "pos": "DT"
+        },
+        {
+          "word": "abstract",
+          "lemma": "abstract",
+          "offsetBegin": 1289,
+          "offsetEnd": 1297,
+          "pos": "JJ"
+        },
+        {
+          "word": "geometrical",
+          "lemma": "geometrical",
+          "offsetBegin": 1298,
+          "offsetEnd": 1309,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 1310,
+          "offsetEnd": 1315,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1316,
+          "offsetEnd": 1318,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1319,
+          "offsetEnd": 1322,
+          "pos": "DT"
+        },
+        {
+          "word": "bony",
+          "lemma": "bony",
+          "offsetBegin": 1323,
+          "offsetEnd": 1327,
+          "pos": "JJ"
+        },
+        {
+          "word": "structures",
+          "lemma": "structure",
+          "offsetBegin": 1328,
+          "offsetEnd": 1338,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1339,
+          "offsetEnd": 1341,
+          "pos": "TO"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 1342,
+          "offsetEnd": 1344,
+          "pos": "VB"
+        },
+        {
+          "word": "operated",
+          "lemma": "operate",
+          "offsetBegin": 1345,
+          "offsetEnd": 1353,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 1354,
+          "offsetEnd": 1356,
+          "pos": "IN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1356,
+          "offsetEnd": 1357,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 1358,
+          "offsetEnd": 1362,
+          "pos": "DT"
+        },
+        {
+          "word": "technique",
+          "lemma": "technique",
+          "offsetBegin": 1363,
+          "offsetEnd": 1372,
+          "pos": "NN"
+        },
+        {
+          "word": "may",
+          "lemma": "may",
+          "offsetBegin": 1373,
+          "offsetEnd": 1376,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 1377,
+          "offsetEnd": 1379,
+          "pos": "VB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 1380,
+          "offsetEnd": 1384,
+          "pos": "VBN"
+        },
+        {
+          "word": "when",
+          "lemma": "when",
+          "offsetBegin": 1385,
+          "offsetEnd": 1389,
+          "pos": "WRB"
+        },
+        {
+          "word": "no",
+          "lemma": "no",
+          "offsetBegin": 1390,
+          "offsetEnd": 1392,
+          "pos": "DT"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 1393,
+          "offsetEnd": 1398,
+          "pos": "JJ"
+        },
+        {
+          "word": "image",
+          "lemma": "image",
+          "offsetBegin": 1399,
+          "offsetEnd": 1404,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 1405,
+          "offsetEnd": 1409,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 1410,
+          "offsetEnd": 1412,
+          "pos": "VBZ"
+        },
+        {
+          "word": "available",
+          "lemma": "available",
+          "offsetBegin": 1413,
+          "offsetEnd": 1422,
+          "pos": "JJ"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 1423,
+          "offsetEnd": 1425,
+          "pos": "CC"
+        },
+        {
+          "word": "appropriate",
+          "lemma": "appropriate",
+          "offsetBegin": 1426,
+          "offsetEnd": 1437,
+          "pos": "JJ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 1438,
+          "offsetEnd": 1441,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 1442,
+          "offsetEnd": 1443,
+          "pos": "DT"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 1444,
+          "offsetEnd": 1449,
+          "pos": "VBN"
+        },
+        {
+          "word": "application",
+          "lemma": "application",
+          "offsetBegin": 1450,
+          "offsetEnd": 1461,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1151 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Computer",
+          "lemma": "computer",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "NN"
+        },
+        {
+          "word": "mediated",
+          "lemma": "mediate",
+          "offsetBegin": 9,
+          "offsetEnd": 17,
+          "pos": "VBD"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 18,
+          "offsetEnd": 31,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 32,
+          "offsetEnd": 35,
+          "pos": "CC"
+        },
+        {
+          "word": "university",
+          "lemma": "university",
+          "offsetBegin": 36,
+          "offsetEnd": 46,
+          "pos": "NN"
+        },
+        {
+          "word": "international",
+          "lemma": "international",
+          "offsetBegin": 47,
+          "offsetEnd": 60,
+          "pos": "JJ"
+        },
+        {
+          "word": "students",
+          "lemma": "student",
+          "offsetBegin": 61,
+          "offsetEnd": 69,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 70,
+          "offsetEnd": 73,
+          "pos": "DT"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 74,
+          "offsetEnd": 80,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 81,
+          "offsetEnd": 84,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 85,
+          "offsetEnd": 88,
+          "pos": "DT"
+        },
+        {
+          "word": "preliminary",
+          "lemma": "preliminary",
+          "offsetBegin": 89,
+          "offsetEnd": 100,
+          "pos": "JJ"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 101,
+          "offsetEnd": 106,
+          "pos": "NN"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 107,
+          "offsetEnd": 116,
+          "pos": "VBD"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 117,
+          "offsetEnd": 120,
+          "pos": "VBD"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 121,
+          "offsetEnd": 126,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 127,
+          "offsetEnd": 129,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 130,
+          "offsetEnd": 133,
+          "pos": "DT"
+        },
+        {
+          "word": "experiences",
+          "lemma": "experience",
+          "offsetBegin": 134,
+          "offsetEnd": 145,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 146,
+          "offsetEnd": 148,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 149,
+          "offsetEnd": 152,
+          "pos": "DT"
+        },
+        {
+          "word": "international",
+          "lemma": "international",
+          "offsetBegin": 153,
+          "offsetEnd": 166,
+          "pos": "JJ"
+        },
+        {
+          "word": "students",
+          "lemma": "student",
+          "offsetBegin": 167,
+          "offsetEnd": 175,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 176,
+          "offsetEnd": 179,
+          "pos": "CC"
+        },
+        {
+          "word": "faculty",
+          "lemma": "faculty",
+          "offsetBegin": 180,
+          "offsetEnd": 187,
+          "pos": "NN"
+        },
+        {
+          "word": "members",
+          "lemma": "member",
+          "offsetBegin": 188,
+          "offsetEnd": 195,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 196,
+          "offsetEnd": 198,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 199,
+          "offsetEnd": 200,
+          "pos": "DT"
+        },
+        {
+          "word": "small",
+          "lemma": "small",
+          "offsetBegin": 201,
+          "offsetEnd": 206,
+          "pos": "JJ"
+        },
+        {
+          "word": "southwest",
+          "lemma": "southwest",
+          "offsetBegin": 207,
+          "offsetEnd": 216,
+          "pos": "NN"
+        },
+        {
+          "word": "university",
+          "lemma": "university",
+          "offsetBegin": 217,
+          "offsetEnd": 227,
+          "pos": "NN"
+        },
+        {
+          "word": "being",
+          "lemma": "be",
+          "offsetBegin": 228,
+          "offsetEnd": 233,
+          "pos": "VBG"
+        },
+        {
+          "word": "surveyed",
+          "lemma": "survey",
+          "offsetBegin": 234,
+          "offsetEnd": 242,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 243,
+          "offsetEnd": 246,
+          "pos": "CC"
+        },
+        {
+          "word": "interviewed",
+          "lemma": "interview",
+          "offsetBegin": 247,
+          "offsetEnd": 258,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 258,
+          "offsetEnd": 259,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 260,
+          "offsetEnd": 263,
+          "pos": "DT"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 264,
+          "offsetEnd": 268,
+          "pos": "NNS"
+        },
+        {
+          "word": "collection",
+          "lemma": "collection",
+          "offsetBegin": 269,
+          "offsetEnd": 279,
+          "pos": "NN"
+        },
+        {
+          "word": "procedure",
+          "lemma": "procedure",
+          "offsetBegin": 280,
+          "offsetEnd": 289,
+          "pos": "NN"
+        },
+        {
+          "word": "blends",
+          "lemma": "blend",
+          "offsetBegin": 290,
+          "offsetEnd": 296,
+          "pos": "VBZ"
+        },
+        {
+          "word": "qualitative",
+          "lemma": "qualitative",
+          "offsetBegin": 297,
+          "offsetEnd": 308,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 309,
+          "offsetEnd": 312,
+          "pos": "CC"
+        },
+        {
+          "word": "quantitative",
+          "lemma": "quantitative",
+          "offsetBegin": 313,
+          "offsetEnd": 325,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 326,
+          "offsetEnd": 330,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 330,
+          "offsetEnd": 331,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 332,
+          "offsetEnd": 333,
+          "pos": "DT"
+        },
+        {
+          "word": "strong",
+          "lemma": "strong",
+          "offsetBegin": 334,
+          "offsetEnd": 340,
+          "pos": "JJ"
+        },
+        {
+          "word": "consensus",
+          "lemma": "consensus",
+          "offsetBegin": 341,
+          "offsetEnd": 350,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 351,
+          "offsetEnd": 354,
+          "pos": "VBD"
+        },
+        {
+          "word": "found",
+          "lemma": "find",
+          "offsetBegin": 355,
+          "offsetEnd": 360,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 361,
+          "offsetEnd": 365,
+          "pos": "IN"
+        },
+        {
+          "word": "supports",
+          "lemma": "support",
+          "offsetBegin": 366,
+          "offsetEnd": 374,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 375,
+          "offsetEnd": 378,
+          "pos": "DT"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 379,
+          "offsetEnd": 384,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 384,
+          "offsetEnd": 386,
+          "pos": "POS"
+        },
+        {
+          "word": "premise",
+          "lemma": "premise",
+          "offsetBegin": 387,
+          "offsetEnd": 394,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 395,
+          "offsetEnd": 399,
+          "pos": "IN"
+        },
+        {
+          "word": "there",
+          "lemma": "there",
+          "offsetBegin": 400,
+          "offsetEnd": 405,
+          "pos": "EX"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 406,
+          "offsetEnd": 408,
+          "pos": "VBZ"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 409,
+          "offsetEnd": 411,
+          "pos": "DT"
+        },
+        {
+          "word": "association",
+          "lemma": "association",
+          "offsetBegin": 412,
+          "offsetEnd": 423,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 424,
+          "offsetEnd": 431,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 432,
+          "offsetEnd": 435,
+          "pos": "DT"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 436,
+          "offsetEnd": 439,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 440,
+          "offsetEnd": 442,
+          "pos": "IN"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 443,
+          "offsetEnd": 451,
+          "pos": "NN"
+        },
+        {
+          "word": "mediated",
+          "lemma": "mediate",
+          "offsetBegin": 452,
+          "offsetEnd": 460,
+          "pos": "VBD"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 461,
+          "offsetEnd": 474,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 475,
+          "offsetEnd": 476,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "CMC",
+          "lemma": "cmc",
+          "offsetBegin": 476,
+          "offsetEnd": 479,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 479,
+          "offsetEnd": 480,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 481,
+          "offsetEnd": 484,
+          "pos": "CC"
+        },
+        {
+          "word": "teaching",
+          "lemma": "teaching",
+          "offsetBegin": 485,
+          "offsetEnd": 493,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 494,
+          "offsetEnd": 497,
+          "pos": "CC"
+        },
+        {
+          "word": "learning",
+          "lemma": "learn",
+          "offsetBegin": 498,
+          "offsetEnd": 506,
+          "pos": "VBG"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 507,
+          "offsetEnd": 518,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 519,
+          "offsetEnd": 521,
+          "pos": "IN"
+        },
+        {
+          "word": "international",
+          "lemma": "international",
+          "offsetBegin": 522,
+          "offsetEnd": 535,
+          "pos": "JJ"
+        },
+        {
+          "word": "students",
+          "lemma": "student",
+          "offsetBegin": 536,
+          "offsetEnd": 544,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 544,
+          "offsetEnd": 545,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Both",
+          "lemma": "both",
+          "offsetBegin": 546,
+          "offsetEnd": 550,
+          "pos": "DT"
+        },
+        {
+          "word": "groups",
+          "lemma": "group",
+          "offsetBegin": 551,
+          "offsetEnd": 557,
+          "pos": "NNS"
+        },
+        {
+          "word": "believe",
+          "lemma": "believe",
+          "offsetBegin": 558,
+          "offsetEnd": 565,
+          "pos": "VBP"
+        },
+        {
+          "word": "CMC",
+          "lemma": "CMC",
+          "offsetBegin": 566,
+          "offsetEnd": 569,
+          "pos": "NNP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 570,
+          "offsetEnd": 572,
+          "pos": "TO"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 573,
+          "offsetEnd": 575,
+          "pos": "VB"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 576,
+          "offsetEnd": 578,
+          "pos": "DT"
+        },
+        {
+          "word": "effective",
+          "lemma": "effective",
+          "offsetBegin": 579,
+          "offsetEnd": 588,
+          "pos": "JJ"
+        },
+        {
+          "word": "teaching",
+          "lemma": "teaching",
+          "offsetBegin": 589,
+          "offsetEnd": 597,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 598,
+          "offsetEnd": 601,
+          "pos": "CC"
+        },
+        {
+          "word": "learning",
+          "lemma": "learn",
+          "offsetBegin": 602,
+          "offsetEnd": 610,
+          "pos": "VBG"
+        },
+        {
+          "word": "tool",
+          "lemma": "tool",
+          "offsetBegin": 611,
+          "offsetEnd": 615,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 616,
+          "offsetEnd": 618,
+          "pos": "IN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 618,
+          "offsetEnd": 619,
+          "pos": ":"
+        },
+        {
+          "word": "increasing",
+          "lemma": "increase",
+          "offsetBegin": 620,
+          "offsetEnd": 630,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 631,
+          "offsetEnd": 634,
+          "pos": "DT"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 635,
+          "offsetEnd": 644,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 645,
+          "offsetEnd": 648,
+          "pos": "CC"
+        },
+        {
+          "word": "quality",
+          "lemma": "quality",
+          "offsetBegin": 649,
+          "offsetEnd": 656,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 657,
+          "offsetEnd": 659,
+          "pos": "IN"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 660,
+          "offsetEnd": 673,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 674,
+          "offsetEnd": 681,
+          "pos": "IN"
+        },
+        {
+          "word": "students",
+          "lemma": "student",
+          "offsetBegin": 682,
+          "offsetEnd": 690,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 691,
+          "offsetEnd": 694,
+          "pos": "CC"
+        },
+        {
+          "word": "instructors",
+          "lemma": "instructor",
+          "offsetBegin": 695,
+          "offsetEnd": 706,
+          "pos": "NNS"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 706,
+          "offsetEnd": 707,
+          "pos": ":"
+        },
+        {
+          "word": "improving",
+          "lemma": "improve",
+          "offsetBegin": 708,
+          "offsetEnd": 717,
+          "pos": "VBG"
+        },
+        {
+          "word": "language",
+          "lemma": "language",
+          "offsetBegin": 718,
+          "offsetEnd": 726,
+          "pos": "NN"
+        },
+        {
+          "word": "skills",
+          "lemma": "skill",
+          "offsetBegin": 727,
+          "offsetEnd": 733,
+          "pos": "NNS"
+        },
+        {
+          "word": "through",
+          "lemma": "through",
+          "offsetBegin": 734,
+          "offsetEnd": 741,
+          "pos": "IN"
+        },
+        {
+          "word": "increased",
+          "lemma": "increase",
+          "offsetBegin": 742,
+          "offsetEnd": 751,
+          "pos": "VBN"
+        },
+        {
+          "word": "writing",
+          "lemma": "writing",
+          "offsetBegin": 752,
+          "offsetEnd": 759,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 760,
+          "offsetEnd": 763,
+          "pos": "CC"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 764,
+          "offsetEnd": 777,
+          "pos": "NN"
+        },
+        {
+          "word": "opportunities",
+          "lemma": "opportunity",
+          "offsetBegin": 778,
+          "offsetEnd": 791,
+          "pos": "NNS"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 791,
+          "offsetEnd": 792,
+          "pos": ":"
+        },
+        {
+          "word": "allowing",
+          "lemma": "allow",
+          "offsetBegin": 793,
+          "offsetEnd": 801,
+          "pos": "VBG"
+        },
+        {
+          "word": "students",
+          "lemma": "student",
+          "offsetBegin": 802,
+          "offsetEnd": 810,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 811,
+          "offsetEnd": 814,
+          "pos": "CC"
+        },
+        {
+          "word": "instructors",
+          "lemma": "instructor",
+          "offsetBegin": 815,
+          "offsetEnd": 826,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 827,
+          "offsetEnd": 829,
+          "pos": "TO"
+        },
+        {
+          "word": "stay",
+          "lemma": "stay",
+          "offsetBegin": 830,
+          "offsetEnd": 834,
+          "pos": "VB"
+        },
+        {
+          "word": "current",
+          "lemma": "current",
+          "offsetBegin": 835,
+          "offsetEnd": 842,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 843,
+          "offsetEnd": 846,
+          "pos": "CC"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 847,
+          "offsetEnd": 849,
+          "pos": "TO"
+        },
+        {
+          "word": "compete",
+          "lemma": "compete",
+          "offsetBegin": 850,
+          "offsetEnd": 857,
+          "pos": "VB"
+        },
+        {
+          "word": "effectively",
+          "lemma": "effectively",
+          "offsetBegin": 858,
+          "offsetEnd": 869,
+          "pos": "RB"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 869,
+          "offsetEnd": 870,
+          "pos": ":"
+        },
+        {
+          "word": "providing",
+          "lemma": "provide",
+          "offsetBegin": 871,
+          "offsetEnd": 880,
+          "pos": "VBG"
+        },
+        {
+          "word": "alternative",
+          "lemma": "alternative",
+          "offsetBegin": 881,
+          "offsetEnd": 892,
+          "pos": "JJ"
+        },
+        {
+          "word": "teaching",
+          "lemma": "teaching",
+          "offsetBegin": 893,
+          "offsetEnd": 901,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 902,
+          "offsetEnd": 905,
+          "pos": "CC"
+        },
+        {
+          "word": "learning",
+          "lemma": "learn",
+          "offsetBegin": 906,
+          "offsetEnd": 914,
+          "pos": "VBG"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 915,
+          "offsetEnd": 922,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 923,
+          "offsetEnd": 925,
+          "pos": "TO"
+        },
+        {
+          "word": "increase",
+          "lemma": "increase",
+          "offsetBegin": 926,
+          "offsetEnd": 934,
+          "pos": "VB"
+        },
+        {
+          "word": "students",
+          "lemma": "student",
+          "offsetBegin": 935,
+          "offsetEnd": 943,
+          "pos": "NNS"
+        },
+        {
+          "word": "\u0027",
+          "lemma": "\u0027",
+          "offsetBegin": 943,
+          "offsetEnd": 944,
+          "pos": "POS"
+        },
+        {
+          "word": "confidence",
+          "lemma": "confidence",
+          "offsetBegin": 945,
+          "offsetEnd": 955,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 956,
+          "offsetEnd": 958,
+          "pos": "IN"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 959,
+          "offsetEnd": 964,
+          "pos": "PRP$"
+        },
+        {
+          "word": "ability",
+          "lemma": "ability",
+          "offsetBegin": 965,
+          "offsetEnd": 972,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 973,
+          "offsetEnd": 975,
+          "pos": "TO"
+        },
+        {
+          "word": "communicate",
+          "lemma": "communicate",
+          "offsetBegin": 976,
+          "offsetEnd": 987,
+          "pos": "VB"
+        },
+        {
+          "word": "effectively",
+          "lemma": "effectively",
+          "offsetBegin": 988,
+          "offsetEnd": 999,
+          "pos": "RB"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 1000,
+          "offsetEnd": 1004,
+          "pos": "IN"
+        },
+        {
+          "word": "peers",
+          "lemma": "peer",
+          "offsetBegin": 1005,
+          "offsetEnd": 1010,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1011,
+          "offsetEnd": 1014,
+          "pos": "CC"
+        },
+        {
+          "word": "instructors",
+          "lemma": "instructor",
+          "offsetBegin": 1015,
+          "offsetEnd": 1026,
+          "pos": "NNS"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 1026,
+          "offsetEnd": 1027,
+          "pos": ":"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1028,
+          "offsetEnd": 1031,
+          "pos": "CC"
+        },
+        {
+          "word": "improving",
+          "lemma": "improve",
+          "offsetBegin": 1032,
+          "offsetEnd": 1041,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1042,
+          "offsetEnd": 1045,
+          "pos": "DT"
+        },
+        {
+          "word": "instructors",
+          "lemma": "instructor",
+          "offsetBegin": 1046,
+          "offsetEnd": 1057,
+          "pos": "NNS"
+        },
+        {
+          "word": "\u0027",
+          "lemma": "\u0027",
+          "offsetBegin": 1057,
+          "offsetEnd": 1058,
+          "pos": "POS"
+        },
+        {
+          "word": "pedagogical",
+          "lemma": "pedagogical",
+          "offsetBegin": 1059,
+          "offsetEnd": 1070,
+          "pos": "JJ"
+        },
+        {
+          "word": "focus",
+          "lemma": "focus",
+          "offsetBegin": 1071,
+          "offsetEnd": 1076,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1077,
+          "offsetEnd": 1080,
+          "pos": "CC"
+        },
+        {
+          "word": "questioning",
+          "lemma": "question",
+          "offsetBegin": 1081,
+          "offsetEnd": 1092,
+          "pos": "VBG"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 1093,
+          "offsetEnd": 1103,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

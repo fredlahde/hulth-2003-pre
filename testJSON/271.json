@@ -1,0 +1,1513 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "On",
+          "lemma": "on",
+          "offsetBegin": 0,
+          "offsetEnd": 2,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 3,
+          "offsetEnd": 6,
+          "pos": "DT"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 7,
+          "offsetEnd": 10,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 11,
+          "offsetEnd": 13,
+          "pos": "IN"
+        },
+        {
+          "word": "neural",
+          "lemma": "neural",
+          "offsetBegin": 14,
+          "offsetEnd": 20,
+          "pos": "JJ"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 21,
+          "offsetEnd": 28,
+          "pos": "NN"
+        },
+        {
+          "word": "ensembles",
+          "lemma": "ensemble",
+          "offsetBegin": 29,
+          "offsetEnd": 38,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 39,
+          "offsetEnd": 41,
+          "pos": "IN"
+        },
+        {
+          "word": "QSAR",
+          "lemma": "qsar",
+          "offsetBegin": 42,
+          "offsetEnd": 46,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 47,
+          "offsetEnd": 50,
+          "pos": "CC"
+        },
+        {
+          "word": "QSPR",
+          "lemma": "qspr",
+          "offsetBegin": 51,
+          "offsetEnd": 55,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Despite",
+          "lemma": "despite",
+          "offsetBegin": 56,
+          "offsetEnd": 63,
+          "pos": "IN"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 64,
+          "offsetEnd": 69,
+          "pos": "PRP$"
+        },
+        {
+          "word": "growing",
+          "lemma": "grow",
+          "offsetBegin": 70,
+          "offsetEnd": 77,
+          "pos": "VBG"
+        },
+        {
+          "word": "popularity",
+          "lemma": "popularity",
+          "offsetBegin": 78,
+          "offsetEnd": 88,
+          "pos": "NN"
+        },
+        {
+          "word": "among",
+          "lemma": "among",
+          "offsetBegin": 89,
+          "offsetEnd": 94,
+          "pos": "IN"
+        },
+        {
+          "word": "neural",
+          "lemma": "neural",
+          "offsetBegin": 95,
+          "offsetEnd": 101,
+          "pos": "JJ"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 102,
+          "offsetEnd": 109,
+          "pos": "NN"
+        },
+        {
+          "word": "practitioners",
+          "lemma": "practitioner",
+          "offsetBegin": 110,
+          "offsetEnd": 123,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 123,
+          "offsetEnd": 124,
+          "pos": ","
+        },
+        {
+          "word": "ensemble",
+          "lemma": "ensemble",
+          "offsetBegin": 125,
+          "offsetEnd": 133,
+          "pos": "NN"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 134,
+          "offsetEnd": 141,
+          "pos": "NNS"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 142,
+          "offsetEnd": 146,
+          "pos": "VBP"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 147,
+          "offsetEnd": 150,
+          "pos": "RB"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 151,
+          "offsetEnd": 155,
+          "pos": "VBN"
+        },
+        {
+          "word": "widely",
+          "lemma": "widely",
+          "offsetBegin": 156,
+          "offsetEnd": 162,
+          "pos": "RB"
+        },
+        {
+          "word": "adopted",
+          "lemma": "adopt",
+          "offsetBegin": 163,
+          "offsetEnd": 170,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 171,
+          "offsetEnd": 173,
+          "pos": "IN"
+        },
+        {
+          "word": "structure-activity",
+          "lemma": "structure-activity",
+          "offsetBegin": 174,
+          "offsetEnd": 192,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 193,
+          "offsetEnd": 196,
+          "pos": "CC"
+        },
+        {
+          "word": "structure-property",
+          "lemma": "structure-property",
+          "offsetBegin": 197,
+          "offsetEnd": 215,
+          "pos": "JJ"
+        },
+        {
+          "word": "correlation",
+          "lemma": "correlation",
+          "offsetBegin": 216,
+          "offsetEnd": 227,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 227,
+          "offsetEnd": 228,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Neural",
+          "lemma": "neural",
+          "offsetBegin": 229,
+          "offsetEnd": 235,
+          "pos": "JJ"
+        },
+        {
+          "word": "networks",
+          "lemma": "network",
+          "offsetBegin": 236,
+          "offsetEnd": 244,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 245,
+          "offsetEnd": 248,
+          "pos": "VBP"
+        },
+        {
+          "word": "inherently",
+          "lemma": "inherently",
+          "offsetBegin": 249,
+          "offsetEnd": 259,
+          "pos": "RB"
+        },
+        {
+          "word": "unstable",
+          "lemma": "unstable",
+          "offsetBegin": 260,
+          "offsetEnd": 268,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 268,
+          "offsetEnd": 269,
+          "pos": ","
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 270,
+          "offsetEnd": 272,
+          "pos": "IN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 273,
+          "offsetEnd": 277,
+          "pos": "DT"
+        },
+        {
+          "word": "small",
+          "lemma": "small",
+          "offsetBegin": 278,
+          "offsetEnd": 283,
+          "pos": "JJ"
+        },
+        {
+          "word": "changes",
+          "lemma": "change",
+          "offsetBegin": 284,
+          "offsetEnd": 291,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 292,
+          "offsetEnd": 294,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 295,
+          "offsetEnd": 298,
+          "pos": "DT"
+        },
+        {
+          "word": "training",
+          "lemma": "training",
+          "offsetBegin": 299,
+          "offsetEnd": 307,
+          "pos": "NN"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 308,
+          "offsetEnd": 311,
+          "pos": "NN"
+        },
+        {
+          "word": "and/or",
+          "lemma": "and/or",
+          "offsetBegin": 312,
+          "offsetEnd": 318,
+          "pos": "CC"
+        },
+        {
+          "word": "training",
+          "lemma": "training",
+          "offsetBegin": 319,
+          "offsetEnd": 327,
+          "pos": "NN"
+        },
+        {
+          "word": "parameters",
+          "lemma": "parameter",
+          "offsetBegin": 328,
+          "offsetEnd": 338,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 339,
+          "offsetEnd": 342,
+          "pos": "MD"
+        },
+        {
+          "word": "lead",
+          "lemma": "lead",
+          "offsetBegin": 343,
+          "offsetEnd": 347,
+          "pos": "VB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 348,
+          "offsetEnd": 350,
+          "pos": "TO"
+        },
+        {
+          "word": "large",
+          "lemma": "large",
+          "offsetBegin": 351,
+          "offsetEnd": 356,
+          "pos": "JJ"
+        },
+        {
+          "word": "changes",
+          "lemma": "change",
+          "offsetBegin": 357,
+          "offsetEnd": 364,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 365,
+          "offsetEnd": 367,
+          "pos": "IN"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 368,
+          "offsetEnd": 373,
+          "pos": "PRP$"
+        },
+        {
+          "word": "generalization",
+          "lemma": "generalization",
+          "offsetBegin": 374,
+          "offsetEnd": 388,
+          "pos": "NN"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 389,
+          "offsetEnd": 400,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 400,
+          "offsetEnd": 401,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Recent",
+          "lemma": "recent",
+          "offsetBegin": 402,
+          "offsetEnd": 408,
+          "pos": "JJ"
+        },
+        {
+          "word": "research",
+          "lemma": "research",
+          "offsetBegin": 409,
+          "offsetEnd": 417,
+          "pos": "NN"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 418,
+          "offsetEnd": 421,
+          "pos": "VBZ"
+        },
+        {
+          "word": "shown",
+          "lemma": "show",
+          "offsetBegin": 422,
+          "offsetEnd": 427,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 428,
+          "offsetEnd": 432,
+          "pos": "IN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 433,
+          "offsetEnd": 435,
+          "pos": "IN"
+        },
+        {
+          "word": "capitalizing",
+          "lemma": "capitalize",
+          "offsetBegin": 436,
+          "offsetEnd": 448,
+          "pos": "VBG"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 449,
+          "offsetEnd": 451,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 452,
+          "offsetEnd": 455,
+          "pos": "DT"
+        },
+        {
+          "word": "diversity",
+          "lemma": "diversity",
+          "offsetBegin": 456,
+          "offsetEnd": 465,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 466,
+          "offsetEnd": 468,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 469,
+          "offsetEnd": 472,
+          "pos": "DT"
+        },
+        {
+          "word": "individual",
+          "lemma": "individual",
+          "offsetBegin": 473,
+          "offsetEnd": 483,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 484,
+          "offsetEnd": 490,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 490,
+          "offsetEnd": 491,
+          "pos": ","
+        },
+        {
+          "word": "ensemble",
+          "lemma": "ensemble",
+          "offsetBegin": 492,
+          "offsetEnd": 500,
+          "pos": "NN"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 501,
+          "offsetEnd": 511,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 512,
+          "offsetEnd": 515,
+          "pos": "MD"
+        },
+        {
+          "word": "minimize",
+          "lemma": "minimize",
+          "offsetBegin": 516,
+          "offsetEnd": 524,
+          "pos": "VB"
+        },
+        {
+          "word": "uncertainty",
+          "lemma": "uncertainty",
+          "offsetBegin": 525,
+          "offsetEnd": 536,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 537,
+          "offsetEnd": 540,
+          "pos": "CC"
+        },
+        {
+          "word": "produce",
+          "lemma": "produce",
+          "offsetBegin": 541,
+          "offsetEnd": 548,
+          "pos": "VB"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 549,
+          "offsetEnd": 553,
+          "pos": "JJR"
+        },
+        {
+          "word": "stable",
+          "lemma": "stable",
+          "offsetBegin": 554,
+          "offsetEnd": 560,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 561,
+          "offsetEnd": 564,
+          "pos": "CC"
+        },
+        {
+          "word": "accurate",
+          "lemma": "accurate",
+          "offsetBegin": 565,
+          "offsetEnd": 573,
+          "pos": "JJ"
+        },
+        {
+          "word": "predictors",
+          "lemma": "predictor",
+          "offsetBegin": 574,
+          "offsetEnd": 584,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 584,
+          "offsetEnd": 585,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 586,
+          "offsetEnd": 588,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 589,
+          "offsetEnd": 593,
+          "pos": "DT"
+        },
+        {
+          "word": "work",
+          "lemma": "work",
+          "offsetBegin": 594,
+          "offsetEnd": 598,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 598,
+          "offsetEnd": 599,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 600,
+          "offsetEnd": 602,
+          "pos": "PRP"
+        },
+        {
+          "word": "present",
+          "lemma": "present",
+          "offsetBegin": 603,
+          "offsetEnd": 610,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 611,
+          "offsetEnd": 612,
+          "pos": "DT"
+        },
+        {
+          "word": "critical",
+          "lemma": "critical",
+          "offsetBegin": 613,
+          "offsetEnd": 621,
+          "pos": "JJ"
+        },
+        {
+          "word": "assessment",
+          "lemma": "assessment",
+          "offsetBegin": 622,
+          "offsetEnd": 632,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 633,
+          "offsetEnd": 635,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 636,
+          "offsetEnd": 639,
+          "pos": "DT"
+        },
+        {
+          "word": "most",
+          "lemma": "most",
+          "offsetBegin": 640,
+          "offsetEnd": 644,
+          "pos": "RBS"
+        },
+        {
+          "word": "common",
+          "lemma": "common",
+          "offsetBegin": 645,
+          "offsetEnd": 651,
+          "pos": "JJ"
+        },
+        {
+          "word": "ensemble",
+          "lemma": "ensemble",
+          "offsetBegin": 652,
+          "offsetEnd": 660,
+          "pos": "NN"
+        },
+        {
+          "word": "technique",
+          "lemma": "technique",
+          "offsetBegin": 661,
+          "offsetEnd": 670,
+          "pos": "NN"
+        },
+        {
+          "word": "known",
+          "lemma": "know",
+          "offsetBegin": 671,
+          "offsetEnd": 676,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 677,
+          "offsetEnd": 679,
+          "pos": "IN"
+        },
+        {
+          "word": "bootstrap",
+          "lemma": "bootstrap",
+          "offsetBegin": 680,
+          "offsetEnd": 689,
+          "pos": "NN"
+        },
+        {
+          "word": "aggregation",
+          "lemma": "aggregation",
+          "offsetBegin": 690,
+          "offsetEnd": 701,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 701,
+          "offsetEnd": 702,
+          "pos": ","
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 703,
+          "offsetEnd": 705,
+          "pos": "CC"
+        },
+        {
+          "word": "bagging",
+          "lemma": "bagging",
+          "offsetBegin": 706,
+          "offsetEnd": 713,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 713,
+          "offsetEnd": 714,
+          "pos": ","
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 715,
+          "offsetEnd": 717,
+          "pos": "IN"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 718,
+          "offsetEnd": 725,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 726,
+          "offsetEnd": 728,
+          "pos": "TO"
+        },
+        {
+          "word": "QSAR",
+          "lemma": "qsar",
+          "offsetBegin": 729,
+          "offsetEnd": 733,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 734,
+          "offsetEnd": 737,
+          "pos": "CC"
+        },
+        {
+          "word": "QSPR",
+          "lemma": "qspr",
+          "offsetBegin": 738,
+          "offsetEnd": 742,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 742,
+          "offsetEnd": 743,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Although",
+          "lemma": "although",
+          "offsetBegin": 744,
+          "offsetEnd": 752,
+          "pos": "IN"
+        },
+        {
+          "word": "aggregation",
+          "lemma": "aggregation",
+          "offsetBegin": 753,
+          "offsetEnd": 764,
+          "pos": "NN"
+        },
+        {
+          "word": "does",
+          "lemma": "do",
+          "offsetBegin": 765,
+          "offsetEnd": 769,
+          "pos": "VBZ"
+        },
+        {
+          "word": "offer",
+          "lemma": "offer",
+          "offsetBegin": 770,
+          "offsetEnd": 775,
+          "pos": "VB"
+        },
+        {
+          "word": "definitive",
+          "lemma": "definitive",
+          "offsetBegin": 776,
+          "offsetEnd": 786,
+          "pos": "JJ"
+        },
+        {
+          "word": "advantages",
+          "lemma": "advantage",
+          "offsetBegin": 787,
+          "offsetEnd": 797,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 797,
+          "offsetEnd": 798,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 799,
+          "offsetEnd": 801,
+          "pos": "PRP"
+        },
+        {
+          "word": "demonstrate",
+          "lemma": "demonstrate",
+          "offsetBegin": 802,
+          "offsetEnd": 813,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 814,
+          "offsetEnd": 818,
+          "pos": "IN"
+        },
+        {
+          "word": "bagging",
+          "lemma": "bag",
+          "offsetBegin": 819,
+          "offsetEnd": 826,
+          "pos": "VBG"
+        },
+        {
+          "word": "may",
+          "lemma": "may",
+          "offsetBegin": 827,
+          "offsetEnd": 830,
+          "pos": "MD"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 831,
+          "offsetEnd": 834,
+          "pos": "RB"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 835,
+          "offsetEnd": 837,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 838,
+          "offsetEnd": 841,
+          "pos": "DT"
+        },
+        {
+          "word": "best",
+          "lemma": "best",
+          "offsetBegin": 842,
+          "offsetEnd": 846,
+          "pos": "JJS"
+        },
+        {
+          "word": "possible",
+          "lemma": "possible",
+          "offsetBegin": 847,
+          "offsetEnd": 855,
+          "pos": "JJ"
+        },
+        {
+          "word": "choice",
+          "lemma": "choice",
+          "offsetBegin": 856,
+          "offsetEnd": 862,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 863,
+          "offsetEnd": 866,
+          "pos": "CC"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 867,
+          "offsetEnd": 871,
+          "pos": "IN"
+        },
+        {
+          "word": "simpler",
+          "lemma": "simpler",
+          "offsetBegin": 872,
+          "offsetEnd": 879,
+          "pos": "JJR"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 880,
+          "offsetEnd": 890,
+          "pos": "NNS"
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "offsetBegin": 891,
+          "offsetEnd": 895,
+          "pos": "JJ"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 896,
+          "offsetEnd": 898,
+          "pos": "IN"
+        },
+        {
+          "word": "retraining",
+          "lemma": "retrain",
+          "offsetBegin": 899,
+          "offsetEnd": 909,
+          "pos": "VBG"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 910,
+          "offsetEnd": 914,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 915,
+          "offsetEnd": 918,
+          "pos": "DT"
+        },
+        {
+          "word": "full",
+          "lemma": "full",
+          "offsetBegin": 919,
+          "offsetEnd": 923,
+          "pos": "JJ"
+        },
+        {
+          "word": "sample",
+          "lemma": "sample",
+          "offsetBegin": 924,
+          "offsetEnd": 930,
+          "pos": "NN"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 931,
+          "offsetEnd": 934,
+          "pos": "MD"
+        },
+        {
+          "word": "often",
+          "lemma": "often",
+          "offsetBegin": 935,
+          "offsetEnd": 940,
+          "pos": "RB"
+        },
+        {
+          "word": "produce",
+          "lemma": "produce",
+          "offsetBegin": 941,
+          "offsetEnd": 948,
+          "pos": "VB"
+        },
+        {
+          "word": "superior",
+          "lemma": "superior",
+          "offsetBegin": 949,
+          "offsetEnd": 957,
+          "pos": "JJ"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 958,
+          "offsetEnd": 965,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 965,
+          "offsetEnd": 966,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "These",
+          "lemma": "these",
+          "offsetBegin": 967,
+          "offsetEnd": 972,
+          "pos": "DT"
+        },
+        {
+          "word": "findings",
+          "lemma": "finding",
+          "offsetBegin": 973,
+          "offsetEnd": 981,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 982,
+          "offsetEnd": 985,
+          "pos": "VBP"
+        },
+        {
+          "word": "rationalized",
+          "lemma": "rationalize",
+          "offsetBegin": 986,
+          "offsetEnd": 998,
+          "pos": "VBN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 999,
+          "offsetEnd": 1004,
+          "pos": "VBG"
+        },
+        {
+          "word": "Krogh",
+          "lemma": "Krogh",
+          "offsetBegin": 1005,
+          "offsetEnd": 1010,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1011,
+          "offsetEnd": 1014,
+          "pos": "CC"
+        },
+        {
+          "word": "Vedelsby",
+          "lemma": "Vedelsby",
+          "offsetBegin": 1015,
+          "offsetEnd": 1023,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 1023,
+          "offsetEnd": 1025,
+          "pos": "POS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 1026,
+          "offsetEnd": 1027,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "1995",
+          "lemma": "1995",
+          "offsetBegin": 1027,
+          "offsetEnd": 1031,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 1031,
+          "offsetEnd": 1032,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "decomposition",
+          "lemma": "decomposition",
+          "offsetBegin": 1033,
+          "offsetEnd": 1046,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1047,
+          "offsetEnd": 1049,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1050,
+          "offsetEnd": 1053,
+          "pos": "DT"
+        },
+        {
+          "word": "generalization",
+          "lemma": "generalization",
+          "offsetBegin": 1054,
+          "offsetEnd": 1068,
+          "pos": "NN"
+        },
+        {
+          "word": "error",
+          "lemma": "error",
+          "offsetBegin": 1069,
+          "offsetEnd": 1074,
+          "pos": "NN"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 1075,
+          "offsetEnd": 1079,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 1080,
+          "offsetEnd": 1081,
+          "pos": "DT"
+        },
+        {
+          "word": "term",
+          "lemma": "term",
+          "offsetBegin": 1082,
+          "offsetEnd": 1086,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 1087,
+          "offsetEnd": 1091,
+          "pos": "WDT"
+        },
+        {
+          "word": "measures",
+          "lemma": "measure",
+          "offsetBegin": 1092,
+          "offsetEnd": 1100,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1101,
+          "offsetEnd": 1104,
+          "pos": "DT"
+        },
+        {
+          "word": "average",
+          "lemma": "average",
+          "offsetBegin": 1105,
+          "offsetEnd": 1112,
+          "pos": "JJ"
+        },
+        {
+          "word": "generalization",
+          "lemma": "generalization",
+          "offsetBegin": 1113,
+          "offsetEnd": 1127,
+          "pos": "NN"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 1128,
+          "offsetEnd": 1139,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1140,
+          "offsetEnd": 1142,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1143,
+          "offsetEnd": 1146,
+          "pos": "DT"
+        },
+        {
+          "word": "individual",
+          "lemma": "individual",
+          "offsetBegin": 1147,
+          "offsetEnd": 1157,
+          "pos": "JJ"
+        },
+        {
+          "word": "networks",
+          "lemma": "network",
+          "offsetBegin": 1158,
+          "offsetEnd": 1166,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1167,
+          "offsetEnd": 1170,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 1171,
+          "offsetEnd": 1172,
+          "pos": "DT"
+        },
+        {
+          "word": "term",
+          "lemma": "term",
+          "offsetBegin": 1173,
+          "offsetEnd": 1177,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 1178,
+          "offsetEnd": 1182,
+          "pos": "WDT"
+        },
+        {
+          "word": "measures",
+          "lemma": "measure",
+          "offsetBegin": 1183,
+          "offsetEnd": 1191,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1192,
+          "offsetEnd": 1195,
+          "pos": "DT"
+        },
+        {
+          "word": "diversity",
+          "lemma": "diversity",
+          "offsetBegin": 1196,
+          "offsetEnd": 1205,
+          "pos": "NN"
+        },
+        {
+          "word": "among",
+          "lemma": "among",
+          "offsetBegin": 1206,
+          "offsetEnd": 1211,
+          "pos": "IN"
+        },
+        {
+          "word": "them",
+          "lemma": "they",
+          "offsetBegin": 1212,
+          "offsetEnd": 1216,
+          "pos": "PRP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1216,
+          "offsetEnd": 1217,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 1218,
+          "offsetEnd": 1221,
+          "pos": "IN"
+        },
+        {
+          "word": "networks",
+          "lemma": "network",
+          "offsetBegin": 1222,
+          "offsetEnd": 1230,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 1231,
+          "offsetEnd": 1235,
+          "pos": "WDT"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 1236,
+          "offsetEnd": 1239,
+          "pos": "VBP"
+        },
+        {
+          "word": "designed",
+          "lemma": "design",
+          "offsetBegin": 1240,
+          "offsetEnd": 1248,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1249,
+          "offsetEnd": 1251,
+          "pos": "TO"
+        },
+        {
+          "word": "resist",
+          "lemma": "resist",
+          "offsetBegin": 1252,
+          "offsetEnd": 1258,
+          "pos": "VB"
+        },
+        {
+          "word": "over-fitting",
+          "lemma": "over-fitting",
+          "offsetBegin": 1259,
+          "offsetEnd": 1271,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1271,
+          "offsetEnd": 1272,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1273,
+          "offsetEnd": 1276,
+          "pos": "DT"
+        },
+        {
+          "word": "benefits",
+          "lemma": "benefit",
+          "offsetBegin": 1277,
+          "offsetEnd": 1285,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1286,
+          "offsetEnd": 1288,
+          "pos": "IN"
+        },
+        {
+          "word": "aggregation",
+          "lemma": "aggregation",
+          "offsetBegin": 1289,
+          "offsetEnd": 1300,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 1301,
+          "offsetEnd": 1304,
+          "pos": "VBP"
+        },
+        {
+          "word": "clear",
+          "lemma": "clear",
+          "offsetBegin": 1305,
+          "offsetEnd": 1310,
+          "pos": "JJ"
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 1311,
+          "offsetEnd": 1314,
+          "pos": "CC"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 1315,
+          "offsetEnd": 1318,
+          "pos": "RB"
+        },
+        {
+          "word": "overwhelming",
+          "lemma": "overwhelming",
+          "offsetBegin": 1319,
+          "offsetEnd": 1331,
+          "pos": "JJ"
+        }
+      ]
+    }
+  ]
+}

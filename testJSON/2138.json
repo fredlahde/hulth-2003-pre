@@ -1,0 +1,292 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Reachability",
+          "lemma": "reachability",
+          "offsetBegin": 0,
+          "offsetEnd": 12,
+          "pos": "NN"
+        },
+        {
+          "word": "sets",
+          "lemma": "set",
+          "offsetBegin": 13,
+          "offsetEnd": 17,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 18,
+          "offsetEnd": 20,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 21,
+          "offsetEnd": 22,
+          "pos": "DT"
+        },
+        {
+          "word": "class",
+          "lemma": "class",
+          "offsetBegin": 23,
+          "offsetEnd": 28,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 29,
+          "offsetEnd": 31,
+          "pos": "IN"
+        },
+        {
+          "word": "multistep",
+          "lemma": "multistep",
+          "offsetBegin": 32,
+          "offsetEnd": 41,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 42,
+          "offsetEnd": 49,
+          "pos": "NN"
+        },
+        {
+          "word": "processes",
+          "lemma": "process",
+          "offsetBegin": 50,
+          "offsetEnd": 59,
+          "pos": "NNS"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 59,
+          "offsetEnd": 60,
+          "pos": ":"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 61,
+          "offsetEnd": 66,
+          "pos": "PRP$"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 67,
+          "offsetEnd": 73,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "An",
+          "lemma": "a",
+          "offsetBegin": 74,
+          "offsetEnd": 76,
+          "pos": "DT"
+        },
+        {
+          "word": "upper",
+          "lemma": "upper",
+          "offsetBegin": 77,
+          "offsetEnd": 82,
+          "pos": "JJ"
+        },
+        {
+          "word": "estimate",
+          "lemma": "estimate",
+          "offsetBegin": 83,
+          "offsetEnd": 91,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 92,
+          "offsetEnd": 95,
+          "pos": "CC"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 96,
+          "offsetEnd": 98,
+          "pos": "DT"
+        },
+        {
+          "word": "iterative",
+          "lemma": "iterative",
+          "offsetBegin": 99,
+          "offsetEnd": 108,
+          "pos": "JJ"
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 109,
+          "offsetEnd": 110,
+          "pos": "``"
+        },
+        {
+          "word": "restriction",
+          "lemma": "restriction",
+          "offsetBegin": 110,
+          "offsetEnd": 121,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 121,
+          "offsetEnd": 122,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 123,
+          "offsetEnd": 132,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 133,
+          "offsetEnd": 136,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 137,
+          "offsetEnd": 140,
+          "pos": "DT"
+        },
+        {
+          "word": "reachability",
+          "lemma": "reachability",
+          "offsetBegin": 141,
+          "offsetEnd": 153,
+          "pos": "NN"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 154,
+          "offsetEnd": 157,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 158,
+          "offsetEnd": 161,
+          "pos": "IN"
+        },
+        {
+          "word": "determining",
+          "lemma": "determine",
+          "offsetBegin": 162,
+          "offsetEnd": 173,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 174,
+          "offsetEnd": 177,
+          "pos": "DT"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 178,
+          "offsetEnd": 185,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 186,
+          "offsetEnd": 193,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 194,
+          "offsetEnd": 197,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 198,
+          "offsetEnd": 199,
+          "pos": "DT"
+        },
+        {
+          "word": "class",
+          "lemma": "class",
+          "offsetBegin": 200,
+          "offsetEnd": 205,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 206,
+          "offsetEnd": 208,
+          "pos": "IN"
+        },
+        {
+          "word": "multistep",
+          "lemma": "multistep",
+          "offsetBegin": 209,
+          "offsetEnd": 218,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 219,
+          "offsetEnd": 226,
+          "pos": "NN"
+        },
+        {
+          "word": "processes",
+          "lemma": "process",
+          "offsetBegin": 227,
+          "offsetEnd": 236,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 237,
+          "offsetEnd": 240,
+          "pos": "VBP"
+        },
+        {
+          "word": "designed",
+          "lemma": "design",
+          "offsetBegin": 241,
+          "offsetEnd": 249,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

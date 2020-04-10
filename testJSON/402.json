@@ -1,0 +1,888 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Fast",
+          "lemma": "fast",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "JJ"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 5,
+          "offsetEnd": 14,
+          "pos": "NN"
+        },
+        {
+          "word": "acquisition",
+          "lemma": "acquisition",
+          "offsetBegin": 15,
+          "offsetEnd": 26,
+          "pos": "NN"
+        },
+        {
+          "word": "phase-frequency",
+          "lemma": "phase-frequency",
+          "offsetBegin": 27,
+          "offsetEnd": 42,
+          "pos": "NN"
+        },
+        {
+          "word": "detectors",
+          "lemma": "detector",
+          "offsetBegin": 43,
+          "offsetEnd": 52,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 53,
+          "offsetEnd": 56,
+          "pos": "IN"
+        },
+        {
+          "word": "Gsamples/s",
+          "lemma": "gsamples/s",
+          "offsetBegin": 57,
+          "offsetEnd": 67,
+          "pos": "NNS"
+        },
+        {
+          "word": "phase-locked",
+          "lemma": "phase-locked",
+          "offsetBegin": 68,
+          "offsetEnd": 80,
+          "pos": "JJ"
+        },
+        {
+          "word": "loops",
+          "lemma": "loop",
+          "offsetBegin": 81,
+          "offsetEnd": 86,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 87,
+          "offsetEnd": 91,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 92,
+          "offsetEnd": 97,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 98,
+          "offsetEnd": 107,
+          "pos": "VBZ"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 108,
+          "offsetEnd": 111,
+          "pos": "CD"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 112,
+          "offsetEnd": 122,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 123,
+          "offsetEnd": 126,
+          "pos": "IN"
+        },
+        {
+          "word": "designing",
+          "lemma": "design",
+          "offsetBegin": 127,
+          "offsetEnd": 136,
+          "pos": "VBG"
+        },
+        {
+          "word": "phase-frequency",
+          "lemma": "phase-frequency",
+          "offsetBegin": 137,
+          "offsetEnd": 152,
+          "pos": "NN"
+        },
+        {
+          "word": "detectors",
+          "lemma": "detector",
+          "offsetBegin": 153,
+          "offsetEnd": 162,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 163,
+          "offsetEnd": 164,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "PFDs",
+          "lemma": "pfd",
+          "offsetBegin": 164,
+          "offsetEnd": 168,
+          "pos": "NNS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 168,
+          "offsetEnd": 169,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 170,
+          "offsetEnd": 174,
+          "pos": "IN"
+        },
+        {
+          "word": "higher",
+          "lemma": "higher",
+          "offsetBegin": 175,
+          "offsetEnd": 181,
+          "pos": "JJR"
+        },
+        {
+          "word": "operating",
+          "lemma": "operating",
+          "offsetBegin": 182,
+          "offsetEnd": 191,
+          "pos": "NN"
+        },
+        {
+          "word": "frequencies",
+          "lemma": "frequency",
+          "offsetBegin": 192,
+          "offsetEnd": 203,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LSB-",
+          "lemma": "-lsb-",
+          "offsetBegin": 204,
+          "offsetEnd": 205,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "periods",
+          "lemma": "period",
+          "offsetBegin": 205,
+          "offsetEnd": 212,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 213,
+          "offsetEnd": 215,
+          "pos": "IN"
+        },
+        {
+          "word": "less",
+          "lemma": "less",
+          "offsetBegin": 216,
+          "offsetEnd": 220,
+          "pos": "JJR"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 221,
+          "offsetEnd": 225,
+          "pos": "IN"
+        },
+        {
+          "word": "8",
+          "lemma": "8",
+          "offsetBegin": 226,
+          "offsetEnd": 227,
+          "pos": "CD"
+        },
+        {
+          "word": "*",
+          "lemma": "*",
+          "offsetBegin": 227,
+          "offsetEnd": 228,
+          "pos": "SYM"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 229,
+          "offsetEnd": 232,
+          "pos": "DT"
+        },
+        {
+          "word": "delay",
+          "lemma": "delay",
+          "offsetBegin": 233,
+          "offsetEnd": 238,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 239,
+          "offsetEnd": 241,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 242,
+          "offsetEnd": 243,
+          "pos": "DT"
+        },
+        {
+          "word": "fan-out-4",
+          "lemma": "fan-out-4",
+          "offsetBegin": 244,
+          "offsetEnd": 253,
+          "pos": "JJ"
+        },
+        {
+          "word": "inverter",
+          "lemma": "inverter",
+          "offsetBegin": 254,
+          "offsetEnd": 262,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 263,
+          "offsetEnd": 264,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "FO-4",
+          "lemma": "fo-4",
+          "offsetBegin": 264,
+          "offsetEnd": 268,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 268,
+          "offsetEnd": 269,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "-RSB-",
+          "lemma": "-rsb-",
+          "offsetBegin": 269,
+          "offsetEnd": 270,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 271,
+          "offsetEnd": 274,
+          "pos": "CC"
+        },
+        {
+          "word": "faster",
+          "lemma": "faster",
+          "offsetBegin": 275,
+          "offsetEnd": 281,
+          "pos": "RBR"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 282,
+          "offsetEnd": 291,
+          "pos": "NN"
+        },
+        {
+          "word": "acquisition",
+          "lemma": "acquisition",
+          "offsetBegin": 292,
+          "offsetEnd": 303,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 303,
+          "offsetEnd": 304,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Prototypes",
+          "lemma": "prototype",
+          "offsetBegin": 305,
+          "offsetEnd": 315,
+          "pos": "NNS"
+        },
+        {
+          "word": "designed",
+          "lemma": "design",
+          "offsetBegin": 316,
+          "offsetEnd": 324,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 325,
+          "offsetEnd": 327,
+          "pos": "IN"
+        },
+        {
+          "word": "0.25",
+          "lemma": "0.25",
+          "offsetBegin": 328,
+          "offsetEnd": 332,
+          "pos": "CD"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 332,
+          "offsetEnd": 333,
+          "pos": ":"
+        },
+        {
+          "word": "mu",
+          "lemma": "mu",
+          "offsetBegin": 334,
+          "offsetEnd": 336,
+          "pos": "NN"
+        },
+        {
+          "word": "m",
+          "lemma": "m",
+          "offsetBegin": 337,
+          "offsetEnd": 338,
+          "pos": "NN"
+        },
+        {
+          "word": "CMOS",
+          "lemma": "cmos",
+          "offsetBegin": 339,
+          "offsetEnd": 343,
+          "pos": "NN"
+        },
+        {
+          "word": "process",
+          "lemma": "process",
+          "offsetBegin": 344,
+          "offsetEnd": 351,
+          "pos": "NN"
+        },
+        {
+          "word": "exhibit",
+          "lemma": "exhibit",
+          "offsetBegin": 352,
+          "offsetEnd": 359,
+          "pos": "VBP"
+        },
+        {
+          "word": "operating",
+          "lemma": "operate",
+          "offsetBegin": 360,
+          "offsetEnd": 369,
+          "pos": "VBG"
+        },
+        {
+          "word": "frequencies",
+          "lemma": "frequency",
+          "offsetBegin": 370,
+          "offsetEnd": 381,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 382,
+          "offsetEnd": 384,
+          "pos": "IN"
+        },
+        {
+          "word": "1.25",
+          "lemma": "1.25",
+          "offsetBegin": 385,
+          "offsetEnd": 389,
+          "pos": "CD"
+        },
+        {
+          "word": "GHz",
+          "lemma": "ghz",
+          "offsetBegin": 390,
+          "offsetEnd": 393,
+          "pos": "NN"
+        },
+        {
+          "word": "-LSB-",
+          "lemma": "-lsb-",
+          "offsetBegin": 394,
+          "offsetEnd": 395,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "\u003d",
+          "lemma": "\u003d",
+          "offsetBegin": 395,
+          "offsetEnd": 396,
+          "pos": "JJ"
+        },
+        {
+          "word": "1",
+          "lemma": "1",
+          "offsetBegin": 396,
+          "offsetEnd": 397,
+          "pos": "CD"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 397,
+          "offsetEnd": 398,
+          "pos": ":"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 398,
+          "offsetEnd": 399,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "8.FO-4",
+          "lemma": "8.fo-4",
+          "offsetBegin": 399,
+          "offsetEnd": 405,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 405,
+          "offsetEnd": 406,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "-RSB-",
+          "lemma": "-rsb-",
+          "offsetBegin": 406,
+          "offsetEnd": 407,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 408,
+          "offsetEnd": 411,
+          "pos": "CC"
+        },
+        {
+          "word": "1.5",
+          "lemma": "1.5",
+          "offsetBegin": 412,
+          "offsetEnd": 415,
+          "pos": "CD"
+        },
+        {
+          "word": "GHz",
+          "lemma": "ghz",
+          "offsetBegin": 416,
+          "offsetEnd": 419,
+          "pos": "NN"
+        },
+        {
+          "word": "-LSB-",
+          "lemma": "-lsb-",
+          "offsetBegin": 420,
+          "offsetEnd": 421,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "\u003d",
+          "lemma": "\u003d",
+          "offsetBegin": 421,
+          "offsetEnd": 422,
+          "pos": "JJ"
+        },
+        {
+          "word": "1",
+          "lemma": "1",
+          "offsetBegin": 422,
+          "offsetEnd": 423,
+          "pos": "CD"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 423,
+          "offsetEnd": 424,
+          "pos": ":"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 424,
+          "offsetEnd": 425,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "6.7.FO-4",
+          "lemma": "6.7.fo-4",
+          "offsetBegin": 425,
+          "offsetEnd": 433,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 433,
+          "offsetEnd": 434,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "-RSB-",
+          "lemma": "-rsb-",
+          "offsetBegin": 434,
+          "offsetEnd": 435,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 436,
+          "offsetEnd": 439,
+          "pos": "IN"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 440,
+          "offsetEnd": 443,
+          "pos": "CD"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 444,
+          "offsetEnd": 454,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 454,
+          "offsetEnd": 455,
+          "pos": ","
+        },
+        {
+          "word": "respectively",
+          "lemma": "respectively",
+          "offsetBegin": 456,
+          "offsetEnd": 468,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 468,
+          "offsetEnd": 469,
+          "pos": ","
+        },
+        {
+          "word": "whereas",
+          "lemma": "whereas",
+          "offsetBegin": 470,
+          "offsetEnd": 477,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 478,
+          "offsetEnd": 479,
+          "pos": "DT"
+        },
+        {
+          "word": "conventional",
+          "lemma": "conventional",
+          "offsetBegin": 480,
+          "offsetEnd": 492,
+          "pos": "JJ"
+        },
+        {
+          "word": "PFD",
+          "lemma": "pfd",
+          "offsetBegin": 493,
+          "offsetEnd": 496,
+          "pos": "NN"
+        },
+        {
+          "word": "operates",
+          "lemma": "operate",
+          "offsetBegin": 497,
+          "offsetEnd": 505,
+          "pos": "VBZ"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 506,
+          "offsetEnd": 508,
+          "pos": "IN"
+        },
+        {
+          "word": "\u003c",
+          "lemma": "\u003c",
+          "offsetBegin": 509,
+          "offsetEnd": 510,
+          "pos": "JJR"
+        },
+        {
+          "word": "1",
+          "lemma": "1",
+          "offsetBegin": 510,
+          "offsetEnd": 511,
+          "pos": "CD"
+        },
+        {
+          "word": "GHz",
+          "lemma": "ghz",
+          "offsetBegin": 512,
+          "offsetEnd": 515,
+          "pos": "NN"
+        },
+        {
+          "word": "-LSB-",
+          "lemma": "-lsb-",
+          "offsetBegin": 516,
+          "offsetEnd": 517,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "\u003d",
+          "lemma": "\u003d",
+          "offsetBegin": 517,
+          "offsetEnd": 518,
+          "pos": "JJ"
+        },
+        {
+          "word": "1",
+          "lemma": "1",
+          "offsetBegin": 518,
+          "offsetEnd": 519,
+          "pos": "CD"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 519,
+          "offsetEnd": 520,
+          "pos": ":"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 520,
+          "offsetEnd": 521,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "10.FO-4",
+          "lemma": "10.fo-4",
+          "offsetBegin": 521,
+          "offsetEnd": 528,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 528,
+          "offsetEnd": 529,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "-RSB-",
+          "lemma": "-rsb-",
+          "offsetBegin": 529,
+          "offsetEnd": 530,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 530,
+          "offsetEnd": 531,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 532,
+          "offsetEnd": 535,
+          "pos": "DT"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 536,
+          "offsetEnd": 539,
+          "pos": "CD"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 540,
+          "offsetEnd": 548,
+          "pos": "VBN"
+        },
+        {
+          "word": "PFDs",
+          "lemma": "pfd",
+          "offsetBegin": 549,
+          "offsetEnd": 553,
+          "pos": "NNS"
+        },
+        {
+          "word": "achieve",
+          "lemma": "achieve",
+          "offsetBegin": 554,
+          "offsetEnd": 561,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 562,
+          "offsetEnd": 563,
+          "pos": "DT"
+        },
+        {
+          "word": "capture",
+          "lemma": "capture",
+          "offsetBegin": 564,
+          "offsetEnd": 571,
+          "pos": "NN"
+        },
+        {
+          "word": "range",
+          "lemma": "range",
+          "offsetBegin": 572,
+          "offsetEnd": 577,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 578,
+          "offsetEnd": 580,
+          "pos": "IN"
+        },
+        {
+          "word": "1.7",
+          "lemma": "1.7",
+          "offsetBegin": 581,
+          "offsetEnd": 584,
+          "pos": "CD"
+        },
+        {
+          "word": "*",
+          "lemma": "*",
+          "offsetBegin": 584,
+          "offsetEnd": 585,
+          "pos": "SYM"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 586,
+          "offsetEnd": 589,
+          "pos": "CC"
+        },
+        {
+          "word": "1.4",
+          "lemma": "1.4",
+          "offsetBegin": 590,
+          "offsetEnd": 593,
+          "pos": "CD"
+        },
+        {
+          "word": "*",
+          "lemma": "*",
+          "offsetBegin": 593,
+          "offsetEnd": 594,
+          "pos": "SYM"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 595,
+          "offsetEnd": 598,
+          "pos": "DT"
+        },
+        {
+          "word": "conventional",
+          "lemma": "conventional",
+          "offsetBegin": 599,
+          "offsetEnd": 611,
+          "pos": "JJ"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 612,
+          "offsetEnd": 618,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 618,
+          "offsetEnd": 619,
+          "pos": ","
+        },
+        {
+          "word": "respectively",
+          "lemma": "respectively",
+          "offsetBegin": 620,
+          "offsetEnd": 632,
+          "pos": "RB"
+        }
+      ]
+    }
+  ]
+}

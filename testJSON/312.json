@@ -1,0 +1,773 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Information",
+          "lemma": "Information",
+          "offsetBegin": 0,
+          "offsetEnd": 11,
+          "pos": "NNP"
+        },
+        {
+          "word": "architecture",
+          "lemma": "architecture",
+          "offsetBegin": 12,
+          "offsetEnd": 24,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 25,
+          "offsetEnd": 28,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 29,
+          "offsetEnd": 32,
+          "pos": "DT"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 33,
+          "offsetEnd": 36,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 36,
+          "offsetEnd": 37,
+          "pos": ":"
+        },
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 38,
+          "offsetEnd": 41,
+          "pos": "DT"
+        },
+        {
+          "word": "IA",
+          "lemma": "ia",
+          "offsetBegin": 42,
+          "offsetEnd": 44,
+          "pos": "NN"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 45,
+          "offsetEnd": 51,
+          "pos": "NN"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 52,
+          "offsetEnd": 60,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 61,
+          "offsetEnd": 63,
+          "pos": "TO"
+        },
+        {
+          "word": "designing",
+          "lemma": "design",
+          "offsetBegin": 64,
+          "offsetEnd": 73,
+          "pos": "VBG"
+        },
+        {
+          "word": "children",
+          "lemma": "child",
+          "offsetBegin": 74,
+          "offsetEnd": 82,
+          "pos": "NNS"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 82,
+          "offsetEnd": 84,
+          "pos": "POS"
+        },
+        {
+          "word": "portals",
+          "lemma": "portal",
+          "offsetBegin": 85,
+          "offsetEnd": 92,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 93,
+          "offsetEnd": 96,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 97,
+          "offsetEnd": 104,
+          "pos": "NN"
+        },
+        {
+          "word": "presents",
+          "lemma": "present",
+          "offsetBegin": 105,
+          "offsetEnd": 113,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 114,
+          "offsetEnd": 115,
+          "pos": "DT"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 116,
+          "offsetEnd": 122,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 123,
+          "offsetEnd": 127,
+          "pos": "WDT"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 128,
+          "offsetEnd": 131,
+          "pos": "MD"
+        },
+        {
+          "word": "serve",
+          "lemma": "serve",
+          "offsetBegin": 132,
+          "offsetEnd": 137,
+          "pos": "VB"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 138,
+          "offsetEnd": 140,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 141,
+          "offsetEnd": 142,
+          "pos": "DT"
+        },
+        {
+          "word": "tool",
+          "lemma": "tool",
+          "offsetBegin": 143,
+          "offsetEnd": 147,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 148,
+          "offsetEnd": 151,
+          "pos": "IN"
+        },
+        {
+          "word": "designing",
+          "lemma": "design",
+          "offsetBegin": 152,
+          "offsetEnd": 161,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 162,
+          "offsetEnd": 165,
+          "pos": "DT"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 166,
+          "offsetEnd": 177,
+          "pos": "NN"
+        },
+        {
+          "word": "architecture",
+          "lemma": "architecture",
+          "offsetBegin": 178,
+          "offsetEnd": 190,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 191,
+          "offsetEnd": 193,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 194,
+          "offsetEnd": 195,
+          "pos": "DT"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 196,
+          "offsetEnd": 199,
+          "pos": "NN"
+        },
+        {
+          "word": "portal",
+          "lemma": "portal",
+          "offsetBegin": 200,
+          "offsetEnd": 206,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 207,
+          "offsetEnd": 209,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 210,
+          "offsetEnd": 211,
+          "pos": "DT"
+        },
+        {
+          "word": "logical",
+          "lemma": "logical",
+          "offsetBegin": 212,
+          "offsetEnd": 219,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 220,
+          "offsetEnd": 223,
+          "pos": "CC"
+        },
+        {
+          "word": "systematic",
+          "lemma": "systematic",
+          "offsetBegin": 224,
+          "offsetEnd": 234,
+          "pos": "JJ"
+        },
+        {
+          "word": "manner",
+          "lemma": "manner",
+          "offsetBegin": 235,
+          "offsetEnd": 241,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 241,
+          "offsetEnd": 242,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 243,
+          "offsetEnd": 246,
+          "pos": "DT"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 247,
+          "offsetEnd": 258,
+          "pos": "NN"
+        },
+        {
+          "word": "architect",
+          "lemma": "architect",
+          "offsetBegin": 259,
+          "offsetEnd": 268,
+          "pos": "NN"
+        },
+        {
+          "word": "begins",
+          "lemma": "begin",
+          "offsetBegin": 269,
+          "offsetEnd": 275,
+          "pos": "VBZ"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 276,
+          "offsetEnd": 278,
+          "pos": "IN"
+        },
+        {
+          "word": "inputting",
+          "lemma": "input",
+          "offsetBegin": 279,
+          "offsetEnd": 288,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 289,
+          "offsetEnd": 292,
+          "pos": "DT"
+        },
+        {
+          "word": "portal",
+          "lemma": "portal",
+          "offsetBegin": 293,
+          "offsetEnd": 299,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 299,
+          "offsetEnd": 301,
+          "pos": "POS"
+        },
+        {
+          "word": "objective",
+          "lemma": "objective",
+          "offsetBegin": 302,
+          "offsetEnd": 311,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 311,
+          "offsetEnd": 312,
+          "pos": ","
+        },
+        {
+          "word": "target",
+          "lemma": "target",
+          "offsetBegin": 313,
+          "offsetEnd": 319,
+          "pos": "NN"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 320,
+          "offsetEnd": 324,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 324,
+          "offsetEnd": 325,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 326,
+          "offsetEnd": 329,
+          "pos": "CC"
+        },
+        {
+          "word": "target",
+          "lemma": "target",
+          "offsetBegin": 330,
+          "offsetEnd": 336,
+          "pos": "NN"
+        },
+        {
+          "word": "content",
+          "lemma": "content",
+          "offsetBegin": 337,
+          "offsetEnd": 344,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 344,
+          "offsetEnd": 345,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 346,
+          "offsetEnd": 349,
+          "pos": "DT"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 350,
+          "offsetEnd": 356,
+          "pos": "NN"
+        },
+        {
+          "word": "then",
+          "lemma": "then",
+          "offsetBegin": 357,
+          "offsetEnd": 361,
+          "pos": "RB"
+        },
+        {
+          "word": "determines",
+          "lemma": "determine",
+          "offsetBegin": 362,
+          "offsetEnd": 372,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 373,
+          "offsetEnd": 376,
+          "pos": "DT"
+        },
+        {
+          "word": "most",
+          "lemma": "most",
+          "offsetBegin": 377,
+          "offsetEnd": 381,
+          "pos": "RBS"
+        },
+        {
+          "word": "appropriate",
+          "lemma": "appropriate",
+          "offsetBegin": 382,
+          "offsetEnd": 393,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 394,
+          "offsetEnd": 405,
+          "pos": "NN"
+        },
+        {
+          "word": "architecture",
+          "lemma": "architecture",
+          "offsetBegin": 406,
+          "offsetEnd": 418,
+          "pos": "NN"
+        },
+        {
+          "word": "attributes",
+          "lemma": "attribute",
+          "offsetBegin": 419,
+          "offsetEnd": 429,
+          "pos": "VBZ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 430,
+          "offsetEnd": 433,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 434,
+          "offsetEnd": 437,
+          "pos": "DT"
+        },
+        {
+          "word": "portal",
+          "lemma": "portal",
+          "offsetBegin": 438,
+          "offsetEnd": 444,
+          "pos": "JJ"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 445,
+          "offsetEnd": 447,
+          "pos": "IN"
+        },
+        {
+          "word": "filling",
+          "lemma": "fill",
+          "offsetBegin": 448,
+          "offsetEnd": 455,
+          "pos": "VBG"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 456,
+          "offsetEnd": 458,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 459,
+          "offsetEnd": 462,
+          "pos": "DT"
+        },
+        {
+          "word": "Applied",
+          "lemma": "Applied",
+          "offsetBegin": 463,
+          "offsetEnd": 470,
+          "pos": "NNP"
+        },
+        {
+          "word": "Information",
+          "lemma": "Information",
+          "offsetBegin": 471,
+          "offsetEnd": 482,
+          "pos": "NNP"
+        },
+        {
+          "word": "Architecture",
+          "lemma": "Architecture",
+          "offsetBegin": 483,
+          "offsetEnd": 495,
+          "pos": "NNP"
+        },
+        {
+          "word": "portion",
+          "lemma": "portion",
+          "offsetBegin": 496,
+          "offsetEnd": 503,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 504,
+          "offsetEnd": 506,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 507,
+          "offsetEnd": 510,
+          "pos": "DT"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 511,
+          "offsetEnd": 517,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 517,
+          "offsetEnd": 518,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 519,
+          "offsetEnd": 522,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 523,
+          "offsetEnd": 530,
+          "pos": "NN"
+        },
+        {
+          "word": "discusses",
+          "lemma": "discuss",
+          "offsetBegin": 531,
+          "offsetEnd": 540,
+          "pos": "VBZ"
+        },
+        {
+          "word": "how",
+          "lemma": "how",
+          "offsetBegin": 541,
+          "offsetEnd": 544,
+          "pos": "WRB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 545,
+          "offsetEnd": 548,
+          "pos": "DT"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 549,
+          "offsetEnd": 555,
+          "pos": "NN"
+        },
+        {
+          "word": "works",
+          "lemma": "work",
+          "offsetBegin": 556,
+          "offsetEnd": 561,
+          "pos": "VBZ"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 562,
+          "offsetEnd": 567,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 568,
+          "offsetEnd": 571,
+          "pos": "DT"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 572,
+          "offsetEnd": 579,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 580,
+          "offsetEnd": 582,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 583,
+          "offsetEnd": 584,
+          "pos": "DT"
+        },
+        {
+          "word": "children",
+          "lemma": "child",
+          "offsetBegin": 585,
+          "offsetEnd": 593,
+          "pos": "NNS"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 593,
+          "offsetEnd": 595,
+          "pos": "POS"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 596,
+          "offsetEnd": 599,
+          "pos": "NN"
+        },
+        {
+          "word": "portal",
+          "lemma": "portal",
+          "offsetBegin": 600,
+          "offsetEnd": 606,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 607,
+          "offsetEnd": 609,
+          "pos": "TO"
+        },
+        {
+          "word": "provide",
+          "lemma": "provide",
+          "offsetBegin": 610,
+          "offsetEnd": 617,
+          "pos": "VB"
+        },
+        {
+          "word": "access",
+          "lemma": "access",
+          "offsetBegin": 618,
+          "offsetEnd": 624,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 625,
+          "offsetEnd": 627,
+          "pos": "TO"
+        },
+        {
+          "word": "museum",
+          "lemma": "museum",
+          "offsetBegin": 628,
+          "offsetEnd": 634,
+          "pos": "NN"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 635,
+          "offsetEnd": 646,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

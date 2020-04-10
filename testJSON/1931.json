@@ -1,0 +1,591 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Mathematical",
+          "lemma": "mathematical",
+          "offsetBegin": 0,
+          "offsetEnd": 12,
+          "pos": "JJ"
+        },
+        {
+          "word": "fundamentals",
+          "lemma": "fundamental",
+          "offsetBegin": 13,
+          "offsetEnd": 25,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 26,
+          "offsetEnd": 28,
+          "pos": "IN"
+        },
+        {
+          "word": "constructing",
+          "lemma": "construct",
+          "offsetBegin": 29,
+          "offsetEnd": 41,
+          "pos": "VBG"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 42,
+          "offsetEnd": 47,
+          "pos": "JJ"
+        },
+        {
+          "word": "Bayesian",
+          "lemma": "bayesian",
+          "offsetBegin": 48,
+          "offsetEnd": 56,
+          "pos": "JJ"
+        },
+        {
+          "word": "inference",
+          "lemma": "inference",
+          "offsetBegin": 57,
+          "offsetEnd": 66,
+          "pos": "NN"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 67,
+          "offsetEnd": 77,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Problems",
+          "lemma": "problem",
+          "offsetBegin": 78,
+          "offsetEnd": 86,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 87,
+          "offsetEnd": 90,
+          "pos": "CC"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 91,
+          "offsetEnd": 93,
+          "pos": "DT"
+        },
+        {
+          "word": "associated",
+          "lemma": "associate",
+          "offsetBegin": 94,
+          "offsetEnd": 104,
+          "pos": "VBN"
+        },
+        {
+          "word": "technique",
+          "lemma": "technique",
+          "offsetBegin": 105,
+          "offsetEnd": 114,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 115,
+          "offsetEnd": 118,
+          "pos": "IN"
+        },
+        {
+          "word": "developing",
+          "lemma": "develop",
+          "offsetBegin": 119,
+          "offsetEnd": 129,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 130,
+          "offsetEnd": 131,
+          "pos": "DT"
+        },
+        {
+          "word": "Bayesian",
+          "lemma": "bayesian",
+          "offsetBegin": 132,
+          "offsetEnd": 140,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 141,
+          "offsetEnd": 149,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 150,
+          "offsetEnd": 152,
+          "pos": "TO"
+        },
+        {
+          "word": "decision-making",
+          "lemma": "decision-making",
+          "offsetBegin": 153,
+          "offsetEnd": 168,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 169,
+          "offsetEnd": 171,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 172,
+          "offsetEnd": 175,
+          "pos": "DT"
+        },
+        {
+          "word": "case",
+          "lemma": "case",
+          "offsetBegin": 176,
+          "offsetEnd": 180,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 181,
+          "offsetEnd": 183,
+          "pos": "IN"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 184,
+          "offsetEnd": 189,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 190,
+          "offsetEnd": 194,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 195,
+          "offsetEnd": 198,
+          "pos": "VBP"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 199,
+          "offsetEnd": 208,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 208,
+          "offsetEnd": 209,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 210,
+          "offsetEnd": 213,
+          "pos": "DT"
+        },
+        {
+          "word": "concept",
+          "lemma": "concept",
+          "offsetBegin": 214,
+          "offsetEnd": 221,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 222,
+          "offsetEnd": 224,
+          "pos": "IN"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 225,
+          "offsetEnd": 230,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 231,
+          "offsetEnd": 234,
+          "pos": "CC"
+        },
+        {
+          "word": "pseudofuzzy",
+          "lemma": "pseudofuzzy",
+          "offsetBegin": 235,
+          "offsetEnd": 246,
+          "pos": "JJ"
+        },
+        {
+          "word": "quantities",
+          "lemma": "quantity",
+          "offsetBegin": 247,
+          "offsetEnd": 257,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 258,
+          "offsetEnd": 260,
+          "pos": "VBZ"
+        },
+        {
+          "word": "introduced",
+          "lemma": "introduce",
+          "offsetBegin": 261,
+          "offsetEnd": 271,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 272,
+          "offsetEnd": 275,
+          "pos": "CC"
+        },
+        {
+          "word": "main",
+          "lemma": "main",
+          "offsetBegin": 276,
+          "offsetEnd": 280,
+          "pos": "JJ"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 281,
+          "offsetEnd": 291,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 292,
+          "offsetEnd": 296,
+          "pos": "IN"
+        },
+        {
+          "word": "pseudofuzzy",
+          "lemma": "pseudofuzzy",
+          "offsetBegin": 297,
+          "offsetEnd": 308,
+          "pos": "NN"
+        },
+        {
+          "word": "quantities",
+          "lemma": "quantity",
+          "offsetBegin": 309,
+          "offsetEnd": 319,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 320,
+          "offsetEnd": 323,
+          "pos": "VBP"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 324,
+          "offsetEnd": 334,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 334,
+          "offsetEnd": 335,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 336,
+          "offsetEnd": 339,
+          "pos": "DT"
+        },
+        {
+          "word": "basic",
+          "lemma": "basic",
+          "offsetBegin": 340,
+          "offsetEnd": 345,
+          "pos": "JJ"
+        },
+        {
+          "word": "relationships",
+          "lemma": "relationship",
+          "offsetBegin": 346,
+          "offsetEnd": 359,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 360,
+          "offsetEnd": 363,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 364,
+          "offsetEnd": 367,
+          "pos": "DT"
+        },
+        {
+          "word": "principal",
+          "lemma": "principal",
+          "offsetBegin": 368,
+          "offsetEnd": 377,
+          "pos": "JJ"
+        },
+        {
+          "word": "concepts",
+          "lemma": "concept",
+          "offsetBegin": 378,
+          "offsetEnd": 386,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 387,
+          "offsetEnd": 389,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 390,
+          "offsetEnd": 393,
+          "pos": "DT"
+        },
+        {
+          "word": "Bayesian",
+          "lemma": "bayesian",
+          "offsetBegin": 394,
+          "offsetEnd": 402,
+          "pos": "JJ"
+        },
+        {
+          "word": "decision",
+          "lemma": "decision",
+          "offsetBegin": 403,
+          "offsetEnd": 411,
+          "pos": "NN"
+        },
+        {
+          "word": "procedure",
+          "lemma": "procedure",
+          "offsetBegin": 412,
+          "offsetEnd": 421,
+          "pos": "NN"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 422,
+          "offsetEnd": 427,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 428,
+          "offsetEnd": 430,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 431,
+          "offsetEnd": 434,
+          "pos": "DT"
+        },
+        {
+          "word": "modus-ponens",
+          "lemma": "modus-ponen",
+          "offsetBegin": 435,
+          "offsetEnd": 447,
+          "pos": "NNS"
+        },
+        {
+          "word": "rule",
+          "lemma": "rule",
+          "offsetBegin": 448,
+          "offsetEnd": 452,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 453,
+          "offsetEnd": 456,
+          "pos": "VBP"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 457,
+          "offsetEnd": 465,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 465,
+          "offsetEnd": 466,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Some",
+          "lemma": "some",
+          "offsetBegin": 467,
+          "offsetEnd": 471,
+          "pos": "DT"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 472,
+          "offsetEnd": 480,
+          "pos": "NNS"
+        },
+        {
+          "word": "concerned",
+          "lemma": "concern",
+          "offsetBegin": 481,
+          "offsetEnd": 490,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 491,
+          "offsetEnd": 495,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 496,
+          "offsetEnd": 499,
+          "pos": "DT"
+        },
+        {
+          "word": "practical",
+          "lemma": "practical",
+          "offsetBegin": 500,
+          "offsetEnd": 509,
+          "pos": "JJ"
+        },
+        {
+          "word": "realization",
+          "lemma": "realization",
+          "offsetBegin": 510,
+          "offsetEnd": 521,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 522,
+          "offsetEnd": 524,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 525,
+          "offsetEnd": 528,
+          "pos": "DT"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 529,
+          "offsetEnd": 534,
+          "pos": "JJ"
+        },
+        {
+          "word": "Bayesian",
+          "lemma": "bayesian",
+          "offsetBegin": 535,
+          "offsetEnd": 543,
+          "pos": "JJ"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 544,
+          "offsetEnd": 550,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 551,
+          "offsetEnd": 554,
+          "pos": "VBP"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 555,
+          "offsetEnd": 565,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

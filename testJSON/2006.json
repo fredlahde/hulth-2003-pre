@@ -1,0 +1,1216 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Lung",
+          "lemma": "lung",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "NN"
+        },
+        {
+          "word": "metastasis",
+          "lemma": "metastasis",
+          "offsetBegin": 5,
+          "offsetEnd": 15,
+          "pos": "NN"
+        },
+        {
+          "word": "detection",
+          "lemma": "detection",
+          "offsetBegin": 16,
+          "offsetEnd": 25,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 26,
+          "offsetEnd": 29,
+          "pos": "CC"
+        },
+        {
+          "word": "visualization",
+          "lemma": "visualization",
+          "offsetBegin": 30,
+          "offsetEnd": 43,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 44,
+          "offsetEnd": 46,
+          "pos": "IN"
+        },
+        {
+          "word": "CT",
+          "lemma": "ct",
+          "offsetBegin": 47,
+          "offsetEnd": 49,
+          "pos": "NN"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 50,
+          "offsetEnd": 56,
+          "pos": "NNS"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 56,
+          "offsetEnd": 57,
+          "pos": ":"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 58,
+          "offsetEnd": 59,
+          "pos": "DT"
+        },
+        {
+          "word": "knowledge-based",
+          "lemma": "knowledge-based",
+          "offsetBegin": 60,
+          "offsetEnd": 75,
+          "pos": "JJ"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 76,
+          "offsetEnd": 82,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 83,
+          "offsetEnd": 84,
+          "pos": "DT"
+        },
+        {
+          "word": "solution",
+          "lemma": "solution",
+          "offsetBegin": 85,
+          "offsetEnd": 93,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 94,
+          "offsetEnd": 96,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 97,
+          "offsetEnd": 100,
+          "pos": "DT"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 101,
+          "offsetEnd": 108,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 109,
+          "offsetEnd": 111,
+          "pos": "IN"
+        },
+        {
+          "word": "lung",
+          "lemma": "lung",
+          "offsetBegin": 112,
+          "offsetEnd": 116,
+          "pos": "NN"
+        },
+        {
+          "word": "metastasis",
+          "lemma": "metastasis",
+          "offsetBegin": 117,
+          "offsetEnd": 127,
+          "pos": "NN"
+        },
+        {
+          "word": "detection",
+          "lemma": "detection",
+          "offsetBegin": 128,
+          "offsetEnd": 137,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 138,
+          "offsetEnd": 140,
+          "pos": "IN"
+        },
+        {
+          "word": "computed",
+          "lemma": "computed",
+          "offsetBegin": 141,
+          "offsetEnd": 149,
+          "pos": "JJ"
+        },
+        {
+          "word": "tomography",
+          "lemma": "tomography",
+          "offsetBegin": 150,
+          "offsetEnd": 160,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 161,
+          "offsetEnd": 162,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "CT",
+          "lemma": "ct",
+          "offsetBegin": 162,
+          "offsetEnd": 164,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 164,
+          "offsetEnd": 165,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "scans",
+          "lemma": "scan",
+          "offsetBegin": 166,
+          "offsetEnd": 171,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 172,
+          "offsetEnd": 174,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 175,
+          "offsetEnd": 178,
+          "pos": "DT"
+        },
+        {
+          "word": "thorax",
+          "lemma": "thorax",
+          "offsetBegin": 179,
+          "offsetEnd": 185,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 186,
+          "offsetEnd": 188,
+          "pos": "VBZ"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 189,
+          "offsetEnd": 198,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 198,
+          "offsetEnd": 199,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 200,
+          "offsetEnd": 201,
+          "pos": "DT"
+        },
+        {
+          "word": "knowledge-based",
+          "lemma": "knowledge-based",
+          "offsetBegin": 202,
+          "offsetEnd": 217,
+          "pos": "JJ"
+        },
+        {
+          "word": "top-down",
+          "lemma": "top-down",
+          "offsetBegin": 218,
+          "offsetEnd": 226,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 227,
+          "offsetEnd": 235,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 236,
+          "offsetEnd": 239,
+          "pos": "IN"
+        },
+        {
+          "word": "image",
+          "lemma": "image",
+          "offsetBegin": 240,
+          "offsetEnd": 245,
+          "pos": "NN"
+        },
+        {
+          "word": "interpretation",
+          "lemma": "interpretation",
+          "offsetBegin": 246,
+          "offsetEnd": 260,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 261,
+          "offsetEnd": 263,
+          "pos": "VBZ"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 264,
+          "offsetEnd": 268,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 268,
+          "offsetEnd": 269,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 270,
+          "offsetEnd": 273,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 274,
+          "offsetEnd": 280,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 281,
+          "offsetEnd": 283,
+          "pos": "VBZ"
+        },
+        {
+          "word": "inspired",
+          "lemma": "inspire",
+          "offsetBegin": 284,
+          "offsetEnd": 292,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 293,
+          "offsetEnd": 295,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 296,
+          "offsetEnd": 299,
+          "pos": "DT"
+        },
+        {
+          "word": "manner",
+          "lemma": "manner",
+          "offsetBegin": 300,
+          "offsetEnd": 306,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 307,
+          "offsetEnd": 309,
+          "pos": "IN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 310,
+          "offsetEnd": 315,
+          "pos": "WDT"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 316,
+          "offsetEnd": 317,
+          "pos": "DT"
+        },
+        {
+          "word": "radiologist",
+          "lemma": "radiologist",
+          "offsetBegin": 318,
+          "offsetEnd": 329,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 330,
+          "offsetEnd": 333,
+          "pos": "CC"
+        },
+        {
+          "word": "radiotherapist",
+          "lemma": "radiotherapist",
+          "offsetBegin": 334,
+          "offsetEnd": 348,
+          "pos": "NN"
+        },
+        {
+          "word": "interpret",
+          "lemma": "interpret",
+          "offsetBegin": 349,
+          "offsetEnd": 358,
+          "pos": "VB"
+        },
+        {
+          "word": "CT",
+          "lemma": "ct",
+          "offsetBegin": 359,
+          "offsetEnd": 361,
+          "pos": "NN"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 362,
+          "offsetEnd": 368,
+          "pos": "NNS"
+        },
+        {
+          "word": "before",
+          "lemma": "before",
+          "offsetBegin": 369,
+          "offsetEnd": 375,
+          "pos": "IN"
+        },
+        {
+          "word": "radiotherapy",
+          "lemma": "radiotherapy",
+          "offsetBegin": 376,
+          "offsetEnd": 388,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 389,
+          "offsetEnd": 391,
+          "pos": "VBZ"
+        },
+        {
+          "word": "planned",
+          "lemma": "plan",
+          "offsetBegin": 392,
+          "offsetEnd": 399,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 399,
+          "offsetEnd": 400,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 401,
+          "offsetEnd": 402,
+          "pos": "DT"
+        },
+        {
+          "word": "two-dimensional",
+          "lemma": "two-dimensional",
+          "offsetBegin": 403,
+          "offsetEnd": 418,
+          "pos": "JJ"
+        },
+        {
+          "word": "followed",
+          "lemma": "follow",
+          "offsetBegin": 419,
+          "offsetEnd": 427,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 428,
+          "offsetEnd": 430,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 431,
+          "offsetEnd": 432,
+          "pos": "DT"
+        },
+        {
+          "word": "three-dimensional",
+          "lemma": "three-dimensional",
+          "offsetBegin": 433,
+          "offsetEnd": 450,
+          "pos": "JJ"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 451,
+          "offsetEnd": 459,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 460,
+          "offsetEnd": 462,
+          "pos": "VBZ"
+        },
+        {
+          "word": "performed",
+          "lemma": "perform",
+          "offsetBegin": 463,
+          "offsetEnd": 472,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 472,
+          "offsetEnd": 473,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 474,
+          "offsetEnd": 477,
+          "pos": "DT"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 478,
+          "offsetEnd": 487,
+          "pos": "NN"
+        },
+        {
+          "word": "first",
+          "lemma": "first",
+          "offsetBegin": 488,
+          "offsetEnd": 493,
+          "pos": "RB"
+        },
+        {
+          "word": "detects",
+          "lemma": "detect",
+          "offsetBegin": 494,
+          "offsetEnd": 501,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 502,
+          "offsetEnd": 505,
+          "pos": "DT"
+        },
+        {
+          "word": "thorax",
+          "lemma": "thorax",
+          "offsetBegin": 506,
+          "offsetEnd": 512,
+          "pos": "NN"
+        },
+        {
+          "word": "contour",
+          "lemma": "contour",
+          "offsetBegin": 513,
+          "offsetEnd": 520,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 520,
+          "offsetEnd": 521,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 522,
+          "offsetEnd": 525,
+          "pos": "DT"
+        },
+        {
+          "word": "lungs",
+          "lemma": "lung",
+          "offsetBegin": 526,
+          "offsetEnd": 531,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 532,
+          "offsetEnd": 535,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 536,
+          "offsetEnd": 539,
+          "pos": "DT"
+        },
+        {
+          "word": "ribs",
+          "lemma": "rib",
+          "offsetBegin": 540,
+          "offsetEnd": 544,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 544,
+          "offsetEnd": 545,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 546,
+          "offsetEnd": 551,
+          "pos": "WDT"
+        },
+        {
+          "word": "further",
+          "lemma": "further",
+          "offsetBegin": 552,
+          "offsetEnd": 559,
+          "pos": "RB"
+        },
+        {
+          "word": "help",
+          "lemma": "help",
+          "offsetBegin": 560,
+          "offsetEnd": 564,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 565,
+          "offsetEnd": 568,
+          "pos": "DT"
+        },
+        {
+          "word": "detection",
+          "lemma": "detection",
+          "offsetBegin": 569,
+          "offsetEnd": 578,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 579,
+          "offsetEnd": 581,
+          "pos": "IN"
+        },
+        {
+          "word": "metastases",
+          "lemma": "metastase",
+          "offsetBegin": 582,
+          "offsetEnd": 592,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 592,
+          "offsetEnd": 593,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Thus",
+          "lemma": "thus",
+          "offsetBegin": 594,
+          "offsetEnd": 598,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 598,
+          "offsetEnd": 599,
+          "pos": ","
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 600,
+          "offsetEnd": 603,
+          "pos": "CD"
+        },
+        {
+          "word": "types",
+          "lemma": "type",
+          "offsetBegin": 604,
+          "offsetEnd": 609,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 610,
+          "offsetEnd": 612,
+          "pos": "IN"
+        },
+        {
+          "word": "tumors",
+          "lemma": "tumor",
+          "offsetBegin": 613,
+          "offsetEnd": 619,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 620,
+          "offsetEnd": 623,
+          "pos": "VBP"
+        },
+        {
+          "word": "detected",
+          "lemma": "detect",
+          "offsetBegin": 624,
+          "offsetEnd": 632,
+          "pos": "VBN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 632,
+          "offsetEnd": 633,
+          "pos": ":"
+        },
+        {
+          "word": "nodules",
+          "lemma": "nodule",
+          "offsetBegin": 634,
+          "offsetEnd": 641,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 642,
+          "offsetEnd": 645,
+          "pos": "CC"
+        },
+        {
+          "word": "metastases",
+          "lemma": "metastase",
+          "offsetBegin": 646,
+          "offsetEnd": 656,
+          "pos": "NNS"
+        },
+        {
+          "word": "located",
+          "lemma": "locate",
+          "offsetBegin": 657,
+          "offsetEnd": 664,
+          "pos": "VBN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 665,
+          "offsetEnd": 667,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 668,
+          "offsetEnd": 671,
+          "pos": "DT"
+        },
+        {
+          "word": "lung",
+          "lemma": "lung",
+          "offsetBegin": 672,
+          "offsetEnd": 676,
+          "pos": "NN"
+        },
+        {
+          "word": "extremities",
+          "lemma": "extremity",
+          "offsetBegin": 677,
+          "offsetEnd": 688,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 688,
+          "offsetEnd": 689,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 690,
+          "offsetEnd": 691,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 692,
+          "offsetEnd": 698,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 699,
+          "offsetEnd": 701,
+          "pos": "TO"
+        },
+        {
+          "word": "visualize",
+          "lemma": "visualize",
+          "offsetBegin": 702,
+          "offsetEnd": 711,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 712,
+          "offsetEnd": 715,
+          "pos": "DT"
+        },
+        {
+          "word": "anatomical",
+          "lemma": "anatomical",
+          "offsetBegin": 716,
+          "offsetEnd": 726,
+          "pos": "JJ"
+        },
+        {
+          "word": "structures",
+          "lemma": "structure",
+          "offsetBegin": 727,
+          "offsetEnd": 737,
+          "pos": "NNS"
+        },
+        {
+          "word": "segmented",
+          "lemma": "segmented",
+          "offsetBegin": 738,
+          "offsetEnd": 747,
+          "pos": "JJ"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 748,
+          "offsetEnd": 750,
+          "pos": "VBZ"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 751,
+          "offsetEnd": 755,
+          "pos": "RB"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 756,
+          "offsetEnd": 765,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 765,
+          "offsetEnd": 766,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 767,
+          "offsetEnd": 770,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 771,
+          "offsetEnd": 777,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 778,
+          "offsetEnd": 781,
+          "pos": "VBD"
+        },
+        {
+          "word": "tested",
+          "lemma": "test",
+          "offsetBegin": 782,
+          "offsetEnd": 788,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 789,
+          "offsetEnd": 791,
+          "pos": "IN"
+        },
+        {
+          "word": "20",
+          "lemma": "20",
+          "offsetBegin": 792,
+          "offsetEnd": 794,
+          "pos": "CD"
+        },
+        {
+          "word": "patients",
+          "lemma": "patient",
+          "offsetBegin": 795,
+          "offsetEnd": 803,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 804,
+          "offsetEnd": 805,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "988",
+          "lemma": "988",
+          "offsetBegin": 805,
+          "offsetEnd": 808,
+          "pos": "CD"
+        },
+        {
+          "word": "total",
+          "lemma": "total",
+          "offsetBegin": 809,
+          "offsetEnd": 814,
+          "pos": "JJ"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 815,
+          "offsetEnd": 821,
+          "pos": "NNS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 821,
+          "offsetEnd": 822,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 823,
+          "offsetEnd": 827,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 828,
+          "offsetEnd": 831,
+          "pos": "DT"
+        },
+        {
+          "word": "Oncology",
+          "lemma": "Oncology",
+          "offsetBegin": 832,
+          "offsetEnd": 840,
+          "pos": "NNP"
+        },
+        {
+          "word": "Department",
+          "lemma": "Department",
+          "offsetBegin": 841,
+          "offsetEnd": 851,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 852,
+          "offsetEnd": 854,
+          "pos": "IN"
+        },
+        {
+          "word": "La",
+          "lemma": "La",
+          "offsetBegin": 855,
+          "offsetEnd": 857,
+          "pos": "NNP"
+        },
+        {
+          "word": "Chaux-de-Fonds",
+          "lemma": "Chaux-de-Fonds",
+          "offsetBegin": 858,
+          "offsetEnd": 872,
+          "pos": "NNP"
+        },
+        {
+          "word": "Hospital",
+          "lemma": "Hospital",
+          "offsetBegin": 873,
+          "offsetEnd": 881,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 882,
+          "offsetEnd": 885,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 886,
+          "offsetEnd": 889,
+          "pos": "DT"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 890,
+          "offsetEnd": 897,
+          "pos": "NNS"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 898,
+          "offsetEnd": 902,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 903,
+          "offsetEnd": 907,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 908,
+          "offsetEnd": 911,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 912,
+          "offsetEnd": 918,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 919,
+          "offsetEnd": 921,
+          "pos": "VBZ"
+        },
+        {
+          "word": "reliable",
+          "lemma": "reliable",
+          "offsetBegin": 922,
+          "offsetEnd": 930,
+          "pos": "JJ"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 931,
+          "offsetEnd": 933,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 934,
+          "offsetEnd": 935,
+          "pos": "DT"
+        },
+        {
+          "word": "computer-aided",
+          "lemma": "computer-aided",
+          "offsetBegin": 936,
+          "offsetEnd": 950,
+          "pos": "JJ"
+        },
+        {
+          "word": "diagnostic",
+          "lemma": "diagnostic",
+          "offsetBegin": 951,
+          "offsetEnd": 961,
+          "pos": "JJ"
+        },
+        {
+          "word": "tool",
+          "lemma": "tool",
+          "offsetBegin": 962,
+          "offsetEnd": 966,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 967,
+          "offsetEnd": 970,
+          "pos": "IN"
+        },
+        {
+          "word": "clinical",
+          "lemma": "clinical",
+          "offsetBegin": 971,
+          "offsetEnd": 979,
+          "pos": "JJ"
+        },
+        {
+          "word": "purpose",
+          "lemma": "purpose",
+          "offsetBegin": 980,
+          "offsetEnd": 987,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 988,
+          "offsetEnd": 990,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 991,
+          "offsetEnd": 993,
+          "pos": "DT"
+        },
+        {
+          "word": "oncology",
+          "lemma": "oncology",
+          "offsetBegin": 994,
+          "offsetEnd": 1002,
+          "pos": "NN"
+        },
+        {
+          "word": "department",
+          "lemma": "department",
+          "offsetBegin": 1003,
+          "offsetEnd": 1013,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

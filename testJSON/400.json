@@ -1,0 +1,973 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "120-mW",
+          "lemma": "120-mw",
+          "offsetBegin": 2,
+          "offsetEnd": 8,
+          "pos": "JJ"
+        },
+        {
+          "word": "3-D",
+          "lemma": "3-d",
+          "offsetBegin": 9,
+          "offsetEnd": 12,
+          "pos": "JJ"
+        },
+        {
+          "word": "rendering",
+          "lemma": "rendering",
+          "offsetBegin": 13,
+          "offsetEnd": 22,
+          "pos": "NN"
+        },
+        {
+          "word": "engine",
+          "lemma": "engine",
+          "offsetBegin": 23,
+          "offsetEnd": 29,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 30,
+          "offsetEnd": 34,
+          "pos": "IN"
+        },
+        {
+          "word": "6-Mb",
+          "lemma": "6-mb",
+          "offsetBegin": 35,
+          "offsetEnd": 39,
+          "pos": "JJ"
+        },
+        {
+          "word": "embedded",
+          "lemma": "embedded",
+          "offsetBegin": 40,
+          "offsetEnd": 48,
+          "pos": "JJ"
+        },
+        {
+          "word": "DRAM",
+          "lemma": "dram",
+          "offsetBegin": 49,
+          "offsetEnd": 53,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 54,
+          "offsetEnd": 57,
+          "pos": "CC"
+        },
+        {
+          "word": "3.2-GB",
+          "lemma": "3.2-gb",
+          "offsetBegin": 58,
+          "offsetEnd": 64,
+          "pos": "NN"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 64,
+          "offsetEnd": 65,
+          "pos": ":"
+        },
+        {
+          "word": "s",
+          "lemma": "s",
+          "offsetBegin": 65,
+          "offsetEnd": 66,
+          "pos": "NNS"
+        },
+        {
+          "word": "runtime",
+          "lemma": "runtime",
+          "offsetBegin": 67,
+          "offsetEnd": 74,
+          "pos": "VBP"
+        },
+        {
+          "word": "reconfigurable",
+          "lemma": "reconfigurable",
+          "offsetBegin": 75,
+          "offsetEnd": 89,
+          "pos": "JJ"
+        },
+        {
+          "word": "bus",
+          "lemma": "bus",
+          "offsetBegin": 90,
+          "offsetEnd": 93,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 94,
+          "offsetEnd": 97,
+          "pos": "IN"
+        },
+        {
+          "word": "PDA",
+          "lemma": "PDA",
+          "offsetBegin": 98,
+          "offsetEnd": 101,
+          "pos": "NNP"
+        },
+        {
+          "word": "chip",
+          "lemma": "chip",
+          "offsetBegin": 102,
+          "offsetEnd": 106,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 107,
+          "offsetEnd": 108,
+          "pos": "DT"
+        },
+        {
+          "word": "low-power",
+          "lemma": "low-power",
+          "offsetBegin": 109,
+          "offsetEnd": 118,
+          "pos": "JJ"
+        },
+        {
+          "word": "three-dimensional",
+          "lemma": "three-dimensional",
+          "offsetBegin": 119,
+          "offsetEnd": 136,
+          "pos": "JJ"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 137,
+          "offsetEnd": 138,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "3-D",
+          "lemma": "3-d",
+          "offsetBegin": 138,
+          "offsetEnd": 141,
+          "pos": "JJ"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 141,
+          "offsetEnd": 142,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "rendering",
+          "lemma": "render",
+          "offsetBegin": 143,
+          "offsetEnd": 152,
+          "pos": "VBG"
+        },
+        {
+          "word": "engine",
+          "lemma": "engine",
+          "offsetBegin": 153,
+          "offsetEnd": 159,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 160,
+          "offsetEnd": 162,
+          "pos": "VBZ"
+        },
+        {
+          "word": "implemented",
+          "lemma": "implement",
+          "offsetBegin": 163,
+          "offsetEnd": 174,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 175,
+          "offsetEnd": 177,
+          "pos": "IN"
+        },
+        {
+          "word": "part",
+          "lemma": "part",
+          "offsetBegin": 178,
+          "offsetEnd": 182,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 183,
+          "offsetEnd": 185,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 186,
+          "offsetEnd": 187,
+          "pos": "DT"
+        },
+        {
+          "word": "mobile",
+          "lemma": "mobile",
+          "offsetBegin": 188,
+          "offsetEnd": 194,
+          "pos": "JJ"
+        },
+        {
+          "word": "personal",
+          "lemma": "personal",
+          "offsetBegin": 195,
+          "offsetEnd": 203,
+          "pos": "JJ"
+        },
+        {
+          "word": "digital",
+          "lemma": "digital",
+          "offsetBegin": 204,
+          "offsetEnd": 211,
+          "pos": "JJ"
+        },
+        {
+          "word": "assistant",
+          "lemma": "assistant",
+          "offsetBegin": 212,
+          "offsetEnd": 221,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 222,
+          "offsetEnd": 223,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "PDA",
+          "lemma": "pda",
+          "offsetBegin": 223,
+          "offsetEnd": 226,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 226,
+          "offsetEnd": 227,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "chip",
+          "lemma": "chip",
+          "offsetBegin": 228,
+          "offsetEnd": 232,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 232,
+          "offsetEnd": 233,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Six-megabit",
+          "lemma": "six-megabit",
+          "offsetBegin": 234,
+          "offsetEnd": 245,
+          "pos": "JJ"
+        },
+        {
+          "word": "embedded",
+          "lemma": "embedded",
+          "offsetBegin": 246,
+          "offsetEnd": 254,
+          "pos": "JJ"
+        },
+        {
+          "word": "DRAM",
+          "lemma": "dram",
+          "offsetBegin": 255,
+          "offsetEnd": 259,
+          "pos": "NN"
+        },
+        {
+          "word": "macros",
+          "lemma": "macro",
+          "offsetBegin": 260,
+          "offsetEnd": 266,
+          "pos": "NNS"
+        },
+        {
+          "word": "attached",
+          "lemma": "attach",
+          "offsetBegin": 267,
+          "offsetEnd": 275,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 276,
+          "offsetEnd": 278,
+          "pos": "TO"
+        },
+        {
+          "word": "8-pixel-parallel",
+          "lemma": "8-pixel-parallel",
+          "offsetBegin": 279,
+          "offsetEnd": 295,
+          "pos": "JJ"
+        },
+        {
+          "word": "rendering",
+          "lemma": "render",
+          "offsetBegin": 296,
+          "offsetEnd": 305,
+          "pos": "VBG"
+        },
+        {
+          "word": "logic",
+          "lemma": "logic",
+          "offsetBegin": 306,
+          "offsetEnd": 311,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 312,
+          "offsetEnd": 315,
+          "pos": "VBP"
+        },
+        {
+          "word": "logically",
+          "lemma": "logically",
+          "offsetBegin": 316,
+          "offsetEnd": 325,
+          "pos": "RB"
+        },
+        {
+          "word": "localized",
+          "lemma": "localized",
+          "offsetBegin": 326,
+          "offsetEnd": 335,
+          "pos": "JJ"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 336,
+          "offsetEnd": 340,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 341,
+          "offsetEnd": 342,
+          "pos": "DT"
+        },
+        {
+          "word": "3.2-GB",
+          "lemma": "3.2-gb",
+          "offsetBegin": 343,
+          "offsetEnd": 349,
+          "pos": "NN"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 349,
+          "offsetEnd": 350,
+          "pos": ":"
+        },
+        {
+          "word": "s",
+          "lemma": "s",
+          "offsetBegin": 350,
+          "offsetEnd": 351,
+          "pos": "NNS"
+        },
+        {
+          "word": "runtime",
+          "lemma": "runtime",
+          "offsetBegin": 352,
+          "offsetEnd": 359,
+          "pos": "VBP"
+        },
+        {
+          "word": "reconfigurable",
+          "lemma": "reconfigurable",
+          "offsetBegin": 360,
+          "offsetEnd": 374,
+          "pos": "JJ"
+        },
+        {
+          "word": "bus",
+          "lemma": "bus",
+          "offsetBegin": 375,
+          "offsetEnd": 378,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 378,
+          "offsetEnd": 379,
+          "pos": ","
+        },
+        {
+          "word": "reducing",
+          "lemma": "reduce",
+          "offsetBegin": 380,
+          "offsetEnd": 388,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 389,
+          "offsetEnd": 392,
+          "pos": "DT"
+        },
+        {
+          "word": "area",
+          "lemma": "area",
+          "offsetBegin": 393,
+          "offsetEnd": 397,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 398,
+          "offsetEnd": 400,
+          "pos": "IN"
+        },
+        {
+          "word": "25",
+          "lemma": "25",
+          "offsetBegin": 401,
+          "offsetEnd": 403,
+          "pos": "CD"
+        },
+        {
+          "word": "%",
+          "lemma": "%",
+          "offsetBegin": 403,
+          "offsetEnd": 404,
+          "pos": "NN"
+        },
+        {
+          "word": "compared",
+          "lemma": "compare",
+          "offsetBegin": 405,
+          "offsetEnd": 413,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 414,
+          "offsetEnd": 418,
+          "pos": "IN"
+        },
+        {
+          "word": "conventional",
+          "lemma": "conventional",
+          "offsetBegin": 419,
+          "offsetEnd": 431,
+          "pos": "JJ"
+        },
+        {
+          "word": "local",
+          "lemma": "local",
+          "offsetBegin": 432,
+          "offsetEnd": 437,
+          "pos": "JJ"
+        },
+        {
+          "word": "frame-buffer",
+          "lemma": "frame-buffer",
+          "offsetBegin": 438,
+          "offsetEnd": 450,
+          "pos": "NN"
+        },
+        {
+          "word": "architectures",
+          "lemma": "architecture",
+          "offsetBegin": 451,
+          "offsetEnd": 464,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 464,
+          "offsetEnd": 465,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 466,
+          "offsetEnd": 469,
+          "pos": "DT"
+        },
+        {
+          "word": "low",
+          "lemma": "low",
+          "offsetBegin": 470,
+          "offsetEnd": 473,
+          "pos": "JJ"
+        },
+        {
+          "word": "power",
+          "lemma": "power",
+          "offsetBegin": 474,
+          "offsetEnd": 479,
+          "pos": "NN"
+        },
+        {
+          "word": "consumption",
+          "lemma": "consumption",
+          "offsetBegin": 480,
+          "offsetEnd": 491,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 492,
+          "offsetEnd": 494,
+          "pos": "VBZ"
+        },
+        {
+          "word": "achieved",
+          "lemma": "achieve",
+          "offsetBegin": 495,
+          "offsetEnd": 503,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 504,
+          "offsetEnd": 506,
+          "pos": "IN"
+        },
+        {
+          "word": "polygon-dependent",
+          "lemma": "polygon-dependent",
+          "offsetBegin": 507,
+          "offsetEnd": 524,
+          "pos": "JJ"
+        },
+        {
+          "word": "access",
+          "lemma": "access",
+          "offsetBegin": 525,
+          "offsetEnd": 531,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 532,
+          "offsetEnd": 534,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 535,
+          "offsetEnd": 538,
+          "pos": "DT"
+        },
+        {
+          "word": "embedded",
+          "lemma": "embedded",
+          "offsetBegin": 539,
+          "offsetEnd": 547,
+          "pos": "JJ"
+        },
+        {
+          "word": "DRAM",
+          "lemma": "DRAM",
+          "offsetBegin": 548,
+          "offsetEnd": 552,
+          "pos": "NNP"
+        },
+        {
+          "word": "macros",
+          "lemma": "macro",
+          "offsetBegin": 553,
+          "offsetEnd": 559,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 560,
+          "offsetEnd": 564,
+          "pos": "IN"
+        },
+        {
+          "word": "line-block",
+          "lemma": "line-block",
+          "offsetBegin": 565,
+          "offsetEnd": 575,
+          "pos": "JJ"
+        },
+        {
+          "word": "mapping",
+          "lemma": "mapping",
+          "offsetBegin": 576,
+          "offsetEnd": 583,
+          "pos": "NN"
+        },
+        {
+          "word": "providing",
+          "lemma": "provide",
+          "offsetBegin": 584,
+          "offsetEnd": 593,
+          "pos": "VBG"
+        },
+        {
+          "word": "read-modify-write",
+          "lemma": "read-modify-write",
+          "offsetBegin": 594,
+          "offsetEnd": 611,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 612,
+          "offsetEnd": 616,
+          "pos": "NNS"
+        },
+        {
+          "word": "transaction",
+          "lemma": "transaction",
+          "offsetBegin": 617,
+          "offsetEnd": 628,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 628,
+          "offsetEnd": 629,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 630,
+          "offsetEnd": 633,
+          "pos": "DT"
+        },
+        {
+          "word": "3-D",
+          "lemma": "3-d",
+          "offsetBegin": 634,
+          "offsetEnd": 637,
+          "pos": "JJ"
+        },
+        {
+          "word": "rendering",
+          "lemma": "render",
+          "offsetBegin": 638,
+          "offsetEnd": 647,
+          "pos": "VBG"
+        },
+        {
+          "word": "engine",
+          "lemma": "engine",
+          "offsetBegin": 648,
+          "offsetEnd": 654,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 655,
+          "offsetEnd": 659,
+          "pos": "IN"
+        },
+        {
+          "word": "2.22-Mpolygons",
+          "lemma": "2.22-mpolygons",
+          "offsetBegin": 660,
+          "offsetEnd": 674,
+          "pos": "JJ"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 674,
+          "offsetEnd": 675,
+          "pos": ":"
+        },
+        {
+          "word": "s",
+          "lemma": "s",
+          "offsetBegin": 675,
+          "offsetEnd": 676,
+          "pos": "NNS"
+        },
+        {
+          "word": "drawing",
+          "lemma": "draw",
+          "offsetBegin": 677,
+          "offsetEnd": 684,
+          "pos": "VBG"
+        },
+        {
+          "word": "speed",
+          "lemma": "speed",
+          "offsetBegin": 685,
+          "offsetEnd": 690,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 691,
+          "offsetEnd": 694,
+          "pos": "VBD"
+        },
+        {
+          "word": "fabricated",
+          "lemma": "fabricate",
+          "offsetBegin": 695,
+          "offsetEnd": 705,
+          "pos": "VBN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 706,
+          "offsetEnd": 711,
+          "pos": "VBG"
+        },
+        {
+          "word": "0.18",
+          "lemma": "0.18",
+          "offsetBegin": 712,
+          "offsetEnd": 716,
+          "pos": "CD"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 716,
+          "offsetEnd": 717,
+          "pos": ":"
+        },
+        {
+          "word": "mu",
+          "lemma": "mu",
+          "offsetBegin": 718,
+          "offsetEnd": 720,
+          "pos": "NN"
+        },
+        {
+          "word": "m",
+          "lemma": "m",
+          "offsetBegin": 721,
+          "offsetEnd": 722,
+          "pos": "NN"
+        },
+        {
+          "word": "CMOS",
+          "lemma": "cmo",
+          "offsetBegin": 723,
+          "offsetEnd": 727,
+          "pos": "NNS"
+        },
+        {
+          "word": "embedded",
+          "lemma": "embedded",
+          "offsetBegin": 728,
+          "offsetEnd": 736,
+          "pos": "JJ"
+        },
+        {
+          "word": "memory",
+          "lemma": "memory",
+          "offsetBegin": 737,
+          "offsetEnd": 743,
+          "pos": "NN"
+        },
+        {
+          "word": "logic",
+          "lemma": "logic",
+          "offsetBegin": 744,
+          "offsetEnd": 749,
+          "pos": "NN"
+        },
+        {
+          "word": "technology",
+          "lemma": "technology",
+          "offsetBegin": 750,
+          "offsetEnd": 760,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 760,
+          "offsetEnd": 761,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Its",
+          "lemma": "its",
+          "offsetBegin": 762,
+          "offsetEnd": 765,
+          "pos": "PRP$"
+        },
+        {
+          "word": "area",
+          "lemma": "area",
+          "offsetBegin": 766,
+          "offsetEnd": 770,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 771,
+          "offsetEnd": 773,
+          "pos": "VBZ"
+        },
+        {
+          "word": "24",
+          "lemma": "24",
+          "offsetBegin": 774,
+          "offsetEnd": 776,
+          "pos": "CD"
+        },
+        {
+          "word": "mm/sup",
+          "lemma": "mm/sup",
+          "offsetBegin": 777,
+          "offsetEnd": 783,
+          "pos": "NN"
+        },
+        {
+          "word": "2",
+          "lemma": "2",
+          "offsetBegin": 784,
+          "offsetEnd": 785,
+          "pos": "CD"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 785,
+          "offsetEnd": 786,
+          "pos": ":"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 787,
+          "offsetEnd": 790,
+          "pos": "CC"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 791,
+          "offsetEnd": 794,
+          "pos": "PRP$"
+        },
+        {
+          "word": "power",
+          "lemma": "power",
+          "offsetBegin": 795,
+          "offsetEnd": 800,
+          "pos": "NN"
+        },
+        {
+          "word": "consumption",
+          "lemma": "consumption",
+          "offsetBegin": 801,
+          "offsetEnd": 812,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 813,
+          "offsetEnd": 815,
+          "pos": "VBZ"
+        },
+        {
+          "word": "120",
+          "lemma": "120",
+          "offsetBegin": 816,
+          "offsetEnd": 819,
+          "pos": "CD"
+        },
+        {
+          "word": "mW",
+          "lemma": "mw",
+          "offsetBegin": 820,
+          "offsetEnd": 822,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

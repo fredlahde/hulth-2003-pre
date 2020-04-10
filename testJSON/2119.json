@@ -1,0 +1,619 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Location",
+          "lemma": "Location",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 9,
+          "offsetEnd": 11,
+          "pos": "IN"
+        },
+        {
+          "word": "transport",
+          "lemma": "transport",
+          "offsetBegin": 12,
+          "offsetEnd": 21,
+          "pos": "NN"
+        },
+        {
+          "word": "nets",
+          "lemma": "net",
+          "offsetBegin": 22,
+          "offsetEnd": 26,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 27,
+          "offsetEnd": 29,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 30,
+          "offsetEnd": 31,
+          "pos": "DT"
+        },
+        {
+          "word": "heterogeneous",
+          "lemma": "heterogeneous",
+          "offsetBegin": 32,
+          "offsetEnd": 45,
+          "pos": "JJ"
+        },
+        {
+          "word": "territory",
+          "lemma": "territory",
+          "offsetBegin": 46,
+          "offsetEnd": 55,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 56,
+          "offsetEnd": 59,
+          "pos": "DT"
+        },
+        {
+          "word": "location",
+          "lemma": "location",
+          "offsetBegin": 60,
+          "offsetEnd": 68,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 69,
+          "offsetEnd": 71,
+          "pos": "IN"
+        },
+        {
+          "word": "transport",
+          "lemma": "transport",
+          "offsetBegin": 72,
+          "offsetEnd": 81,
+          "pos": "NN"
+        },
+        {
+          "word": "routes",
+          "lemma": "route",
+          "offsetBegin": 82,
+          "offsetEnd": 88,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 89,
+          "offsetEnd": 91,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 92,
+          "offsetEnd": 93,
+          "pos": "DT"
+        },
+        {
+          "word": "heterogeneous",
+          "lemma": "heterogeneous",
+          "offsetBegin": 94,
+          "offsetEnd": 107,
+          "pos": "JJ"
+        },
+        {
+          "word": "territory",
+          "lemma": "territory",
+          "offsetBegin": 108,
+          "offsetEnd": 117,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 118,
+          "offsetEnd": 120,
+          "pos": "VBZ"
+        },
+        {
+          "word": "studied",
+          "lemma": "study",
+          "offsetBegin": 121,
+          "offsetEnd": 128,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 128,
+          "offsetEnd": 129,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 130,
+          "offsetEnd": 133,
+          "pos": "DT"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 134,
+          "offsetEnd": 141,
+          "pos": "NN"
+        },
+        {
+          "word": "joins",
+          "lemma": "join",
+          "offsetBegin": 142,
+          "offsetEnd": 147,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 148,
+          "offsetEnd": 149,
+          "pos": "DT"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 150,
+          "offsetEnd": 155,
+          "pos": "VBN"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 156,
+          "offsetEnd": 159,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 160,
+          "offsetEnd": 162,
+          "pos": "IN"
+        },
+        {
+          "word": "terminal",
+          "lemma": "terminal",
+          "offsetBegin": 163,
+          "offsetEnd": 171,
+          "pos": "JJ"
+        },
+        {
+          "word": "points",
+          "lemma": "point",
+          "offsetBegin": 172,
+          "offsetEnd": 178,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 179,
+          "offsetEnd": 182,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 183,
+          "offsetEnd": 184,
+          "pos": "DT"
+        },
+        {
+          "word": "certain",
+          "lemma": "certain",
+          "offsetBegin": 185,
+          "offsetEnd": 192,
+          "pos": "JJ"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 193,
+          "offsetEnd": 199,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 200,
+          "offsetEnd": 202,
+          "pos": "IN"
+        },
+        {
+          "word": "additional",
+          "lemma": "additional",
+          "offsetBegin": 203,
+          "offsetEnd": 213,
+          "pos": "JJ"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 214,
+          "offsetEnd": 215,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "branch",
+          "lemma": "branch",
+          "offsetBegin": 215,
+          "offsetEnd": 221,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 221,
+          "offsetEnd": 222,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "points",
+          "lemma": "point",
+          "offsetBegin": 223,
+          "offsetEnd": 229,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 229,
+          "offsetEnd": 230,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 231,
+          "offsetEnd": 234,
+          "pos": "DT"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 235,
+          "offsetEnd": 242,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 243,
+          "offsetEnd": 245,
+          "pos": "VBZ"
+        },
+        {
+          "word": "formulated",
+          "lemma": "formulate",
+          "offsetBegin": 246,
+          "offsetEnd": 256,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 256,
+          "offsetEnd": 257,
+          "pos": ","
+        },
+        {
+          "word": "properties",
+          "lemma": "property",
+          "offsetBegin": 258,
+          "offsetEnd": 268,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 269,
+          "offsetEnd": 271,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 272,
+          "offsetEnd": 275,
+          "pos": "DT"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 276,
+          "offsetEnd": 283,
+          "pos": "JJ"
+        },
+        {
+          "word": "solution",
+          "lemma": "solution",
+          "offsetBegin": 284,
+          "offsetEnd": 292,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 293,
+          "offsetEnd": 296,
+          "pos": "IN"
+        },
+        {
+          "word": "a.",
+          "lemma": "a.",
+          "offsetBegin": 297,
+          "offsetEnd": 299,
+          "pos": "FW"
+        },
+        {
+          "word": "tree-like",
+          "lemma": "tree-like",
+          "offsetBegin": 300,
+          "offsetEnd": 309,
+          "pos": "JJ"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 310,
+          "offsetEnd": 317,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 317,
+          "offsetEnd": 318,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 319,
+          "offsetEnd": 322,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 323,
+          "offsetEnd": 326,
+          "pos": "DT"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 327,
+          "offsetEnd": 333,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 334,
+          "offsetEnd": 336,
+          "pos": "IN"
+        },
+        {
+          "word": "branch",
+          "lemma": "branch",
+          "offsetBegin": 337,
+          "offsetEnd": 343,
+          "pos": "NN"
+        },
+        {
+          "word": "points",
+          "lemma": "point",
+          "offsetBegin": 344,
+          "offsetEnd": 350,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 351,
+          "offsetEnd": 354,
+          "pos": "VBP"
+        },
+        {
+          "word": "studied",
+          "lemma": "study",
+          "offsetBegin": 355,
+          "offsetEnd": 362,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 362,
+          "offsetEnd": 363,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 364,
+          "offsetEnd": 365,
+          "pos": "DT"
+        },
+        {
+          "word": "stepwise",
+          "lemma": "stepwise",
+          "offsetBegin": 366,
+          "offsetEnd": 374,
+          "pos": "JJ"
+        },
+        {
+          "word": "optimization",
+          "lemma": "optimization",
+          "offsetBegin": 375,
+          "offsetEnd": 387,
+          "pos": "NN"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 388,
+          "offsetEnd": 397,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 398,
+          "offsetEnd": 401,
+          "pos": "IN"
+        },
+        {
+          "word": "a.",
+          "lemma": "a.",
+          "offsetBegin": 402,
+          "offsetEnd": 404,
+          "pos": "NN"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 405,
+          "offsetEnd": 412,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 413,
+          "offsetEnd": 417,
+          "pos": "IN"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 418,
+          "offsetEnd": 423,
+          "pos": "VBN"
+        },
+        {
+          "word": "adjacency",
+          "lemma": "adjacency",
+          "offsetBegin": 424,
+          "offsetEnd": 433,
+          "pos": "NN"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 434,
+          "offsetEnd": 440,
+          "pos": "NN"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 441,
+          "offsetEnd": 446,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 447,
+          "offsetEnd": 449,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 450,
+          "offsetEnd": 452,
+          "pos": "DT"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 453,
+          "offsetEnd": 462,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 463,
+          "offsetEnd": 466,
+          "pos": "IN"
+        },
+        {
+          "word": "constructing",
+          "lemma": "construct",
+          "offsetBegin": 467,
+          "offsetEnd": 479,
+          "pos": "VBG"
+        },
+        {
+          "word": "minimal-cost",
+          "lemma": "minimal-cost",
+          "offsetBegin": 480,
+          "offsetEnd": 492,
+          "pos": "JJ"
+        },
+        {
+          "word": "routes",
+          "lemma": "route",
+          "offsetBegin": 493,
+          "offsetEnd": 499,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 500,
+          "offsetEnd": 502,
+          "pos": "VBZ"
+        },
+        {
+          "word": "designed",
+          "lemma": "design",
+          "offsetBegin": 503,
+          "offsetEnd": 511,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

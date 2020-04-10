@@ -1,0 +1,827 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Generating",
+          "lemma": "Generating",
+          "offsetBegin": 0,
+          "offsetEnd": 10,
+          "pos": "NNP"
+        },
+        {
+          "word": "code",
+          "lemma": "code",
+          "offsetBegin": 11,
+          "offsetEnd": 15,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 16,
+          "offsetEnd": 18,
+          "pos": "IN"
+        },
+        {
+          "word": "run",
+          "lemma": "run",
+          "offsetBegin": 19,
+          "offsetEnd": 22,
+          "pos": "NN"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 23,
+          "offsetEnd": 27,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 28,
+          "offsetEnd": 32,
+          "pos": "IN"
+        },
+        {
+          "word": "Reflection.Emit",
+          "lemma": "reflection.emit",
+          "offsetBegin": 33,
+          "offsetEnd": 48,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 49,
+          "offsetEnd": 52,
+          "pos": "DT"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 53,
+          "offsetEnd": 54,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "NET",
+          "lemma": "net",
+          "offsetBegin": 54,
+          "offsetEnd": 57,
+          "pos": "NN"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 58,
+          "offsetEnd": 67,
+          "pos": "NN"
+        },
+        {
+          "word": "SDK",
+          "lemma": "sdk",
+          "offsetBegin": 68,
+          "offsetEnd": 71,
+          "pos": "NN"
+        },
+        {
+          "word": "includes",
+          "lemma": "include",
+          "offsetBegin": 72,
+          "offsetEnd": 80,
+          "pos": "VBZ"
+        },
+        {
+          "word": "several",
+          "lemma": "several",
+          "offsetBegin": 81,
+          "offsetEnd": 88,
+          "pos": "JJ"
+        },
+        {
+          "word": "tools",
+          "lemma": "tool",
+          "offsetBegin": 89,
+          "offsetEnd": 94,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 95,
+          "offsetEnd": 99,
+          "pos": "WDT"
+        },
+        {
+          "word": "convert",
+          "lemma": "convert",
+          "offsetBegin": 100,
+          "offsetEnd": 107,
+          "pos": "VBP"
+        },
+        {
+          "word": "source",
+          "lemma": "source",
+          "offsetBegin": 108,
+          "offsetEnd": 114,
+          "pos": "NN"
+        },
+        {
+          "word": "code",
+          "lemma": "code",
+          "offsetBegin": 115,
+          "offsetEnd": 119,
+          "pos": "NN"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 120,
+          "offsetEnd": 124,
+          "pos": "IN"
+        },
+        {
+          "word": "executable",
+          "lemma": "executable",
+          "offsetBegin": 125,
+          "offsetEnd": 135,
+          "pos": "JJ"
+        },
+        {
+          "word": "code-the",
+          "lemma": "code-the",
+          "offsetBegin": 136,
+          "offsetEnd": 144,
+          "pos": "JJ"
+        },
+        {
+          "word": "C#",
+          "lemma": "c#",
+          "offsetBegin": 145,
+          "offsetEnd": 147,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 148,
+          "offsetEnd": 151,
+          "pos": "CC"
+        },
+        {
+          "word": "VB.NET",
+          "lemma": "vb.net",
+          "offsetBegin": 152,
+          "offsetEnd": 158,
+          "pos": "NN"
+        },
+        {
+          "word": "compilers",
+          "lemma": "compiler",
+          "offsetBegin": 159,
+          "offsetEnd": 168,
+          "pos": "NNS"
+        },
+        {
+          "word": "get",
+          "lemma": "get",
+          "offsetBegin": 169,
+          "offsetEnd": 172,
+          "pos": "VBP"
+        },
+        {
+          "word": "most",
+          "lemma": "most",
+          "offsetBegin": 173,
+          "offsetEnd": 177,
+          "pos": "JJS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 178,
+          "offsetEnd": 180,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 181,
+          "offsetEnd": 184,
+          "pos": "DT"
+        },
+        {
+          "word": "attention",
+          "lemma": "attention",
+          "offsetBegin": 185,
+          "offsetEnd": 194,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 194,
+          "offsetEnd": 195,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 196,
+          "offsetEnd": 199,
+          "pos": "CC"
+        },
+        {
+          "word": "there",
+          "lemma": "there",
+          "offsetBegin": 200,
+          "offsetEnd": 205,
+          "pos": "EX"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 206,
+          "offsetEnd": 209,
+          "pos": "VBP"
+        },
+        {
+          "word": "others",
+          "lemma": "other",
+          "offsetBegin": 210,
+          "offsetEnd": 216,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 216,
+          "offsetEnd": 217,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 218,
+          "offsetEnd": 221,
+          "pos": "DT"
+        },
+        {
+          "word": "Regex",
+          "lemma": "Regex",
+          "offsetBegin": 222,
+          "offsetEnd": 227,
+          "pos": "NNP"
+        },
+        {
+          "word": "class",
+          "lemma": "class",
+          "offsetBegin": 228,
+          "offsetEnd": 233,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 234,
+          "offsetEnd": 235,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 235,
+          "offsetEnd": 237,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 238,
+          "offsetEnd": 241,
+          "pos": "DT"
+        },
+        {
+          "word": "System.Text.RegularExpressions",
+          "lemma": "system.text.regularexpressions",
+          "offsetBegin": 242,
+          "offsetEnd": 272,
+          "pos": "NNS"
+        },
+        {
+          "word": "namespace",
+          "lemma": "namespace",
+          "offsetBegin": 273,
+          "offsetEnd": 282,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 282,
+          "offsetEnd": 283,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 284,
+          "offsetEnd": 287,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 288,
+          "offsetEnd": 291,
+          "pos": "DT"
+        },
+        {
+          "word": "ability",
+          "lemma": "ability",
+          "offsetBegin": 292,
+          "offsetEnd": 299,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 300,
+          "offsetEnd": 302,
+          "pos": "TO"
+        },
+        {
+          "word": "compile",
+          "lemma": "compile",
+          "offsetBegin": 303,
+          "offsetEnd": 310,
+          "pos": "VB"
+        },
+        {
+          "word": "favorite",
+          "lemma": "favorite",
+          "offsetBegin": 311,
+          "offsetEnd": 319,
+          "pos": "JJ"
+        },
+        {
+          "word": "regular",
+          "lemma": "regular",
+          "offsetBegin": 320,
+          "offsetEnd": 327,
+          "pos": "JJ"
+        },
+        {
+          "word": "expressions",
+          "lemma": "expression",
+          "offsetBegin": 328,
+          "offsetEnd": 339,
+          "pos": "NNS"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 340,
+          "offsetEnd": 344,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 345,
+          "offsetEnd": 346,
+          "pos": "DT"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 347,
+          "offsetEnd": 348,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "NET",
+          "lemma": "net",
+          "offsetBegin": 348,
+          "offsetEnd": 351,
+          "pos": "NN"
+        },
+        {
+          "word": "assembly",
+          "lemma": "assembly",
+          "offsetBegin": 352,
+          "offsetEnd": 360,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 360,
+          "offsetEnd": 361,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 362,
+          "offsetEnd": 364,
+          "pos": "IN"
+        },
+        {
+          "word": "fact",
+          "lemma": "fact",
+          "offsetBegin": 365,
+          "offsetEnd": 369,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 369,
+          "offsetEnd": 370,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 371,
+          "offsetEnd": 374,
+          "pos": "DT"
+        },
+        {
+          "word": "NET",
+          "lemma": "NET",
+          "offsetBegin": 375,
+          "offsetEnd": 378,
+          "pos": "NNP"
+        },
+        {
+          "word": "Common",
+          "lemma": "Common",
+          "offsetBegin": 379,
+          "offsetEnd": 385,
+          "pos": "NNP"
+        },
+        {
+          "word": "Language",
+          "lemma": "Language",
+          "offsetBegin": 386,
+          "offsetEnd": 394,
+          "pos": "NNP"
+        },
+        {
+          "word": "Runtime",
+          "lemma": "Runtime",
+          "offsetBegin": 395,
+          "offsetEnd": 402,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 403,
+          "offsetEnd": 404,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "CLR",
+          "lemma": "CLR",
+          "offsetBegin": 404,
+          "offsetEnd": 407,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 407,
+          "offsetEnd": 408,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "contains",
+          "lemma": "contain",
+          "offsetBegin": 409,
+          "offsetEnd": 417,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 418,
+          "offsetEnd": 419,
+          "pos": "DT"
+        },
+        {
+          "word": "whole",
+          "lemma": "whole",
+          "offsetBegin": 420,
+          "offsetEnd": 425,
+          "pos": "JJ"
+        },
+        {
+          "word": "namespace",
+          "lemma": "namespace",
+          "offsetBegin": 426,
+          "offsetEnd": 435,
+          "pos": "NN"
+        },
+        {
+          "word": "full",
+          "lemma": "full",
+          "offsetBegin": 436,
+          "offsetEnd": 440,
+          "pos": "JJ"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 441,
+          "offsetEnd": 443,
+          "pos": "IN"
+        },
+        {
+          "word": "classes",
+          "lemma": "class",
+          "offsetBegin": 444,
+          "offsetEnd": 451,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 452,
+          "offsetEnd": 454,
+          "pos": "TO"
+        },
+        {
+          "word": "help",
+          "lemma": "help",
+          "offsetBegin": 455,
+          "offsetEnd": 459,
+          "pos": "VB"
+        },
+        {
+          "word": "us",
+          "lemma": "we",
+          "offsetBegin": 460,
+          "offsetEnd": 462,
+          "pos": "PRP"
+        },
+        {
+          "word": "build",
+          "lemma": "build",
+          "offsetBegin": 463,
+          "offsetEnd": 468,
+          "pos": "VB"
+        },
+        {
+          "word": "assemblies",
+          "lemma": "assembly",
+          "offsetBegin": 469,
+          "offsetEnd": 479,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 479,
+          "offsetEnd": 480,
+          "pos": ","
+        },
+        {
+          "word": "define",
+          "lemma": "define",
+          "offsetBegin": 481,
+          "offsetEnd": 487,
+          "pos": "VBP"
+        },
+        {
+          "word": "types",
+          "lemma": "type",
+          "offsetBegin": 488,
+          "offsetEnd": 493,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 493,
+          "offsetEnd": 494,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 495,
+          "offsetEnd": 498,
+          "pos": "CC"
+        },
+        {
+          "word": "emit",
+          "lemma": "emit",
+          "offsetBegin": 499,
+          "offsetEnd": 503,
+          "pos": "VB"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 504,
+          "offsetEnd": 509,
+          "pos": "PRP$"
+        },
+        {
+          "word": "implementations",
+          "lemma": "implementation",
+          "offsetBegin": 510,
+          "offsetEnd": 525,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 525,
+          "offsetEnd": 526,
+          "pos": ","
+        },
+        {
+          "word": "all",
+          "lemma": "all",
+          "offsetBegin": 527,
+          "offsetEnd": 530,
+          "pos": "DT"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 531,
+          "offsetEnd": 533,
+          "pos": "IN"
+        },
+        {
+          "word": "run",
+          "lemma": "run",
+          "offsetBegin": 534,
+          "offsetEnd": 537,
+          "pos": "NN"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 538,
+          "offsetEnd": 542,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 542,
+          "offsetEnd": 543,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "These",
+          "lemma": "these",
+          "offsetBegin": 544,
+          "offsetEnd": 549,
+          "pos": "DT"
+        },
+        {
+          "word": "classes",
+          "lemma": "class",
+          "offsetBegin": 550,
+          "offsetEnd": 557,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 557,
+          "offsetEnd": 558,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 559,
+          "offsetEnd": 564,
+          "pos": "WDT"
+        },
+        {
+          "word": "comprise",
+          "lemma": "comprise",
+          "offsetBegin": 565,
+          "offsetEnd": 573,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 574,
+          "offsetEnd": 577,
+          "pos": "DT"
+        },
+        {
+          "word": "System.Reflection.Emit",
+          "lemma": "system.reflection.emit",
+          "offsetBegin": 578,
+          "offsetEnd": 600,
+          "pos": "NN"
+        },
+        {
+          "word": "namespace",
+          "lemma": "namespace",
+          "offsetBegin": 601,
+          "offsetEnd": 610,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 610,
+          "offsetEnd": 611,
+          "pos": ","
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 612,
+          "offsetEnd": 615,
+          "pos": "VBP"
+        },
+        {
+          "word": "known",
+          "lemma": "know",
+          "offsetBegin": 616,
+          "offsetEnd": 621,
+          "pos": "VBN"
+        },
+        {
+          "word": "collectively",
+          "lemma": "collectively",
+          "offsetBegin": 622,
+          "offsetEnd": 634,
+          "pos": "RB"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 635,
+          "offsetEnd": 637,
+          "pos": "IN"
+        },
+        {
+          "word": "Reflection",
+          "lemma": "reflection",
+          "offsetBegin": 638,
+          "offsetEnd": 648,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 648,
+          "offsetEnd": 649,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Emit",
+          "lemma": "emit",
+          "offsetBegin": 650,
+          "offsetEnd": 654,
+          "pos": "VB"
+        }
+      ]
+    }
+  ]
+}

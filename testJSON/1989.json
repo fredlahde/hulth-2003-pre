@@ -1,0 +1,812 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Managing",
+          "lemma": "manage",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "VBG"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 9,
+          "offsetEnd": 15,
+          "pos": "NN"
+        },
+        {
+          "word": "risk",
+          "lemma": "risk",
+          "offsetBegin": 16,
+          "offsetEnd": 20,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Companies",
+          "lemma": "company",
+          "offsetBegin": 21,
+          "offsetEnd": 30,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 31,
+          "offsetEnd": 34,
+          "pos": "VBP"
+        },
+        {
+          "word": "increasingly",
+          "lemma": "increasingly",
+          "offsetBegin": 35,
+          "offsetEnd": 47,
+          "pos": "RB"
+        },
+        {
+          "word": "required",
+          "lemma": "require",
+          "offsetBegin": 48,
+          "offsetEnd": 56,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 57,
+          "offsetEnd": 59,
+          "pos": "TO"
+        },
+        {
+          "word": "provide",
+          "lemma": "provide",
+          "offsetBegin": 60,
+          "offsetEnd": 67,
+          "pos": "VB"
+        },
+        {
+          "word": "assurance",
+          "lemma": "assurance",
+          "offsetBegin": 68,
+          "offsetEnd": 77,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 78,
+          "offsetEnd": 82,
+          "pos": "IN"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 83,
+          "offsetEnd": 88,
+          "pos": "PRP$"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 89,
+          "offsetEnd": 96,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 97,
+          "offsetEnd": 100,
+          "pos": "VBP"
+        },
+        {
+          "word": "secure",
+          "lemma": "secure",
+          "offsetBegin": 101,
+          "offsetEnd": 107,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 108,
+          "offsetEnd": 111,
+          "pos": "CC"
+        },
+        {
+          "word": "conform",
+          "lemma": "conform",
+          "offsetBegin": 112,
+          "offsetEnd": 119,
+          "pos": "VB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 120,
+          "offsetEnd": 122,
+          "pos": "TO"
+        },
+        {
+          "word": "commercial",
+          "lemma": "commercial",
+          "offsetBegin": 123,
+          "offsetEnd": 133,
+          "pos": "JJ"
+        },
+        {
+          "word": "security",
+          "lemma": "security",
+          "offsetBegin": 134,
+          "offsetEnd": 142,
+          "pos": "NN"
+        },
+        {
+          "word": "standards",
+          "lemma": "standard",
+          "offsetBegin": 143,
+          "offsetEnd": 152,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 152,
+          "offsetEnd": 153,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Senior",
+          "lemma": "senior",
+          "offsetBegin": 154,
+          "offsetEnd": 160,
+          "pos": "JJ"
+        },
+        {
+          "word": "business",
+          "lemma": "business",
+          "offsetBegin": 161,
+          "offsetEnd": 169,
+          "pos": "NN"
+        },
+        {
+          "word": "managers",
+          "lemma": "manager",
+          "offsetBegin": 170,
+          "offsetEnd": 178,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 179,
+          "offsetEnd": 182,
+          "pos": "VBP"
+        },
+        {
+          "word": "ultimately",
+          "lemma": "ultimately",
+          "offsetBegin": 183,
+          "offsetEnd": 193,
+          "pos": "RB"
+        },
+        {
+          "word": "responsible",
+          "lemma": "responsible",
+          "offsetBegin": 194,
+          "offsetEnd": 205,
+          "pos": "JJ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 206,
+          "offsetEnd": 209,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 210,
+          "offsetEnd": 213,
+          "pos": "DT"
+        },
+        {
+          "word": "security",
+          "lemma": "security",
+          "offsetBegin": 214,
+          "offsetEnd": 222,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 223,
+          "offsetEnd": 225,
+          "pos": "IN"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 226,
+          "offsetEnd": 231,
+          "pos": "PRP$"
+        },
+        {
+          "word": "corporate",
+          "lemma": "corporate",
+          "offsetBegin": 232,
+          "offsetEnd": 241,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 242,
+          "offsetEnd": 249,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 250,
+          "offsetEnd": 253,
+          "pos": "CC"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 254,
+          "offsetEnd": 257,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 258,
+          "offsetEnd": 261,
+          "pos": "DT"
+        },
+        {
+          "word": "implications",
+          "lemma": "implication",
+          "offsetBegin": 262,
+          "offsetEnd": 274,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 275,
+          "offsetEnd": 277,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 278,
+          "offsetEnd": 281,
+          "pos": "DT"
+        },
+        {
+          "word": "event",
+          "lemma": "event",
+          "offsetBegin": 282,
+          "offsetEnd": 287,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 288,
+          "offsetEnd": 290,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 291,
+          "offsetEnd": 292,
+          "pos": "DT"
+        },
+        {
+          "word": "failure",
+          "lemma": "failure",
+          "offsetBegin": 293,
+          "offsetEnd": 300,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 300,
+          "offsetEnd": 301,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Businesses",
+          "lemma": "business",
+          "offsetBegin": 302,
+          "offsetEnd": 312,
+          "pos": "NNS"
+        },
+        {
+          "word": "will",
+          "lemma": "will",
+          "offsetBegin": 313,
+          "offsetEnd": 317,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 318,
+          "offsetEnd": 320,
+          "pos": "VB"
+        },
+        {
+          "word": "exposed",
+          "lemma": "expose",
+          "offsetBegin": 321,
+          "offsetEnd": 328,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 329,
+          "offsetEnd": 331,
+          "pos": "TO"
+        },
+        {
+          "word": "unquantified",
+          "lemma": "unquantified",
+          "offsetBegin": 332,
+          "offsetEnd": 344,
+          "pos": "JJ"
+        },
+        {
+          "word": "security",
+          "lemma": "security",
+          "offsetBegin": 345,
+          "offsetEnd": 353,
+          "pos": "NN"
+        },
+        {
+          "word": "risks",
+          "lemma": "risk",
+          "offsetBegin": 354,
+          "offsetEnd": 359,
+          "pos": "NNS"
+        },
+        {
+          "word": "unless",
+          "lemma": "unless",
+          "offsetBegin": 360,
+          "offsetEnd": 366,
+          "pos": "IN"
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 367,
+          "offsetEnd": 371,
+          "pos": "PRP"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 372,
+          "offsetEnd": 376,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 377,
+          "offsetEnd": 378,
+          "pos": "DT"
+        },
+        {
+          "word": "formal",
+          "lemma": "formal",
+          "offsetBegin": 379,
+          "offsetEnd": 385,
+          "pos": "JJ"
+        },
+        {
+          "word": "risk",
+          "lemma": "risk",
+          "offsetBegin": 386,
+          "offsetEnd": 390,
+          "pos": "NN"
+        },
+        {
+          "word": "management",
+          "lemma": "management",
+          "offsetBegin": 391,
+          "offsetEnd": 401,
+          "pos": "NN"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 402,
+          "offsetEnd": 411,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 412,
+          "offsetEnd": 414,
+          "pos": "IN"
+        },
+        {
+          "word": "place",
+          "lemma": "place",
+          "offsetBegin": 415,
+          "offsetEnd": 420,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 421,
+          "offsetEnd": 423,
+          "pos": "TO"
+        },
+        {
+          "word": "enable",
+          "lemma": "enable",
+          "offsetBegin": 424,
+          "offsetEnd": 430,
+          "pos": "VB"
+        },
+        {
+          "word": "risks",
+          "lemma": "risk",
+          "offsetBegin": 431,
+          "offsetEnd": 436,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 437,
+          "offsetEnd": 439,
+          "pos": "TO"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 440,
+          "offsetEnd": 442,
+          "pos": "VB"
+        },
+        {
+          "word": "identified",
+          "lemma": "identify",
+          "offsetBegin": 443,
+          "offsetEnd": 453,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 453,
+          "offsetEnd": 454,
+          "pos": ","
+        },
+        {
+          "word": "evaluated",
+          "lemma": "evaluate",
+          "offsetBegin": 455,
+          "offsetEnd": 464,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 465,
+          "offsetEnd": 468,
+          "pos": "CC"
+        },
+        {
+          "word": "managed",
+          "lemma": "manage",
+          "offsetBegin": 469,
+          "offsetEnd": 476,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 476,
+          "offsetEnd": 477,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Failure",
+          "lemma": "failure",
+          "offsetBegin": 478,
+          "offsetEnd": 485,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 486,
+          "offsetEnd": 488,
+          "pos": "TO"
+        },
+        {
+          "word": "assess",
+          "lemma": "assess",
+          "offsetBegin": 489,
+          "offsetEnd": 495,
+          "pos": "VB"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 496,
+          "offsetEnd": 499,
+          "pos": "CC"
+        },
+        {
+          "word": "manage",
+          "lemma": "manage",
+          "offsetBegin": 500,
+          "offsetEnd": 506,
+          "pos": "VB"
+        },
+        {
+          "word": "risks",
+          "lemma": "risk",
+          "offsetBegin": 507,
+          "offsetEnd": 512,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 513,
+          "offsetEnd": 516,
+          "pos": "MD"
+        },
+        {
+          "word": "lead",
+          "lemma": "lead",
+          "offsetBegin": 517,
+          "offsetEnd": 521,
+          "pos": "VB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 522,
+          "offsetEnd": 524,
+          "pos": "TO"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 525,
+          "offsetEnd": 526,
+          "pos": "DT"
+        },
+        {
+          "word": "business",
+          "lemma": "business",
+          "offsetBegin": 527,
+          "offsetEnd": 535,
+          "pos": "NN"
+        },
+        {
+          "word": "suffering",
+          "lemma": "suffer",
+          "offsetBegin": 536,
+          "offsetEnd": 545,
+          "pos": "VBG"
+        },
+        {
+          "word": "serious",
+          "lemma": "serious",
+          "offsetBegin": 546,
+          "offsetEnd": 553,
+          "pos": "JJ"
+        },
+        {
+          "word": "financial",
+          "lemma": "financial",
+          "offsetBegin": 554,
+          "offsetEnd": 563,
+          "pos": "JJ"
+        },
+        {
+          "word": "impacts",
+          "lemma": "impact",
+          "offsetBegin": 564,
+          "offsetEnd": 571,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 571,
+          "offsetEnd": 572,
+          "pos": ","
+        },
+        {
+          "word": "commercial",
+          "lemma": "commercial",
+          "offsetBegin": 573,
+          "offsetEnd": 583,
+          "pos": "JJ"
+        },
+        {
+          "word": "embarrassment",
+          "lemma": "embarrassment",
+          "offsetBegin": 584,
+          "offsetEnd": 597,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 598,
+          "offsetEnd": 601,
+          "pos": "CC"
+        },
+        {
+          "word": "fines",
+          "lemma": "fine",
+          "offsetBegin": 602,
+          "offsetEnd": 607,
+          "pos": "NNS"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 608,
+          "offsetEnd": 610,
+          "pos": "CC"
+        },
+        {
+          "word": "sanctions",
+          "lemma": "sanction",
+          "offsetBegin": 611,
+          "offsetEnd": 620,
+          "pos": "NNS"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 621,
+          "offsetEnd": 625,
+          "pos": "IN"
+        },
+        {
+          "word": "regulators",
+          "lemma": "regulator",
+          "offsetBegin": 626,
+          "offsetEnd": 636,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 636,
+          "offsetEnd": 637,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 638,
+          "offsetEnd": 642,
+          "pos": "DT"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 643,
+          "offsetEnd": 645,
+          "pos": "VBZ"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 646,
+          "offsetEnd": 650,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 651,
+          "offsetEnd": 652,
+          "pos": "DT"
+        },
+        {
+          "word": "key",
+          "lemma": "key",
+          "offsetBegin": 653,
+          "offsetEnd": 656,
+          "pos": "JJ"
+        },
+        {
+          "word": "responsibility",
+          "lemma": "responsibility",
+          "offsetBegin": 657,
+          "offsetEnd": 671,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 672,
+          "offsetEnd": 675,
+          "pos": "CC"
+        },
+        {
+          "word": "opportunity",
+          "lemma": "opportunity",
+          "offsetBegin": 676,
+          "offsetEnd": 687,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 688,
+          "offsetEnd": 691,
+          "pos": "IN"
+        },
+        {
+          "word": "Management",
+          "lemma": "Management",
+          "offsetBegin": 692,
+          "offsetEnd": 702,
+          "pos": "NNP"
+        },
+        {
+          "word": "Services",
+          "lemma": "Services",
+          "offsetBegin": 703,
+          "offsetEnd": 711,
+          "pos": "NNP"
+        },
+        {
+          "word": "Practitioners",
+          "lemma": "Practitioners",
+          "offsetBegin": 712,
+          "offsetEnd": 725,
+          "pos": "NNPS"
+        }
+      ]
+    }
+  ]
+}

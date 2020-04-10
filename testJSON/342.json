@@ -1,0 +1,443 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Mount",
+          "lemma": "Mount",
+          "offsetBegin": 0,
+          "offsetEnd": 5,
+          "pos": "NNP"
+        },
+        {
+          "word": "Sinai",
+          "lemma": "Sinai",
+          "offsetBegin": 6,
+          "offsetEnd": 11,
+          "pos": "NNP"
+        },
+        {
+          "word": "Hospital",
+          "lemma": "Hospital",
+          "offsetBegin": 12,
+          "offsetEnd": 20,
+          "pos": "NNP"
+        },
+        {
+          "word": "uses",
+          "lemma": "use",
+          "offsetBegin": 21,
+          "offsetEnd": 25,
+          "pos": "VBZ"
+        },
+        {
+          "word": "integer",
+          "lemma": "integer",
+          "offsetBegin": 26,
+          "offsetEnd": 33,
+          "pos": "NN"
+        },
+        {
+          "word": "programming",
+          "lemma": "programming",
+          "offsetBegin": 34,
+          "offsetEnd": 45,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 46,
+          "offsetEnd": 48,
+          "pos": "TO"
+        },
+        {
+          "word": "allocate",
+          "lemma": "allocate",
+          "offsetBegin": 49,
+          "offsetEnd": 57,
+          "pos": "VB"
+        },
+        {
+          "word": "operating",
+          "lemma": "operate",
+          "offsetBegin": 58,
+          "offsetEnd": 67,
+          "pos": "VBG"
+        },
+        {
+          "word": "room",
+          "lemma": "room",
+          "offsetBegin": 68,
+          "offsetEnd": 72,
+          "pos": "NN"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 73,
+          "offsetEnd": 77,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "An",
+          "lemma": "a",
+          "offsetBegin": 78,
+          "offsetEnd": 80,
+          "pos": "DT"
+        },
+        {
+          "word": "integer-programming",
+          "lemma": "integer-programming",
+          "offsetBegin": 81,
+          "offsetEnd": 100,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 101,
+          "offsetEnd": 106,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 107,
+          "offsetEnd": 110,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 111,
+          "offsetEnd": 112,
+          "pos": "DT"
+        },
+        {
+          "word": "post-solution",
+          "lemma": "post-solution",
+          "offsetBegin": 113,
+          "offsetEnd": 126,
+          "pos": "JJ"
+        },
+        {
+          "word": "heuristic",
+          "lemma": "heuristic",
+          "offsetBegin": 127,
+          "offsetEnd": 136,
+          "pos": "NN"
+        },
+        {
+          "word": "allocates",
+          "lemma": "allocate",
+          "offsetBegin": 137,
+          "offsetEnd": 146,
+          "pos": "VBZ"
+        },
+        {
+          "word": "operating",
+          "lemma": "operate",
+          "offsetBegin": 147,
+          "offsetEnd": 156,
+          "pos": "VBG"
+        },
+        {
+          "word": "room",
+          "lemma": "room",
+          "offsetBegin": 157,
+          "offsetEnd": 161,
+          "pos": "NN"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 162,
+          "offsetEnd": 166,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 167,
+          "offsetEnd": 169,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 170,
+          "offsetEnd": 173,
+          "pos": "DT"
+        },
+        {
+          "word": "five",
+          "lemma": "five",
+          "offsetBegin": 174,
+          "offsetEnd": 178,
+          "pos": "CD"
+        },
+        {
+          "word": "surgical",
+          "lemma": "surgical",
+          "offsetBegin": 179,
+          "offsetEnd": 187,
+          "pos": "JJ"
+        },
+        {
+          "word": "divisions",
+          "lemma": "division",
+          "offsetBegin": 188,
+          "offsetEnd": 197,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 198,
+          "offsetEnd": 200,
+          "pos": "IN"
+        },
+        {
+          "word": "Toronto",
+          "lemma": "Toronto",
+          "offsetBegin": 201,
+          "offsetEnd": 208,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 208,
+          "offsetEnd": 210,
+          "pos": "POS"
+        },
+        {
+          "word": "Mount",
+          "lemma": "Mount",
+          "offsetBegin": 211,
+          "offsetEnd": 216,
+          "pos": "NNP"
+        },
+        {
+          "word": "Sinai",
+          "lemma": "Sinai",
+          "offsetBegin": 217,
+          "offsetEnd": 222,
+          "pos": "NNP"
+        },
+        {
+          "word": "Hospital",
+          "lemma": "Hospital",
+          "offsetBegin": 223,
+          "offsetEnd": 231,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 231,
+          "offsetEnd": 232,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 233,
+          "offsetEnd": 236,
+          "pos": "DT"
+        },
+        {
+          "word": "hospital",
+          "lemma": "hospital",
+          "offsetBegin": 237,
+          "offsetEnd": 245,
+          "pos": "NN"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 246,
+          "offsetEnd": 249,
+          "pos": "VBZ"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 250,
+          "offsetEnd": 254,
+          "pos": "VBN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 255,
+          "offsetEnd": 259,
+          "pos": "DT"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 260,
+          "offsetEnd": 268,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 269,
+          "offsetEnd": 272,
+          "pos": "IN"
+        },
+        {
+          "word": "several",
+          "lemma": "several",
+          "offsetBegin": 273,
+          "offsetEnd": 280,
+          "pos": "JJ"
+        },
+        {
+          "word": "years",
+          "lemma": "year",
+          "offsetBegin": 281,
+          "offsetEnd": 286,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 287,
+          "offsetEnd": 290,
+          "pos": "CC"
+        },
+        {
+          "word": "credits",
+          "lemma": "credit",
+          "offsetBegin": 291,
+          "offsetEnd": 298,
+          "pos": "NNS"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 299,
+          "offsetEnd": 301,
+          "pos": "PRP"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 302,
+          "offsetEnd": 306,
+          "pos": "IN"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 307,
+          "offsetEnd": 311,
+          "pos": "DT"
+        },
+        {
+          "word": "administrative",
+          "lemma": "administrative",
+          "offsetBegin": 312,
+          "offsetEnd": 326,
+          "pos": "JJ"
+        },
+        {
+          "word": "savings",
+          "lemma": "savings",
+          "offsetBegin": 327,
+          "offsetEnd": 334,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 335,
+          "offsetEnd": 338,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 339,
+          "offsetEnd": 342,
+          "pos": "DT"
+        },
+        {
+          "word": "ability",
+          "lemma": "ability",
+          "offsetBegin": 343,
+          "offsetEnd": 350,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 351,
+          "offsetEnd": 353,
+          "pos": "TO"
+        },
+        {
+          "word": "produce",
+          "lemma": "produce",
+          "offsetBegin": 354,
+          "offsetEnd": 361,
+          "pos": "VB"
+        },
+        {
+          "word": "quickly",
+          "lemma": "quickly",
+          "offsetBegin": 362,
+          "offsetEnd": 369,
+          "pos": "RB"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 370,
+          "offsetEnd": 372,
+          "pos": "DT"
+        },
+        {
+          "word": "equitable",
+          "lemma": "equitable",
+          "offsetBegin": 373,
+          "offsetEnd": 382,
+          "pos": "JJ"
+        },
+        {
+          "word": "master",
+          "lemma": "master",
+          "offsetBegin": 383,
+          "offsetEnd": 389,
+          "pos": "NN"
+        },
+        {
+          "word": "surgical",
+          "lemma": "surgical",
+          "offsetBegin": 390,
+          "offsetEnd": 398,
+          "pos": "JJ"
+        },
+        {
+          "word": "schedule",
+          "lemma": "schedule",
+          "offsetBegin": 399,
+          "offsetEnd": 407,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

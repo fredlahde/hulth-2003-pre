@@ -1,0 +1,387 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Ideal",
+          "lemma": "Ideal",
+          "offsetBegin": 0,
+          "offsetEnd": 5,
+          "pos": "NNP"
+        },
+        {
+          "word": "sliding",
+          "lemma": "slide",
+          "offsetBegin": 6,
+          "offsetEnd": 13,
+          "pos": "VBG"
+        },
+        {
+          "word": "mode",
+          "lemma": "mode",
+          "offsetBegin": 14,
+          "offsetEnd": 18,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 19,
+          "offsetEnd": 21,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 22,
+          "offsetEnd": 25,
+          "pos": "DT"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 26,
+          "offsetEnd": 34,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 35,
+          "offsetEnd": 37,
+          "pos": "IN"
+        },
+        {
+          "word": "convex",
+          "lemma": "convex",
+          "offsetBegin": 38,
+          "offsetEnd": 44,
+          "pos": "NN"
+        },
+        {
+          "word": "optimization",
+          "lemma": "optimization",
+          "offsetBegin": 45,
+          "offsetEnd": 57,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 58,
+          "offsetEnd": 61,
+          "pos": "DT"
+        },
+        {
+          "word": "characteristics",
+          "lemma": "characteristic",
+          "offsetBegin": 62,
+          "offsetEnd": 77,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 78,
+          "offsetEnd": 80,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 81,
+          "offsetEnd": 84,
+          "pos": "DT"
+        },
+        {
+          "word": "sliding",
+          "lemma": "slide",
+          "offsetBegin": 85,
+          "offsetEnd": 92,
+          "pos": "VBG"
+        },
+        {
+          "word": "mode",
+          "lemma": "mode",
+          "offsetBegin": 93,
+          "offsetEnd": 97,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 98,
+          "offsetEnd": 102,
+          "pos": "WDT"
+        },
+        {
+          "word": "appears",
+          "lemma": "appear",
+          "offsetBegin": 103,
+          "offsetEnd": 110,
+          "pos": "VBZ"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 111,
+          "offsetEnd": 115,
+          "pos": "IN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 116,
+          "offsetEnd": 121,
+          "pos": "VBG"
+        },
+        {
+          "word": "continuous",
+          "lemma": "continuous",
+          "offsetBegin": 122,
+          "offsetEnd": 132,
+          "pos": "JJ"
+        },
+        {
+          "word": "convex-programming",
+          "lemma": "convex-programming",
+          "offsetBegin": 133,
+          "offsetEnd": 151,
+          "pos": "JJ"
+        },
+        {
+          "word": "algorithms",
+          "lemma": "algorithm",
+          "offsetBegin": 152,
+          "offsetEnd": 162,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 163,
+          "offsetEnd": 168,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 169,
+          "offsetEnd": 171,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 172,
+          "offsetEnd": 175,
+          "pos": "DT"
+        },
+        {
+          "word": "exact",
+          "lemma": "exact",
+          "offsetBegin": 176,
+          "offsetEnd": 181,
+          "pos": "JJ"
+        },
+        {
+          "word": "penalty",
+          "lemma": "penalty",
+          "offsetBegin": 182,
+          "offsetEnd": 189,
+          "pos": "NN"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 190,
+          "offsetEnd": 199,
+          "pos": "NNS"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 200,
+          "offsetEnd": 204,
+          "pos": "VBD"
+        },
+        {
+          "word": "discussed",
+          "lemma": "discuss",
+          "offsetBegin": 205,
+          "offsetEnd": 214,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 214,
+          "offsetEnd": 215,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 216,
+          "offsetEnd": 219,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 220,
+          "offsetEnd": 223,
+          "pos": "DT"
+        },
+        {
+          "word": "case",
+          "lemma": "case",
+          "offsetBegin": 224,
+          "offsetEnd": 228,
+          "pos": "NN"
+        },
+        {
+          "word": "under",
+          "lemma": "under",
+          "offsetBegin": 229,
+          "offsetEnd": 234,
+          "pos": "IN"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 235,
+          "offsetEnd": 240,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 240,
+          "offsetEnd": 241,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 242,
+          "offsetEnd": 245,
+          "pos": "DT"
+        },
+        {
+          "word": "ideal",
+          "lemma": "ideal",
+          "offsetBegin": 246,
+          "offsetEnd": 251,
+          "pos": "JJ"
+        },
+        {
+          "word": "sliding",
+          "lemma": "slide",
+          "offsetBegin": 252,
+          "offsetEnd": 259,
+          "pos": "VBG"
+        },
+        {
+          "word": "mode",
+          "lemma": "mode",
+          "offsetBegin": 260,
+          "offsetEnd": 264,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 265,
+          "offsetEnd": 268,
+          "pos": "VBD"
+        },
+        {
+          "word": "shown",
+          "lemma": "show",
+          "offsetBegin": 269,
+          "offsetEnd": 274,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 275,
+          "offsetEnd": 277,
+          "pos": "TO"
+        },
+        {
+          "word": "occur",
+          "lemma": "occur",
+          "offsetBegin": 278,
+          "offsetEnd": 283,
+          "pos": "VB"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 284,
+          "offsetEnd": 286,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 287,
+          "offsetEnd": 290,
+          "pos": "DT"
+        },
+        {
+          "word": "absence",
+          "lemma": "absence",
+          "offsetBegin": 291,
+          "offsetEnd": 298,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 299,
+          "offsetEnd": 301,
+          "pos": "IN"
+        },
+        {
+          "word": "infinite",
+          "lemma": "infinite",
+          "offsetBegin": 302,
+          "offsetEnd": 310,
+          "pos": "JJ"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 311,
+          "offsetEnd": 317,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 318,
+          "offsetEnd": 320,
+          "pos": "IN"
+        },
+        {
+          "word": "switchings",
+          "lemma": "switching",
+          "offsetBegin": 321,
+          "offsetEnd": 331,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

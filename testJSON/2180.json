@@ -1,0 +1,886 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Standard",
+          "lemma": "Standard",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "NNP"
+        },
+        {
+          "word": "protocol",
+          "lemma": "protocol",
+          "offsetBegin": 9,
+          "offsetEnd": 17,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 18,
+          "offsetEnd": 21,
+          "pos": "IN"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 22,
+          "offsetEnd": 30,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 31,
+          "offsetEnd": 33,
+          "pos": "IN"
+        },
+        {
+          "word": "health-checkup",
+          "lemma": "health-checkup",
+          "offsetBegin": 34,
+          "offsetEnd": 48,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 49,
+          "offsetEnd": 53,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 54,
+          "offsetEnd": 59,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 60,
+          "offsetEnd": 62,
+          "pos": "IN"
+        },
+        {
+          "word": "SGML",
+          "lemma": "SGML",
+          "offsetBegin": 63,
+          "offsetEnd": 67,
+          "pos": "NNP"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 67,
+          "offsetEnd": 68,
+          "pos": ":"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 69,
+          "offsetEnd": 72,
+          "pos": "DT"
+        },
+        {
+          "word": "Health-checkup",
+          "lemma": "Health-checkup",
+          "offsetBegin": 73,
+          "offsetEnd": 87,
+          "pos": "NNP"
+        },
+        {
+          "word": "Data",
+          "lemma": "Data",
+          "offsetBegin": 88,
+          "offsetEnd": 92,
+          "pos": "NNP"
+        },
+        {
+          "word": "Markup",
+          "lemma": "Markup",
+          "offsetBegin": 93,
+          "offsetEnd": 99,
+          "pos": "NNP"
+        },
+        {
+          "word": "Language",
+          "lemma": "Language",
+          "offsetBegin": 100,
+          "offsetEnd": 108,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 109,
+          "offsetEnd": 110,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "HDML",
+          "lemma": "HDML",
+          "offsetBegin": 110,
+          "offsetEnd": 114,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 114,
+          "offsetEnd": 115,
+          "pos": "-RRB-"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 116,
+          "offsetEnd": 119,
+          "pos": "DT"
+        },
+        {
+          "word": "objectives",
+          "lemma": "objective",
+          "offsetBegin": 120,
+          "offsetEnd": 130,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 131,
+          "offsetEnd": 134,
+          "pos": "VBP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 135,
+          "offsetEnd": 137,
+          "pos": "TO"
+        },
+        {
+          "word": "develop",
+          "lemma": "develop",
+          "offsetBegin": 138,
+          "offsetEnd": 145,
+          "pos": "VB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 146,
+          "offsetEnd": 147,
+          "pos": "DT"
+        },
+        {
+          "word": "health/medical",
+          "lemma": "health/medical",
+          "offsetBegin": 148,
+          "offsetEnd": 162,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 163,
+          "offsetEnd": 167,
+          "pos": "NNS"
+        },
+        {
+          "word": "interchange",
+          "lemma": "interchange",
+          "offsetBegin": 168,
+          "offsetEnd": 179,
+          "pos": "NN"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 180,
+          "offsetEnd": 185,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 186,
+          "offsetEnd": 189,
+          "pos": "IN"
+        },
+        {
+          "word": "efficient",
+          "lemma": "efficient",
+          "offsetBegin": 190,
+          "offsetEnd": 199,
+          "pos": "JJ"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 200,
+          "offsetEnd": 210,
+          "pos": "JJ"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 211,
+          "offsetEnd": 219,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 220,
+          "offsetEnd": 222,
+          "pos": "IN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 223,
+          "offsetEnd": 227,
+          "pos": "NNS"
+        },
+        {
+          "word": "among",
+          "lemma": "among",
+          "offsetBegin": 228,
+          "offsetEnd": 233,
+          "pos": "IN"
+        },
+        {
+          "word": "health-checkup",
+          "lemma": "health-checkup",
+          "offsetBegin": 234,
+          "offsetEnd": 248,
+          "pos": "JJ"
+        },
+        {
+          "word": "facilities",
+          "lemma": "facility",
+          "offsetBegin": 249,
+          "offsetEnd": 259,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 259,
+          "offsetEnd": 260,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 261,
+          "offsetEnd": 262,
+          "pos": "DT"
+        },
+        {
+          "word": "Health-checkup",
+          "lemma": "Health-checkup",
+          "offsetBegin": 263,
+          "offsetEnd": 277,
+          "pos": "NNP"
+        },
+        {
+          "word": "Data",
+          "lemma": "Data",
+          "offsetBegin": 278,
+          "offsetEnd": 282,
+          "pos": "NNP"
+        },
+        {
+          "word": "Markup",
+          "lemma": "Markup",
+          "offsetBegin": 283,
+          "offsetEnd": 289,
+          "pos": "NNP"
+        },
+        {
+          "word": "Language",
+          "lemma": "Language",
+          "offsetBegin": 290,
+          "offsetEnd": 298,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 299,
+          "offsetEnd": 300,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "HDML",
+          "lemma": "HDML",
+          "offsetBegin": 300,
+          "offsetEnd": 304,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 304,
+          "offsetEnd": 305,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 306,
+          "offsetEnd": 309,
+          "pos": "VBD"
+        },
+        {
+          "word": "developed",
+          "lemma": "develop",
+          "offsetBegin": 310,
+          "offsetEnd": 319,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 320,
+          "offsetEnd": 322,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 323,
+          "offsetEnd": 326,
+          "pos": "DT"
+        },
+        {
+          "word": "basis",
+          "lemma": "basis",
+          "offsetBegin": 327,
+          "offsetEnd": 332,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 333,
+          "offsetEnd": 335,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 336,
+          "offsetEnd": 339,
+          "pos": "DT"
+        },
+        {
+          "word": "Standard",
+          "lemma": "Standard",
+          "offsetBegin": 340,
+          "offsetEnd": 348,
+          "pos": "NNP"
+        },
+        {
+          "word": "Generalized",
+          "lemma": "Generalized",
+          "offsetBegin": 349,
+          "offsetEnd": 360,
+          "pos": "NNP"
+        },
+        {
+          "word": "Markup",
+          "lemma": "Markup",
+          "offsetBegin": 361,
+          "offsetEnd": 367,
+          "pos": "NNP"
+        },
+        {
+          "word": "Language",
+          "lemma": "Language",
+          "offsetBegin": 368,
+          "offsetEnd": 376,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 377,
+          "offsetEnd": 378,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "SGML",
+          "lemma": "SGML",
+          "offsetBegin": 378,
+          "offsetEnd": 382,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 382,
+          "offsetEnd": 383,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 383,
+          "offsetEnd": 384,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 385,
+          "offsetEnd": 388,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 389,
+          "offsetEnd": 390,
+          "pos": "DT"
+        },
+        {
+          "word": "feasibility",
+          "lemma": "feasibility",
+          "offsetBegin": 391,
+          "offsetEnd": 402,
+          "pos": "NN"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 403,
+          "offsetEnd": 408,
+          "pos": "NN"
+        },
+        {
+          "word": "carried",
+          "lemma": "carry",
+          "offsetBegin": 409,
+          "offsetEnd": 416,
+          "pos": "VBD"
+        },
+        {
+          "word": "out",
+          "lemma": "out",
+          "offsetBegin": 417,
+          "offsetEnd": 420,
+          "pos": "RP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 420,
+          "offsetEnd": 421,
+          "pos": ","
+        },
+        {
+          "word": "involving",
+          "lemma": "involve",
+          "offsetBegin": 422,
+          "offsetEnd": 431,
+          "pos": "VBG"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 432,
+          "offsetEnd": 436,
+          "pos": "NNS"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 437,
+          "offsetEnd": 445,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 446,
+          "offsetEnd": 453,
+          "pos": "IN"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 454,
+          "offsetEnd": 457,
+          "pos": "CD"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 458,
+          "offsetEnd": 464,
+          "pos": "NN"
+        },
+        {
+          "word": "checkup",
+          "lemma": "checkup",
+          "offsetBegin": 465,
+          "offsetEnd": 472,
+          "pos": "NN"
+        },
+        {
+          "word": "facilities",
+          "lemma": "facility",
+          "offsetBegin": 473,
+          "offsetEnd": 483,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 483,
+          "offsetEnd": 484,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 485,
+          "offsetEnd": 488,
+          "pos": "DT"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 489,
+          "offsetEnd": 498,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 499,
+          "offsetEnd": 501,
+          "pos": "IN"
+        },
+        {
+          "word": "HDML",
+          "lemma": "hdml",
+          "offsetBegin": 502,
+          "offsetEnd": 506,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 507,
+          "offsetEnd": 509,
+          "pos": "VBZ"
+        },
+        {
+          "word": "described",
+          "lemma": "describe",
+          "offsetBegin": 510,
+          "offsetEnd": 519,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 519,
+          "offsetEnd": 520,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 521,
+          "offsetEnd": 524,
+          "pos": "DT"
+        },
+        {
+          "word": "transfer",
+          "lemma": "transfer",
+          "offsetBegin": 525,
+          "offsetEnd": 533,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 534,
+          "offsetEnd": 536,
+          "pos": "IN"
+        },
+        {
+          "word": "numerical",
+          "lemma": "numerical",
+          "offsetBegin": 537,
+          "offsetEnd": 546,
+          "pos": "JJ"
+        },
+        {
+          "word": "lab",
+          "lemma": "lab",
+          "offsetBegin": 547,
+          "offsetEnd": 550,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 551,
+          "offsetEnd": 555,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 555,
+          "offsetEnd": 556,
+          "pos": ","
+        },
+        {
+          "word": "summary",
+          "lemma": "summary",
+          "offsetBegin": 557,
+          "offsetEnd": 564,
+          "pos": "NN"
+        },
+        {
+          "word": "findings",
+          "lemma": "finding",
+          "offsetBegin": 565,
+          "offsetEnd": 573,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 574,
+          "offsetEnd": 577,
+          "pos": "CC"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 578,
+          "offsetEnd": 584,
+          "pos": "NN"
+        },
+        {
+          "word": "status",
+          "lemma": "status",
+          "offsetBegin": 585,
+          "offsetEnd": 591,
+          "pos": "NN"
+        },
+        {
+          "word": "assessment",
+          "lemma": "assessment",
+          "offsetBegin": 592,
+          "offsetEnd": 602,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 603,
+          "offsetEnd": 606,
+          "pos": "VBD"
+        },
+        {
+          "word": "successful",
+          "lemma": "successful",
+          "offsetBegin": 607,
+          "offsetEnd": 617,
+          "pos": "JJ"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 617,
+          "offsetEnd": 618,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "HDML",
+          "lemma": "hdml",
+          "offsetBegin": 619,
+          "offsetEnd": 623,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 624,
+          "offsetEnd": 626,
+          "pos": "VBZ"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 627,
+          "offsetEnd": 629,
+          "pos": "DT"
+        },
+        {
+          "word": "improvement",
+          "lemma": "improvement",
+          "offsetBegin": 630,
+          "offsetEnd": 641,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 642,
+          "offsetEnd": 644,
+          "pos": "TO"
+        },
+        {
+          "word": "laboratory",
+          "lemma": "laboratory",
+          "offsetBegin": 645,
+          "offsetEnd": 655,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 656,
+          "offsetEnd": 660,
+          "pos": "NNS"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 661,
+          "offsetEnd": 669,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 669,
+          "offsetEnd": 670,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Further",
+          "lemma": "further",
+          "offsetBegin": 671,
+          "offsetEnd": 678,
+          "pos": "JJ"
+        },
+        {
+          "word": "work",
+          "lemma": "work",
+          "offsetBegin": 679,
+          "offsetEnd": 683,
+          "pos": "NN"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 684,
+          "offsetEnd": 687,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 688,
+          "offsetEnd": 690,
+          "pos": "TO"
+        },
+        {
+          "word": "address",
+          "lemma": "address",
+          "offsetBegin": 691,
+          "offsetEnd": 698,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 699,
+          "offsetEnd": 702,
+          "pos": "DT"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 703,
+          "offsetEnd": 711,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 712,
+          "offsetEnd": 714,
+          "pos": "IN"
+        },
+        {
+          "word": "qualitative",
+          "lemma": "qualitative",
+          "offsetBegin": 715,
+          "offsetEnd": 726,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 727,
+          "offsetEnd": 730,
+          "pos": "CC"
+        },
+        {
+          "word": "textual",
+          "lemma": "textual",
+          "offsetBegin": 731,
+          "offsetEnd": 738,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 739,
+          "offsetEnd": 743,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

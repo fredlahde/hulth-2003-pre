@@ -1,0 +1,496 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Inverse",
+          "lemma": "inverse",
+          "offsetBegin": 0,
+          "offsetEnd": 7,
+          "pos": "JJ"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 8,
+          "offsetEnd": 16,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 17,
+          "offsetEnd": 20,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 21,
+          "offsetEnd": 22,
+          "pos": "DT"
+        },
+        {
+          "word": "mathematical",
+          "lemma": "mathematical",
+          "offsetBegin": 23,
+          "offsetEnd": 35,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 36,
+          "offsetEnd": 41,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 42,
+          "offsetEnd": 44,
+          "pos": "IN"
+        },
+        {
+          "word": "ion",
+          "lemma": "ion",
+          "offsetBegin": 45,
+          "offsetEnd": 48,
+          "pos": "NN"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 49,
+          "offsetEnd": 57,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 58,
+          "offsetEnd": 60,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 61,
+          "offsetEnd": 62,
+          "pos": "DT"
+        },
+        {
+          "word": "compressible",
+          "lemma": "compressible",
+          "offsetBegin": 63,
+          "offsetEnd": 75,
+          "pos": "JJ"
+        },
+        {
+          "word": "ion",
+          "lemma": "ion",
+          "offsetBegin": 76,
+          "offsetEnd": 79,
+          "pos": "NN"
+        },
+        {
+          "word": "exchanger",
+          "lemma": "exchanger",
+          "offsetBegin": 80,
+          "offsetEnd": 89,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 90,
+          "offsetEnd": 91,
+          "pos": "DT"
+        },
+        {
+          "word": "mathematical",
+          "lemma": "mathematical",
+          "offsetBegin": 92,
+          "offsetEnd": 104,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 105,
+          "offsetEnd": 110,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 111,
+          "offsetEnd": 113,
+          "pos": "IN"
+        },
+        {
+          "word": "ion",
+          "lemma": "ion",
+          "offsetBegin": 114,
+          "offsetEnd": 117,
+          "pos": "NN"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 118,
+          "offsetEnd": 126,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 127,
+          "offsetEnd": 129,
+          "pos": "VBZ"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 130,
+          "offsetEnd": 140,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 140,
+          "offsetEnd": 141,
+          "pos": ","
+        },
+        {
+          "word": "allowing",
+          "lemma": "allow",
+          "offsetBegin": 142,
+          "offsetEnd": 150,
+          "pos": "VBG"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 151,
+          "offsetEnd": 154,
+          "pos": "IN"
+        },
+        {
+          "word": "ion",
+          "lemma": "ion",
+          "offsetBegin": 155,
+          "offsetEnd": 158,
+          "pos": "NN"
+        },
+        {
+          "word": "exchanger",
+          "lemma": "exchanger",
+          "offsetBegin": 159,
+          "offsetEnd": 168,
+          "pos": "NN"
+        },
+        {
+          "word": "compression",
+          "lemma": "compression",
+          "offsetBegin": 169,
+          "offsetEnd": 180,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 181,
+          "offsetEnd": 183,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 184,
+          "offsetEnd": 187,
+          "pos": "DT"
+        },
+        {
+          "word": "process",
+          "lemma": "process",
+          "offsetBegin": 188,
+          "offsetEnd": 195,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 196,
+          "offsetEnd": 198,
+          "pos": "IN"
+        },
+        {
+          "word": "ion",
+          "lemma": "ion",
+          "offsetBegin": 199,
+          "offsetEnd": 202,
+          "pos": "NN"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 203,
+          "offsetEnd": 211,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 211,
+          "offsetEnd": 212,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Two",
+          "lemma": "two",
+          "offsetBegin": 213,
+          "offsetEnd": 216,
+          "pos": "CD"
+        },
+        {
+          "word": "inverse",
+          "lemma": "inverse",
+          "offsetBegin": 217,
+          "offsetEnd": 224,
+          "pos": "JJ"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 225,
+          "offsetEnd": 233,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 234,
+          "offsetEnd": 237,
+          "pos": "VBP"
+        },
+        {
+          "word": "investigated",
+          "lemma": "investigate",
+          "offsetBegin": 238,
+          "offsetEnd": 250,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 251,
+          "offsetEnd": 254,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 255,
+          "offsetEnd": 259,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 260,
+          "offsetEnd": 265,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 265,
+          "offsetEnd": 266,
+          "pos": ","
+        },
+        {
+          "word": "unique",
+          "lemma": "unique",
+          "offsetBegin": 267,
+          "offsetEnd": 273,
+          "pos": "JJ"
+        },
+        {
+          "word": "solvability",
+          "lemma": "solvability",
+          "offsetBegin": 274,
+          "offsetEnd": 285,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 286,
+          "offsetEnd": 288,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proved",
+          "lemma": "prove",
+          "offsetBegin": 289,
+          "offsetEnd": 295,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 295,
+          "offsetEnd": 296,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 297,
+          "offsetEnd": 300,
+          "pos": "CC"
+        },
+        {
+          "word": "numerical",
+          "lemma": "numerical",
+          "offsetBegin": 301,
+          "offsetEnd": 310,
+          "pos": "JJ"
+        },
+        {
+          "word": "solution",
+          "lemma": "solution",
+          "offsetBegin": 311,
+          "offsetEnd": 319,
+          "pos": "NN"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 320,
+          "offsetEnd": 327,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 328,
+          "offsetEnd": 331,
+          "pos": "VBP"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 332,
+          "offsetEnd": 340,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 340,
+          "offsetEnd": 341,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 342,
+          "offsetEnd": 345,
+          "pos": "DT"
+        },
+        {
+          "word": "efficiency",
+          "lemma": "efficiency",
+          "offsetBegin": 346,
+          "offsetEnd": 356,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 357,
+          "offsetEnd": 359,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 360,
+          "offsetEnd": 363,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 364,
+          "offsetEnd": 372,
+          "pos": "VBN"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 373,
+          "offsetEnd": 380,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 381,
+          "offsetEnd": 383,
+          "pos": "VBZ"
+        },
+        {
+          "word": "demonstrated",
+          "lemma": "demonstrate",
+          "offsetBegin": 384,
+          "offsetEnd": 396,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 397,
+          "offsetEnd": 399,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 400,
+          "offsetEnd": 401,
+          "pos": "DT"
+        },
+        {
+          "word": "numerical",
+          "lemma": "numerical",
+          "offsetBegin": 402,
+          "offsetEnd": 411,
+          "pos": "JJ"
+        },
+        {
+          "word": "experiment",
+          "lemma": "experiment",
+          "offsetBegin": 412,
+          "offsetEnd": 422,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

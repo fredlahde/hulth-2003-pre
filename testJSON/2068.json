@@ -1,0 +1,903 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Modeling",
+          "lemma": "model",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 9,
+          "offsetEnd": 12,
+          "pos": "DT"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 13,
+          "offsetEnd": 18,
+          "pos": "NN"
+        },
+        {
+          "word": "market",
+          "lemma": "market",
+          "offsetBegin": 19,
+          "offsetEnd": 25,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 26,
+          "offsetEnd": 28,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 29,
+          "offsetEnd": 31,
+          "pos": "DT"
+        },
+        {
+          "word": "evolving",
+          "lemma": "evolve",
+          "offsetBegin": 32,
+          "offsetEnd": 40,
+          "pos": "VBG"
+        },
+        {
+          "word": "institution",
+          "lemma": "institution",
+          "offsetBegin": 41,
+          "offsetEnd": 52,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 52,
+          "offsetEnd": 53,
+          "pos": ":"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 54,
+          "offsetEnd": 59,
+          "pos": "NN"
+        },
+        {
+          "word": "ARTEMIS",
+          "lemma": "artemi",
+          "offsetBegin": 60,
+          "offsetEnd": 67,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 68,
+          "offsetEnd": 69,
+          "pos": "DT"
+        },
+        {
+          "word": "stylized",
+          "lemma": "stylized",
+          "offsetBegin": 70,
+          "offsetEnd": 78,
+          "pos": "JJ"
+        },
+        {
+          "word": "French",
+          "lemma": "french",
+          "offsetBegin": 79,
+          "offsetEnd": 85,
+          "pos": "JJ"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 86,
+          "offsetEnd": 91,
+          "pos": "NN"
+        },
+        {
+          "word": "market",
+          "lemma": "market",
+          "offsetBegin": 92,
+          "offsetEnd": 98,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 99,
+          "offsetEnd": 101,
+          "pos": "VBZ"
+        },
+        {
+          "word": "modeled",
+          "lemma": "model",
+          "offsetBegin": 102,
+          "offsetEnd": 109,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 110,
+          "offsetEnd": 112,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 113,
+          "offsetEnd": 115,
+          "pos": "DT"
+        },
+        {
+          "word": "endogenously",
+          "lemma": "endogenously",
+          "offsetBegin": 116,
+          "offsetEnd": 128,
+          "pos": "RB"
+        },
+        {
+          "word": "evolving",
+          "lemma": "evolve",
+          "offsetBegin": 129,
+          "offsetEnd": 137,
+          "pos": "VBG"
+        },
+        {
+          "word": "institution",
+          "lemma": "institution",
+          "offsetBegin": 138,
+          "offsetEnd": 149,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 149,
+          "offsetEnd": 150,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Boundedly",
+          "lemma": "boundedly",
+          "offsetBegin": 151,
+          "offsetEnd": 160,
+          "pos": "RB"
+        },
+        {
+          "word": "rational",
+          "lemma": "rational",
+          "offsetBegin": 161,
+          "offsetEnd": 169,
+          "pos": "JJ"
+        },
+        {
+          "word": "firms",
+          "lemma": "firm",
+          "offsetBegin": 170,
+          "offsetEnd": 175,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 176,
+          "offsetEnd": 179,
+          "pos": "CC"
+        },
+        {
+          "word": "individuals",
+          "lemma": "individual",
+          "offsetBegin": 180,
+          "offsetEnd": 191,
+          "pos": "NNS"
+        },
+        {
+          "word": "strive",
+          "lemma": "strive",
+          "offsetBegin": 192,
+          "offsetEnd": 198,
+          "pos": "VBP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 199,
+          "offsetEnd": 201,
+          "pos": "TO"
+        },
+        {
+          "word": "decrease",
+          "lemma": "decrease",
+          "offsetBegin": 202,
+          "offsetEnd": 210,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 211,
+          "offsetEnd": 214,
+          "pos": "DT"
+        },
+        {
+          "word": "cost",
+          "lemma": "cost",
+          "offsetBegin": 215,
+          "offsetEnd": 219,
+          "pos": "NN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 220,
+          "offsetEnd": 222,
+          "pos": "CC"
+        },
+        {
+          "word": "increase",
+          "lemma": "increase",
+          "offsetBegin": 223,
+          "offsetEnd": 231,
+          "pos": "NN"
+        },
+        {
+          "word": "utility",
+          "lemma": "utility",
+          "offsetBegin": 232,
+          "offsetEnd": 239,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 239,
+          "offsetEnd": 240,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 241,
+          "offsetEnd": 244,
+          "pos": "DT"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 245,
+          "offsetEnd": 250,
+          "pos": "NN"
+        },
+        {
+          "word": "market",
+          "lemma": "market",
+          "offsetBegin": 251,
+          "offsetEnd": 257,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 258,
+          "offsetEnd": 260,
+          "pos": "VBZ"
+        },
+        {
+          "word": "coordinated",
+          "lemma": "coordinate",
+          "offsetBegin": 261,
+          "offsetEnd": 272,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 273,
+          "offsetEnd": 275,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 276,
+          "offsetEnd": 277,
+          "pos": "DT"
+        },
+        {
+          "word": "search",
+          "lemma": "search",
+          "offsetBegin": 278,
+          "offsetEnd": 284,
+          "pos": "NN"
+        },
+        {
+          "word": "process",
+          "lemma": "process",
+          "offsetBegin": 285,
+          "offsetEnd": 292,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 293,
+          "offsetEnd": 296,
+          "pos": "CC"
+        },
+        {
+          "word": "decentralized",
+          "lemma": "decentralize",
+          "offsetBegin": 297,
+          "offsetEnd": 310,
+          "pos": "VBN"
+        },
+        {
+          "word": "setting",
+          "lemma": "setting",
+          "offsetBegin": 311,
+          "offsetEnd": 318,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 319,
+          "offsetEnd": 321,
+          "pos": "IN"
+        },
+        {
+          "word": "hiring",
+          "lemma": "hire",
+          "offsetBegin": 322,
+          "offsetEnd": 328,
+          "pos": "VBG"
+        },
+        {
+          "word": "standards",
+          "lemma": "standard",
+          "offsetBegin": 329,
+          "offsetEnd": 338,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 338,
+          "offsetEnd": 339,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 340,
+          "offsetEnd": 343,
+          "pos": "CC"
+        },
+        {
+          "word": "intermediaries",
+          "lemma": "intermediary",
+          "offsetBegin": 344,
+          "offsetEnd": 358,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 359,
+          "offsetEnd": 362,
+          "pos": "MD"
+        },
+        {
+          "word": "speed",
+          "lemma": "speed",
+          "offsetBegin": 363,
+          "offsetEnd": 368,
+          "pos": "VB"
+        },
+        {
+          "word": "up",
+          "lemma": "up",
+          "offsetBegin": 369,
+          "offsetEnd": 371,
+          "pos": "RP"
+        },
+        {
+          "word": "matching",
+          "lemma": "matching",
+          "offsetBegin": 372,
+          "offsetEnd": 380,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 380,
+          "offsetEnd": 381,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 382,
+          "offsetEnd": 385,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 386,
+          "offsetEnd": 391,
+          "pos": "NN"
+        },
+        {
+          "word": "reproduces",
+          "lemma": "reproduce",
+          "offsetBegin": 392,
+          "offsetEnd": 402,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 403,
+          "offsetEnd": 406,
+          "pos": "DT"
+        },
+        {
+          "word": "dynamics",
+          "lemma": "dynamics",
+          "offsetBegin": 407,
+          "offsetEnd": 415,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 416,
+          "offsetEnd": 418,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 419,
+          "offsetEnd": 422,
+          "pos": "DT"
+        },
+        {
+          "word": "gross",
+          "lemma": "gross",
+          "offsetBegin": 423,
+          "offsetEnd": 428,
+          "pos": "JJ"
+        },
+        {
+          "word": "flows",
+          "lemma": "flow",
+          "offsetBegin": 429,
+          "offsetEnd": 434,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 435,
+          "offsetEnd": 438,
+          "pos": "CC"
+        },
+        {
+          "word": "spectacular",
+          "lemma": "spectacular",
+          "offsetBegin": 439,
+          "offsetEnd": 450,
+          "pos": "JJ"
+        },
+        {
+          "word": "changes",
+          "lemma": "change",
+          "offsetBegin": 451,
+          "offsetEnd": 458,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 459,
+          "offsetEnd": 461,
+          "pos": "IN"
+        },
+        {
+          "word": "mobility",
+          "lemma": "mobility",
+          "offsetBegin": 462,
+          "offsetEnd": 470,
+          "pos": "NN"
+        },
+        {
+          "word": "patterns",
+          "lemma": "pattern",
+          "offsetBegin": 471,
+          "offsetEnd": 479,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 480,
+          "offsetEnd": 482,
+          "pos": "IN"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 483,
+          "offsetEnd": 487,
+          "pos": "DT"
+        },
+        {
+          "word": "demographic",
+          "lemma": "demographic",
+          "offsetBegin": 488,
+          "offsetEnd": 499,
+          "pos": "JJ"
+        },
+        {
+          "word": "groups",
+          "lemma": "group",
+          "offsetBegin": 500,
+          "offsetEnd": 506,
+          "pos": "NNS"
+        },
+        {
+          "word": "when",
+          "lemma": "when",
+          "offsetBegin": 507,
+          "offsetEnd": 511,
+          "pos": "WRB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 512,
+          "offsetEnd": 515,
+          "pos": "DT"
+        },
+        {
+          "word": "oil",
+          "lemma": "oil",
+          "offsetBegin": 516,
+          "offsetEnd": 519,
+          "pos": "NN"
+        },
+        {
+          "word": "crisis",
+          "lemma": "crisis",
+          "offsetBegin": 520,
+          "offsetEnd": 526,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 527,
+          "offsetEnd": 529,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 530,
+          "offsetEnd": 533,
+          "pos": "DT"
+        },
+        {
+          "word": "1970",
+          "lemma": "1970",
+          "offsetBegin": 534,
+          "offsetEnd": 538,
+          "pos": "CD"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 538,
+          "offsetEnd": 540,
+          "pos": "POS"
+        },
+        {
+          "word": "occurred",
+          "lemma": "occur",
+          "offsetBegin": 541,
+          "offsetEnd": 549,
+          "pos": "VBD"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 549,
+          "offsetEnd": 550,
+          "pos": ","
+        },
+        {
+          "word": "notably",
+          "lemma": "notably",
+          "offsetBegin": 551,
+          "offsetEnd": 558,
+          "pos": "RB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 559,
+          "offsetEnd": 562,
+          "pos": "DT"
+        },
+        {
+          "word": "sudden",
+          "lemma": "sudden",
+          "offsetBegin": 563,
+          "offsetEnd": 569,
+          "pos": "JJ"
+        },
+        {
+          "word": "decline",
+          "lemma": "decline",
+          "offsetBegin": 570,
+          "offsetEnd": 577,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 578,
+          "offsetEnd": 580,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 581,
+          "offsetEnd": 584,
+          "pos": "DT"
+        },
+        {
+          "word": "integration",
+          "lemma": "integration",
+          "offsetBegin": 585,
+          "offsetEnd": 596,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 597,
+          "offsetEnd": 599,
+          "pos": "IN"
+        },
+        {
+          "word": "good",
+          "lemma": "good",
+          "offsetBegin": 600,
+          "offsetEnd": 604,
+          "pos": "JJ"
+        },
+        {
+          "word": "jobs",
+          "lemma": "job",
+          "offsetBegin": 605,
+          "offsetEnd": 609,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 609,
+          "offsetEnd": 610,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 611,
+          "offsetEnd": 614,
+          "pos": "DT"
+        },
+        {
+          "word": "internal",
+          "lemma": "internal",
+          "offsetBegin": 615,
+          "offsetEnd": 623,
+          "pos": "JJ"
+        },
+        {
+          "word": "labor",
+          "lemma": "labor",
+          "offsetBegin": 624,
+          "offsetEnd": 629,
+          "pos": "NN"
+        },
+        {
+          "word": "markets",
+          "lemma": "market",
+          "offsetBegin": 630,
+          "offsetEnd": 637,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 638,
+          "offsetEnd": 640,
+          "pos": "IN"
+        },
+        {
+          "word": "large",
+          "lemma": "large",
+          "offsetBegin": 641,
+          "offsetEnd": 646,
+          "pos": "JJ"
+        },
+        {
+          "word": "firms",
+          "lemma": "firm",
+          "offsetBegin": 647,
+          "offsetEnd": 652,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 653,
+          "offsetEnd": 656,
+          "pos": "VBP"
+        },
+        {
+          "word": "shown",
+          "lemma": "show",
+          "offsetBegin": 657,
+          "offsetEnd": 662,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 663,
+          "offsetEnd": 665,
+          "pos": "TO"
+        },
+        {
+          "word": "increase",
+          "lemma": "increase",
+          "offsetBegin": 666,
+          "offsetEnd": 674,
+          "pos": "VB"
+        },
+        {
+          "word": "unemployment",
+          "lemma": "unemployment",
+          "offsetBegin": 675,
+          "offsetEnd": 687,
+          "pos": "NN"
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "offsetBegin": 688,
+          "offsetEnd": 690,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 691,
+          "offsetEnd": 694,
+          "pos": "DT"
+        },
+        {
+          "word": "secondary",
+          "lemma": "secondary",
+          "offsetBegin": 695,
+          "offsetEnd": 704,
+          "pos": "JJ"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 705,
+          "offsetEnd": 706,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "temporary",
+          "lemma": "temporary",
+          "offsetBegin": 706,
+          "offsetEnd": 715,
+          "pos": "JJ"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 716,
+          "offsetEnd": 718,
+          "pos": "CC"
+        },
+        {
+          "word": "bad",
+          "lemma": "bad",
+          "offsetBegin": 719,
+          "offsetEnd": 722,
+          "pos": "JJ"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 722,
+          "offsetEnd": 723,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "jobs",
+          "lemma": "job",
+          "offsetBegin": 724,
+          "offsetEnd": 728,
+          "pos": "NNS"
+        },
+        {
+          "word": "do",
+          "lemma": "do",
+          "offsetBegin": 729,
+          "offsetEnd": 731,
+          "pos": "VBP"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 732,
+          "offsetEnd": 735,
+          "pos": "RB"
+        },
+        {
+          "word": "exist",
+          "lemma": "exist",
+          "offsetBegin": 736,
+          "offsetEnd": 741,
+          "pos": "VB"
+        }
+      ]
+    }
+  ]
+}

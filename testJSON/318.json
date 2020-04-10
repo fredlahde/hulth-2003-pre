@@ -1,0 +1,760 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Note",
+          "lemma": "note",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "VB"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 5,
+          "offsetEnd": 7,
+          "pos": "IN"
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 8,
+          "offsetEnd": 9,
+          "pos": "``"
+        },
+        {
+          "word": "Deterministic",
+          "lemma": "deterministic",
+          "offsetBegin": 9,
+          "offsetEnd": 22,
+          "pos": "JJ"
+        },
+        {
+          "word": "inventory",
+          "lemma": "inventory",
+          "offsetBegin": 23,
+          "offsetEnd": 32,
+          "pos": "NN"
+        },
+        {
+          "word": "lot-size",
+          "lemma": "lot-size",
+          "offsetBegin": 33,
+          "offsetEnd": 41,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 42,
+          "offsetEnd": 48,
+          "pos": "NNS"
+        },
+        {
+          "word": "under",
+          "lemma": "under",
+          "offsetBegin": 49,
+          "offsetEnd": 54,
+          "pos": "IN"
+        },
+        {
+          "word": "inflation",
+          "lemma": "inflation",
+          "offsetBegin": 55,
+          "offsetEnd": 64,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 65,
+          "offsetEnd": 69,
+          "pos": "IN"
+        },
+        {
+          "word": "shortages",
+          "lemma": "shortage",
+          "offsetBegin": 70,
+          "offsetEnd": 79,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 80,
+          "offsetEnd": 83,
+          "pos": "CC"
+        },
+        {
+          "word": "deterioration",
+          "lemma": "deterioration",
+          "offsetBegin": 84,
+          "offsetEnd": 97,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 98,
+          "offsetEnd": 101,
+          "pos": "IN"
+        },
+        {
+          "word": "fluctuating",
+          "lemma": "fluctuate",
+          "offsetBegin": 102,
+          "offsetEnd": 113,
+          "pos": "VBG"
+        },
+        {
+          "word": "demand",
+          "lemma": "demand",
+          "offsetBegin": 114,
+          "offsetEnd": 120,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 120,
+          "offsetEnd": 121,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 122,
+          "offsetEnd": 124,
+          "pos": "IN"
+        },
+        {
+          "word": "Yang",
+          "lemma": "Yang",
+          "offsetBegin": 125,
+          "offsetEnd": 129,
+          "pos": "NNP"
+        },
+        {
+          "word": "et",
+          "lemma": "et",
+          "offsetBegin": 130,
+          "offsetEnd": 132,
+          "pos": "FW"
+        },
+        {
+          "word": "al",
+          "lemma": "al",
+          "offsetBegin": 133,
+          "offsetEnd": 135,
+          "pos": "FW"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 136,
+          "offsetEnd": 139,
+          "pos": "IN"
+        },
+        {
+          "word": "original",
+          "lemma": "original",
+          "offsetBegin": 140,
+          "offsetEnd": 148,
+          "pos": "JJ"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 149,
+          "offsetEnd": 154,
+          "pos": "NN"
+        },
+        {
+          "word": "see",
+          "lemma": "see",
+          "offsetBegin": 155,
+          "offsetEnd": 158,
+          "pos": "VB"
+        },
+        {
+          "word": "H.-L",
+          "lemma": "h.-l",
+          "offsetBegin": 159,
+          "offsetEnd": 163,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 163,
+          "offsetEnd": 164,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Yang",
+          "lemma": "Yang",
+          "offsetBegin": 165,
+          "offsetEnd": 169,
+          "pos": "NNP"
+        },
+        {
+          "word": "et",
+          "lemma": "et",
+          "offsetBegin": 170,
+          "offsetEnd": 172,
+          "pos": "FW"
+        },
+        {
+          "word": "al.",
+          "lemma": "al.",
+          "offsetBegin": 173,
+          "offsetEnd": 176,
+          "pos": "FW"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 176,
+          "offsetEnd": 177,
+          "pos": ","
+        },
+        {
+          "word": "ibid.",
+          "lemma": "ibid.",
+          "offsetBegin": 178,
+          "offsetEnd": 183,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 183,
+          "offsetEnd": 184,
+          "pos": ","
+        },
+        {
+          "word": "vol",
+          "lemma": "vol",
+          "offsetBegin": 185,
+          "offsetEnd": 188,
+          "pos": "NN"
+        },
+        {
+          "word": ".48",
+          "lemma": ".48",
+          "offsetBegin": 188,
+          "offsetEnd": 191,
+          "pos": "CD"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 191,
+          "offsetEnd": 192,
+          "pos": ","
+        },
+        {
+          "word": "p.144-58",
+          "lemma": "p.144-58",
+          "offsetBegin": 193,
+          "offsetEnd": 201,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 202,
+          "offsetEnd": 203,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "2001",
+          "lemma": "2001",
+          "offsetBegin": 203,
+          "offsetEnd": 207,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 207,
+          "offsetEnd": 208,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 208,
+          "offsetEnd": 209,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Yang",
+          "lemma": "Yang",
+          "offsetBegin": 210,
+          "offsetEnd": 214,
+          "pos": "NNP"
+        },
+        {
+          "word": "et",
+          "lemma": "et",
+          "offsetBegin": 215,
+          "offsetEnd": 217,
+          "pos": "FW"
+        },
+        {
+          "word": "al.",
+          "lemma": "al.",
+          "offsetBegin": 218,
+          "offsetEnd": 221,
+          "pos": "FW"
+        },
+        {
+          "word": "extended",
+          "lemma": "extend",
+          "offsetBegin": 222,
+          "offsetEnd": 230,
+          "pos": "VBD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 231,
+          "offsetEnd": 234,
+          "pos": "DT"
+        },
+        {
+          "word": "lot-size",
+          "lemma": "lot-size",
+          "offsetBegin": 235,
+          "offsetEnd": 243,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 244,
+          "offsetEnd": 250,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 251,
+          "offsetEnd": 253,
+          "pos": "TO"
+        },
+        {
+          "word": "allow",
+          "lemma": "allow",
+          "offsetBegin": 254,
+          "offsetEnd": 259,
+          "pos": "VB"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 260,
+          "offsetEnd": 263,
+          "pos": "IN"
+        },
+        {
+          "word": "inflation",
+          "lemma": "inflation",
+          "offsetBegin": 264,
+          "offsetEnd": 273,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 274,
+          "offsetEnd": 277,
+          "pos": "CC"
+        },
+        {
+          "word": "fluctuating",
+          "lemma": "fluctuate",
+          "offsetBegin": 278,
+          "offsetEnd": 289,
+          "pos": "VBG"
+        },
+        {
+          "word": "demand",
+          "lemma": "demand",
+          "offsetBegin": 290,
+          "offsetEnd": 296,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 296,
+          "offsetEnd": 297,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 298,
+          "offsetEnd": 301,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 302,
+          "offsetEnd": 306,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 307,
+          "offsetEnd": 312,
+          "pos": "NN"
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 313,
+          "offsetEnd": 317,
+          "pos": "PRP"
+        },
+        {
+          "word": "proved",
+          "lemma": "prove",
+          "offsetBegin": 318,
+          "offsetEnd": 324,
+          "pos": "VBD"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 325,
+          "offsetEnd": 329,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 330,
+          "offsetEnd": 333,
+          "pos": "DT"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 334,
+          "offsetEnd": 341,
+          "pos": "JJ"
+        },
+        {
+          "word": "replenishment",
+          "lemma": "replenishment",
+          "offsetBegin": 342,
+          "offsetEnd": 355,
+          "pos": "NN"
+        },
+        {
+          "word": "schedule",
+          "lemma": "schedule",
+          "offsetBegin": 356,
+          "offsetEnd": 364,
+          "pos": "NN"
+        },
+        {
+          "word": "exists",
+          "lemma": "exist",
+          "offsetBegin": 365,
+          "offsetEnd": 371,
+          "pos": "VBZ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 372,
+          "offsetEnd": 375,
+          "pos": "CC"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 376,
+          "offsetEnd": 378,
+          "pos": "VBZ"
+        },
+        {
+          "word": "unique",
+          "lemma": "unique",
+          "offsetBegin": 379,
+          "offsetEnd": 385,
+          "pos": "JJ"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 385,
+          "offsetEnd": 386,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "They",
+          "lemma": "they",
+          "offsetBegin": 387,
+          "offsetEnd": 391,
+          "pos": "PRP"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 392,
+          "offsetEnd": 396,
+          "pos": "RB"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 397,
+          "offsetEnd": 405,
+          "pos": "VBD"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 406,
+          "offsetEnd": 408,
+          "pos": "DT"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 409,
+          "offsetEnd": 418,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 419,
+          "offsetEnd": 421,
+          "pos": "TO"
+        },
+        {
+          "word": "find",
+          "lemma": "find",
+          "offsetBegin": 422,
+          "offsetEnd": 426,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 427,
+          "offsetEnd": 430,
+          "pos": "DT"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 431,
+          "offsetEnd": 438,
+          "pos": "JJ"
+        },
+        {
+          "word": "policy",
+          "lemma": "policy",
+          "offsetBegin": 439,
+          "offsetEnd": 445,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 445,
+          "offsetEnd": 446,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 447,
+          "offsetEnd": 450,
+          "pos": "DT"
+        },
+        {
+          "word": "present",
+          "lemma": "present",
+          "offsetBegin": 451,
+          "offsetEnd": 458,
+          "pos": "JJ"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 459,
+          "offsetEnd": 464,
+          "pos": "NN"
+        },
+        {
+          "word": "provides",
+          "lemma": "provide",
+          "offsetBegin": 465,
+          "offsetEnd": 473,
+          "pos": "VBZ"
+        },
+        {
+          "word": "examples",
+          "lemma": "example",
+          "offsetBegin": 474,
+          "offsetEnd": 482,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 482,
+          "offsetEnd": 483,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 484,
+          "offsetEnd": 489,
+          "pos": "WDT"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 490,
+          "offsetEnd": 494,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 495,
+          "offsetEnd": 499,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 500,
+          "offsetEnd": 503,
+          "pos": "DT"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 504,
+          "offsetEnd": 511,
+          "pos": "JJ"
+        },
+        {
+          "word": "replenishment",
+          "lemma": "replenishment",
+          "offsetBegin": 512,
+          "offsetEnd": 525,
+          "pos": "NN"
+        },
+        {
+          "word": "schedule",
+          "lemma": "schedule",
+          "offsetBegin": 526,
+          "offsetEnd": 534,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 535,
+          "offsetEnd": 538,
+          "pos": "CC"
+        },
+        {
+          "word": "consequently",
+          "lemma": "consequently",
+          "offsetBegin": 539,
+          "offsetEnd": 551,
+          "pos": "RB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 552,
+          "offsetEnd": 555,
+          "pos": "DT"
+        },
+        {
+          "word": "overall",
+          "lemma": "overall",
+          "offsetBegin": 556,
+          "offsetEnd": 563,
+          "pos": "JJ"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 564,
+          "offsetEnd": 571,
+          "pos": "JJ"
+        },
+        {
+          "word": "policy",
+          "lemma": "policy",
+          "offsetBegin": 572,
+          "offsetEnd": 578,
+          "pos": "NN"
+        },
+        {
+          "word": "may",
+          "lemma": "may",
+          "offsetBegin": 579,
+          "offsetEnd": 582,
+          "pos": "MD"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 583,
+          "offsetEnd": 586,
+          "pos": "RB"
+        },
+        {
+          "word": "exist",
+          "lemma": "exist",
+          "offsetBegin": 587,
+          "offsetEnd": 592,
+          "pos": "VB"
+        }
+      ]
+    }
+  ]
+}

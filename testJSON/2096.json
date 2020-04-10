@@ -1,0 +1,2015 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "spatial",
+          "lemma": "spatial",
+          "offsetBegin": 2,
+          "offsetEnd": 9,
+          "pos": "JJ"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 10,
+          "offsetEnd": 18,
+          "pos": "NNS"
+        },
+        {
+          "word": "simulator",
+          "lemma": "simulator",
+          "offsetBegin": 19,
+          "offsetEnd": 28,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 29,
+          "offsetEnd": 32,
+          "pos": "IN"
+        },
+        {
+          "word": "crop",
+          "lemma": "crop",
+          "offsetBegin": 33,
+          "offsetEnd": 37,
+          "pos": "NN"
+        },
+        {
+          "word": "production",
+          "lemma": "production",
+          "offsetBegin": 38,
+          "offsetEnd": 48,
+          "pos": "NN"
+        },
+        {
+          "word": "modeling",
+          "lemma": "modeling",
+          "offsetBegin": 49,
+          "offsetEnd": 57,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 58,
+          "offsetEnd": 60,
+          "pos": "IN"
+        },
+        {
+          "word": "Southern",
+          "lemma": "Southern",
+          "offsetBegin": 61,
+          "offsetEnd": 69,
+          "pos": "NNP"
+        },
+        {
+          "word": "Africa",
+          "lemma": "Africa",
+          "offsetBegin": 70,
+          "offsetEnd": 76,
+          "pos": "NNP"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 77,
+          "offsetEnd": 81,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 82,
+          "offsetEnd": 87,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 88,
+          "offsetEnd": 97,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 98,
+          "offsetEnd": 99,
+          "pos": "DT"
+        },
+        {
+          "word": "methodology",
+          "lemma": "methodology",
+          "offsetBegin": 100,
+          "offsetEnd": 111,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 112,
+          "offsetEnd": 115,
+          "pos": "IN"
+        },
+        {
+          "word": "simulating",
+          "lemma": "simulate",
+          "offsetBegin": 116,
+          "offsetEnd": 126,
+          "pos": "VBG"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 127,
+          "offsetEnd": 135,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 136,
+          "offsetEnd": 138,
+          "pos": "IN"
+        },
+        {
+          "word": "dekads",
+          "lemma": "dekad",
+          "offsetBegin": 139,
+          "offsetEnd": 145,
+          "pos": "NNS"
+        },
+        {
+          "word": "across",
+          "lemma": "across",
+          "offsetBegin": 146,
+          "offsetEnd": 152,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 153,
+          "offsetEnd": 154,
+          "pos": "DT"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 155,
+          "offsetEnd": 158,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 159,
+          "offsetEnd": 161,
+          "pos": "IN"
+        },
+        {
+          "word": "spatial",
+          "lemma": "spatial",
+          "offsetBegin": 162,
+          "offsetEnd": 169,
+          "pos": "JJ"
+        },
+        {
+          "word": "units",
+          "lemma": "unit",
+          "offsetBegin": 170,
+          "offsetEnd": 175,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 176,
+          "offsetEnd": 178,
+          "pos": "IN"
+        },
+        {
+          "word": "areas",
+          "lemma": "area",
+          "offsetBegin": 179,
+          "offsetEnd": 184,
+          "pos": "NNS"
+        },
+        {
+          "word": "where",
+          "lemma": "where",
+          "offsetBegin": 185,
+          "offsetEnd": 190,
+          "pos": "WRB"
+        },
+        {
+          "word": "long-term",
+          "lemma": "long-term",
+          "offsetBegin": 191,
+          "offsetEnd": 200,
+          "pos": "JJ"
+        },
+        {
+          "word": "meteorological",
+          "lemma": "meteorological",
+          "offsetBegin": 201,
+          "offsetEnd": 215,
+          "pos": "JJ"
+        },
+        {
+          "word": "records",
+          "lemma": "record",
+          "offsetBegin": 216,
+          "offsetEnd": 223,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 224,
+          "offsetEnd": 227,
+          "pos": "VBP"
+        },
+        {
+          "word": "available",
+          "lemma": "available",
+          "offsetBegin": 228,
+          "offsetEnd": 237,
+          "pos": "JJ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 238,
+          "offsetEnd": 241,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 242,
+          "offsetEnd": 243,
+          "pos": "DT"
+        },
+        {
+          "word": "small",
+          "lemma": "small",
+          "offsetBegin": 244,
+          "offsetEnd": 249,
+          "pos": "JJ"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 250,
+          "offsetEnd": 256,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 257,
+          "offsetEnd": 259,
+          "pos": "IN"
+        },
+        {
+          "word": "sites",
+          "lemma": "site",
+          "offsetBegin": 260,
+          "offsetEnd": 265,
+          "pos": "NNS"
+        },
+        {
+          "word": "only",
+          "lemma": "only",
+          "offsetBegin": 266,
+          "offsetEnd": 270,
+          "pos": "RB"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 270,
+          "offsetEnd": 271,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 272,
+          "offsetEnd": 275,
+          "pos": "DT"
+        },
+        {
+          "word": "work",
+          "lemma": "work",
+          "offsetBegin": 276,
+          "offsetEnd": 280,
+          "pos": "NN"
+        },
+        {
+          "word": "forms",
+          "lemma": "form",
+          "offsetBegin": 281,
+          "offsetEnd": 286,
+          "pos": "VBZ"
+        },
+        {
+          "word": "part",
+          "lemma": "part",
+          "offsetBegin": 287,
+          "offsetEnd": 291,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 292,
+          "offsetEnd": 294,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 295,
+          "offsetEnd": 296,
+          "pos": "DT"
+        },
+        {
+          "word": "larger",
+          "lemma": "larger",
+          "offsetBegin": 297,
+          "offsetEnd": 303,
+          "pos": "JJR"
+        },
+        {
+          "word": "simulation",
+          "lemma": "simulation",
+          "offsetBegin": 304,
+          "offsetEnd": 314,
+          "pos": "NN"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 315,
+          "offsetEnd": 320,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 321,
+          "offsetEnd": 323,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 324,
+          "offsetEnd": 327,
+          "pos": "DT"
+        },
+        {
+          "word": "food",
+          "lemma": "food",
+          "offsetBegin": 328,
+          "offsetEnd": 332,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 333,
+          "offsetEnd": 339,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 340,
+          "offsetEnd": 342,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 343,
+          "offsetEnd": 344,
+          "pos": "DT"
+        },
+        {
+          "word": "district",
+          "lemma": "district",
+          "offsetBegin": 345,
+          "offsetEnd": 353,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 354,
+          "offsetEnd": 356,
+          "pos": "IN"
+        },
+        {
+          "word": "Zimbabwe",
+          "lemma": "Zimbabwe",
+          "offsetBegin": 357,
+          "offsetEnd": 365,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 365,
+          "offsetEnd": 366,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 367,
+          "offsetEnd": 372,
+          "pos": "WDT"
+        },
+        {
+          "word": "includes",
+          "lemma": "include",
+          "offsetBegin": 373,
+          "offsetEnd": 381,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 382,
+          "offsetEnd": 383,
+          "pos": "DT"
+        },
+        {
+          "word": "crop",
+          "lemma": "crop",
+          "offsetBegin": 384,
+          "offsetEnd": 388,
+          "pos": "NN"
+        },
+        {
+          "word": "production",
+          "lemma": "production",
+          "offsetBegin": 389,
+          "offsetEnd": 399,
+          "pos": "NN"
+        },
+        {
+          "word": "component",
+          "lemma": "component",
+          "offsetBegin": 400,
+          "offsetEnd": 409,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 410,
+          "offsetEnd": 413,
+          "pos": "IN"
+        },
+        {
+          "word": "yields",
+          "lemma": "yield",
+          "offsetBegin": 414,
+          "offsetEnd": 420,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 421,
+          "offsetEnd": 423,
+          "pos": "IN"
+        },
+        {
+          "word": "maize",
+          "lemma": "maize",
+          "offsetBegin": 424,
+          "offsetEnd": 429,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 429,
+          "offsetEnd": 430,
+          "pos": ","
+        },
+        {
+          "word": "small",
+          "lemma": "small",
+          "offsetBegin": 431,
+          "offsetEnd": 436,
+          "pos": "JJ"
+        },
+        {
+          "word": "grains",
+          "lemma": "grain",
+          "offsetBegin": 437,
+          "offsetEnd": 443,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 444,
+          "offsetEnd": 447,
+          "pos": "CC"
+        },
+        {
+          "word": "groundnuts",
+          "lemma": "groundnut",
+          "offsetBegin": 448,
+          "offsetEnd": 458,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 458,
+          "offsetEnd": 459,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Only",
+          "lemma": "only",
+          "offsetBegin": 460,
+          "offsetEnd": 464,
+          "pos": "RB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 465,
+          "offsetEnd": 466,
+          "pos": "DT"
+        },
+        {
+          "word": "limited",
+          "lemma": "limited",
+          "offsetBegin": 467,
+          "offsetEnd": 474,
+          "pos": "JJ"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 475,
+          "offsetEnd": 481,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 482,
+          "offsetEnd": 484,
+          "pos": "IN"
+        },
+        {
+          "word": "meteorological",
+          "lemma": "meteorological",
+          "offsetBegin": 485,
+          "offsetEnd": 499,
+          "pos": "JJ"
+        },
+        {
+          "word": "stations",
+          "lemma": "station",
+          "offsetBegin": 500,
+          "offsetEnd": 508,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 509,
+          "offsetEnd": 512,
+          "pos": "VBP"
+        },
+        {
+          "word": "available",
+          "lemma": "available",
+          "offsetBegin": 513,
+          "offsetEnd": 522,
+          "pos": "JJ"
+        },
+        {
+          "word": "within",
+          "lemma": "within",
+          "offsetBegin": 523,
+          "offsetEnd": 529,
+          "pos": "IN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 530,
+          "offsetEnd": 532,
+          "pos": "CC"
+        },
+        {
+          "word": "surrounding",
+          "lemma": "surround",
+          "offsetBegin": 533,
+          "offsetEnd": 544,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 545,
+          "offsetEnd": 548,
+          "pos": "DT"
+        },
+        {
+          "word": "district",
+          "lemma": "district",
+          "offsetBegin": 549,
+          "offsetEnd": 557,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 558,
+          "offsetEnd": 562,
+          "pos": "WDT"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 563,
+          "offsetEnd": 567,
+          "pos": "VBP"
+        },
+        {
+          "word": "long",
+          "lemma": "long",
+          "offsetBegin": 568,
+          "offsetEnd": 572,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 573,
+          "offsetEnd": 577,
+          "pos": "NN"
+        },
+        {
+          "word": "series",
+          "lemma": "series",
+          "offsetBegin": 578,
+          "offsetEnd": 584,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 585,
+          "offsetEnd": 587,
+          "pos": "IN"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 588,
+          "offsetEnd": 596,
+          "pos": "NNS"
+        },
+        {
+          "word": "records",
+          "lemma": "record",
+          "offsetBegin": 597,
+          "offsetEnd": 604,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 604,
+          "offsetEnd": 605,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Preliminary",
+          "lemma": "preliminary",
+          "offsetBegin": 606,
+          "offsetEnd": 617,
+          "pos": "JJ"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 618,
+          "offsetEnd": 626,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 627,
+          "offsetEnd": 629,
+          "pos": "IN"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 630,
+          "offsetEnd": 638,
+          "pos": "NNS"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 639,
+          "offsetEnd": 643,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 644,
+          "offsetEnd": 647,
+          "pos": "IN"
+        },
+        {
+          "word": "these",
+          "lemma": "these",
+          "offsetBegin": 648,
+          "offsetEnd": 653,
+          "pos": "DT"
+        },
+        {
+          "word": "stations",
+          "lemma": "station",
+          "offsetBegin": 654,
+          "offsetEnd": 662,
+          "pos": "NNS"
+        },
+        {
+          "word": "suggested",
+          "lemma": "suggest",
+          "offsetBegin": 663,
+          "offsetEnd": 672,
+          "pos": "VBD"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 673,
+          "offsetEnd": 677,
+          "pos": "IN"
+        },
+        {
+          "word": "intra-seasonal",
+          "lemma": "intra-seasonal",
+          "offsetBegin": 678,
+          "offsetEnd": 692,
+          "pos": "JJ"
+        },
+        {
+          "word": "temporal",
+          "lemma": "temporal",
+          "offsetBegin": 693,
+          "offsetEnd": 701,
+          "pos": "JJ"
+        },
+        {
+          "word": "correlation",
+          "lemma": "correlation",
+          "offsetBegin": 702,
+          "offsetEnd": 713,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 714,
+          "offsetEnd": 717,
+          "pos": "VBD"
+        },
+        {
+          "word": "negligible",
+          "lemma": "negligible",
+          "offsetBegin": 718,
+          "offsetEnd": 728,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 728,
+          "offsetEnd": 729,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 730,
+          "offsetEnd": 733,
+          "pos": "CC"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 734,
+          "offsetEnd": 738,
+          "pos": "IN"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 739,
+          "offsetEnd": 747,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 748,
+          "offsetEnd": 750,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 751,
+          "offsetEnd": 754,
+          "pos": "DT"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 755,
+          "offsetEnd": 760,
+          "pos": "VBN"
+        },
+        {
+          "word": "station",
+          "lemma": "station",
+          "offsetBegin": 761,
+          "offsetEnd": 768,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 769,
+          "offsetEnd": 772,
+          "pos": "VBD"
+        },
+        {
+          "word": "correlated",
+          "lemma": "correlate",
+          "offsetBegin": 773,
+          "offsetEnd": 783,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 784,
+          "offsetEnd": 788,
+          "pos": "IN"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 789,
+          "offsetEnd": 797,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 798,
+          "offsetEnd": 800,
+          "pos": "IN"
+        },
+        {
+          "word": "neighbouring",
+          "lemma": "neighbouring",
+          "offsetBegin": 801,
+          "offsetEnd": 813,
+          "pos": "JJ"
+        },
+        {
+          "word": "stations",
+          "lemma": "station",
+          "offsetBegin": 814,
+          "offsetEnd": 822,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 822,
+          "offsetEnd": 823,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 824,
+          "offsetEnd": 828,
+          "pos": "DT"
+        },
+        {
+          "word": "spatial",
+          "lemma": "spatial",
+          "offsetBegin": 829,
+          "offsetEnd": 836,
+          "pos": "JJ"
+        },
+        {
+          "word": "correlation",
+          "lemma": "correlation",
+          "offsetBegin": 837,
+          "offsetEnd": 848,
+          "pos": "NN"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 849,
+          "offsetEnd": 858,
+          "pos": "NN"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 859,
+          "offsetEnd": 862,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 863,
+          "offsetEnd": 865,
+          "pos": "VB"
+        },
+        {
+          "word": "modeled",
+          "lemma": "model",
+          "offsetBegin": 866,
+          "offsetEnd": 873,
+          "pos": "VBN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 874,
+          "offsetEnd": 879,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 880,
+          "offsetEnd": 881,
+          "pos": "DT"
+        },
+        {
+          "word": "multivariate",
+          "lemma": "multivariate",
+          "offsetBegin": 882,
+          "offsetEnd": 894,
+          "pos": "JJ"
+        },
+        {
+          "word": "normal",
+          "lemma": "normal",
+          "offsetBegin": 895,
+          "offsetEnd": 901,
+          "pos": "JJ"
+        },
+        {
+          "word": "distribution",
+          "lemma": "distribution",
+          "offsetBegin": 902,
+          "offsetEnd": 914,
+          "pos": "NN"
+        },
+        {
+          "word": "consisting",
+          "lemma": "consist",
+          "offsetBegin": 915,
+          "offsetEnd": 925,
+          "pos": "VBG"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 926,
+          "offsetEnd": 928,
+          "pos": "IN"
+        },
+        {
+          "word": "30",
+          "lemma": "30",
+          "offsetBegin": 929,
+          "offsetEnd": 931,
+          "pos": "CD"
+        },
+        {
+          "word": "related",
+          "lemma": "related",
+          "offsetBegin": 932,
+          "offsetEnd": 939,
+          "pos": "JJ"
+        },
+        {
+          "word": "variables",
+          "lemma": "variable",
+          "offsetBegin": 940,
+          "offsetEnd": 949,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 949,
+          "offsetEnd": 950,
+          "pos": ","
+        },
+        {
+          "word": "representing",
+          "lemma": "represent",
+          "offsetBegin": 951,
+          "offsetEnd": 963,
+          "pos": "VBG"
+        },
+        {
+          "word": "dekadly",
+          "lemma": "dekadly",
+          "offsetBegin": 964,
+          "offsetEnd": 971,
+          "pos": "RB"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 972,
+          "offsetEnd": 980,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 981,
+          "offsetEnd": 983,
+          "pos": "IN"
+        },
+        {
+          "word": "each",
+          "lemma": "each",
+          "offsetBegin": 984,
+          "offsetEnd": 988,
+          "pos": "DT"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 989,
+          "offsetEnd": 991,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 992,
+          "offsetEnd": 995,
+          "pos": "DT"
+        },
+        {
+          "word": "30",
+          "lemma": "30",
+          "offsetBegin": 996,
+          "offsetEnd": 998,
+          "pos": "CD"
+        },
+        {
+          "word": "wards",
+          "lemma": "ward",
+          "offsetBegin": 999,
+          "offsetEnd": 1004,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1004,
+          "offsetEnd": 1005,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 1006,
+          "offsetEnd": 1009,
+          "pos": "IN"
+        },
+        {
+          "word": "each",
+          "lemma": "each",
+          "offsetBegin": 1010,
+          "offsetEnd": 1014,
+          "pos": "DT"
+        },
+        {
+          "word": "ward",
+          "lemma": "ward",
+          "offsetBegin": 1015,
+          "offsetEnd": 1019,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1019,
+          "offsetEnd": 1020,
+          "pos": ","
+        },
+        {
+          "word": "log-transformed",
+          "lemma": "log-transformed",
+          "offsetBegin": 1021,
+          "offsetEnd": 1036,
+          "pos": "JJ"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 1037,
+          "offsetEnd": 1045,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 1046,
+          "offsetEnd": 1049,
+          "pos": "IN"
+        },
+        {
+          "word": "each",
+          "lemma": "each",
+          "offsetBegin": 1050,
+          "offsetEnd": 1054,
+          "pos": "DT"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1055,
+          "offsetEnd": 1057,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1058,
+          "offsetEnd": 1061,
+          "pos": "DT"
+        },
+        {
+          "word": "36",
+          "lemma": "36",
+          "offsetBegin": 1062,
+          "offsetEnd": 1064,
+          "pos": "CD"
+        },
+        {
+          "word": "dekads",
+          "lemma": "dekad",
+          "offsetBegin": 1065,
+          "offsetEnd": 1071,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1072,
+          "offsetEnd": 1074,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1075,
+          "offsetEnd": 1078,
+          "pos": "DT"
+        },
+        {
+          "word": "year",
+          "lemma": "year",
+          "offsetBegin": 1079,
+          "offsetEnd": 1083,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 1084,
+          "offsetEnd": 1087,
+          "pos": "VBD"
+        },
+        {
+          "word": "characterized",
+          "lemma": "characterize",
+          "offsetBegin": 1088,
+          "offsetEnd": 1101,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 1102,
+          "offsetEnd": 1104,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 1105,
+          "offsetEnd": 1106,
+          "pos": "DT"
+        },
+        {
+          "word": "mean",
+          "lemma": "mean",
+          "offsetBegin": 1107,
+          "offsetEnd": 1111,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1112,
+          "offsetEnd": 1115,
+          "pos": "CC"
+        },
+        {
+          "word": "standard",
+          "lemma": "standard",
+          "offsetBegin": 1116,
+          "offsetEnd": 1124,
+          "pos": "JJ"
+        },
+        {
+          "word": "deviation",
+          "lemma": "deviation",
+          "offsetBegin": 1125,
+          "offsetEnd": 1134,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1134,
+          "offsetEnd": 1135,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 1136,
+          "offsetEnd": 1141,
+          "pos": "WDT"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 1142,
+          "offsetEnd": 1146,
+          "pos": "VBD"
+        },
+        {
+          "word": "interpolated",
+          "lemma": "interpolate",
+          "offsetBegin": 1147,
+          "offsetEnd": 1159,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 1160,
+          "offsetEnd": 1164,
+          "pos": "IN"
+        },
+        {
+          "word": "surrounding",
+          "lemma": "surround",
+          "offsetBegin": 1165,
+          "offsetEnd": 1176,
+          "pos": "VBG"
+        },
+        {
+          "word": "meteorological",
+          "lemma": "meteorological",
+          "offsetBegin": 1177,
+          "offsetEnd": 1191,
+          "pos": "JJ"
+        },
+        {
+          "word": "stations",
+          "lemma": "station",
+          "offsetBegin": 1192,
+          "offsetEnd": 1200,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1200,
+          "offsetEnd": 1201,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 1202,
+          "offsetEnd": 1203,
+          "pos": "DT"
+        },
+        {
+          "word": "covariance",
+          "lemma": "covariance",
+          "offsetBegin": 1204,
+          "offsetEnd": 1214,
+          "pos": "NN"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 1215,
+          "offsetEnd": 1221,
+          "pos": "NN"
+        },
+        {
+          "word": "derived",
+          "lemma": "derive",
+          "offsetBegin": 1222,
+          "offsetEnd": 1229,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 1230,
+          "offsetEnd": 1234,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 1235,
+          "offsetEnd": 1236,
+          "pos": "DT"
+        },
+        {
+          "word": "distance",
+          "lemma": "distance",
+          "offsetBegin": 1237,
+          "offsetEnd": 1245,
+          "pos": "NN"
+        },
+        {
+          "word": "measure",
+          "lemma": "measure",
+          "offsetBegin": 1246,
+          "offsetEnd": 1253,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 1254,
+          "offsetEnd": 1257,
+          "pos": "VBD"
+        },
+        {
+          "word": "then",
+          "lemma": "then",
+          "offsetBegin": 1258,
+          "offsetEnd": 1262,
+          "pos": "RB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 1263,
+          "offsetEnd": 1267,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1268,
+          "offsetEnd": 1270,
+          "pos": "TO"
+        },
+        {
+          "word": "represent",
+          "lemma": "represent",
+          "offsetBegin": 1271,
+          "offsetEnd": 1280,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1281,
+          "offsetEnd": 1284,
+          "pos": "DT"
+        },
+        {
+          "word": "spatial",
+          "lemma": "spatial",
+          "offsetBegin": 1285,
+          "offsetEnd": 1292,
+          "pos": "JJ"
+        },
+        {
+          "word": "correlation",
+          "lemma": "correlation",
+          "offsetBegin": 1293,
+          "offsetEnd": 1304,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 1305,
+          "offsetEnd": 1312,
+          "pos": "IN"
+        },
+        {
+          "word": "wards",
+          "lemma": "ward",
+          "offsetBegin": 1313,
+          "offsetEnd": 1318,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1318,
+          "offsetEnd": 1319,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Sets",
+          "lemma": "set",
+          "offsetBegin": 1320,
+          "offsetEnd": 1324,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1325,
+          "offsetEnd": 1327,
+          "pos": "IN"
+        },
+        {
+          "word": "random",
+          "lemma": "random",
+          "offsetBegin": 1328,
+          "offsetEnd": 1334,
+          "pos": "JJ"
+        },
+        {
+          "word": "numbers",
+          "lemma": "number",
+          "offsetBegin": 1335,
+          "offsetEnd": 1342,
+          "pos": "NNS"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 1343,
+          "offsetEnd": 1347,
+          "pos": "VBD"
+        },
+        {
+          "word": "then",
+          "lemma": "then",
+          "offsetBegin": 1348,
+          "offsetEnd": 1352,
+          "pos": "RB"
+        },
+        {
+          "word": "drawn",
+          "lemma": "draw",
+          "offsetBegin": 1353,
+          "offsetEnd": 1358,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 1359,
+          "offsetEnd": 1363,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 1364,
+          "offsetEnd": 1368,
+          "pos": "DT"
+        },
+        {
+          "word": "distribution",
+          "lemma": "distribution",
+          "offsetBegin": 1369,
+          "offsetEnd": 1381,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1382,
+          "offsetEnd": 1384,
+          "pos": "TO"
+        },
+        {
+          "word": "simulate",
+          "lemma": "simulate",
+          "offsetBegin": 1385,
+          "offsetEnd": 1393,
+          "pos": "VB"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 1394,
+          "offsetEnd": 1402,
+          "pos": "NNS"
+        },
+        {
+          "word": "across",
+          "lemma": "across",
+          "offsetBegin": 1403,
+          "offsetEnd": 1409,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1410,
+          "offsetEnd": 1413,
+          "pos": "DT"
+        },
+        {
+          "word": "wards",
+          "lemma": "ward",
+          "offsetBegin": 1414,
+          "offsetEnd": 1419,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1420,
+          "offsetEnd": 1422,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 1423,
+          "offsetEnd": 1426,
+          "pos": "DT"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 1427,
+          "offsetEnd": 1432,
+          "pos": "VBN"
+        },
+        {
+          "word": "dekad",
+          "lemma": "dekad",
+          "offsetBegin": 1433,
+          "offsetEnd": 1438,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1438,
+          "offsetEnd": 1439,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Cross-validation",
+          "lemma": "cross-validation",
+          "offsetBegin": 1440,
+          "offsetEnd": 1456,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1457,
+          "offsetEnd": 1459,
+          "pos": "IN"
+        },
+        {
+          "word": "estimated",
+          "lemma": "estimate",
+          "offsetBegin": 1460,
+          "offsetEnd": 1469,
+          "pos": "VBN"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 1470,
+          "offsetEnd": 1478,
+          "pos": "NNS"
+        },
+        {
+          "word": "parameters",
+          "lemma": "parameter",
+          "offsetBegin": 1479,
+          "offsetEnd": 1489,
+          "pos": "NNS"
+        },
+        {
+          "word": "against",
+          "lemma": "against",
+          "offsetBegin": 1490,
+          "offsetEnd": 1497,
+          "pos": "IN"
+        },
+        {
+          "word": "observed",
+          "lemma": "observe",
+          "offsetBegin": 1498,
+          "offsetEnd": 1506,
+          "pos": "VBN"
+        },
+        {
+          "word": "parameters",
+          "lemma": "parameter",
+          "offsetBegin": 1507,
+          "offsetEnd": 1517,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 1518,
+          "offsetEnd": 1521,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1522,
+          "offsetEnd": 1525,
+          "pos": "DT"
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "offsetBegin": 1526,
+          "offsetEnd": 1529,
+          "pos": "CD"
+        },
+        {
+          "word": "meteorological",
+          "lemma": "meteorological",
+          "offsetBegin": 1530,
+          "offsetEnd": 1544,
+          "pos": "JJ"
+        },
+        {
+          "word": "station",
+          "lemma": "station",
+          "offsetBegin": 1545,
+          "offsetEnd": 1552,
+          "pos": "NN"
+        },
+        {
+          "word": "within",
+          "lemma": "within",
+          "offsetBegin": 1553,
+          "offsetEnd": 1559,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1560,
+          "offsetEnd": 1563,
+          "pos": "DT"
+        },
+        {
+          "word": "district",
+          "lemma": "district",
+          "offsetBegin": 1564,
+          "offsetEnd": 1572,
+          "pos": "NN"
+        },
+        {
+          "word": "suggests",
+          "lemma": "suggest",
+          "offsetBegin": 1573,
+          "offsetEnd": 1581,
+          "pos": "VBZ"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 1582,
+          "offsetEnd": 1586,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1587,
+          "offsetEnd": 1590,
+          "pos": "DT"
+        },
+        {
+          "word": "interpolation",
+          "lemma": "interpolation",
+          "offsetBegin": 1591,
+          "offsetEnd": 1604,
+          "pos": "NN"
+        },
+        {
+          "word": "process",
+          "lemma": "process",
+          "offsetBegin": 1605,
+          "offsetEnd": 1612,
+          "pos": "NN"
+        },
+        {
+          "word": "works",
+          "lemma": "work",
+          "offsetBegin": 1613,
+          "offsetEnd": 1618,
+          "pos": "VBZ"
+        },
+        {
+          "word": "well",
+          "lemma": "well",
+          "offsetBegin": 1619,
+          "offsetEnd": 1623,
+          "pos": "RB"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1623,
+          "offsetEnd": 1624,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 1625,
+          "offsetEnd": 1628,
+          "pos": "DT"
+        },
+        {
+          "word": "methodology",
+          "lemma": "methodology",
+          "offsetBegin": 1629,
+          "offsetEnd": 1640,
+          "pos": "NN"
+        },
+        {
+          "word": "developed",
+          "lemma": "develop",
+          "offsetBegin": 1641,
+          "offsetEnd": 1650,
+          "pos": "VBN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 1651,
+          "offsetEnd": 1653,
+          "pos": "VBZ"
+        },
+        {
+          "word": "useful",
+          "lemma": "useful",
+          "offsetBegin": 1654,
+          "offsetEnd": 1660,
+          "pos": "JJ"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1661,
+          "offsetEnd": 1663,
+          "pos": "IN"
+        },
+        {
+          "word": "situations",
+          "lemma": "situation",
+          "offsetBegin": 1664,
+          "offsetEnd": 1674,
+          "pos": "NNS"
+        },
+        {
+          "word": "where",
+          "lemma": "where",
+          "offsetBegin": 1675,
+          "offsetEnd": 1680,
+          "pos": "WRB"
+        },
+        {
+          "word": "long-term",
+          "lemma": "long-term",
+          "offsetBegin": 1681,
+          "offsetEnd": 1690,
+          "pos": "JJ"
+        },
+        {
+          "word": "climatic",
+          "lemma": "climatic",
+          "offsetBegin": 1691,
+          "offsetEnd": 1699,
+          "pos": "JJ"
+        },
+        {
+          "word": "records",
+          "lemma": "record",
+          "offsetBegin": 1700,
+          "offsetEnd": 1707,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 1708,
+          "offsetEnd": 1711,
+          "pos": "VBP"
+        },
+        {
+          "word": "scarce",
+          "lemma": "scarce",
+          "offsetBegin": 1712,
+          "offsetEnd": 1718,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1719,
+          "offsetEnd": 1722,
+          "pos": "CC"
+        },
+        {
+          "word": "where",
+          "lemma": "where",
+          "offsetBegin": 1723,
+          "offsetEnd": 1728,
+          "pos": "WRB"
+        },
+        {
+          "word": "rainfall",
+          "lemma": "rainfall",
+          "offsetBegin": 1729,
+          "offsetEnd": 1737,
+          "pos": "NNS"
+        },
+        {
+          "word": "shows",
+          "lemma": "show",
+          "offsetBegin": 1738,
+          "offsetEnd": 1743,
+          "pos": "VBZ"
+        },
+        {
+          "word": "pronounced",
+          "lemma": "pronounced",
+          "offsetBegin": 1744,
+          "offsetEnd": 1754,
+          "pos": "JJ"
+        },
+        {
+          "word": "spatial",
+          "lemma": "spatial",
+          "offsetBegin": 1755,
+          "offsetEnd": 1762,
+          "pos": "JJ"
+        },
+        {
+          "word": "correlation",
+          "lemma": "correlation",
+          "offsetBegin": 1763,
+          "offsetEnd": 1774,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1774,
+          "offsetEnd": 1775,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 1776,
+          "offsetEnd": 1779,
+          "pos": "CC"
+        },
+        {
+          "word": "negligible",
+          "lemma": "negligible",
+          "offsetBegin": 1780,
+          "offsetEnd": 1790,
+          "pos": "JJ"
+        },
+        {
+          "word": "temporal",
+          "lemma": "temporal",
+          "offsetBegin": 1791,
+          "offsetEnd": 1799,
+          "pos": "JJ"
+        },
+        {
+          "word": "correlation",
+          "lemma": "correlation",
+          "offsetBegin": 1800,
+          "offsetEnd": 1811,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

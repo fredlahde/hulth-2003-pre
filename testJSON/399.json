@@ -1,0 +1,945 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Low-voltage",
+          "lemma": "low-voltage",
+          "offsetBegin": 0,
+          "offsetEnd": 11,
+          "pos": "JJ"
+        },
+        {
+          "word": "DRAM",
+          "lemma": "DRAM",
+          "offsetBegin": 12,
+          "offsetEnd": 16,
+          "pos": "NNP"
+        },
+        {
+          "word": "sensing",
+          "lemma": "sense",
+          "offsetBegin": 17,
+          "offsetEnd": 24,
+          "pos": "VBG"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 25,
+          "offsetEnd": 31,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 32,
+          "offsetEnd": 36,
+          "pos": "IN"
+        },
+        {
+          "word": "offset-cancellation",
+          "lemma": "offset-cancellation",
+          "offsetBegin": 37,
+          "offsetEnd": 56,
+          "pos": "NN"
+        },
+        {
+          "word": "sense",
+          "lemma": "sense",
+          "offsetBegin": 57,
+          "offsetEnd": 62,
+          "pos": "NN"
+        },
+        {
+          "word": "amplifier",
+          "lemma": "amplifier",
+          "offsetBegin": 63,
+          "offsetEnd": 72,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 73,
+          "offsetEnd": 74,
+          "pos": "DT"
+        },
+        {
+          "word": "novel",
+          "lemma": "novel",
+          "offsetBegin": 75,
+          "offsetEnd": 80,
+          "pos": "JJ"
+        },
+        {
+          "word": "bitline",
+          "lemma": "bitline",
+          "offsetBegin": 81,
+          "offsetEnd": 88,
+          "pos": "NN"
+        },
+        {
+          "word": "sensing",
+          "lemma": "sense",
+          "offsetBegin": 89,
+          "offsetEnd": 96,
+          "pos": "VBG"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 97,
+          "offsetEnd": 103,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 104,
+          "offsetEnd": 106,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 107,
+          "offsetEnd": 115,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 116,
+          "offsetEnd": 119,
+          "pos": "IN"
+        },
+        {
+          "word": "low-voltage",
+          "lemma": "low-voltage",
+          "offsetBegin": 120,
+          "offsetEnd": 131,
+          "pos": "JJ"
+        },
+        {
+          "word": "DRAM",
+          "lemma": "dram",
+          "offsetBegin": 132,
+          "offsetEnd": 136,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 137,
+          "offsetEnd": 139,
+          "pos": "TO"
+        },
+        {
+          "word": "achieve",
+          "lemma": "achieve",
+          "offsetBegin": 140,
+          "offsetEnd": 147,
+          "pos": "VB"
+        },
+        {
+          "word": "low",
+          "lemma": "low",
+          "offsetBegin": 148,
+          "offsetEnd": 151,
+          "pos": "JJ"
+        },
+        {
+          "word": "power",
+          "lemma": "power",
+          "offsetBegin": 152,
+          "offsetEnd": 157,
+          "pos": "NN"
+        },
+        {
+          "word": "dissipation",
+          "lemma": "dissipation",
+          "offsetBegin": 158,
+          "offsetEnd": 169,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 170,
+          "offsetEnd": 173,
+          "pos": "CC"
+        },
+        {
+          "word": "compatibility",
+          "lemma": "compatibility",
+          "offsetBegin": 174,
+          "offsetEnd": 187,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 188,
+          "offsetEnd": 192,
+          "pos": "IN"
+        },
+        {
+          "word": "low-voltage",
+          "lemma": "low-voltage",
+          "offsetBegin": 193,
+          "offsetEnd": 204,
+          "pos": "JJ"
+        },
+        {
+          "word": "CMOS",
+          "lemma": "cmo",
+          "offsetBegin": 205,
+          "offsetEnd": 209,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 209,
+          "offsetEnd": 210,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "One",
+          "lemma": "one",
+          "offsetBegin": 211,
+          "offsetEnd": 214,
+          "pos": "CD"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 215,
+          "offsetEnd": 217,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 218,
+          "offsetEnd": 221,
+          "pos": "DT"
+        },
+        {
+          "word": "major",
+          "lemma": "major",
+          "offsetBegin": 222,
+          "offsetEnd": 227,
+          "pos": "JJ"
+        },
+        {
+          "word": "obstacles",
+          "lemma": "obstacle",
+          "offsetBegin": 228,
+          "offsetEnd": 237,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 238,
+          "offsetEnd": 240,
+          "pos": "IN"
+        },
+        {
+          "word": "low-voltage",
+          "lemma": "low-voltage",
+          "offsetBegin": 241,
+          "offsetEnd": 252,
+          "pos": "JJ"
+        },
+        {
+          "word": "DRAM",
+          "lemma": "dram",
+          "offsetBegin": 253,
+          "offsetEnd": 257,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 258,
+          "offsetEnd": 260,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 261,
+          "offsetEnd": 264,
+          "pos": "DT"
+        },
+        {
+          "word": "degradation",
+          "lemma": "degradation",
+          "offsetBegin": 265,
+          "offsetEnd": 276,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 277,
+          "offsetEnd": 279,
+          "pos": "IN"
+        },
+        {
+          "word": "data-retention",
+          "lemma": "data-retention",
+          "offsetBegin": 280,
+          "offsetEnd": 294,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 295,
+          "offsetEnd": 299,
+          "pos": "NN"
+        },
+        {
+          "word": "due",
+          "lemma": "due",
+          "offsetBegin": 300,
+          "offsetEnd": 303,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 304,
+          "offsetEnd": 306,
+          "pos": "TO"
+        },
+        {
+          "word": "low",
+          "lemma": "low",
+          "offsetBegin": 307,
+          "offsetEnd": 310,
+          "pos": "JJ"
+        },
+        {
+          "word": "signal",
+          "lemma": "signal",
+          "offsetBegin": 311,
+          "offsetEnd": 317,
+          "pos": "NN"
+        },
+        {
+          "word": "level",
+          "lemma": "level",
+          "offsetBegin": 318,
+          "offsetEnd": 323,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 324,
+          "offsetEnd": 326,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 327,
+          "offsetEnd": 330,
+          "pos": "DT"
+        },
+        {
+          "word": "memory",
+          "lemma": "memory",
+          "offsetBegin": 331,
+          "offsetEnd": 337,
+          "pos": "NN"
+        },
+        {
+          "word": "cell",
+          "lemma": "cell",
+          "offsetBegin": 338,
+          "offsetEnd": 342,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 342,
+          "offsetEnd": 343,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 344,
+          "offsetEnd": 349,
+          "pos": "WDT"
+        },
+        {
+          "word": "requires",
+          "lemma": "require",
+          "offsetBegin": 350,
+          "offsetEnd": 358,
+          "pos": "VBZ"
+        },
+        {
+          "word": "power-consuming",
+          "lemma": "power-consuming",
+          "offsetBegin": 359,
+          "offsetEnd": 374,
+          "pos": "JJ"
+        },
+        {
+          "word": "refresh",
+          "lemma": "refresh",
+          "offsetBegin": 375,
+          "offsetEnd": 382,
+          "pos": "JJ"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 383,
+          "offsetEnd": 393,
+          "pos": "NNS"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 394,
+          "offsetEnd": 398,
+          "pos": "RBR"
+        },
+        {
+          "word": "frequently",
+          "lemma": "frequently",
+          "offsetBegin": 399,
+          "offsetEnd": 409,
+          "pos": "RB"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 409,
+          "offsetEnd": 410,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 411,
+          "offsetEnd": 415,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 416,
+          "offsetEnd": 421,
+          "pos": "NN"
+        },
+        {
+          "word": "proposes",
+          "lemma": "propose",
+          "offsetBegin": 422,
+          "offsetEnd": 430,
+          "pos": "VBZ"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 431,
+          "offsetEnd": 433,
+          "pos": "DT"
+        },
+        {
+          "word": "offset-cancellation",
+          "lemma": "offset-cancellation",
+          "offsetBegin": 434,
+          "offsetEnd": 453,
+          "pos": "JJ"
+        },
+        {
+          "word": "sense-amplifier",
+          "lemma": "sense-amplifier",
+          "offsetBegin": 454,
+          "offsetEnd": 469,
+          "pos": "NN"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 470,
+          "offsetEnd": 476,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 477,
+          "offsetEnd": 478,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "OCSA",
+          "lemma": "ocsa",
+          "offsetBegin": 478,
+          "offsetEnd": 482,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 482,
+          "offsetEnd": 483,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 484,
+          "offsetEnd": 488,
+          "pos": "WDT"
+        },
+        {
+          "word": "improves",
+          "lemma": "improve",
+          "offsetBegin": 489,
+          "offsetEnd": 497,
+          "pos": "VBZ"
+        },
+        {
+          "word": "data-retention",
+          "lemma": "data-retention",
+          "offsetBegin": 498,
+          "offsetEnd": 512,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 513,
+          "offsetEnd": 517,
+          "pos": "NN"
+        },
+        {
+          "word": "significantly",
+          "lemma": "significantly",
+          "offsetBegin": 518,
+          "offsetEnd": 531,
+          "pos": "RB"
+        },
+        {
+          "word": "even",
+          "lemma": "even",
+          "offsetBegin": 532,
+          "offsetEnd": 536,
+          "pos": "RB"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 537,
+          "offsetEnd": 539,
+          "pos": "IN"
+        },
+        {
+          "word": "low",
+          "lemma": "low",
+          "offsetBegin": 540,
+          "offsetEnd": 543,
+          "pos": "JJ"
+        },
+        {
+          "word": "supply",
+          "lemma": "supply",
+          "offsetBegin": 544,
+          "offsetEnd": 550,
+          "pos": "NN"
+        },
+        {
+          "word": "voltage",
+          "lemma": "voltage",
+          "offsetBegin": 551,
+          "offsetEnd": 558,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 558,
+          "offsetEnd": 559,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "offsetBegin": 560,
+          "offsetEnd": 562,
+          "pos": "PRP"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 563,
+          "offsetEnd": 567,
+          "pos": "RB"
+        },
+        {
+          "word": "improves",
+          "lemma": "improve",
+          "offsetBegin": 568,
+          "offsetEnd": 576,
+          "pos": "VBZ"
+        },
+        {
+          "word": "die",
+          "lemma": "die",
+          "offsetBegin": 577,
+          "offsetEnd": 580,
+          "pos": "VB"
+        },
+        {
+          "word": "efficiency",
+          "lemma": "efficiency",
+          "offsetBegin": 581,
+          "offsetEnd": 591,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 591,
+          "offsetEnd": 592,
+          "pos": ","
+        },
+        {
+          "word": "because",
+          "lemma": "because",
+          "offsetBegin": 593,
+          "offsetEnd": 600,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 601,
+          "offsetEnd": 604,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 605,
+          "offsetEnd": 613,
+          "pos": "VBN"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 614,
+          "offsetEnd": 620,
+          "pos": "NN"
+        },
+        {
+          "word": "reduces",
+          "lemma": "reduce",
+          "offsetBegin": 621,
+          "offsetEnd": 628,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 629,
+          "offsetEnd": 632,
+          "pos": "DT"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 633,
+          "offsetEnd": 639,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 640,
+          "offsetEnd": 642,
+          "pos": "IN"
+        },
+        {
+          "word": "sense",
+          "lemma": "sense",
+          "offsetBegin": 643,
+          "offsetEnd": 648,
+          "pos": "NN"
+        },
+        {
+          "word": "amplifiers",
+          "lemma": "amplifier",
+          "offsetBegin": 649,
+          "offsetEnd": 659,
+          "pos": "NNS"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 660,
+          "offsetEnd": 662,
+          "pos": "IN"
+        },
+        {
+          "word": "supporting",
+          "lemma": "support",
+          "offsetBegin": 663,
+          "offsetEnd": 673,
+          "pos": "VBG"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 674,
+          "offsetEnd": 678,
+          "pos": "RBR"
+        },
+        {
+          "word": "cells",
+          "lemma": "cell",
+          "offsetBegin": 679,
+          "offsetEnd": 684,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 685,
+          "offsetEnd": 687,
+          "pos": "IN"
+        },
+        {
+          "word": "each",
+          "lemma": "each",
+          "offsetBegin": 688,
+          "offsetEnd": 692,
+          "pos": "DT"
+        },
+        {
+          "word": "sense",
+          "lemma": "sense",
+          "offsetBegin": 693,
+          "offsetEnd": 698,
+          "pos": "NN"
+        },
+        {
+          "word": "amplifier",
+          "lemma": "amplifier",
+          "offsetBegin": 699,
+          "offsetEnd": 708,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 708,
+          "offsetEnd": 709,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Measurements",
+          "lemma": "measurement",
+          "offsetBegin": 710,
+          "offsetEnd": 722,
+          "pos": "NNS"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 723,
+          "offsetEnd": 727,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 728,
+          "offsetEnd": 732,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 733,
+          "offsetEnd": 736,
+          "pos": "DT"
+        },
+        {
+          "word": "data-retention",
+          "lemma": "data-retention",
+          "offsetBegin": 737,
+          "offsetEnd": 751,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 752,
+          "offsetEnd": 756,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 757,
+          "offsetEnd": 759,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 760,
+          "offsetEnd": 763,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 764,
+          "offsetEnd": 772,
+          "pos": "VBN"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 773,
+          "offsetEnd": 779,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 780,
+          "offsetEnd": 782,
+          "pos": "IN"
+        },
+        {
+          "word": "1.5-V",
+          "lemma": "1.5-v",
+          "offsetBegin": 783,
+          "offsetEnd": 788,
+          "pos": "CD"
+        },
+        {
+          "word": "supply",
+          "lemma": "supply",
+          "offsetBegin": 789,
+          "offsetEnd": 795,
+          "pos": "NN"
+        },
+        {
+          "word": "voltage",
+          "lemma": "voltage",
+          "offsetBegin": 796,
+          "offsetEnd": 803,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 804,
+          "offsetEnd": 806,
+          "pos": "VBZ"
+        },
+        {
+          "word": "2.4",
+          "lemma": "2.4",
+          "offsetBegin": 807,
+          "offsetEnd": 810,
+          "pos": "CD"
+        },
+        {
+          "word": "times",
+          "lemma": "time",
+          "offsetBegin": 811,
+          "offsetEnd": 816,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 817,
+          "offsetEnd": 819,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 820,
+          "offsetEnd": 823,
+          "pos": "DT"
+        },
+        {
+          "word": "conventional",
+          "lemma": "conventional",
+          "offsetBegin": 824,
+          "offsetEnd": 836,
+          "pos": "JJ"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 837,
+          "offsetEnd": 843,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 844,
+          "offsetEnd": 846,
+          "pos": "IN"
+        },
+        {
+          "word": "2.0",
+          "lemma": "2.0",
+          "offsetBegin": 847,
+          "offsetEnd": 850,
+          "pos": "CD"
+        },
+        {
+          "word": "V",
+          "lemma": "v",
+          "offsetBegin": 851,
+          "offsetEnd": 852,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

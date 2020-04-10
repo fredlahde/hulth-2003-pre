@@ -1,0 +1,699 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "K-12",
+          "lemma": "k-12",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "NN"
+        },
+        {
+          "word": "instruction",
+          "lemma": "instruction",
+          "offsetBegin": 5,
+          "offsetEnd": 16,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 17,
+          "offsetEnd": 20,
+          "pos": "CC"
+        },
+        {
+          "word": "digital",
+          "lemma": "digital",
+          "offsetBegin": 21,
+          "offsetEnd": 28,
+          "pos": "JJ"
+        },
+        {
+          "word": "access",
+          "lemma": "access",
+          "offsetBegin": 29,
+          "offsetEnd": 35,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 36,
+          "offsetEnd": 38,
+          "pos": "TO"
+        },
+        {
+          "word": "archival",
+          "lemma": "archival",
+          "offsetBegin": 39,
+          "offsetEnd": 47,
+          "pos": "JJ"
+        },
+        {
+          "word": "materials",
+          "lemma": "material",
+          "offsetBegin": 48,
+          "offsetEnd": 57,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Providing",
+          "lemma": "provide",
+          "offsetBegin": 58,
+          "offsetEnd": 67,
+          "pos": "VBG"
+        },
+        {
+          "word": "K-12",
+          "lemma": "k-12",
+          "offsetBegin": 68,
+          "offsetEnd": 72,
+          "pos": "NN"
+        },
+        {
+          "word": "schools",
+          "lemma": "school",
+          "offsetBegin": 73,
+          "offsetEnd": 80,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 81,
+          "offsetEnd": 85,
+          "pos": "IN"
+        },
+        {
+          "word": "digital",
+          "lemma": "digital",
+          "offsetBegin": 86,
+          "offsetEnd": 93,
+          "pos": "JJ"
+        },
+        {
+          "word": "access",
+          "lemma": "access",
+          "offsetBegin": 94,
+          "offsetEnd": 100,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 101,
+          "offsetEnd": 103,
+          "pos": "TO"
+        },
+        {
+          "word": "archival",
+          "lemma": "archival",
+          "offsetBegin": 104,
+          "offsetEnd": 112,
+          "pos": "JJ"
+        },
+        {
+          "word": "materials",
+          "lemma": "material",
+          "offsetBegin": 113,
+          "offsetEnd": 122,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 123,
+          "offsetEnd": 126,
+          "pos": "MD"
+        },
+        {
+          "word": "strengthen",
+          "lemma": "strengthen",
+          "offsetBegin": 127,
+          "offsetEnd": 137,
+          "pos": "VB"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 138,
+          "offsetEnd": 142,
+          "pos": "DT"
+        },
+        {
+          "word": "student",
+          "lemma": "student",
+          "offsetBegin": 143,
+          "offsetEnd": 150,
+          "pos": "NN"
+        },
+        {
+          "word": "learning",
+          "lemma": "learning",
+          "offsetBegin": 151,
+          "offsetEnd": 159,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 160,
+          "offsetEnd": 163,
+          "pos": "CC"
+        },
+        {
+          "word": "archival",
+          "lemma": "archival",
+          "offsetBegin": 164,
+          "offsetEnd": 172,
+          "pos": "JJ"
+        },
+        {
+          "word": "practice",
+          "lemma": "practice",
+          "offsetBegin": 173,
+          "offsetEnd": 181,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 181,
+          "offsetEnd": 182,
+          "pos": ","
+        },
+        {
+          "word": "although",
+          "lemma": "although",
+          "offsetBegin": 183,
+          "offsetEnd": 191,
+          "pos": "IN"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 192,
+          "offsetEnd": 194,
+          "pos": "PRP"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 195,
+          "offsetEnd": 198,
+          "pos": "MD"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 198,
+          "offsetEnd": 201,
+          "pos": "RB"
+        },
+        {
+          "word": "replace",
+          "lemma": "replace",
+          "offsetBegin": 202,
+          "offsetEnd": 209,
+          "pos": "VB"
+        },
+        {
+          "word": "direct",
+          "lemma": "direct",
+          "offsetBegin": 210,
+          "offsetEnd": 216,
+          "pos": "JJ"
+        },
+        {
+          "word": "physical",
+          "lemma": "physical",
+          "offsetBegin": 217,
+          "offsetEnd": 225,
+          "pos": "JJ"
+        },
+        {
+          "word": "access",
+          "lemma": "access",
+          "offsetBegin": 226,
+          "offsetEnd": 232,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 233,
+          "offsetEnd": 235,
+          "pos": "TO"
+        },
+        {
+          "word": "records",
+          "lemma": "record",
+          "offsetBegin": 236,
+          "offsetEnd": 243,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 243,
+          "offsetEnd": 244,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 245,
+          "offsetEnd": 248,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 249,
+          "offsetEnd": 256,
+          "pos": "NN"
+        },
+        {
+          "word": "compares",
+          "lemma": "compare",
+          "offsetBegin": 257,
+          "offsetEnd": 265,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 266,
+          "offsetEnd": 267,
+          "pos": "DT"
+        },
+        {
+          "word": "variety",
+          "lemma": "variety",
+          "offsetBegin": 268,
+          "offsetEnd": 275,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 276,
+          "offsetEnd": 278,
+          "pos": "IN"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 279,
+          "offsetEnd": 289,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 290,
+          "offsetEnd": 293,
+          "pos": "CC"
+        },
+        {
+          "word": "nonelectronic",
+          "lemma": "nonelectronic",
+          "offsetBegin": 294,
+          "offsetEnd": 307,
+          "pos": "JJ"
+        },
+        {
+          "word": "projects",
+          "lemma": "project",
+          "offsetBegin": 308,
+          "offsetEnd": 316,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 317,
+          "offsetEnd": 319,
+          "pos": "TO"
+        },
+        {
+          "word": "promote",
+          "lemma": "promote",
+          "offsetBegin": 320,
+          "offsetEnd": 327,
+          "pos": "VB"
+        },
+        {
+          "word": "teaching",
+          "lemma": "teaching",
+          "offsetBegin": 328,
+          "offsetEnd": 336,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 337,
+          "offsetEnd": 341,
+          "pos": "IN"
+        },
+        {
+          "word": "primary",
+          "lemma": "primary",
+          "offsetBegin": 342,
+          "offsetEnd": 349,
+          "pos": "JJ"
+        },
+        {
+          "word": "source",
+          "lemma": "source",
+          "offsetBegin": 350,
+          "offsetEnd": 356,
+          "pos": "NN"
+        },
+        {
+          "word": "materials",
+          "lemma": "material",
+          "offsetBegin": 357,
+          "offsetEnd": 366,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 366,
+          "offsetEnd": 367,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 368,
+          "offsetEnd": 371,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 372,
+          "offsetEnd": 379,
+          "pos": "NN"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 380,
+          "offsetEnd": 384,
+          "pos": "RB"
+        },
+        {
+          "word": "examines",
+          "lemma": "examine",
+          "offsetBegin": 385,
+          "offsetEnd": 393,
+          "pos": "VBZ"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 394,
+          "offsetEnd": 398,
+          "pos": "DT"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 399,
+          "offsetEnd": 401,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 402,
+          "offsetEnd": 405,
+          "pos": "DT"
+        },
+        {
+          "word": "different",
+          "lemma": "different",
+          "offsetBegin": 406,
+          "offsetEnd": 415,
+          "pos": "JJ"
+        },
+        {
+          "word": "historiographical",
+          "lemma": "historiographical",
+          "offsetBegin": 416,
+          "offsetEnd": 433,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 434,
+          "offsetEnd": 437,
+          "pos": "CC"
+        },
+        {
+          "word": "pedagogical",
+          "lemma": "pedagogical",
+          "offsetBegin": 438,
+          "offsetEnd": 449,
+          "pos": "JJ"
+        },
+        {
+          "word": "approaches",
+          "lemma": "approach",
+          "offsetBegin": 450,
+          "offsetEnd": 460,
+          "pos": "NNS"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 461,
+          "offsetEnd": 465,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 466,
+          "offsetEnd": 468,
+          "pos": "IN"
+        },
+        {
+          "word": "archival",
+          "lemma": "archival",
+          "offsetBegin": 469,
+          "offsetEnd": 477,
+          "pos": "JJ"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 478,
+          "offsetEnd": 481,
+          "pos": "NN"
+        },
+        {
+          "word": "sites",
+          "lemma": "site",
+          "offsetBegin": 482,
+          "offsetEnd": 487,
+          "pos": "NNS"
+        },
+        {
+          "word": "geared",
+          "lemma": "gear",
+          "offsetBegin": 488,
+          "offsetEnd": 494,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 495,
+          "offsetEnd": 498,
+          "pos": "IN"
+        },
+        {
+          "word": "K-12",
+          "lemma": "k-12",
+          "offsetBegin": 499,
+          "offsetEnd": 503,
+          "pos": "NN"
+        },
+        {
+          "word": "instruction",
+          "lemma": "instruction",
+          "offsetBegin": 504,
+          "offsetEnd": 515,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 515,
+          "offsetEnd": 516,
+          "pos": ","
+        },
+        {
+          "word": "focusing",
+          "lemma": "focus",
+          "offsetBegin": 517,
+          "offsetEnd": 525,
+          "pos": "VBG"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 526,
+          "offsetEnd": 528,
+          "pos": "IN"
+        },
+        {
+          "word": "differences",
+          "lemma": "difference",
+          "offsetBegin": 529,
+          "offsetEnd": 540,
+          "pos": "NNS"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 541,
+          "offsetEnd": 548,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 549,
+          "offsetEnd": 552,
+          "pos": "DT"
+        },
+        {
+          "word": "educational",
+          "lemma": "educational",
+          "offsetBegin": 553,
+          "offsetEnd": 564,
+          "pos": "JJ"
+        },
+        {
+          "word": "sites",
+          "lemma": "site",
+          "offsetBegin": 565,
+          "offsetEnd": 570,
+          "pos": "NNS"
+        },
+        {
+          "word": "sponsored",
+          "lemma": "sponsor",
+          "offsetBegin": 571,
+          "offsetEnd": 580,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 581,
+          "offsetEnd": 583,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 584,
+          "offsetEnd": 587,
+          "pos": "DT"
+        },
+        {
+          "word": "Library",
+          "lemma": "Library",
+          "offsetBegin": 588,
+          "offsetEnd": 595,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 596,
+          "offsetEnd": 598,
+          "pos": "IN"
+        },
+        {
+          "word": "Congress",
+          "lemma": "Congress",
+          "offsetBegin": 599,
+          "offsetEnd": 607,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 608,
+          "offsetEnd": 611,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 612,
+          "offsetEnd": 615,
+          "pos": "DT"
+        },
+        {
+          "word": "National",
+          "lemma": "National",
+          "offsetBegin": 616,
+          "offsetEnd": 624,
+          "pos": "NNP"
+        },
+        {
+          "word": "Archives",
+          "lemma": "Archives",
+          "offsetBegin": 625,
+          "offsetEnd": 633,
+          "pos": "NNPS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 634,
+          "offsetEnd": 637,
+          "pos": "CC"
+        },
+        {
+          "word": "Records",
+          "lemma": "Records",
+          "offsetBegin": 638,
+          "offsetEnd": 645,
+          "pos": "NNPS"
+        },
+        {
+          "word": "Administration",
+          "lemma": "Administration",
+          "offsetBegin": 646,
+          "offsetEnd": 660,
+          "pos": "NNP"
+        }
+      ]
+    }
+  ]
+}

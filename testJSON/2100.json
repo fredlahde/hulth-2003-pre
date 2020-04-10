@@ -1,0 +1,446 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Optimization",
+          "lemma": "optimization",
+          "offsetBegin": 0,
+          "offsetEnd": 12,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 13,
+          "offsetEnd": 15,
+          "pos": "IN"
+        },
+        {
+          "word": "planning",
+          "lemma": "plan",
+          "offsetBegin": 16,
+          "offsetEnd": 24,
+          "pos": "VBG"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 25,
+          "offsetEnd": 27,
+          "pos": "DT"
+        },
+        {
+          "word": "advertising",
+          "lemma": "advertising",
+          "offsetBegin": 28,
+          "offsetEnd": 39,
+          "pos": "NN"
+        },
+        {
+          "word": "campaign",
+          "lemma": "campaign",
+          "offsetBegin": 40,
+          "offsetEnd": 48,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 49,
+          "offsetEnd": 51,
+          "pos": "IN"
+        },
+        {
+          "word": "goods",
+          "lemma": "goods",
+          "offsetBegin": 52,
+          "offsetEnd": 57,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 58,
+          "offsetEnd": 61,
+          "pos": "CC"
+        },
+        {
+          "word": "services",
+          "lemma": "service",
+          "offsetBegin": 62,
+          "offsetEnd": 70,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 71,
+          "offsetEnd": 72,
+          "pos": "DT"
+        },
+        {
+          "word": "generalization",
+          "lemma": "generalization",
+          "offsetBegin": 73,
+          "offsetEnd": 87,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 88,
+          "offsetEnd": 90,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 91,
+          "offsetEnd": 94,
+          "pos": "DT"
+        },
+        {
+          "word": "mathematical",
+          "lemma": "mathematical",
+          "offsetBegin": 95,
+          "offsetEnd": 107,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 108,
+          "offsetEnd": 113,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 114,
+          "offsetEnd": 117,
+          "pos": "CC"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 118,
+          "offsetEnd": 128,
+          "pos": "NNS"
+        },
+        {
+          "word": "research",
+          "lemma": "research",
+          "offsetBegin": 129,
+          "offsetEnd": 137,
+          "pos": "NN"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 138,
+          "offsetEnd": 146,
+          "pos": "NNS"
+        },
+        {
+          "word": "formulated",
+          "lemma": "formulate",
+          "offsetBegin": 147,
+          "offsetEnd": 157,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 158,
+          "offsetEnd": 160,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 161,
+          "offsetEnd": 164,
+          "pos": "PRP$"
+        },
+        {
+          "word": "basis",
+          "lemma": "basis",
+          "offsetBegin": 165,
+          "offsetEnd": 170,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 170,
+          "offsetEnd": 171,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 172,
+          "offsetEnd": 177,
+          "pos": "WDT"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 178,
+          "offsetEnd": 182,
+          "pos": "VBD"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 183,
+          "offsetEnd": 192,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 193,
+          "offsetEnd": 195,
+          "pos": "IN"
+        },
+        {
+          "word": "Belenky",
+          "lemma": "Belenky",
+          "offsetBegin": 196,
+          "offsetEnd": 203,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 204,
+          "offsetEnd": 205,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "2001",
+          "lemma": "2001",
+          "offsetBegin": 205,
+          "offsetEnd": 209,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 209,
+          "offsetEnd": 210,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 211,
+          "offsetEnd": 213,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 214,
+          "offsetEnd": 217,
+          "pos": "DT"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 218,
+          "offsetEnd": 227,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 228,
+          "offsetEnd": 230,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 231,
+          "offsetEnd": 233,
+          "pos": "DT"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 234,
+          "offsetEnd": 242,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 243,
+          "offsetEnd": 245,
+          "pos": "TO"
+        },
+        {
+          "word": "planning",
+          "lemma": "plan",
+          "offsetBegin": 246,
+          "offsetEnd": 254,
+          "pos": "VBG"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 255,
+          "offsetEnd": 257,
+          "pos": "DT"
+        },
+        {
+          "word": "advertising",
+          "lemma": "advertising",
+          "offsetBegin": 258,
+          "offsetEnd": 269,
+          "pos": "NN"
+        },
+        {
+          "word": "campaign",
+          "lemma": "campaign",
+          "offsetBegin": 270,
+          "offsetEnd": 278,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 279,
+          "offsetEnd": 281,
+          "pos": "IN"
+        },
+        {
+          "word": "goods",
+          "lemma": "goods",
+          "offsetBegin": 282,
+          "offsetEnd": 287,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 288,
+          "offsetEnd": 291,
+          "pos": "CC"
+        },
+        {
+          "word": "services",
+          "lemma": "service",
+          "offsetBegin": 292,
+          "offsetEnd": 300,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 300,
+          "offsetEnd": 301,
+          "pos": ","
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 302,
+          "offsetEnd": 304,
+          "pos": "VBZ"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 305,
+          "offsetEnd": 315,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 315,
+          "offsetEnd": 316,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 317,
+          "offsetEnd": 320,
+          "pos": "CC"
+        },
+        {
+          "word": "corresponding",
+          "lemma": "corresponding",
+          "offsetBegin": 321,
+          "offsetEnd": 334,
+          "pos": "JJ"
+        },
+        {
+          "word": "nonlinear",
+          "lemma": "nonlinear",
+          "offsetBegin": 335,
+          "offsetEnd": 344,
+          "pos": "JJ"
+        },
+        {
+          "word": "programming",
+          "lemma": "programming",
+          "offsetBegin": 345,
+          "offsetEnd": 356,
+          "pos": "NN"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 357,
+          "offsetEnd": 365,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 366,
+          "offsetEnd": 370,
+          "pos": "IN"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 371,
+          "offsetEnd": 377,
+          "pos": "JJ"
+        },
+        {
+          "word": "constraints",
+          "lemma": "constraint",
+          "offsetBegin": 378,
+          "offsetEnd": 389,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 390,
+          "offsetEnd": 393,
+          "pos": "VBP"
+        },
+        {
+          "word": "formulated",
+          "lemma": "formulate",
+          "offsetBegin": 394,
+          "offsetEnd": 404,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

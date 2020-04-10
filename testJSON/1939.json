@@ -1,0 +1,650 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Compatibility",
+          "lemma": "compatibility",
+          "offsetBegin": 0,
+          "offsetEnd": 13,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 14,
+          "offsetEnd": 16,
+          "pos": "IN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 17,
+          "offsetEnd": 24,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 25,
+          "offsetEnd": 27,
+          "pos": "IN"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 28,
+          "offsetEnd": 34,
+          "pos": "JJ"
+        },
+        {
+          "word": "constraints",
+          "lemma": "constraint",
+          "offsetBegin": 35,
+          "offsetEnd": 46,
+          "pos": "NNS"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 47,
+          "offsetEnd": 51,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 52,
+          "offsetEnd": 55,
+          "pos": "DT"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 56,
+          "offsetEnd": 59,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 60,
+          "offsetEnd": 62,
+          "pos": "IN"
+        },
+        {
+          "word": "natural",
+          "lemma": "natural",
+          "offsetBegin": 63,
+          "offsetEnd": 70,
+          "pos": "JJ"
+        },
+        {
+          "word": "numbers",
+          "lemma": "number",
+          "offsetBegin": 71,
+          "offsetEnd": 78,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Criteria",
+          "lemma": "criterion",
+          "offsetBegin": 79,
+          "offsetEnd": 87,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 88,
+          "offsetEnd": 90,
+          "pos": "IN"
+        },
+        {
+          "word": "compatibility",
+          "lemma": "compatibility",
+          "offsetBegin": 91,
+          "offsetEnd": 104,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 105,
+          "offsetEnd": 107,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 108,
+          "offsetEnd": 109,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 110,
+          "offsetEnd": 116,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 117,
+          "offsetEnd": 119,
+          "pos": "IN"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 120,
+          "offsetEnd": 126,
+          "pos": "JJ"
+        },
+        {
+          "word": "Diophantine",
+          "lemma": "diophantine",
+          "offsetBegin": 127,
+          "offsetEnd": 138,
+          "pos": "NN"
+        },
+        {
+          "word": "equations",
+          "lemma": "equation",
+          "offsetBegin": 139,
+          "offsetEnd": 148,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 148,
+          "offsetEnd": 149,
+          "pos": ","
+        },
+        {
+          "word": "strict",
+          "lemma": "strict",
+          "offsetBegin": 150,
+          "offsetEnd": 156,
+          "pos": "JJ"
+        },
+        {
+          "word": "inequations",
+          "lemma": "inequation",
+          "offsetBegin": 157,
+          "offsetEnd": 168,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 168,
+          "offsetEnd": 169,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 170,
+          "offsetEnd": 173,
+          "pos": "CC"
+        },
+        {
+          "word": "nonstrict",
+          "lemma": "nonstrict",
+          "offsetBegin": 174,
+          "offsetEnd": 183,
+          "pos": "JJ"
+        },
+        {
+          "word": "inequations",
+          "lemma": "inequation",
+          "offsetBegin": 184,
+          "offsetEnd": 195,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 196,
+          "offsetEnd": 199,
+          "pos": "VBP"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 200,
+          "offsetEnd": 210,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 210,
+          "offsetEnd": 211,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Upper",
+          "lemma": "Upper",
+          "offsetBegin": 212,
+          "offsetEnd": 217,
+          "pos": "NNP"
+        },
+        {
+          "word": "bounds",
+          "lemma": "bound",
+          "offsetBegin": 218,
+          "offsetEnd": 224,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 225,
+          "offsetEnd": 228,
+          "pos": "IN"
+        },
+        {
+          "word": "components",
+          "lemma": "component",
+          "offsetBegin": 229,
+          "offsetEnd": 239,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 240,
+          "offsetEnd": 242,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 243,
+          "offsetEnd": 244,
+          "pos": "DT"
+        },
+        {
+          "word": "minimal",
+          "lemma": "minimal",
+          "offsetBegin": 245,
+          "offsetEnd": 252,
+          "pos": "JJ"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 253,
+          "offsetEnd": 256,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 257,
+          "offsetEnd": 259,
+          "pos": "IN"
+        },
+        {
+          "word": "solutions",
+          "lemma": "solution",
+          "offsetBegin": 260,
+          "offsetEnd": 269,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 270,
+          "offsetEnd": 273,
+          "pos": "CC"
+        },
+        {
+          "word": "algorithms",
+          "lemma": "algorithm",
+          "offsetBegin": 274,
+          "offsetEnd": 284,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 285,
+          "offsetEnd": 287,
+          "pos": "IN"
+        },
+        {
+          "word": "construction",
+          "lemma": "construction",
+          "offsetBegin": 288,
+          "offsetEnd": 300,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 301,
+          "offsetEnd": 303,
+          "pos": "IN"
+        },
+        {
+          "word": "minimal",
+          "lemma": "minimal",
+          "offsetBegin": 304,
+          "offsetEnd": 311,
+          "pos": "JJ"
+        },
+        {
+          "word": "generating",
+          "lemma": "generate",
+          "offsetBegin": 312,
+          "offsetEnd": 322,
+          "pos": "VBG"
+        },
+        {
+          "word": "sets",
+          "lemma": "set",
+          "offsetBegin": 323,
+          "offsetEnd": 327,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 328,
+          "offsetEnd": 330,
+          "pos": "IN"
+        },
+        {
+          "word": "solutions",
+          "lemma": "solution",
+          "offsetBegin": 331,
+          "offsetEnd": 340,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 341,
+          "offsetEnd": 344,
+          "pos": "IN"
+        },
+        {
+          "word": "all",
+          "lemma": "all",
+          "offsetBegin": 345,
+          "offsetEnd": 348,
+          "pos": "DT"
+        },
+        {
+          "word": "types",
+          "lemma": "type",
+          "offsetBegin": 349,
+          "offsetEnd": 354,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 355,
+          "offsetEnd": 357,
+          "pos": "IN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 358,
+          "offsetEnd": 365,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 366,
+          "offsetEnd": 369,
+          "pos": "VBP"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 370,
+          "offsetEnd": 375,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 375,
+          "offsetEnd": 376,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "These",
+          "lemma": "these",
+          "offsetBegin": 377,
+          "offsetEnd": 382,
+          "pos": "DT"
+        },
+        {
+          "word": "criteria",
+          "lemma": "criterion",
+          "offsetBegin": 383,
+          "offsetEnd": 391,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 392,
+          "offsetEnd": 395,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 396,
+          "offsetEnd": 399,
+          "pos": "DT"
+        },
+        {
+          "word": "corresponding",
+          "lemma": "corresponding",
+          "offsetBegin": 400,
+          "offsetEnd": 413,
+          "pos": "JJ"
+        },
+        {
+          "word": "algorithms",
+          "lemma": "algorithm",
+          "offsetBegin": 414,
+          "offsetEnd": 424,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 425,
+          "offsetEnd": 428,
+          "pos": "IN"
+        },
+        {
+          "word": "constructing",
+          "lemma": "construct",
+          "offsetBegin": 429,
+          "offsetEnd": 441,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 442,
+          "offsetEnd": 443,
+          "pos": "DT"
+        },
+        {
+          "word": "minimal",
+          "lemma": "minimal",
+          "offsetBegin": 444,
+          "offsetEnd": 451,
+          "pos": "JJ"
+        },
+        {
+          "word": "supporting",
+          "lemma": "supporting",
+          "offsetBegin": 452,
+          "offsetEnd": 462,
+          "pos": "NN"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 463,
+          "offsetEnd": 466,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 467,
+          "offsetEnd": 469,
+          "pos": "IN"
+        },
+        {
+          "word": "solutions",
+          "lemma": "solution",
+          "offsetBegin": 470,
+          "offsetEnd": 479,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 480,
+          "offsetEnd": 483,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 484,
+          "offsetEnd": 486,
+          "pos": "VB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 487,
+          "offsetEnd": 491,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 492,
+          "offsetEnd": 494,
+          "pos": "IN"
+        },
+        {
+          "word": "solving",
+          "lemma": "solve",
+          "offsetBegin": 495,
+          "offsetEnd": 502,
+          "pos": "VBG"
+        },
+        {
+          "word": "all",
+          "lemma": "all",
+          "offsetBegin": 503,
+          "offsetEnd": 506,
+          "pos": "PDT"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 507,
+          "offsetEnd": 510,
+          "pos": "DT"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 511,
+          "offsetEnd": 521,
+          "pos": "VBN"
+        },
+        {
+          "word": "types",
+          "lemma": "type",
+          "offsetBegin": 522,
+          "offsetEnd": 527,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 528,
+          "offsetEnd": 530,
+          "pos": "IN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 531,
+          "offsetEnd": 538,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 539,
+          "offsetEnd": 542,
+          "pos": "CC"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 543,
+          "offsetEnd": 550,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 551,
+          "offsetEnd": 553,
+          "pos": "IN"
+        },
+        {
+          "word": "mixed",
+          "lemma": "mixed",
+          "offsetBegin": 554,
+          "offsetEnd": 559,
+          "pos": "JJ"
+        },
+        {
+          "word": "types",
+          "lemma": "type",
+          "offsetBegin": 560,
+          "offsetEnd": 565,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

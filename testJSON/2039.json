@@ -1,0 +1,405 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "An",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 2,
+          "pos": "DT"
+        },
+        {
+          "word": "inverse",
+          "lemma": "inverse",
+          "offsetBegin": 3,
+          "offsetEnd": 10,
+          "pos": "JJ"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 11,
+          "offsetEnd": 18,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 19,
+          "offsetEnd": 22,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 23,
+          "offsetEnd": 24,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 25,
+          "offsetEnd": 30,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 31,
+          "offsetEnd": 33,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 34,
+          "offsetEnd": 35,
+          "pos": "DT"
+        },
+        {
+          "word": "hierarchical",
+          "lemma": "hierarchical",
+          "offsetBegin": 36,
+          "offsetEnd": 48,
+          "pos": "JJ"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 49,
+          "offsetEnd": 58,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 59,
+          "offsetEnd": 61,
+          "pos": "PRP"
+        },
+        {
+          "word": "consider",
+          "lemma": "consider",
+          "offsetBegin": 62,
+          "offsetEnd": 70,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 71,
+          "offsetEnd": 74,
+          "pos": "DT"
+        },
+        {
+          "word": "inverse",
+          "lemma": "inverse",
+          "offsetBegin": 75,
+          "offsetEnd": 82,
+          "pos": "JJ"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 83,
+          "offsetEnd": 90,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 91,
+          "offsetEnd": 94,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 95,
+          "offsetEnd": 98,
+          "pos": "DT"
+        },
+        {
+          "word": "identification",
+          "lemma": "identification",
+          "offsetBegin": 99,
+          "offsetEnd": 113,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 114,
+          "offsetEnd": 116,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 117,
+          "offsetEnd": 120,
+          "pos": "DT"
+        },
+        {
+          "word": "coefficient",
+          "lemma": "coefficient",
+          "offsetBegin": 121,
+          "offsetEnd": 132,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 133,
+          "offsetEnd": 135,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 136,
+          "offsetEnd": 137,
+          "pos": "DT"
+        },
+        {
+          "word": "parabolic",
+          "lemma": "parabolic",
+          "offsetBegin": 138,
+          "offsetEnd": 147,
+          "pos": "JJ"
+        },
+        {
+          "word": "equation",
+          "lemma": "equation",
+          "offsetBegin": 148,
+          "offsetEnd": 156,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 156,
+          "offsetEnd": 157,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 158,
+          "offsetEnd": 161,
+          "pos": "DT"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 162,
+          "offsetEnd": 167,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 168,
+          "offsetEnd": 170,
+          "pos": "VBZ"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 171,
+          "offsetEnd": 178,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 179,
+          "offsetEnd": 181,
+          "pos": "TO"
+        },
+        {
+          "word": "describe",
+          "lemma": "describe",
+          "offsetBegin": 182,
+          "offsetEnd": 190,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 191,
+          "offsetEnd": 194,
+          "pos": "DT"
+        },
+        {
+          "word": "functioning",
+          "lemma": "functioning",
+          "offsetBegin": 195,
+          "offsetEnd": 206,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 207,
+          "offsetEnd": 209,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 210,
+          "offsetEnd": 211,
+          "pos": "DT"
+        },
+        {
+          "word": "hierarchical",
+          "lemma": "hierarchical",
+          "offsetBegin": 212,
+          "offsetEnd": 224,
+          "pos": "JJ"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 225,
+          "offsetEnd": 234,
+          "pos": "NN"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 234,
+          "offsetEnd": 235,
+          "pos": ":"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 236,
+          "offsetEnd": 238,
+          "pos": "PRP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 239,
+          "offsetEnd": 241,
+          "pos": "VBZ"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 242,
+          "offsetEnd": 246,
+          "pos": "RB"
+        },
+        {
+          "word": "relevant",
+          "lemma": "relevant",
+          "offsetBegin": 247,
+          "offsetEnd": 255,
+          "pos": "JJ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 256,
+          "offsetEnd": 259,
+          "pos": "IN"
+        },
+        {
+          "word": "heat-conduction",
+          "lemma": "heat-conduction",
+          "offsetBegin": 260,
+          "offsetEnd": 275,
+          "pos": "NN"
+        },
+        {
+          "word": "theory",
+          "lemma": "theory",
+          "offsetBegin": 276,
+          "offsetEnd": 282,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 282,
+          "offsetEnd": 283,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Unique",
+          "lemma": "unique",
+          "offsetBegin": 284,
+          "offsetEnd": 290,
+          "pos": "JJ"
+        },
+        {
+          "word": "solvability",
+          "lemma": "solvability",
+          "offsetBegin": 291,
+          "offsetEnd": 302,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 303,
+          "offsetEnd": 305,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 306,
+          "offsetEnd": 309,
+          "pos": "DT"
+        },
+        {
+          "word": "inverse",
+          "lemma": "inverse",
+          "offsetBegin": 310,
+          "offsetEnd": 317,
+          "pos": "JJ"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 318,
+          "offsetEnd": 325,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 326,
+          "offsetEnd": 328,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proved",
+          "lemma": "prove",
+          "offsetBegin": 329,
+          "offsetEnd": 335,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

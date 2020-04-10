@@ -1,0 +1,973 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "International",
+          "lemma": "International",
+          "offsetBegin": 0,
+          "offsetEnd": 13,
+          "pos": "NNP"
+        },
+        {
+          "word": "library",
+          "lemma": "library",
+          "offsetBegin": 14,
+          "offsetEnd": 21,
+          "pos": "NN"
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 22,
+          "offsetEnd": 31,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 31,
+          "offsetEnd": 32,
+          "pos": ":"
+        },
+        {
+          "word": "positive",
+          "lemma": "positive",
+          "offsetBegin": 33,
+          "offsetEnd": 41,
+          "pos": "JJ"
+        },
+        {
+          "word": "starts",
+          "lemma": "start",
+          "offsetBegin": 42,
+          "offsetEnd": 48,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 48,
+          "offsetEnd": 49,
+          "pos": ","
+        },
+        {
+          "word": "promising",
+          "lemma": "promising",
+          "offsetBegin": 50,
+          "offsetEnd": 59,
+          "pos": "JJ"
+        },
+        {
+          "word": "futures",
+          "lemma": "future",
+          "offsetBegin": 60,
+          "offsetEnd": 67,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Library",
+          "lemma": "Library",
+          "offsetBegin": 68,
+          "offsetEnd": 75,
+          "pos": "NNP"
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 76,
+          "offsetEnd": 85,
+          "pos": "NN"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 86,
+          "offsetEnd": 90,
+          "pos": "VBP"
+        },
+        {
+          "word": "grown",
+          "lemma": "grow",
+          "offsetBegin": 91,
+          "offsetEnd": 96,
+          "pos": "VBN"
+        },
+        {
+          "word": "substantially",
+          "lemma": "substantially",
+          "offsetBegin": 97,
+          "offsetEnd": 110,
+          "pos": "RB"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 111,
+          "offsetEnd": 115,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 116,
+          "offsetEnd": 119,
+          "pos": "DT"
+        },
+        {
+          "word": "past",
+          "lemma": "past",
+          "offsetBegin": 120,
+          "offsetEnd": 124,
+          "pos": "JJ"
+        },
+        {
+          "word": "ten",
+          "lemma": "ten",
+          "offsetBegin": 125,
+          "offsetEnd": 128,
+          "pos": "CD"
+        },
+        {
+          "word": "years",
+          "lemma": "year",
+          "offsetBegin": 129,
+          "offsetEnd": 134,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 134,
+          "offsetEnd": 135,
+          "pos": ","
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 136,
+          "offsetEnd": 140,
+          "pos": "DT"
+        },
+        {
+          "word": "within",
+          "lemma": "within",
+          "offsetBegin": 141,
+          "offsetEnd": 147,
+          "pos": "IN"
+        },
+        {
+          "word": "North",
+          "lemma": "North",
+          "offsetBegin": 148,
+          "offsetEnd": 153,
+          "pos": "NNP"
+        },
+        {
+          "word": "America",
+          "lemma": "America",
+          "offsetBegin": 154,
+          "offsetEnd": 161,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 162,
+          "offsetEnd": 165,
+          "pos": "CC"
+        },
+        {
+          "word": "globally",
+          "lemma": "globally",
+          "offsetBegin": 166,
+          "offsetEnd": 174,
+          "pos": "RB"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 174,
+          "offsetEnd": 175,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "As",
+          "lemma": "as",
+          "offsetBegin": 176,
+          "offsetEnd": 178,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 179,
+          "offsetEnd": 183,
+          "pos": "DT"
+        },
+        {
+          "word": "resurgent",
+          "lemma": "resurgent",
+          "offsetBegin": 184,
+          "offsetEnd": 193,
+          "pos": "JJ"
+        },
+        {
+          "word": "consortial",
+          "lemma": "consortial",
+          "offsetBegin": 194,
+          "offsetEnd": 204,
+          "pos": "JJ"
+        },
+        {
+          "word": "movement",
+          "lemma": "movement",
+          "offsetBegin": 205,
+          "offsetEnd": 213,
+          "pos": "NN"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 214,
+          "offsetEnd": 217,
+          "pos": "VBZ"
+        },
+        {
+          "word": "begun",
+          "lemma": "begin",
+          "offsetBegin": 218,
+          "offsetEnd": 223,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 224,
+          "offsetEnd": 226,
+          "pos": "TO"
+        },
+        {
+          "word": "mature",
+          "lemma": "mature",
+          "offsetBegin": 227,
+          "offsetEnd": 233,
+          "pos": "VB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 233,
+          "offsetEnd": 234,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 235,
+          "offsetEnd": 238,
+          "pos": "CC"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 239,
+          "offsetEnd": 241,
+          "pos": "IN"
+        },
+        {
+          "word": "publishers",
+          "lemma": "publisher",
+          "offsetBegin": 242,
+          "offsetEnd": 252,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 253,
+          "offsetEnd": 256,
+          "pos": "CC"
+        },
+        {
+          "word": "vendors",
+          "lemma": "vendor",
+          "offsetBegin": 257,
+          "offsetEnd": 264,
+          "pos": "NNS"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 265,
+          "offsetEnd": 269,
+          "pos": "VBP"
+        },
+        {
+          "word": "begun",
+          "lemma": "begin",
+          "offsetBegin": 270,
+          "offsetEnd": 275,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 276,
+          "offsetEnd": 278,
+          "pos": "TO"
+        },
+        {
+          "word": "adapt",
+          "lemma": "adapt",
+          "offsetBegin": 279,
+          "offsetEnd": 284,
+          "pos": "VB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 285,
+          "offsetEnd": 287,
+          "pos": "TO"
+        },
+        {
+          "word": "consortial",
+          "lemma": "consortial",
+          "offsetBegin": 288,
+          "offsetEnd": 298,
+          "pos": "JJ"
+        },
+        {
+          "word": "purchasing",
+          "lemma": "purchasing",
+          "offsetBegin": 299,
+          "offsetEnd": 309,
+          "pos": "NN"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 310,
+          "offsetEnd": 316,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 316,
+          "offsetEnd": 317,
+          "pos": ","
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 318,
+          "offsetEnd": 327,
+          "pos": "NN"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 328,
+          "offsetEnd": 332,
+          "pos": "VBP"
+        },
+        {
+          "word": "expanded",
+          "lemma": "expand",
+          "offsetBegin": 333,
+          "offsetEnd": 341,
+          "pos": "VBN"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 342,
+          "offsetEnd": 347,
+          "pos": "PRP$"
+        },
+        {
+          "word": "agendas",
+          "lemma": "agenda",
+          "offsetBegin": 348,
+          "offsetEnd": 355,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 356,
+          "offsetEnd": 359,
+          "pos": "IN"
+        },
+        {
+          "word": "action",
+          "lemma": "action",
+          "offsetBegin": 360,
+          "offsetEnd": 366,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 366,
+          "offsetEnd": 367,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 368,
+          "offsetEnd": 371,
+          "pos": "DT"
+        },
+        {
+          "word": "movement",
+          "lemma": "movement",
+          "offsetBegin": 372,
+          "offsetEnd": 380,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 381,
+          "offsetEnd": 383,
+          "pos": "TO"
+        },
+        {
+          "word": "globalize",
+          "lemma": "globalize",
+          "offsetBegin": 384,
+          "offsetEnd": 393,
+          "pos": "VB"
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 394,
+          "offsetEnd": 403,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 404,
+          "offsetEnd": 406,
+          "pos": "VBZ"
+        },
+        {
+          "word": "traced",
+          "lemma": "trace",
+          "offsetBegin": 407,
+          "offsetEnd": 413,
+          "pos": "VBN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 414,
+          "offsetEnd": 415,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "including",
+          "lemma": "include",
+          "offsetBegin": 415,
+          "offsetEnd": 424,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 425,
+          "offsetEnd": 428,
+          "pos": "DT"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 429,
+          "offsetEnd": 440,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 441,
+          "offsetEnd": 444,
+          "pos": "CC"
+        },
+        {
+          "word": "current",
+          "lemma": "current",
+          "offsetBegin": 445,
+          "offsetEnd": 452,
+          "pos": "JJ"
+        },
+        {
+          "word": "work",
+          "lemma": "work",
+          "offsetBegin": 453,
+          "offsetEnd": 457,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 458,
+          "offsetEnd": 460,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 461,
+          "offsetEnd": 464,
+          "pos": "DT"
+        },
+        {
+          "word": "International",
+          "lemma": "International",
+          "offsetBegin": 465,
+          "offsetEnd": 478,
+          "pos": "NNP"
+        },
+        {
+          "word": "Coalition",
+          "lemma": "Coalition",
+          "offsetBegin": 479,
+          "offsetEnd": 488,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 489,
+          "offsetEnd": 491,
+          "pos": "IN"
+        },
+        {
+          "word": "Library",
+          "lemma": "Library",
+          "offsetBegin": 492,
+          "offsetEnd": 499,
+          "pos": "NNP"
+        },
+        {
+          "word": "Consortia-ICOLC",
+          "lemma": "Consortia-ICOLC",
+          "offsetBegin": 500,
+          "offsetEnd": 515,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 515,
+          "offsetEnd": 516,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 516,
+          "offsetEnd": 517,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 518,
+          "offsetEnd": 519,
+          "pos": "DT"
+        },
+        {
+          "word": "methodology",
+          "lemma": "methodology",
+          "offsetBegin": 520,
+          "offsetEnd": 531,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 532,
+          "offsetEnd": 534,
+          "pos": "VBZ"
+        },
+        {
+          "word": "explored",
+          "lemma": "explore",
+          "offsetBegin": 535,
+          "offsetEnd": 543,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 544,
+          "offsetEnd": 546,
+          "pos": "TO"
+        },
+        {
+          "word": "classify",
+          "lemma": "classify",
+          "offsetBegin": 547,
+          "offsetEnd": 555,
+          "pos": "VB"
+        },
+        {
+          "word": "library",
+          "lemma": "library",
+          "offsetBegin": 556,
+          "offsetEnd": 563,
+          "pos": "NN"
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 564,
+          "offsetEnd": 573,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 574,
+          "offsetEnd": 576,
+          "pos": "IN"
+        },
+        {
+          "word": "articulating",
+          "lemma": "articulate",
+          "offsetBegin": 577,
+          "offsetEnd": 589,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 590,
+          "offsetEnd": 593,
+          "pos": "DT"
+        },
+        {
+          "word": "key",
+          "lemma": "key",
+          "offsetBegin": 594,
+          "offsetEnd": 597,
+          "pos": "JJ"
+        },
+        {
+          "word": "factors",
+          "lemma": "factor",
+          "offsetBegin": 598,
+          "offsetEnd": 605,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 606,
+          "offsetEnd": 610,
+          "pos": "WDT"
+        },
+        {
+          "word": "affect",
+          "lemma": "affect",
+          "offsetBegin": 611,
+          "offsetEnd": 617,
+          "pos": "VBP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 618,
+          "offsetEnd": 621,
+          "pos": "CC"
+        },
+        {
+          "word": "distinguish",
+          "lemma": "distinguish",
+          "offsetBegin": 622,
+          "offsetEnd": 633,
+          "pos": "VBP"
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 634,
+          "offsetEnd": 643,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 644,
+          "offsetEnd": 646,
+          "pos": "IN"
+        },
+        {
+          "word": "organizations",
+          "lemma": "organization",
+          "offsetBegin": 647,
+          "offsetEnd": 660,
+          "pos": "NNS"
+        },
+        {
+          "word": "within",
+          "lemma": "within",
+          "offsetBegin": 661,
+          "offsetEnd": 667,
+          "pos": "IN"
+        },
+        {
+          "word": "three",
+          "lemma": "three",
+          "offsetBegin": 668,
+          "offsetEnd": 673,
+          "pos": "CD"
+        },
+        {
+          "word": "major",
+          "lemma": "major",
+          "offsetBegin": 674,
+          "offsetEnd": 679,
+          "pos": "JJ"
+        },
+        {
+          "word": "areas",
+          "lemma": "area",
+          "offsetBegin": 680,
+          "offsetEnd": 685,
+          "pos": "NNS"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 685,
+          "offsetEnd": 686,
+          "pos": ":"
+        },
+        {
+          "word": "strategic",
+          "lemma": "strategic",
+          "offsetBegin": 687,
+          "offsetEnd": 696,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 696,
+          "offsetEnd": 697,
+          "pos": ","
+        },
+        {
+          "word": "tactical",
+          "lemma": "tactical",
+          "offsetBegin": 698,
+          "offsetEnd": 706,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 706,
+          "offsetEnd": 707,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 708,
+          "offsetEnd": 711,
+          "pos": "CC"
+        },
+        {
+          "word": "practical",
+          "lemma": "practical",
+          "offsetBegin": 712,
+          "offsetEnd": 721,
+          "pos": "JJ"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 722,
+          "offsetEnd": 723,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 723,
+          "offsetEnd": 725,
+          "pos": "CC"
+        },
+        {
+          "word": "managerial",
+          "lemma": "managerial",
+          "offsetBegin": 726,
+          "offsetEnd": 736,
+          "pos": "JJ"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 736,
+          "offsetEnd": 737,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "concerns",
+          "lemma": "concern",
+          "offsetBegin": 738,
+          "offsetEnd": 746,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 746,
+          "offsetEnd": 747,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Common",
+          "lemma": "common",
+          "offsetBegin": 748,
+          "offsetEnd": 754,
+          "pos": "JJ"
+        },
+        {
+          "word": "consortial",
+          "lemma": "consortial",
+          "offsetBegin": 755,
+          "offsetEnd": 765,
+          "pos": "JJ"
+        },
+        {
+          "word": "values",
+          "lemma": "value",
+          "offsetBegin": 766,
+          "offsetEnd": 772,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 773,
+          "offsetEnd": 776,
+          "pos": "VBP"
+        },
+        {
+          "word": "examined",
+          "lemma": "examine",
+          "offsetBegin": 777,
+          "offsetEnd": 785,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 785,
+          "offsetEnd": 786,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 787,
+          "offsetEnd": 790,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 791,
+          "offsetEnd": 792,
+          "pos": "DT"
+        },
+        {
+          "word": "list",
+          "lemma": "list",
+          "offsetBegin": 793,
+          "offsetEnd": 797,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 798,
+          "offsetEnd": 800,
+          "pos": "IN"
+        },
+        {
+          "word": "known",
+          "lemma": "known",
+          "offsetBegin": 801,
+          "offsetEnd": 806,
+          "pos": "JJ"
+        },
+        {
+          "word": "international",
+          "lemma": "international",
+          "offsetBegin": 807,
+          "offsetEnd": 820,
+          "pos": "JJ"
+        },
+        {
+          "word": "library",
+          "lemma": "library",
+          "offsetBegin": 821,
+          "offsetEnd": 828,
+          "pos": "NN"
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 829,
+          "offsetEnd": 838,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 839,
+          "offsetEnd": 841,
+          "pos": "VBZ"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 842,
+          "offsetEnd": 851,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

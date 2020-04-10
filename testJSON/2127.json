@@ -1,0 +1,472 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "System",
+          "lemma": "System",
+          "offsetBegin": 0,
+          "offsetEnd": 6,
+          "pos": "NNP"
+        },
+        {
+          "word": "embedding",
+          "lemma": "embedding",
+          "offsetBegin": 7,
+          "offsetEnd": 16,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 16,
+          "offsetEnd": 17,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Polynomial",
+          "lemma": "polynomial",
+          "offsetBegin": 18,
+          "offsetEnd": 28,
+          "pos": "JJ"
+        },
+        {
+          "word": "equations",
+          "lemma": "equation",
+          "offsetBegin": 29,
+          "offsetEnd": 38,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 39,
+          "offsetEnd": 42,
+          "pos": "DT"
+        },
+        {
+          "word": "class",
+          "lemma": "class",
+          "offsetBegin": 43,
+          "offsetEnd": 48,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 49,
+          "offsetEnd": 51,
+          "pos": "IN"
+        },
+        {
+          "word": "solutions",
+          "lemma": "solution",
+          "offsetBegin": 52,
+          "offsetEnd": 61,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 62,
+          "offsetEnd": 64,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 65,
+          "offsetEnd": 68,
+          "pos": "DT"
+        },
+        {
+          "word": "polynomial",
+          "lemma": "polynomial",
+          "offsetBegin": 69,
+          "offsetEnd": 79,
+          "pos": "JJ"
+        },
+        {
+          "word": "equations",
+          "lemma": "equation",
+          "offsetBegin": 80,
+          "offsetEnd": 89,
+          "pos": "NNS"
+        },
+        {
+          "word": "including",
+          "lemma": "include",
+          "offsetBegin": 90,
+          "offsetEnd": 99,
+          "pos": "VBG"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 100,
+          "offsetEnd": 105,
+          "pos": "PRP$"
+        },
+        {
+          "word": "generalizations",
+          "lemma": "generalization",
+          "offsetBegin": 106,
+          "offsetEnd": 121,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 122,
+          "offsetEnd": 124,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 125,
+          "offsetEnd": 128,
+          "pos": "DT"
+        },
+        {
+          "word": "form",
+          "lemma": "form",
+          "offsetBegin": 129,
+          "offsetEnd": 133,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 134,
+          "offsetEnd": 136,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 137,
+          "offsetEnd": 140,
+          "pos": "DT"
+        },
+        {
+          "word": "Bezout",
+          "lemma": "bezout",
+          "offsetBegin": 141,
+          "offsetEnd": 147,
+          "pos": "NN"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 148,
+          "offsetEnd": 154,
+          "pos": "NN"
+        },
+        {
+          "word": "identities",
+          "lemma": "identity",
+          "offsetBegin": 155,
+          "offsetEnd": 165,
+          "pos": "NNS"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 166,
+          "offsetEnd": 169,
+          "pos": "VBD"
+        },
+        {
+          "word": "constructed",
+          "lemma": "construct",
+          "offsetBegin": 170,
+          "offsetEnd": 181,
+          "pos": "VBN"
+        },
+        {
+          "word": "analytically",
+          "lemma": "analytically",
+          "offsetBegin": 182,
+          "offsetEnd": 194,
+          "pos": "RB"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 195,
+          "offsetEnd": 200,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 201,
+          "offsetEnd": 204,
+          "pos": "DT"
+        },
+        {
+          "word": "technology",
+          "lemma": "technology",
+          "offsetBegin": 205,
+          "offsetEnd": 215,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 216,
+          "offsetEnd": 218,
+          "pos": "IN"
+        },
+        {
+          "word": "constructive",
+          "lemma": "constructive",
+          "offsetBegin": 219,
+          "offsetEnd": 231,
+          "pos": "JJ"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 232,
+          "offsetEnd": 238,
+          "pos": "NN"
+        },
+        {
+          "word": "embedding",
+          "lemma": "embedding",
+          "offsetBegin": 239,
+          "offsetEnd": 248,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 248,
+          "offsetEnd": 249,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 250,
+          "offsetEnd": 253,
+          "pos": "DT"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 254,
+          "offsetEnd": 263,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 264,
+          "offsetEnd": 266,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 267,
+          "offsetEnd": 268,
+          "pos": "DT"
+        },
+        {
+          "word": "solution",
+          "lemma": "solution",
+          "offsetBegin": 269,
+          "offsetEnd": 277,
+          "pos": "NN"
+        },
+        {
+          "word": "depends",
+          "lemma": "depend",
+          "offsetBegin": 278,
+          "offsetEnd": 285,
+          "pos": "VBZ"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 286,
+          "offsetEnd": 288,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 289,
+          "offsetEnd": 292,
+          "pos": "DT"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 293,
+          "offsetEnd": 299,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 300,
+          "offsetEnd": 302,
+          "pos": "IN"
+        },
+        {
+          "word": "steps",
+          "lemma": "step",
+          "offsetBegin": 303,
+          "offsetEnd": 308,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 309,
+          "offsetEnd": 311,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 312,
+          "offsetEnd": 315,
+          "pos": "DT"
+        },
+        {
+          "word": "Euclidean",
+          "lemma": "euclidean",
+          "offsetBegin": 316,
+          "offsetEnd": 325,
+          "pos": "JJ"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 326,
+          "offsetEnd": 335,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 336,
+          "offsetEnd": 339,
+          "pos": "CC"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 340,
+          "offsetEnd": 342,
+          "pos": "VBZ"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 343,
+          "offsetEnd": 351,
+          "pos": "VBN"
+        },
+        {
+          "word": "explicitly",
+          "lemma": "explicitly",
+          "offsetBegin": 352,
+          "offsetEnd": 362,
+          "pos": "RB"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 363,
+          "offsetEnd": 365,
+          "pos": "IN"
+        },
+        {
+          "word": "appropriate",
+          "lemma": "appropriate",
+          "offsetBegin": 366,
+          "offsetEnd": 377,
+          "pos": "JJ"
+        },
+        {
+          "word": "substitutions",
+          "lemma": "substitution",
+          "offsetBegin": 378,
+          "offsetEnd": 391,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 391,
+          "offsetEnd": 392,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Illustrative",
+          "lemma": "illustrative",
+          "offsetBegin": 393,
+          "offsetEnd": 405,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 406,
+          "offsetEnd": 409,
+          "pos": "CC"
+        },
+        {
+          "word": "descriptive",
+          "lemma": "descriptive",
+          "offsetBegin": 410,
+          "offsetEnd": 421,
+          "pos": "JJ"
+        },
+        {
+          "word": "examples",
+          "lemma": "example",
+          "offsetBegin": 422,
+          "offsetEnd": 430,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 431,
+          "offsetEnd": 434,
+          "pos": "VBP"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 435,
+          "offsetEnd": 444,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

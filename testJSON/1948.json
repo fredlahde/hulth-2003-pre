@@ -1,0 +1,436 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Estimating",
+          "lemma": "estimate",
+          "offsetBegin": 0,
+          "offsetEnd": 10,
+          "pos": "VBG"
+        },
+        {
+          "word": "populations",
+          "lemma": "population",
+          "offsetBegin": 11,
+          "offsetEnd": 22,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 23,
+          "offsetEnd": 26,
+          "pos": "IN"
+        },
+        {
+          "word": "collective",
+          "lemma": "collective",
+          "offsetBegin": 27,
+          "offsetEnd": 37,
+          "pos": "JJ"
+        },
+        {
+          "word": "dose",
+          "lemma": "dose",
+          "offsetBegin": 38,
+          "offsetEnd": 42,
+          "pos": "NN"
+        },
+        {
+          "word": "calculations",
+          "lemma": "calculation",
+          "offsetBegin": 43,
+          "offsetEnd": 55,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 56,
+          "offsetEnd": 59,
+          "pos": "DT"
+        },
+        {
+          "word": "collective",
+          "lemma": "collective",
+          "offsetBegin": 60,
+          "offsetEnd": 70,
+          "pos": "JJ"
+        },
+        {
+          "word": "dose",
+          "lemma": "dose",
+          "offsetBegin": 71,
+          "offsetEnd": 75,
+          "pos": "NN"
+        },
+        {
+          "word": "provides",
+          "lemma": "provide",
+          "offsetBegin": 76,
+          "offsetEnd": 84,
+          "pos": "VBZ"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 85,
+          "offsetEnd": 87,
+          "pos": "DT"
+        },
+        {
+          "word": "estimate",
+          "lemma": "estimate",
+          "offsetBegin": 88,
+          "offsetEnd": 96,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 97,
+          "offsetEnd": 99,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 100,
+          "offsetEnd": 103,
+          "pos": "DT"
+        },
+        {
+          "word": "effects",
+          "lemma": "effect",
+          "offsetBegin": 104,
+          "offsetEnd": 111,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 112,
+          "offsetEnd": 114,
+          "pos": "IN"
+        },
+        {
+          "word": "facility",
+          "lemma": "facility",
+          "offsetBegin": 115,
+          "offsetEnd": 123,
+          "pos": "NN"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 124,
+          "offsetEnd": 134,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 135,
+          "offsetEnd": 137,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 138,
+          "offsetEnd": 141,
+          "pos": "DT"
+        },
+        {
+          "word": "public",
+          "lemma": "public",
+          "offsetBegin": 142,
+          "offsetEnd": 148,
+          "pos": "JJ"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 149,
+          "offsetEnd": 154,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 155,
+          "offsetEnd": 157,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 158,
+          "offsetEnd": 160,
+          "pos": "DT"
+        },
+        {
+          "word": "estimate",
+          "lemma": "estimate",
+          "offsetBegin": 161,
+          "offsetEnd": 169,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 170,
+          "offsetEnd": 172,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 173,
+          "offsetEnd": 176,
+          "pos": "DT"
+        },
+        {
+          "word": "population",
+          "lemma": "population",
+          "offsetBegin": 177,
+          "offsetEnd": 187,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 188,
+          "offsetEnd": 190,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 191,
+          "offsetEnd": 194,
+          "pos": "DT"
+        },
+        {
+          "word": "area",
+          "lemma": "area",
+          "offsetBegin": 195,
+          "offsetEnd": 199,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 199,
+          "offsetEnd": 200,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Geographic",
+          "lemma": "geographic",
+          "offsetBegin": 201,
+          "offsetEnd": 211,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 212,
+          "offsetEnd": 223,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 224,
+          "offsetEnd": 230,
+          "pos": "NN"
+        },
+        {
+          "word": "software",
+          "lemma": "software",
+          "offsetBegin": 231,
+          "offsetEnd": 239,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 239,
+          "offsetEnd": 240,
+          "pos": ","
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 241,
+          "offsetEnd": 251,
+          "pos": "JJ"
+        },
+        {
+          "word": "population",
+          "lemma": "population",
+          "offsetBegin": 252,
+          "offsetEnd": 262,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 263,
+          "offsetEnd": 267,
+          "pos": "NNS"
+        },
+        {
+          "word": "resources",
+          "lemma": "resource",
+          "offsetBegin": 268,
+          "offsetEnd": 277,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 277,
+          "offsetEnd": 278,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 279,
+          "offsetEnd": 282,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 283,
+          "offsetEnd": 284,
+          "pos": "DT"
+        },
+        {
+          "word": "personal",
+          "lemma": "personal",
+          "offsetBegin": 285,
+          "offsetEnd": 293,
+          "pos": "JJ"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 294,
+          "offsetEnd": 302,
+          "pos": "NN"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 303,
+          "offsetEnd": 307,
+          "pos": "VBD"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 308,
+          "offsetEnd": 312,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 313,
+          "offsetEnd": 315,
+          "pos": "TO"
+        },
+        {
+          "word": "develop",
+          "lemma": "develop",
+          "offsetBegin": 316,
+          "offsetEnd": 323,
+          "pos": "VB"
+        },
+        {
+          "word": "estimates",
+          "lemma": "estimate",
+          "offsetBegin": 324,
+          "offsetEnd": 333,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 334,
+          "offsetEnd": 336,
+          "pos": "IN"
+        },
+        {
+          "word": "population",
+          "lemma": "population",
+          "offsetBegin": 337,
+          "offsetEnd": 347,
+          "pos": "NN"
+        },
+        {
+          "word": "within",
+          "lemma": "within",
+          "offsetBegin": 348,
+          "offsetEnd": 354,
+          "pos": "IN"
+        },
+        {
+          "word": "80",
+          "lemma": "80",
+          "offsetBegin": 355,
+          "offsetEnd": 357,
+          "pos": "CD"
+        },
+        {
+          "word": "km",
+          "lemma": "km",
+          "offsetBegin": 358,
+          "offsetEnd": 360,
+          "pos": "NN"
+        },
+        {
+          "word": "radii",
+          "lemma": "radii",
+          "offsetBegin": 361,
+          "offsetEnd": 366,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 367,
+          "offsetEnd": 369,
+          "pos": "IN"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 370,
+          "offsetEnd": 373,
+          "pos": "CD"
+        },
+        {
+          "word": "sites",
+          "lemma": "site",
+          "offsetBegin": 374,
+          "offsetEnd": 379,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "friction",
+          "lemma": "friction",
+          "offsetBegin": 2,
+          "offsetEnd": 10,
+          "pos": "NN"
+        },
+        {
+          "word": "compensator",
+          "lemma": "compensator",
+          "offsetBegin": 11,
+          "offsetEnd": 22,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 23,
+          "offsetEnd": 26,
+          "pos": "IN"
+        },
+        {
+          "word": "pneumatic",
+          "lemma": "pneumatic",
+          "offsetBegin": 27,
+          "offsetEnd": 36,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 37,
+          "offsetEnd": 44,
+          "pos": "NN"
+        },
+        {
+          "word": "valves",
+          "lemma": "valve",
+          "offsetBegin": 45,
+          "offsetEnd": 51,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 52,
+          "offsetEnd": 53,
+          "pos": "DT"
+        },
+        {
+          "word": "procedure",
+          "lemma": "procedure",
+          "offsetBegin": 54,
+          "offsetEnd": 63,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 64,
+          "offsetEnd": 68,
+          "pos": "WDT"
+        },
+        {
+          "word": "compensates",
+          "lemma": "compensate",
+          "offsetBegin": 69,
+          "offsetEnd": 80,
+          "pos": "VBZ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 81,
+          "offsetEnd": 84,
+          "pos": "IN"
+        },
+        {
+          "word": "static",
+          "lemma": "static",
+          "offsetBegin": 85,
+          "offsetEnd": 91,
+          "pos": "JJ"
+        },
+        {
+          "word": "friction",
+          "lemma": "friction",
+          "offsetBegin": 92,
+          "offsetEnd": 100,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 101,
+          "offsetEnd": 102,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "stiction",
+          "lemma": "stiction",
+          "offsetBegin": 102,
+          "offsetEnd": 110,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 110,
+          "offsetEnd": 111,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 112,
+          "offsetEnd": 114,
+          "pos": "IN"
+        },
+        {
+          "word": "pneumatic",
+          "lemma": "pneumatic",
+          "offsetBegin": 115,
+          "offsetEnd": 124,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 125,
+          "offsetEnd": 132,
+          "pos": "NN"
+        },
+        {
+          "word": "valves",
+          "lemma": "valve",
+          "offsetBegin": 133,
+          "offsetEnd": 139,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 140,
+          "offsetEnd": 142,
+          "pos": "VBZ"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 143,
+          "offsetEnd": 152,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 152,
+          "offsetEnd": 153,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 154,
+          "offsetEnd": 157,
+          "pos": "DT"
+        },
+        {
+          "word": "compensation",
+          "lemma": "compensation",
+          "offsetBegin": 158,
+          "offsetEnd": 170,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 171,
+          "offsetEnd": 173,
+          "pos": "VBZ"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 174,
+          "offsetEnd": 182,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 183,
+          "offsetEnd": 185,
+          "pos": "IN"
+        },
+        {
+          "word": "adding",
+          "lemma": "add",
+          "offsetBegin": 186,
+          "offsetEnd": 192,
+          "pos": "VBG"
+        },
+        {
+          "word": "pulses",
+          "lemma": "pulse",
+          "offsetBegin": 193,
+          "offsetEnd": 199,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 200,
+          "offsetEnd": 202,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 203,
+          "offsetEnd": 206,
+          "pos": "DT"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 207,
+          "offsetEnd": 214,
+          "pos": "NN"
+        },
+        {
+          "word": "signal",
+          "lemma": "signal",
+          "offsetBegin": 215,
+          "offsetEnd": 221,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 221,
+          "offsetEnd": 222,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 223,
+          "offsetEnd": 226,
+          "pos": "DT"
+        },
+        {
+          "word": "characteristics",
+          "lemma": "characteristic",
+          "offsetBegin": 227,
+          "offsetEnd": 242,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 243,
+          "offsetEnd": 245,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 246,
+          "offsetEnd": 249,
+          "pos": "DT"
+        },
+        {
+          "word": "pulses",
+          "lemma": "pulse",
+          "offsetBegin": 250,
+          "offsetEnd": 256,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 257,
+          "offsetEnd": 260,
+          "pos": "VBP"
+        },
+        {
+          "word": "determined",
+          "lemma": "determine",
+          "offsetBegin": 261,
+          "offsetEnd": 271,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 272,
+          "offsetEnd": 276,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 277,
+          "offsetEnd": 280,
+          "pos": "DT"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 281,
+          "offsetEnd": 288,
+          "pos": "NN"
+        },
+        {
+          "word": "action",
+          "lemma": "action",
+          "offsetBegin": 289,
+          "offsetEnd": 295,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 295,
+          "offsetEnd": 296,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 297,
+          "offsetEnd": 300,
+          "pos": "DT"
+        },
+        {
+          "word": "compensator",
+          "lemma": "compensator",
+          "offsetBegin": 301,
+          "offsetEnd": 312,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 313,
+          "offsetEnd": 315,
+          "pos": "VBZ"
+        },
+        {
+          "word": "implemented",
+          "lemma": "implement",
+          "offsetBegin": 316,
+          "offsetEnd": 327,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 328,
+          "offsetEnd": 330,
+          "pos": "IN"
+        },
+        {
+          "word": "industrial",
+          "lemma": "industrial",
+          "offsetBegin": 331,
+          "offsetEnd": 341,
+          "pos": "JJ"
+        },
+        {
+          "word": "controllers",
+          "lemma": "controller",
+          "offsetBegin": 342,
+          "offsetEnd": 353,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 354,
+          "offsetEnd": 357,
+          "pos": "CC"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 358,
+          "offsetEnd": 365,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 366,
+          "offsetEnd": 373,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 373,
+          "offsetEnd": 374,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 375,
+          "offsetEnd": 378,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 379,
+          "offsetEnd": 382,
+          "pos": "DT"
+        },
+        {
+          "word": "industrial",
+          "lemma": "industrial",
+          "offsetBegin": 383,
+          "offsetEnd": 393,
+          "pos": "JJ"
+        },
+        {
+          "word": "experiences",
+          "lemma": "experience",
+          "offsetBegin": 394,
+          "offsetEnd": 405,
+          "pos": "NNS"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 406,
+          "offsetEnd": 410,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 411,
+          "offsetEnd": 415,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 416,
+          "offsetEnd": 419,
+          "pos": "DT"
+        },
+        {
+          "word": "procedure",
+          "lemma": "procedure",
+          "offsetBegin": 420,
+          "offsetEnd": 429,
+          "pos": "NN"
+        },
+        {
+          "word": "reduces",
+          "lemma": "reduce",
+          "offsetBegin": 430,
+          "offsetEnd": 437,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 438,
+          "offsetEnd": 441,
+          "pos": "DT"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 442,
+          "offsetEnd": 449,
+          "pos": "NN"
+        },
+        {
+          "word": "error",
+          "lemma": "error",
+          "offsetBegin": 450,
+          "offsetEnd": 455,
+          "pos": "NN"
+        },
+        {
+          "word": "during",
+          "lemma": "during",
+          "offsetBegin": 456,
+          "offsetEnd": 462,
+          "pos": "IN"
+        },
+        {
+          "word": "stick-slip",
+          "lemma": "stick-slip",
+          "offsetBegin": 463,
+          "offsetEnd": 473,
+          "pos": "NN"
+        },
+        {
+          "word": "motion",
+          "lemma": "motion",
+          "offsetBegin": 474,
+          "offsetEnd": 480,
+          "pos": "NN"
+        },
+        {
+          "word": "significantly",
+          "lemma": "significantly",
+          "offsetBegin": 481,
+          "offsetEnd": 494,
+          "pos": "RB"
+        },
+        {
+          "word": "compared",
+          "lemma": "compare",
+          "offsetBegin": 495,
+          "offsetEnd": 503,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 504,
+          "offsetEnd": 506,
+          "pos": "TO"
+        },
+        {
+          "word": "standard",
+          "lemma": "standard",
+          "offsetBegin": 507,
+          "offsetEnd": 515,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 516,
+          "offsetEnd": 523,
+          "pos": "NN"
+        },
+        {
+          "word": "without",
+          "lemma": "without",
+          "offsetBegin": 524,
+          "offsetEnd": 531,
+          "pos": "IN"
+        },
+        {
+          "word": "stiction",
+          "lemma": "stiction",
+          "offsetBegin": 532,
+          "offsetEnd": 540,
+          "pos": "NN"
+        },
+        {
+          "word": "compensation",
+          "lemma": "compensation",
+          "offsetBegin": 541,
+          "offsetEnd": 553,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Trust",
+          "lemma": "Trust",
+          "offsetBegin": 0,
+          "offsetEnd": 5,
+          "pos": "NNP"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 6,
+          "offsetEnd": 8,
+          "pos": "IN"
+        },
+        {
+          "word": "online",
+          "lemma": "online",
+          "offsetBegin": 9,
+          "offsetEnd": 15,
+          "pos": "JJ"
+        },
+        {
+          "word": "advice",
+          "lemma": "advice",
+          "offsetBegin": 16,
+          "offsetEnd": 22,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Many",
+          "lemma": "many",
+          "offsetBegin": 23,
+          "offsetEnd": 27,
+          "pos": "JJ"
+        },
+        {
+          "word": "people",
+          "lemma": "people",
+          "offsetBegin": 28,
+          "offsetEnd": 34,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 35,
+          "offsetEnd": 38,
+          "pos": "VBP"
+        },
+        {
+          "word": "now",
+          "lemma": "now",
+          "offsetBegin": 39,
+          "offsetEnd": 42,
+          "pos": "RB"
+        },
+        {
+          "word": "influenced",
+          "lemma": "influence",
+          "offsetBegin": 43,
+          "offsetEnd": 53,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 54,
+          "offsetEnd": 56,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 57,
+          "offsetEnd": 60,
+          "pos": "DT"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 61,
+          "offsetEnd": 72,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 73,
+          "offsetEnd": 76,
+          "pos": "CC"
+        },
+        {
+          "word": "advice",
+          "lemma": "advice",
+          "offsetBegin": 77,
+          "offsetEnd": 83,
+          "pos": "NN"
+        },
+        {
+          "word": "they",
+          "lemma": "they",
+          "offsetBegin": 84,
+          "offsetEnd": 88,
+          "pos": "PRP"
+        },
+        {
+          "word": "find",
+          "lemma": "find",
+          "offsetBegin": 89,
+          "offsetEnd": 93,
+          "pos": "VBP"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 94,
+          "offsetEnd": 96,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 97,
+          "offsetEnd": 100,
+          "pos": "DT"
+        },
+        {
+          "word": "Internet",
+          "lemma": "internet",
+          "offsetBegin": 101,
+          "offsetEnd": 109,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 109,
+          "offsetEnd": 110,
+          "pos": ","
+        },
+        {
+          "word": "much",
+          "lemma": "much",
+          "offsetBegin": 111,
+          "offsetEnd": 115,
+          "pos": "RB"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 116,
+          "offsetEnd": 118,
+          "pos": "IN"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 119,
+          "offsetEnd": 121,
+          "pos": "PRP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 122,
+          "offsetEnd": 124,
+          "pos": "IN"
+        },
+        {
+          "word": "dubious",
+          "lemma": "dubious",
+          "offsetBegin": 125,
+          "offsetEnd": 132,
+          "pos": "JJ"
+        },
+        {
+          "word": "quality",
+          "lemma": "quality",
+          "offsetBegin": 133,
+          "offsetEnd": 140,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 140,
+          "offsetEnd": 141,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 142,
+          "offsetEnd": 146,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 147,
+          "offsetEnd": 154,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 155,
+          "offsetEnd": 164,
+          "pos": "VBZ"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 165,
+          "offsetEnd": 168,
+          "pos": "CD"
+        },
+        {
+          "word": "studies",
+          "lemma": "study",
+          "offsetBegin": 169,
+          "offsetEnd": 176,
+          "pos": "NNS"
+        },
+        {
+          "word": "concerned",
+          "lemma": "concern",
+          "offsetBegin": 177,
+          "offsetEnd": 186,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 187,
+          "offsetEnd": 191,
+          "pos": "IN"
+        },
+        {
+          "word": "those",
+          "lemma": "those",
+          "offsetBegin": 192,
+          "offsetEnd": 197,
+          "pos": "DT"
+        },
+        {
+          "word": "factors",
+          "lemma": "factor",
+          "offsetBegin": 198,
+          "offsetEnd": 205,
+          "pos": "NNS"
+        },
+        {
+          "word": "capable",
+          "lemma": "capable",
+          "offsetBegin": 206,
+          "offsetEnd": 213,
+          "pos": "JJ"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 214,
+          "offsetEnd": 216,
+          "pos": "IN"
+        },
+        {
+          "word": "influencing",
+          "lemma": "influence",
+          "offsetBegin": 217,
+          "offsetEnd": 228,
+          "pos": "VBG"
+        },
+        {
+          "word": "people",
+          "lemma": "people",
+          "offsetBegin": 229,
+          "offsetEnd": 235,
+          "pos": "NNS"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 235,
+          "offsetEnd": 237,
+          "pos": "POS"
+        },
+        {
+          "word": "response",
+          "lemma": "response",
+          "offsetBegin": 238,
+          "offsetEnd": 246,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 247,
+          "offsetEnd": 249,
+          "pos": "TO"
+        },
+        {
+          "word": "online",
+          "lemma": "online",
+          "offsetBegin": 250,
+          "offsetEnd": 256,
+          "pos": "JJ"
+        },
+        {
+          "word": "advice",
+          "lemma": "advice",
+          "offsetBegin": 257,
+          "offsetEnd": 263,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 263,
+          "offsetEnd": 264,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 265,
+          "offsetEnd": 268,
+          "pos": "DT"
+        },
+        {
+          "word": "first",
+          "lemma": "first",
+          "offsetBegin": 269,
+          "offsetEnd": 274,
+          "pos": "JJ"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 275,
+          "offsetEnd": 280,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 281,
+          "offsetEnd": 283,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 284,
+          "offsetEnd": 285,
+          "pos": "DT"
+        },
+        {
+          "word": "qualitative",
+          "lemma": "qualitative",
+          "offsetBegin": 286,
+          "offsetEnd": 297,
+          "pos": "JJ"
+        },
+        {
+          "word": "account",
+          "lemma": "account",
+          "offsetBegin": 298,
+          "offsetEnd": 305,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 306,
+          "offsetEnd": 308,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 309,
+          "offsetEnd": 310,
+          "pos": "DT"
+        },
+        {
+          "word": "group",
+          "lemma": "group",
+          "offsetBegin": 311,
+          "offsetEnd": 316,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 317,
+          "offsetEnd": 319,
+          "pos": "IN"
+        },
+        {
+          "word": "house-hunters",
+          "lemma": "house-hunter",
+          "offsetBegin": 320,
+          "offsetEnd": 333,
+          "pos": "NNS"
+        },
+        {
+          "word": "attempting",
+          "lemma": "attempt",
+          "offsetBegin": 334,
+          "offsetEnd": 344,
+          "pos": "VBG"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 345,
+          "offsetEnd": 347,
+          "pos": "TO"
+        },
+        {
+          "word": "find",
+          "lemma": "find",
+          "offsetBegin": 348,
+          "offsetEnd": 352,
+          "pos": "VB"
+        },
+        {
+          "word": "worthwhile",
+          "lemma": "worthwhile",
+          "offsetBegin": 353,
+          "offsetEnd": 363,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 364,
+          "offsetEnd": 375,
+          "pos": "NN"
+        },
+        {
+          "word": "online",
+          "lemma": "online",
+          "offsetBegin": 376,
+          "offsetEnd": 382,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 382,
+          "offsetEnd": 383,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 384,
+          "offsetEnd": 387,
+          "pos": "DT"
+        },
+        {
+          "word": "second",
+          "lemma": "second",
+          "offsetBegin": 388,
+          "offsetEnd": 394,
+          "pos": "JJ"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 395,
+          "offsetEnd": 400,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 401,
+          "offsetEnd": 410,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 411,
+          "offsetEnd": 412,
+          "pos": "DT"
+        },
+        {
+          "word": "survey",
+          "lemma": "survey",
+          "offsetBegin": 413,
+          "offsetEnd": 419,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 420,
+          "offsetEnd": 422,
+          "pos": "IN"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 423,
+          "offsetEnd": 427,
+          "pos": "JJR"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 428,
+          "offsetEnd": 432,
+          "pos": "IN"
+        },
+        {
+          "word": "2,500",
+          "lemma": "2,500",
+          "offsetBegin": 433,
+          "offsetEnd": 438,
+          "pos": "CD"
+        },
+        {
+          "word": "people",
+          "lemma": "people",
+          "offsetBegin": 439,
+          "offsetEnd": 445,
+          "pos": "NNS"
+        },
+        {
+          "word": "who",
+          "lemma": "who",
+          "offsetBegin": 446,
+          "offsetEnd": 449,
+          "pos": "WP"
+        },
+        {
+          "word": "had",
+          "lemma": "have",
+          "offsetBegin": 450,
+          "offsetEnd": 453,
+          "pos": "VBD"
+        },
+        {
+          "word": "actively",
+          "lemma": "actively",
+          "offsetBegin": 454,
+          "offsetEnd": 462,
+          "pos": "RB"
+        },
+        {
+          "word": "sought",
+          "lemma": "seek",
+          "offsetBegin": 463,
+          "offsetEnd": 469,
+          "pos": "VBN"
+        },
+        {
+          "word": "advice",
+          "lemma": "advice",
+          "offsetBegin": 470,
+          "offsetEnd": 476,
+          "pos": "NN"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 477,
+          "offsetEnd": 481,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 482,
+          "offsetEnd": 485,
+          "pos": "DT"
+        },
+        {
+          "word": "Internet",
+          "lemma": "internet",
+          "offsetBegin": 486,
+          "offsetEnd": 494,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 494,
+          "offsetEnd": 495,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 496,
+          "offsetEnd": 497,
+          "pos": "DT"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 498,
+          "offsetEnd": 507,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 508,
+          "offsetEnd": 511,
+          "pos": "IN"
+        },
+        {
+          "word": "understanding",
+          "lemma": "understand",
+          "offsetBegin": 512,
+          "offsetEnd": 525,
+          "pos": "VBG"
+        },
+        {
+          "word": "trust",
+          "lemma": "trust",
+          "offsetBegin": 526,
+          "offsetEnd": 531,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 532,
+          "offsetEnd": 534,
+          "pos": "IN"
+        },
+        {
+          "word": "online",
+          "lemma": "online",
+          "offsetBegin": 535,
+          "offsetEnd": 541,
+          "pos": "JJ"
+        },
+        {
+          "word": "advice",
+          "lemma": "advice",
+          "offsetBegin": 542,
+          "offsetEnd": 548,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 549,
+          "offsetEnd": 551,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 552,
+          "offsetEnd": 560,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 561,
+          "offsetEnd": 563,
+          "pos": "IN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 564,
+          "offsetEnd": 569,
+          "pos": "WDT"
+        },
+        {
+          "word": "first",
+          "lemma": "first",
+          "offsetBegin": 570,
+          "offsetEnd": 575,
+          "pos": "JJ"
+        },
+        {
+          "word": "impressions",
+          "lemma": "impression",
+          "offsetBegin": 576,
+          "offsetEnd": 587,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 588,
+          "offsetEnd": 591,
+          "pos": "VBP"
+        },
+        {
+          "word": "distinguished",
+          "lemma": "distinguish",
+          "offsetBegin": 592,
+          "offsetEnd": 605,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 606,
+          "offsetEnd": 610,
+          "pos": "IN"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 611,
+          "offsetEnd": 615,
+          "pos": "JJR"
+        },
+        {
+          "word": "detailed",
+          "lemma": "detailed",
+          "offsetBegin": 616,
+          "offsetEnd": 624,
+          "pos": "JJ"
+        },
+        {
+          "word": "evaluations",
+          "lemma": "evaluation",
+          "offsetBegin": 625,
+          "offsetEnd": 636,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 636,
+          "offsetEnd": 637,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Good",
+          "lemma": "good",
+          "offsetBegin": 638,
+          "offsetEnd": 642,
+          "pos": "JJ"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 643,
+          "offsetEnd": 646,
+          "pos": "NN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 647,
+          "offsetEnd": 653,
+          "pos": "NN"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 654,
+          "offsetEnd": 657,
+          "pos": "MD"
+        },
+        {
+          "word": "influence",
+          "lemma": "influence",
+          "offsetBegin": 658,
+          "offsetEnd": 667,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 668,
+          "offsetEnd": 671,
+          "pos": "DT"
+        },
+        {
+          "word": "first",
+          "lemma": "first",
+          "offsetBegin": 672,
+          "offsetEnd": 677,
+          "pos": "JJ"
+        },
+        {
+          "word": "process",
+          "lemma": "process",
+          "offsetBegin": 678,
+          "offsetEnd": 685,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 685,
+          "offsetEnd": 686,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 687,
+          "offsetEnd": 690,
+          "pos": "CC"
+        },
+        {
+          "word": "three",
+          "lemma": "three",
+          "offsetBegin": 691,
+          "offsetEnd": 696,
+          "pos": "CD"
+        },
+        {
+          "word": "key",
+          "lemma": "key",
+          "offsetBegin": 697,
+          "offsetEnd": 700,
+          "pos": "JJ"
+        },
+        {
+          "word": "factors-source",
+          "lemma": "factors-source",
+          "offsetBegin": 701,
+          "offsetEnd": 715,
+          "pos": "NN"
+        },
+        {
+          "word": "credibility",
+          "lemma": "credibility",
+          "offsetBegin": 716,
+          "offsetEnd": 727,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 727,
+          "offsetEnd": 728,
+          "pos": ","
+        },
+        {
+          "word": "personalization",
+          "lemma": "personalization",
+          "offsetBegin": 729,
+          "offsetEnd": 744,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 744,
+          "offsetEnd": 745,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 746,
+          "offsetEnd": 749,
+          "pos": "CC"
+        },
+        {
+          "word": "predictability-are",
+          "lemma": "predictability-are",
+          "offsetBegin": 750,
+          "offsetEnd": 768,
+          "pos": "JJ"
+        },
+        {
+          "word": "shown",
+          "lemma": "show",
+          "offsetBegin": 769,
+          "offsetEnd": 774,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 775,
+          "offsetEnd": 777,
+          "pos": "TO"
+        },
+        {
+          "word": "predict",
+          "lemma": "predict",
+          "offsetBegin": 778,
+          "offsetEnd": 785,
+          "pos": "VB"
+        },
+        {
+          "word": "whether",
+          "lemma": "whether",
+          "offsetBegin": 786,
+          "offsetEnd": 793,
+          "pos": "IN"
+        },
+        {
+          "word": "people",
+          "lemma": "people",
+          "offsetBegin": 794,
+          "offsetEnd": 800,
+          "pos": "NNS"
+        },
+        {
+          "word": "actually",
+          "lemma": "actually",
+          "offsetBegin": 801,
+          "offsetEnd": 809,
+          "pos": "RB"
+        },
+        {
+          "word": "follow",
+          "lemma": "follow",
+          "offsetBegin": 810,
+          "offsetEnd": 816,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 817,
+          "offsetEnd": 820,
+          "pos": "DT"
+        },
+        {
+          "word": "advice",
+          "lemma": "advice",
+          "offsetBegin": 821,
+          "offsetEnd": 827,
+          "pos": "NN"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 828,
+          "offsetEnd": 833,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

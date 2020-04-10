@@ -1,0 +1,938 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Linear",
+          "lemma": "linear",
+          "offsetBegin": 0,
+          "offsetEnd": 6,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 7,
+          "offsetEnd": 13,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 14,
+          "offsetEnd": 16,
+          "pos": "IN"
+        },
+        {
+          "word": "circuits",
+          "lemma": "circuit",
+          "offsetBegin": 17,
+          "offsetEnd": 25,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 26,
+          "offsetEnd": 31,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 32,
+          "offsetEnd": 34,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 35,
+          "offsetEnd": 38,
+          "pos": "DT"
+        },
+        {
+          "word": "multivalued",
+          "lemma": "multivalued",
+          "offsetBegin": 39,
+          "offsetEnd": 50,
+          "pos": "JJ"
+        },
+        {
+          "word": "components",
+          "lemma": "component",
+          "offsetBegin": 51,
+          "offsetEnd": 61,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Linearization",
+          "lemma": "linearization",
+          "offsetBegin": 62,
+          "offsetEnd": 75,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 76,
+          "offsetEnd": 79,
+          "pos": "CC"
+        },
+        {
+          "word": "planarization",
+          "lemma": "planarization",
+          "offsetBegin": 80,
+          "offsetEnd": 93,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 94,
+          "offsetEnd": 96,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 97,
+          "offsetEnd": 100,
+          "pos": "DT"
+        },
+        {
+          "word": "circuit",
+          "lemma": "circuit",
+          "offsetBegin": 101,
+          "offsetEnd": 108,
+          "pos": "NN"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 109,
+          "offsetEnd": 115,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 116,
+          "offsetEnd": 118,
+          "pos": "VBZ"
+        },
+        {
+          "word": "pivotal",
+          "lemma": "pivotal",
+          "offsetBegin": 119,
+          "offsetEnd": 126,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 127,
+          "offsetEnd": 129,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 130,
+          "offsetEnd": 133,
+          "pos": "DT"
+        },
+        {
+          "word": "submicron",
+          "lemma": "submicron",
+          "offsetBegin": 134,
+          "offsetEnd": 143,
+          "pos": "NN"
+        },
+        {
+          "word": "technologies",
+          "lemma": "technology",
+          "offsetBegin": 144,
+          "offsetEnd": 156,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 156,
+          "offsetEnd": 157,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "On",
+          "lemma": "on",
+          "offsetBegin": 158,
+          "offsetEnd": 160,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 161,
+          "offsetEnd": 164,
+          "pos": "DT"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 165,
+          "offsetEnd": 170,
+          "pos": "JJ"
+        },
+        {
+          "word": "hand",
+          "lemma": "hand",
+          "offsetBegin": 171,
+          "offsetEnd": 175,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 175,
+          "offsetEnd": 176,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 177,
+          "offsetEnd": 180,
+          "pos": "DT"
+        },
+        {
+          "word": "characteristics",
+          "lemma": "characteristic",
+          "offsetBegin": 181,
+          "offsetEnd": 196,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 197,
+          "offsetEnd": 199,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 200,
+          "offsetEnd": 203,
+          "pos": "DT"
+        },
+        {
+          "word": "VLSI",
+          "lemma": "VLSI",
+          "offsetBegin": 204,
+          "offsetEnd": 208,
+          "pos": "NNP"
+        },
+        {
+          "word": "circuits",
+          "lemma": "circuit",
+          "offsetBegin": 209,
+          "offsetEnd": 217,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 218,
+          "offsetEnd": 221,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 222,
+          "offsetEnd": 224,
+          "pos": "VB"
+        },
+        {
+          "word": "sometimes",
+          "lemma": "sometimes",
+          "offsetBegin": 225,
+          "offsetEnd": 234,
+          "pos": "RB"
+        },
+        {
+          "word": "improved",
+          "lemma": "improve",
+          "offsetBegin": 235,
+          "offsetEnd": 243,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 244,
+          "offsetEnd": 246,
+          "pos": "IN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 247,
+          "offsetEnd": 252,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 253,
+          "offsetEnd": 256,
+          "pos": "DT"
+        },
+        {
+          "word": "multivalued",
+          "lemma": "multivalued",
+          "offsetBegin": 257,
+          "offsetEnd": 268,
+          "pos": "JJ"
+        },
+        {
+          "word": "components",
+          "lemma": "component",
+          "offsetBegin": 269,
+          "offsetEnd": 279,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 279,
+          "offsetEnd": 280,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "offsetBegin": 281,
+          "offsetEnd": 283,
+          "pos": "PRP"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 284,
+          "offsetEnd": 287,
+          "pos": "VBD"
+        },
+        {
+          "word": "shown",
+          "lemma": "show",
+          "offsetBegin": 288,
+          "offsetEnd": 293,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 294,
+          "offsetEnd": 298,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 299,
+          "offsetEnd": 302,
+          "pos": "DT"
+        },
+        {
+          "word": "l-level",
+          "lemma": "l-level",
+          "offsetBegin": 303,
+          "offsetEnd": 310,
+          "pos": "JJ"
+        },
+        {
+          "word": "circuit",
+          "lemma": "circuit",
+          "offsetBegin": 311,
+          "offsetEnd": 318,
+          "pos": "NN"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 319,
+          "offsetEnd": 324,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 325,
+          "offsetEnd": 327,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 328,
+          "offsetEnd": 331,
+          "pos": "DT"
+        },
+        {
+          "word": "multivalued",
+          "lemma": "multivalued",
+          "offsetBegin": 332,
+          "offsetEnd": 343,
+          "pos": "JJ"
+        },
+        {
+          "word": "components",
+          "lemma": "component",
+          "offsetBegin": 344,
+          "offsetEnd": 354,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 355,
+          "offsetEnd": 357,
+          "pos": "VBZ"
+        },
+        {
+          "word": "representable",
+          "lemma": "representable",
+          "offsetBegin": 358,
+          "offsetEnd": 371,
+          "pos": "JJ"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 372,
+          "offsetEnd": 374,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 375,
+          "offsetEnd": 377,
+          "pos": "DT"
+        },
+        {
+          "word": "algebraic",
+          "lemma": "algebraic",
+          "offsetBegin": 378,
+          "offsetEnd": 387,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 388,
+          "offsetEnd": 393,
+          "pos": "NN"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 394,
+          "offsetEnd": 399,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 400,
+          "offsetEnd": 402,
+          "pos": "IN"
+        },
+        {
+          "word": "l",
+          "lemma": "l",
+          "offsetBegin": 403,
+          "offsetEnd": 404,
+          "pos": "NN"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 405,
+          "offsetEnd": 411,
+          "pos": "JJ"
+        },
+        {
+          "word": "arithmetic",
+          "lemma": "arithmetic",
+          "offsetBegin": 412,
+          "offsetEnd": 422,
+          "pos": "NN"
+        },
+        {
+          "word": "polynomials",
+          "lemma": "polynomial",
+          "offsetBegin": 423,
+          "offsetEnd": 434,
+          "pos": "NNS"
+        },
+        {
+          "word": "mapped",
+          "lemma": "map",
+          "offsetBegin": 435,
+          "offsetEnd": 441,
+          "pos": "VBD"
+        },
+        {
+          "word": "correspondingly",
+          "lemma": "correspondingly",
+          "offsetBegin": 442,
+          "offsetEnd": 457,
+          "pos": "RB"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 458,
+          "offsetEnd": 462,
+          "pos": "IN"
+        },
+        {
+          "word": "l",
+          "lemma": "l",
+          "offsetBegin": 463,
+          "offsetEnd": 464,
+          "pos": "NN"
+        },
+        {
+          "word": "decision",
+          "lemma": "decision",
+          "offsetBegin": 465,
+          "offsetEnd": 473,
+          "pos": "NN"
+        },
+        {
+          "word": "diagrams",
+          "lemma": "diagram",
+          "offsetBegin": 474,
+          "offsetEnd": 482,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 483,
+          "offsetEnd": 487,
+          "pos": "WDT"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 488,
+          "offsetEnd": 491,
+          "pos": "VBP"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 492,
+          "offsetEnd": 498,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 499,
+          "offsetEnd": 502,
+          "pos": "CC"
+        },
+        {
+          "word": "planar",
+          "lemma": "planar",
+          "offsetBegin": 503,
+          "offsetEnd": 509,
+          "pos": "JJ"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 510,
+          "offsetEnd": 512,
+          "pos": "IN"
+        },
+        {
+          "word": "nature",
+          "lemma": "nature",
+          "offsetBegin": 513,
+          "offsetEnd": 519,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 519,
+          "offsetEnd": 520,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Complexity",
+          "lemma": "complexity",
+          "offsetBegin": 521,
+          "offsetEnd": 531,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 532,
+          "offsetEnd": 534,
+          "pos": "IN"
+        },
+        {
+          "word": "representing",
+          "lemma": "represent",
+          "offsetBegin": 535,
+          "offsetEnd": 547,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 548,
+          "offsetEnd": 549,
+          "pos": "DT"
+        },
+        {
+          "word": "circuit",
+          "lemma": "circuit",
+          "offsetBegin": 550,
+          "offsetEnd": 557,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 558,
+          "offsetEnd": 560,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 561,
+          "offsetEnd": 564,
+          "pos": "DT"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 565,
+          "offsetEnd": 571,
+          "pos": "JJ"
+        },
+        {
+          "word": "decision",
+          "lemma": "decision",
+          "offsetBegin": 572,
+          "offsetEnd": 580,
+          "pos": "NN"
+        },
+        {
+          "word": "diagram",
+          "lemma": "diagram",
+          "offsetBegin": 581,
+          "offsetEnd": 588,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 589,
+          "offsetEnd": 592,
+          "pos": "VBD"
+        },
+        {
+          "word": "estimated",
+          "lemma": "estimate",
+          "offsetBegin": 593,
+          "offsetEnd": 602,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 603,
+          "offsetEnd": 605,
+          "pos": "IN"
+        },
+        {
+          "word": "O",
+          "lemma": "o",
+          "offsetBegin": 606,
+          "offsetEnd": 607,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 607,
+          "offsetEnd": 608,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "G",
+          "lemma": "g",
+          "offsetBegin": 608,
+          "offsetEnd": 609,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 609,
+          "offsetEnd": 610,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 611,
+          "offsetEnd": 615,
+          "pos": "IN"
+        },
+        {
+          "word": "G",
+          "lemma": "g",
+          "offsetBegin": 616,
+          "offsetEnd": 617,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 618,
+          "offsetEnd": 621,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 622,
+          "offsetEnd": 625,
+          "pos": "DT"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 626,
+          "offsetEnd": 632,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 633,
+          "offsetEnd": 635,
+          "pos": "IN"
+        },
+        {
+          "word": "multivalued",
+          "lemma": "multivalued",
+          "offsetBegin": 636,
+          "offsetEnd": 647,
+          "pos": "JJ"
+        },
+        {
+          "word": "components",
+          "lemma": "component",
+          "offsetBegin": 648,
+          "offsetEnd": 658,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 659,
+          "offsetEnd": 661,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 662,
+          "offsetEnd": 665,
+          "pos": "DT"
+        },
+        {
+          "word": "circuit",
+          "lemma": "circuit",
+          "offsetBegin": 666,
+          "offsetEnd": 673,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 673,
+          "offsetEnd": 674,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 675,
+          "offsetEnd": 678,
+          "pos": "DT"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 679,
+          "offsetEnd": 686,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 687,
+          "offsetEnd": 689,
+          "pos": "IN"
+        },
+        {
+          "word": "testing",
+          "lemma": "test",
+          "offsetBegin": 690,
+          "offsetEnd": 697,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 698,
+          "offsetEnd": 701,
+          "pos": "DT"
+        },
+        {
+          "word": "LinearDesignMV",
+          "lemma": "lineardesignmv",
+          "offsetBegin": 702,
+          "offsetEnd": 716,
+          "pos": "NN"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 717,
+          "offsetEnd": 726,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 727,
+          "offsetEnd": 729,
+          "pos": "IN"
+        },
+        {
+          "word": "circuits",
+          "lemma": "circuit",
+          "offsetBegin": 730,
+          "offsetEnd": 738,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 739,
+          "offsetEnd": 741,
+          "pos": "IN"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 742,
+          "offsetEnd": 746,
+          "pos": "JJR"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 747,
+          "offsetEnd": 751,
+          "pos": "IN"
+        },
+        {
+          "word": "8000",
+          "lemma": "8000",
+          "offsetBegin": 752,
+          "offsetEnd": 756,
+          "pos": "CD"
+        },
+        {
+          "word": "LGSynth",
+          "lemma": "lgsynth",
+          "offsetBegin": 757,
+          "offsetEnd": 764,
+          "pos": "NN"
+        },
+        {
+          "word": "93",
+          "lemma": "93",
+          "offsetBegin": 765,
+          "offsetEnd": 767,
+          "pos": "CD"
+        },
+        {
+          "word": "multivalued",
+          "lemma": "multivalued",
+          "offsetBegin": 768,
+          "offsetEnd": 779,
+          "pos": "JJ"
+        },
+        {
+          "word": "components",
+          "lemma": "component",
+          "offsetBegin": 780,
+          "offsetEnd": 790,
+          "pos": "NNS"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 791,
+          "offsetEnd": 795,
+          "pos": "VBD"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 796,
+          "offsetEnd": 805,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Do",
+          "lemma": "do",
+          "offsetBegin": 0,
+          "offsetEnd": 2,
+          "pos": "VBP"
+        },
+        {
+          "word": "n\u0027t",
+          "lemma": "not",
+          "offsetBegin": 2,
+          "offsetEnd": 5,
+          "pos": "RB"
+        },
+        {
+          "word": "always",
+          "lemma": "always",
+          "offsetBegin": 6,
+          "offsetEnd": 12,
+          "pos": "RB"
+        },
+        {
+          "word": "believe",
+          "lemma": "believe",
+          "offsetBegin": 13,
+          "offsetEnd": 20,
+          "pos": "VB"
+        },
+        {
+          "word": "what",
+          "lemma": "what",
+          "offsetBegin": 21,
+          "offsetEnd": 25,
+          "pos": "WP"
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "offsetBegin": 26,
+          "offsetEnd": 29,
+          "pos": "PRP"
+        },
+        {
+          "word": "Reed",
+          "lemma": "Reed",
+          "offsetBegin": 30,
+          "offsetEnd": 34,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LSB-",
+          "lemma": "-lsb-",
+          "offsetBegin": 35,
+          "offsetEnd": 36,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "optimisation",
+          "lemma": "optimisation",
+          "offsetBegin": 36,
+          "offsetEnd": 48,
+          "pos": "NN"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 49,
+          "offsetEnd": 59,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 60,
+          "offsetEnd": 63,
+          "pos": "IN"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 64,
+          "offsetEnd": 67,
+          "pos": "NN"
+        },
+        {
+          "word": "sites",
+          "lemma": "site",
+          "offsetBegin": 68,
+          "offsetEnd": 73,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 74,
+          "offsetEnd": 77,
+          "pos": "CC"
+        },
+        {
+          "word": "trade",
+          "lemma": "trade",
+          "offsetBegin": 78,
+          "offsetEnd": 83,
+          "pos": "NN"
+        },
+        {
+          "word": "mark",
+          "lemma": "mark",
+          "offsetBegin": 84,
+          "offsetEnd": 88,
+          "pos": "NN"
+        },
+        {
+          "word": "infringement",
+          "lemma": "infringement",
+          "offsetBegin": 89,
+          "offsetEnd": 101,
+          "pos": "NN"
+        },
+        {
+          "word": "-RSB-",
+          "lemma": "-rsb-",
+          "offsetBegin": 101,
+          "offsetEnd": 102,
+          "pos": "-RRB-"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "On",
+          "lemma": "on",
+          "offsetBegin": 103,
+          "offsetEnd": 105,
+          "pos": "IN"
+        },
+        {
+          "word": "20",
+          "lemma": "20",
+          "offsetBegin": 106,
+          "offsetEnd": 108,
+          "pos": "CD"
+        },
+        {
+          "word": "May",
+          "lemma": "May",
+          "offsetBegin": 109,
+          "offsetEnd": 112,
+          "pos": "NNP"
+        },
+        {
+          "word": "2002",
+          "lemma": "2002",
+          "offsetBegin": 113,
+          "offsetEnd": 117,
+          "pos": "CD"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 117,
+          "offsetEnd": 118,
+          "pos": ","
+        },
+        {
+          "word": "Mr",
+          "lemma": "Mr",
+          "offsetBegin": 119,
+          "offsetEnd": 121,
+          "pos": "NNP"
+        },
+        {
+          "word": "Justice",
+          "lemma": "Justice",
+          "offsetBegin": 122,
+          "offsetEnd": 129,
+          "pos": "NNP"
+        },
+        {
+          "word": "Pumfrey",
+          "lemma": "Pumfrey",
+          "offsetBegin": 130,
+          "offsetEnd": 137,
+          "pos": "NNP"
+        },
+        {
+          "word": "gave",
+          "lemma": "give",
+          "offsetBegin": 138,
+          "offsetEnd": 142,
+          "pos": "VBD"
+        },
+        {
+          "word": "judgment",
+          "lemma": "judgment",
+          "offsetBegin": 143,
+          "offsetEnd": 151,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 152,
+          "offsetEnd": 154,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 155,
+          "offsetEnd": 158,
+          "pos": "DT"
+        },
+        {
+          "word": "case",
+          "lemma": "case",
+          "offsetBegin": 159,
+          "offsetEnd": 163,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 164,
+          "offsetEnd": 166,
+          "pos": "IN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 167,
+          "offsetEnd": 168,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "1",
+          "lemma": "1",
+          "offsetBegin": 168,
+          "offsetEnd": 169,
+          "pos": "LS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 169,
+          "offsetEnd": 170,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "Reed",
+          "lemma": "Reed",
+          "offsetBegin": 171,
+          "offsetEnd": 175,
+          "pos": "NNP"
+        },
+        {
+          "word": "Executive",
+          "lemma": "Executive",
+          "offsetBegin": 176,
+          "offsetEnd": 185,
+          "pos": "NNP"
+        },
+        {
+          "word": "Plc",
+          "lemma": "Plc",
+          "offsetBegin": 186,
+          "offsetEnd": 189,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 190,
+          "offsetEnd": 191,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "2",
+          "lemma": "2",
+          "offsetBegin": 191,
+          "offsetEnd": 192,
+          "pos": "LS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 192,
+          "offsetEnd": 193,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "Reed",
+          "lemma": "Reed",
+          "offsetBegin": 194,
+          "offsetEnd": 198,
+          "pos": "NNP"
+        },
+        {
+          "word": "Solutions",
+          "lemma": "Solutions",
+          "offsetBegin": 199,
+          "offsetEnd": 208,
+          "pos": "NNPS"
+        },
+        {
+          "word": "Plc",
+          "lemma": "Plc",
+          "offsetBegin": 209,
+          "offsetEnd": 212,
+          "pos": "NNP"
+        },
+        {
+          "word": "versus",
+          "lemma": "versus",
+          "offsetBegin": 213,
+          "offsetEnd": 219,
+          "pos": "CC"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 220,
+          "offsetEnd": 221,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "1",
+          "lemma": "1",
+          "offsetBegin": 221,
+          "offsetEnd": 222,
+          "pos": "LS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 222,
+          "offsetEnd": 223,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "Reed",
+          "lemma": "Reed",
+          "offsetBegin": 224,
+          "offsetEnd": 228,
+          "pos": "NNP"
+        },
+        {
+          "word": "Business",
+          "lemma": "Business",
+          "offsetBegin": 229,
+          "offsetEnd": 237,
+          "pos": "NNP"
+        },
+        {
+          "word": "Information",
+          "lemma": "Information",
+          "offsetBegin": 238,
+          "offsetEnd": 249,
+          "pos": "NNP"
+        },
+        {
+          "word": "Limited",
+          "lemma": "Limited",
+          "offsetBegin": 250,
+          "offsetEnd": 257,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 258,
+          "offsetEnd": 259,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "2",
+          "lemma": "2",
+          "offsetBegin": 259,
+          "offsetEnd": 260,
+          "pos": "LS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 260,
+          "offsetEnd": 261,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "Reed",
+          "lemma": "Reed",
+          "offsetBegin": 262,
+          "offsetEnd": 266,
+          "pos": "NNP"
+        },
+        {
+          "word": "Elsevier",
+          "lemma": "Elsevier",
+          "offsetBegin": 267,
+          "offsetEnd": 275,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 276,
+          "offsetEnd": 277,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "UK",
+          "lemma": "UK",
+          "offsetBegin": 277,
+          "offsetEnd": 279,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 279,
+          "offsetEnd": 280,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "Limited",
+          "lemma": "limited",
+          "offsetBegin": 281,
+          "offsetEnd": 288,
+          "pos": "JJ"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 289,
+          "offsetEnd": 290,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "3",
+          "lemma": "3",
+          "offsetBegin": 290,
+          "offsetEnd": 291,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 291,
+          "offsetEnd": 292,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "totaljobs.com",
+          "lemma": "totaljobs.com",
+          "offsetBegin": 293,
+          "offsetEnd": 306,
+          "pos": "NNP"
+        },
+        {
+          "word": "Limited",
+          "lemma": "Limited",
+          "offsetBegin": 307,
+          "offsetEnd": 314,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 314,
+          "offsetEnd": 315,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 316,
+          "offsetEnd": 319,
+          "pos": "DT"
+        },
+        {
+          "word": "case",
+          "lemma": "case",
+          "offsetBegin": 320,
+          "offsetEnd": 324,
+          "pos": "NN"
+        },
+        {
+          "word": "explored",
+          "lemma": "explore",
+          "offsetBegin": 325,
+          "offsetEnd": 333,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 334,
+          "offsetEnd": 337,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 338,
+          "offsetEnd": 341,
+          "pos": "DT"
+        },
+        {
+          "word": "first",
+          "lemma": "first",
+          "offsetBegin": 342,
+          "offsetEnd": 347,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 348,
+          "offsetEnd": 352,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 353,
+          "offsetEnd": 355,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 356,
+          "offsetEnd": 359,
+          "pos": "DT"
+        },
+        {
+          "word": "detail",
+          "lemma": "detail",
+          "offsetBegin": 360,
+          "offsetEnd": 366,
+          "pos": "NN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 367,
+          "offsetEnd": 370,
+          "pos": "DT"
+        },
+        {
+          "word": "extent",
+          "lemma": "extent",
+          "offsetBegin": 371,
+          "offsetEnd": 377,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 378,
+          "offsetEnd": 380,
+          "pos": "TO"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 381,
+          "offsetEnd": 386,
+          "pos": "WDT"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 387,
+          "offsetEnd": 390,
+          "pos": "DT"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 391,
+          "offsetEnd": 394,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 395,
+          "offsetEnd": 397,
+          "pos": "IN"
+        },
+        {
+          "word": "various",
+          "lemma": "various",
+          "offsetBegin": 398,
+          "offsetEnd": 405,
+          "pos": "JJ"
+        },
+        {
+          "word": "optimisation",
+          "lemma": "optimisation",
+          "offsetBegin": 406,
+          "offsetEnd": 418,
+          "pos": "NN"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 419,
+          "offsetEnd": 429,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 430,
+          "offsetEnd": 433,
+          "pos": "IN"
+        },
+        {
+          "word": "Web",
+          "lemma": "web",
+          "offsetBegin": 434,
+          "offsetEnd": 437,
+          "pos": "NN"
+        },
+        {
+          "word": "sites",
+          "lemma": "site",
+          "offsetBegin": 438,
+          "offsetEnd": 443,
+          "pos": "NNS"
+        },
+        {
+          "word": "could",
+          "lemma": "could",
+          "offsetBegin": 444,
+          "offsetEnd": 449,
+          "pos": "MD"
+        },
+        {
+          "word": "give",
+          "lemma": "give",
+          "offsetBegin": 450,
+          "offsetEnd": 454,
+          "pos": "VB"
+        },
+        {
+          "word": "rise",
+          "lemma": "rise",
+          "offsetBegin": 455,
+          "offsetEnd": 459,
+          "pos": "VB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 460,
+          "offsetEnd": 462,
+          "pos": "TO"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 463,
+          "offsetEnd": 466,
+          "pos": "JJ"
+        },
+        {
+          "word": "forms",
+          "lemma": "form",
+          "offsetBegin": 467,
+          "offsetEnd": 472,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 473,
+          "offsetEnd": 475,
+          "pos": "IN"
+        },
+        {
+          "word": "trade",
+          "lemma": "trade",
+          "offsetBegin": 476,
+          "offsetEnd": 481,
+          "pos": "NN"
+        },
+        {
+          "word": "mark",
+          "lemma": "mark",
+          "offsetBegin": 482,
+          "offsetEnd": 486,
+          "pos": "NN"
+        },
+        {
+          "word": "infringement",
+          "lemma": "infringement",
+          "offsetBegin": 487,
+          "offsetEnd": 499,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 500,
+          "offsetEnd": 503,
+          "pos": "CC"
+        },
+        {
+          "word": "passing",
+          "lemma": "pass",
+          "offsetBegin": 504,
+          "offsetEnd": 511,
+          "pos": "VBG"
+        },
+        {
+          "word": "off",
+          "lemma": "off",
+          "offsetBegin": 512,
+          "offsetEnd": 515,
+          "pos": "RP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 515,
+          "offsetEnd": 516,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 517,
+          "offsetEnd": 520,
+          "pos": "DT"
+        },
+        {
+          "word": "author",
+          "lemma": "author",
+          "offsetBegin": 521,
+          "offsetEnd": 527,
+          "pos": "NN"
+        },
+        {
+          "word": "reports",
+          "lemma": "report",
+          "offsetBegin": 528,
+          "offsetEnd": 535,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 536,
+          "offsetEnd": 538,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 539,
+          "offsetEnd": 542,
+          "pos": "DT"
+        },
+        {
+          "word": "case",
+          "lemma": "case",
+          "offsetBegin": 543,
+          "offsetEnd": 547,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 548,
+          "offsetEnd": 551,
+          "pos": "CC"
+        },
+        {
+          "word": "offers",
+          "lemma": "offer",
+          "offsetBegin": 552,
+          "offsetEnd": 558,
+          "pos": "VBZ"
+        },
+        {
+          "word": "his",
+          "lemma": "he",
+          "offsetBegin": 559,
+          "offsetEnd": 562,
+          "pos": "PRP$"
+        },
+        {
+          "word": "comments",
+          "lemma": "comment",
+          "offsetBegin": 563,
+          "offsetEnd": 571,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

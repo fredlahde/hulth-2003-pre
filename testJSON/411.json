@@ -1,0 +1,415 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "CAD/CAE",
+          "lemma": "cad/cae",
+          "offsetBegin": 0,
+          "offsetEnd": 7,
+          "pos": "NN"
+        },
+        {
+          "word": "software",
+          "lemma": "software",
+          "offsetBegin": 8,
+          "offsetEnd": 16,
+          "pos": "NN"
+        },
+        {
+          "word": "aids",
+          "lemma": "aid",
+          "offsetBegin": 17,
+          "offsetEnd": 21,
+          "pos": "NNS"
+        },
+        {
+          "word": "converter",
+          "lemma": "converter",
+          "offsetBegin": 22,
+          "offsetEnd": 31,
+          "pos": "NN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 32,
+          "offsetEnd": 38,
+          "pos": "NN"
+        },
+        {
+          "word": "-LSB-",
+          "lemma": "-lsb-",
+          "offsetBegin": 39,
+          "offsetEnd": 40,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "DC/DC",
+          "lemma": "dc/dc",
+          "offsetBegin": 40,
+          "offsetEnd": 45,
+          "pos": "NN"
+        },
+        {
+          "word": "power",
+          "lemma": "power",
+          "offsetBegin": 46,
+          "offsetEnd": 51,
+          "pos": "NN"
+        },
+        {
+          "word": "conversion",
+          "lemma": "conversion",
+          "offsetBegin": 52,
+          "offsetEnd": 62,
+          "pos": "NN"
+        },
+        {
+          "word": "-RSB-",
+          "lemma": "-rsb-",
+          "offsetBegin": 62,
+          "offsetEnd": 63,
+          "pos": "-RRB-"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Typically",
+          "lemma": "typically",
+          "offsetBegin": 64,
+          "offsetEnd": 73,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 73,
+          "offsetEnd": 74,
+          "pos": ","
+        },
+        {
+          "word": "power",
+          "lemma": "power",
+          "offsetBegin": 75,
+          "offsetEnd": 80,
+          "pos": "NN"
+        },
+        {
+          "word": "supply",
+          "lemma": "supply",
+          "offsetBegin": 81,
+          "offsetEnd": 87,
+          "pos": "NN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 88,
+          "offsetEnd": 94,
+          "pos": "NN"
+        },
+        {
+          "word": "involves",
+          "lemma": "involve",
+          "offsetBegin": 95,
+          "offsetEnd": 103,
+          "pos": "VBZ"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 104,
+          "offsetEnd": 114,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 115,
+          "offsetEnd": 118,
+          "pos": "CC"
+        },
+        {
+          "word": "magnetic",
+          "lemma": "magnetic",
+          "offsetBegin": 119,
+          "offsetEnd": 127,
+          "pos": "JJ"
+        },
+        {
+          "word": "components",
+          "lemma": "component",
+          "offsetBegin": 128,
+          "offsetEnd": 138,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 138,
+          "offsetEnd": 139,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 140,
+          "offsetEnd": 142,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 143,
+          "offsetEnd": 147,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 148,
+          "offsetEnd": 153,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 153,
+          "offsetEnd": 154,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 155,
+          "offsetEnd": 158,
+          "pos": "DT"
+        },
+        {
+          "word": "authors",
+          "lemma": "author",
+          "offsetBegin": 159,
+          "offsetEnd": 166,
+          "pos": "NNS"
+        },
+        {
+          "word": "describe",
+          "lemma": "describe",
+          "offsetBegin": 167,
+          "offsetEnd": 175,
+          "pos": "VBP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 175,
+          "offsetEnd": 176,
+          "pos": ","
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 177,
+          "offsetEnd": 182,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 183,
+          "offsetEnd": 184,
+          "pos": "DT"
+        },
+        {
+          "word": "flyback",
+          "lemma": "flyback",
+          "offsetBegin": 185,
+          "offsetEnd": 192,
+          "pos": "NN"
+        },
+        {
+          "word": "converter",
+          "lemma": "converter",
+          "offsetBegin": 193,
+          "offsetEnd": 202,
+          "pos": "NN"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 203,
+          "offsetEnd": 210,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 210,
+          "offsetEnd": 211,
+          "pos": ","
+        },
+        {
+          "word": "how",
+          "lemma": "how",
+          "offsetBegin": 212,
+          "offsetEnd": 215,
+          "pos": "WRB"
+        },
+        {
+          "word": "CAD/CAE",
+          "lemma": "cad/cae",
+          "offsetBegin": 216,
+          "offsetEnd": 223,
+          "pos": "NN"
+        },
+        {
+          "word": "tools",
+          "lemma": "tool",
+          "offsetBegin": 224,
+          "offsetEnd": 229,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 230,
+          "offsetEnd": 233,
+          "pos": "MD"
+        },
+        {
+          "word": "aid",
+          "lemma": "aid",
+          "offsetBegin": 234,
+          "offsetEnd": 237,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 238,
+          "offsetEnd": 241,
+          "pos": "DT"
+        },
+        {
+          "word": "power",
+          "lemma": "power",
+          "offsetBegin": 242,
+          "offsetEnd": 247,
+          "pos": "NN"
+        },
+        {
+          "word": "supply",
+          "lemma": "supply",
+          "offsetBegin": 248,
+          "offsetEnd": 254,
+          "pos": "NN"
+        },
+        {
+          "word": "engineer",
+          "lemma": "engineer",
+          "offsetBegin": 255,
+          "offsetEnd": 263,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 264,
+          "offsetEnd": 266,
+          "pos": "IN"
+        },
+        {
+          "word": "both",
+          "lemma": "both",
+          "offsetBegin": 267,
+          "offsetEnd": 271,
+          "pos": "CC"
+        },
+        {
+          "word": "areas",
+          "lemma": "area",
+          "offsetBegin": 272,
+          "offsetEnd": 277,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 277,
+          "offsetEnd": 278,
+          "pos": ","
+        },
+        {
+          "word": "reducing",
+          "lemma": "reduce",
+          "offsetBegin": 279,
+          "offsetEnd": 287,
+          "pos": "VBG"
+        },
+        {
+          "word": "prototyping",
+          "lemma": "prototyping",
+          "offsetBegin": 288,
+          "offsetEnd": 299,
+          "pos": "NN"
+        },
+        {
+          "word": "costs",
+          "lemma": "cost",
+          "offsetBegin": 300,
+          "offsetEnd": 305,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 306,
+          "offsetEnd": 309,
+          "pos": "CC"
+        },
+        {
+          "word": "providing",
+          "lemma": "provide",
+          "offsetBegin": 310,
+          "offsetEnd": 319,
+          "pos": "VBG"
+        },
+        {
+          "word": "insights",
+          "lemma": "insight",
+          "offsetBegin": 320,
+          "offsetEnd": 328,
+          "pos": "NNS"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 329,
+          "offsetEnd": 333,
+          "pos": "IN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 334,
+          "offsetEnd": 340,
+          "pos": "NN"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 341,
+          "offsetEnd": 352,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Dynamical",
+          "lemma": "dynamical",
+          "offsetBegin": 0,
+          "offsetEnd": 9,
+          "pos": "JJ"
+        },
+        {
+          "word": "transition",
+          "lemma": "transition",
+          "offsetBegin": 10,
+          "offsetEnd": 20,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 21,
+          "offsetEnd": 23,
+          "pos": "TO"
+        },
+        {
+          "word": "periodic",
+          "lemma": "periodic",
+          "offsetBegin": 24,
+          "offsetEnd": 32,
+          "pos": "JJ"
+        },
+        {
+          "word": "motions",
+          "lemma": "motion",
+          "offsetBegin": 33,
+          "offsetEnd": 40,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 41,
+          "offsetEnd": 43,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 44,
+          "offsetEnd": 45,
+          "pos": "DT"
+        },
+        {
+          "word": "recurrent",
+          "lemma": "recurrent",
+          "offsetBegin": 46,
+          "offsetEnd": 55,
+          "pos": "JJ"
+        },
+        {
+          "word": "bus",
+          "lemma": "bus",
+          "offsetBegin": 56,
+          "offsetEnd": 59,
+          "pos": "NN"
+        },
+        {
+          "word": "induced",
+          "lemma": "induce",
+          "offsetBegin": 60,
+          "offsetEnd": 67,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 68,
+          "offsetEnd": 70,
+          "pos": "IN"
+        },
+        {
+          "word": "nonstops",
+          "lemma": "nonstop",
+          "offsetBegin": 71,
+          "offsetEnd": 79,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 80,
+          "offsetEnd": 82,
+          "pos": "PRP"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 83,
+          "offsetEnd": 88,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 89,
+          "offsetEnd": 92,
+          "pos": "DT"
+        },
+        {
+          "word": "dynamical",
+          "lemma": "dynamical",
+          "offsetBegin": 93,
+          "offsetEnd": 102,
+          "pos": "JJ"
+        },
+        {
+          "word": "behavior",
+          "lemma": "behavior",
+          "offsetBegin": 103,
+          "offsetEnd": 111,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 112,
+          "offsetEnd": 114,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 115,
+          "offsetEnd": 116,
+          "pos": "DT"
+        },
+        {
+          "word": "recurrent",
+          "lemma": "recurrent",
+          "offsetBegin": 117,
+          "offsetEnd": 126,
+          "pos": "JJ"
+        },
+        {
+          "word": "bus",
+          "lemma": "bus",
+          "offsetBegin": 127,
+          "offsetEnd": 130,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 131,
+          "offsetEnd": 133,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 134,
+          "offsetEnd": 135,
+          "pos": "DT"
+        },
+        {
+          "word": "circular",
+          "lemma": "circular",
+          "offsetBegin": 136,
+          "offsetEnd": 144,
+          "pos": "JJ"
+        },
+        {
+          "word": "route",
+          "lemma": "route",
+          "offsetBegin": 145,
+          "offsetEnd": 150,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 151,
+          "offsetEnd": 155,
+          "pos": "IN"
+        },
+        {
+          "word": "many",
+          "lemma": "many",
+          "offsetBegin": 156,
+          "offsetEnd": 160,
+          "pos": "JJ"
+        },
+        {
+          "word": "bus",
+          "lemma": "bus",
+          "offsetBegin": 161,
+          "offsetEnd": 164,
+          "pos": "NN"
+        },
+        {
+          "word": "stops",
+          "lemma": "stop",
+          "offsetBegin": 165,
+          "offsetEnd": 170,
+          "pos": "VBZ"
+        },
+        {
+          "word": "when",
+          "lemma": "when",
+          "offsetBegin": 171,
+          "offsetEnd": 175,
+          "pos": "WRB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 176,
+          "offsetEnd": 179,
+          "pos": "DT"
+        },
+        {
+          "word": "recurrent",
+          "lemma": "recurrent",
+          "offsetBegin": 180,
+          "offsetEnd": 189,
+          "pos": "JJ"
+        },
+        {
+          "word": "bus",
+          "lemma": "bus",
+          "offsetBegin": 190,
+          "offsetEnd": 193,
+          "pos": "NN"
+        },
+        {
+          "word": "passes",
+          "lemma": "pass",
+          "offsetBegin": 194,
+          "offsetEnd": 200,
+          "pos": "VBZ"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 201,
+          "offsetEnd": 205,
+          "pos": "DT"
+        },
+        {
+          "word": "bus",
+          "lemma": "bus",
+          "offsetBegin": 206,
+          "offsetEnd": 209,
+          "pos": "NN"
+        },
+        {
+          "word": "stops",
+          "lemma": "stop",
+          "offsetBegin": 210,
+          "offsetEnd": 215,
+          "pos": "VBZ"
+        },
+        {
+          "word": "without",
+          "lemma": "without",
+          "offsetBegin": 216,
+          "offsetEnd": 223,
+          "pos": "IN"
+        },
+        {
+          "word": "stopping",
+          "lemma": "stop",
+          "offsetBegin": 224,
+          "offsetEnd": 232,
+          "pos": "VBG"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 232,
+          "offsetEnd": 233,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 234,
+          "offsetEnd": 237,
+          "pos": "DT"
+        },
+        {
+          "word": "recurrent",
+          "lemma": "recurrent",
+          "offsetBegin": 238,
+          "offsetEnd": 247,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 248,
+          "offsetEnd": 252,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 253,
+          "offsetEnd": 254,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "offsetBegin": 254,
+          "offsetEnd": 257,
+          "pos": "CD"
+        },
+        {
+          "word": "period",
+          "lemma": "period",
+          "offsetBegin": 258,
+          "offsetEnd": 264,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 264,
+          "offsetEnd": 265,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 266,
+          "offsetEnd": 268,
+          "pos": "VBZ"
+        },
+        {
+          "word": "described",
+          "lemma": "describe",
+          "offsetBegin": 269,
+          "offsetEnd": 278,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 279,
+          "offsetEnd": 281,
+          "pos": "IN"
+        },
+        {
+          "word": "terms",
+          "lemma": "term",
+          "offsetBegin": 282,
+          "offsetEnd": 287,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 288,
+          "offsetEnd": 290,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 291,
+          "offsetEnd": 292,
+          "pos": "DT"
+        },
+        {
+          "word": "nonlinear",
+          "lemma": "nonlinear",
+          "offsetBegin": 293,
+          "offsetEnd": 302,
+          "pos": "JJ"
+        },
+        {
+          "word": "map",
+          "lemma": "map",
+          "offsetBegin": 303,
+          "offsetEnd": 306,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 306,
+          "offsetEnd": 307,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "offsetBegin": 308,
+          "offsetEnd": 310,
+          "pos": "PRP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 311,
+          "offsetEnd": 313,
+          "pos": "VBZ"
+        },
+        {
+          "word": "shown",
+          "lemma": "show",
+          "offsetBegin": 314,
+          "offsetEnd": 319,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 320,
+          "offsetEnd": 324,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 325,
+          "offsetEnd": 328,
+          "pos": "DT"
+        },
+        {
+          "word": "recurrent",
+          "lemma": "recurrent",
+          "offsetBegin": 329,
+          "offsetEnd": 338,
+          "pos": "JJ"
+        },
+        {
+          "word": "bus",
+          "lemma": "bus",
+          "offsetBegin": 339,
+          "offsetEnd": 342,
+          "pos": "NN"
+        },
+        {
+          "word": "exhibits",
+          "lemma": "exhibit",
+          "offsetBegin": 343,
+          "offsetEnd": 351,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 352,
+          "offsetEnd": 355,
+          "pos": "DT"
+        },
+        {
+          "word": "complex",
+          "lemma": "complex",
+          "offsetBegin": 356,
+          "offsetEnd": 363,
+          "pos": "JJ"
+        },
+        {
+          "word": "periodic",
+          "lemma": "periodic",
+          "offsetBegin": 364,
+          "offsetEnd": 372,
+          "pos": "JJ"
+        },
+        {
+          "word": "behaviors",
+          "lemma": "behavior",
+          "offsetBegin": 373,
+          "offsetEnd": 382,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 382,
+          "offsetEnd": 383,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 384,
+          "offsetEnd": 387,
+          "pos": "DT"
+        },
+        {
+          "word": "dynamical",
+          "lemma": "dynamical",
+          "offsetBegin": 388,
+          "offsetEnd": 397,
+          "pos": "JJ"
+        },
+        {
+          "word": "transitions",
+          "lemma": "transition",
+          "offsetBegin": 398,
+          "offsetEnd": 409,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 410,
+          "offsetEnd": 412,
+          "pos": "TO"
+        },
+        {
+          "word": "periodic",
+          "lemma": "periodic",
+          "offsetBegin": 413,
+          "offsetEnd": 421,
+          "pos": "JJ"
+        },
+        {
+          "word": "motions",
+          "lemma": "motion",
+          "offsetBegin": 422,
+          "offsetEnd": 429,
+          "pos": "NNS"
+        },
+        {
+          "word": "occur",
+          "lemma": "occur",
+          "offsetBegin": 430,
+          "offsetEnd": 435,
+          "pos": "VBP"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 436,
+          "offsetEnd": 438,
+          "pos": "IN"
+        },
+        {
+          "word": "increasing",
+          "lemma": "increase",
+          "offsetBegin": 439,
+          "offsetEnd": 449,
+          "pos": "VBG"
+        },
+        {
+          "word": "nonstops",
+          "lemma": "nonstop",
+          "offsetBegin": 450,
+          "offsetEnd": 458,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 458,
+          "offsetEnd": 459,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 460,
+          "offsetEnd": 463,
+          "pos": "DT"
+        },
+        {
+          "word": "periodic",
+          "lemma": "periodic",
+          "offsetBegin": 464,
+          "offsetEnd": 472,
+          "pos": "JJ"
+        },
+        {
+          "word": "motions",
+          "lemma": "motion",
+          "offsetBegin": 473,
+          "offsetEnd": 480,
+          "pos": "NNS"
+        },
+        {
+          "word": "depend",
+          "lemma": "depend",
+          "offsetBegin": 481,
+          "offsetEnd": 487,
+          "pos": "VBP"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 488,
+          "offsetEnd": 490,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 491,
+          "offsetEnd": 494,
+          "pos": "DT"
+        },
+        {
+          "word": "property",
+          "lemma": "property",
+          "offsetBegin": 495,
+          "offsetEnd": 503,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 504,
+          "offsetEnd": 506,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 507,
+          "offsetEnd": 509,
+          "pos": "DT"
+        },
+        {
+          "word": "attractor",
+          "lemma": "attractor",
+          "offsetBegin": 510,
+          "offsetEnd": 519,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 520,
+          "offsetEnd": 522,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 523,
+          "offsetEnd": 526,
+          "pos": "DT"
+        },
+        {
+          "word": "nonlinear",
+          "lemma": "nonlinear",
+          "offsetBegin": 527,
+          "offsetEnd": 536,
+          "pos": "JJ"
+        },
+        {
+          "word": "map",
+          "lemma": "map",
+          "offsetBegin": 537,
+          "offsetEnd": 540,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 540,
+          "offsetEnd": 541,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 542,
+          "offsetEnd": 545,
+          "pos": "DT"
+        },
+        {
+          "word": "period",
+          "lemma": "period",
+          "offsetBegin": 546,
+          "offsetEnd": 552,
+          "pos": "NN"
+        },
+        {
+          "word": "n",
+          "lemma": "n",
+          "offsetBegin": 553,
+          "offsetEnd": 554,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 555,
+          "offsetEnd": 557,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 558,
+          "offsetEnd": 561,
+          "pos": "DT"
+        },
+        {
+          "word": "attractor",
+          "lemma": "attractor",
+          "offsetBegin": 562,
+          "offsetEnd": 571,
+          "pos": "NN"
+        },
+        {
+          "word": "varies",
+          "lemma": "vary",
+          "offsetBegin": 572,
+          "offsetEnd": 578,
+          "pos": "VBZ"
+        },
+        {
+          "word": "sensitively",
+          "lemma": "sensitively",
+          "offsetBegin": 579,
+          "offsetEnd": 590,
+          "pos": "RB"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 591,
+          "offsetEnd": 595,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 596,
+          "offsetEnd": 599,
+          "pos": "DT"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 600,
+          "offsetEnd": 606,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 607,
+          "offsetEnd": 609,
+          "pos": "IN"
+        },
+        {
+          "word": "nonstops",
+          "lemma": "nonstop",
+          "offsetBegin": 610,
+          "offsetEnd": 618,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

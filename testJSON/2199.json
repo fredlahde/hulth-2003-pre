@@ -1,0 +1,408 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Activity",
+          "lemma": "activity",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 9,
+          "offsetEnd": 12,
+          "pos": "CC"
+        },
+        {
+          "word": "location",
+          "lemma": "location",
+          "offsetBegin": 13,
+          "offsetEnd": 21,
+          "pos": "NN"
+        },
+        {
+          "word": "recognition",
+          "lemma": "recognition",
+          "offsetBegin": 22,
+          "offsetEnd": 33,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 34,
+          "offsetEnd": 39,
+          "pos": "VBG"
+        },
+        {
+          "word": "wearable",
+          "lemma": "wearable",
+          "offsetBegin": 40,
+          "offsetEnd": 48,
+          "pos": "JJ"
+        },
+        {
+          "word": "sensors",
+          "lemma": "sensor",
+          "offsetBegin": 49,
+          "offsetEnd": 56,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Using",
+          "lemma": "use",
+          "offsetBegin": 57,
+          "offsetEnd": 62,
+          "pos": "VBG"
+        },
+        {
+          "word": "measured",
+          "lemma": "measure",
+          "offsetBegin": 63,
+          "offsetEnd": 71,
+          "pos": "VBN"
+        },
+        {
+          "word": "acceleration",
+          "lemma": "acceleration",
+          "offsetBegin": 72,
+          "offsetEnd": 84,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 85,
+          "offsetEnd": 88,
+          "pos": "CC"
+        },
+        {
+          "word": "angular",
+          "lemma": "angular",
+          "offsetBegin": 89,
+          "offsetEnd": 96,
+          "pos": "JJ"
+        },
+        {
+          "word": "velocity",
+          "lemma": "velocity",
+          "offsetBegin": 97,
+          "offsetEnd": 105,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 106,
+          "offsetEnd": 110,
+          "pos": "NNS"
+        },
+        {
+          "word": "gathered",
+          "lemma": "gather",
+          "offsetBegin": 111,
+          "offsetEnd": 119,
+          "pos": "VBN"
+        },
+        {
+          "word": "through",
+          "lemma": "through",
+          "offsetBegin": 120,
+          "offsetEnd": 127,
+          "pos": "RB"
+        },
+        {
+          "word": "inexpensive",
+          "lemma": "inexpensive",
+          "offsetBegin": 128,
+          "offsetEnd": 139,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 139,
+          "offsetEnd": 140,
+          "pos": ","
+        },
+        {
+          "word": "wearable",
+          "lemma": "wearable",
+          "offsetBegin": 141,
+          "offsetEnd": 149,
+          "pos": "JJ"
+        },
+        {
+          "word": "sensors",
+          "lemma": "sensor",
+          "offsetBegin": 150,
+          "offsetEnd": 157,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 157,
+          "offsetEnd": 158,
+          "pos": ","
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 159,
+          "offsetEnd": 163,
+          "pos": "DT"
+        },
+        {
+          "word": "dead-reckoning",
+          "lemma": "dead-reckoning",
+          "offsetBegin": 164,
+          "offsetEnd": 178,
+          "pos": "NN"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 179,
+          "offsetEnd": 185,
+          "pos": "NN"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 186,
+          "offsetEnd": 189,
+          "pos": "MD"
+        },
+        {
+          "word": "determine",
+          "lemma": "determine",
+          "offsetBegin": 190,
+          "offsetEnd": 199,
+          "pos": "VB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 200,
+          "offsetEnd": 201,
+          "pos": "DT"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 202,
+          "offsetEnd": 206,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 206,
+          "offsetEnd": 208,
+          "pos": "POS"
+        },
+        {
+          "word": "location",
+          "lemma": "location",
+          "offsetBegin": 209,
+          "offsetEnd": 217,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 217,
+          "offsetEnd": 218,
+          "pos": ","
+        },
+        {
+          "word": "detect",
+          "lemma": "detect",
+          "offsetBegin": 219,
+          "offsetEnd": 225,
+          "pos": "VB"
+        },
+        {
+          "word": "transitions",
+          "lemma": "transition",
+          "offsetBegin": 226,
+          "offsetEnd": 237,
+          "pos": "NNS"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 238,
+          "offsetEnd": 245,
+          "pos": "IN"
+        },
+        {
+          "word": "preselected",
+          "lemma": "preselected",
+          "offsetBegin": 246,
+          "offsetEnd": 257,
+          "pos": "JJ"
+        },
+        {
+          "word": "locations",
+          "lemma": "location",
+          "offsetBegin": 258,
+          "offsetEnd": 267,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 267,
+          "offsetEnd": 268,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 269,
+          "offsetEnd": 272,
+          "pos": "CC"
+        },
+        {
+          "word": "recognize",
+          "lemma": "recognize",
+          "offsetBegin": 273,
+          "offsetEnd": 282,
+          "pos": "VB"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 283,
+          "offsetEnd": 286,
+          "pos": "CC"
+        },
+        {
+          "word": "classify",
+          "lemma": "classify",
+          "offsetBegin": 287,
+          "offsetEnd": 295,
+          "pos": "VB"
+        },
+        {
+          "word": "sitting",
+          "lemma": "sit",
+          "offsetBegin": 296,
+          "offsetEnd": 303,
+          "pos": "VBG"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 303,
+          "offsetEnd": 304,
+          "pos": ","
+        },
+        {
+          "word": "standing",
+          "lemma": "standing",
+          "offsetBegin": 305,
+          "offsetEnd": 313,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 313,
+          "offsetEnd": 314,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 315,
+          "offsetEnd": 318,
+          "pos": "CC"
+        },
+        {
+          "word": "walking",
+          "lemma": "walk",
+          "offsetBegin": 319,
+          "offsetEnd": 326,
+          "pos": "VBG"
+        },
+        {
+          "word": "behaviors",
+          "lemma": "behavior",
+          "offsetBegin": 327,
+          "offsetEnd": 336,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 336,
+          "offsetEnd": 337,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Experiments",
+          "lemma": "experiment",
+          "offsetBegin": 338,
+          "offsetEnd": 349,
+          "pos": "NNS"
+        },
+        {
+          "word": "demonstrate",
+          "lemma": "demonstrate",
+          "offsetBegin": 350,
+          "offsetEnd": 361,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 362,
+          "offsetEnd": 365,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 366,
+          "offsetEnd": 374,
+          "pos": "VBN"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 375,
+          "offsetEnd": 381,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 381,
+          "offsetEnd": 383,
+          "pos": "POS"
+        },
+        {
+          "word": "effectiveness",
+          "lemma": "effectiveness",
+          "offsetBegin": 384,
+          "offsetEnd": 397,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

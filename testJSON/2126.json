@@ -1,0 +1,331 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "nonlinear",
+          "lemma": "nonlinear",
+          "offsetBegin": 2,
+          "offsetEnd": 11,
+          "pos": "JJ"
+        },
+        {
+          "word": "time-optimal",
+          "lemma": "time-optimal",
+          "offsetBegin": 12,
+          "offsetEnd": 24,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 25,
+          "offsetEnd": 32,
+          "pos": "NN"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 33,
+          "offsetEnd": 40,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Sufficient",
+          "lemma": "sufficient",
+          "offsetBegin": 41,
+          "offsetEnd": 51,
+          "pos": "JJ"
+        },
+        {
+          "word": "conditions",
+          "lemma": "condition",
+          "offsetBegin": 52,
+          "offsetEnd": 62,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 63,
+          "offsetEnd": 66,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 67,
+          "offsetEnd": 70,
+          "pos": "DT"
+        },
+        {
+          "word": "existence",
+          "lemma": "existence",
+          "offsetBegin": 71,
+          "offsetEnd": 80,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 81,
+          "offsetEnd": 83,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 84,
+          "offsetEnd": 86,
+          "pos": "DT"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 87,
+          "offsetEnd": 94,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 95,
+          "offsetEnd": 102,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 103,
+          "offsetEnd": 105,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 106,
+          "offsetEnd": 107,
+          "pos": "DT"
+        },
+        {
+          "word": "time-optimal",
+          "lemma": "time-optimal",
+          "offsetBegin": 108,
+          "offsetEnd": 120,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 121,
+          "offsetEnd": 128,
+          "pos": "NN"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 129,
+          "offsetEnd": 136,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 137,
+          "offsetEnd": 141,
+          "pos": "IN"
+        },
+        {
+          "word": "fixed",
+          "lemma": "fix",
+          "offsetBegin": 142,
+          "offsetEnd": 147,
+          "pos": "VBN"
+        },
+        {
+          "word": "ends",
+          "lemma": "end",
+          "offsetBegin": 148,
+          "offsetEnd": 152,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 153,
+          "offsetEnd": 156,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 157,
+          "offsetEnd": 158,
+          "pos": "DT"
+        },
+        {
+          "word": "smooth",
+          "lemma": "smooth",
+          "offsetBegin": 159,
+          "offsetEnd": 165,
+          "pos": "JJ"
+        },
+        {
+          "word": "nonlinear",
+          "lemma": "nonlinear",
+          "offsetBegin": 166,
+          "offsetEnd": 175,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 176,
+          "offsetEnd": 183,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 184,
+          "offsetEnd": 190,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 191,
+          "offsetEnd": 194,
+          "pos": "VBP"
+        },
+        {
+          "word": "formulated",
+          "lemma": "formulate",
+          "offsetBegin": 195,
+          "offsetEnd": 205,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 205,
+          "offsetEnd": 206,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 207,
+          "offsetEnd": 210,
+          "pos": "DT"
+        },
+        {
+          "word": "properties",
+          "lemma": "property",
+          "offsetBegin": 211,
+          "offsetEnd": 221,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 222,
+          "offsetEnd": 224,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 225,
+          "offsetEnd": 229,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 230,
+          "offsetEnd": 236,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 237,
+          "offsetEnd": 240,
+          "pos": "IN"
+        },
+        {
+          "word": "characterizing",
+          "lemma": "characterize",
+          "offsetBegin": 241,
+          "offsetEnd": 255,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 256,
+          "offsetEnd": 259,
+          "pos": "DT"
+        },
+        {
+          "word": "optimal",
+          "lemma": "optimal",
+          "offsetBegin": 260,
+          "offsetEnd": 267,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 268,
+          "offsetEnd": 275,
+          "pos": "NN"
+        },
+        {
+          "word": "switching",
+          "lemma": "switching",
+          "offsetBegin": 276,
+          "offsetEnd": 285,
+          "pos": "NN"
+        },
+        {
+          "word": "points",
+          "lemma": "point",
+          "offsetBegin": 286,
+          "offsetEnd": 292,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 293,
+          "offsetEnd": 296,
+          "pos": "VBP"
+        },
+        {
+          "word": "studied",
+          "lemma": "study",
+          "offsetBegin": 297,
+          "offsetEnd": 304,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

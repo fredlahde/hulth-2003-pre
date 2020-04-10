@@ -1,0 +1,720 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 2,
+          "offsetEnd": 8,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 9,
+          "offsetEnd": 11,
+          "pos": "IN"
+        },
+        {
+          "word": "determining",
+          "lemma": "determine",
+          "offsetBegin": 12,
+          "offsetEnd": 23,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 24,
+          "offsetEnd": 25,
+          "pos": "DT"
+        },
+        {
+          "word": "sequence",
+          "lemma": "sequence",
+          "offsetBegin": 26,
+          "offsetEnd": 34,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 35,
+          "offsetEnd": 37,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 38,
+          "offsetEnd": 41,
+          "pos": "DT"
+        },
+        {
+          "word": "best",
+          "lemma": "best",
+          "offsetBegin": 42,
+          "offsetEnd": 46,
+          "pos": "JJS"
+        },
+        {
+          "word": "solutions",
+          "lemma": "solution",
+          "offsetBegin": 47,
+          "offsetEnd": 56,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 57,
+          "offsetEnd": 59,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 60,
+          "offsetEnd": 63,
+          "pos": "DT"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 64,
+          "offsetEnd": 72,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 73,
+          "offsetEnd": 75,
+          "pos": "IN"
+        },
+        {
+          "word": "optimization",
+          "lemma": "optimization",
+          "offsetBegin": 76,
+          "offsetEnd": 88,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 89,
+          "offsetEnd": 91,
+          "pos": "IN"
+        },
+        {
+          "word": "finite",
+          "lemma": "finite",
+          "offsetBegin": 92,
+          "offsetEnd": 98,
+          "pos": "JJ"
+        },
+        {
+          "word": "sets",
+          "lemma": "set",
+          "offsetBegin": 99,
+          "offsetEnd": 103,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 104,
+          "offsetEnd": 107,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 108,
+          "offsetEnd": 111,
+          "pos": "DT"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 112,
+          "offsetEnd": 119,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 120,
+          "offsetEnd": 122,
+          "pos": "IN"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 123,
+          "offsetEnd": 130,
+          "pos": "NN"
+        },
+        {
+          "word": "reconstruction",
+          "lemma": "reconstruction",
+          "offsetBegin": 131,
+          "offsetEnd": 145,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 146,
+          "offsetEnd": 147,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 148,
+          "offsetEnd": 154,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 155,
+          "offsetEnd": 157,
+          "pos": "IN"
+        },
+        {
+          "word": "determining",
+          "lemma": "determine",
+          "offsetBegin": 158,
+          "offsetEnd": 169,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 170,
+          "offsetEnd": 171,
+          "pos": "DT"
+        },
+        {
+          "word": "sequence",
+          "lemma": "sequence",
+          "offsetBegin": 172,
+          "offsetEnd": 180,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 181,
+          "offsetEnd": 183,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 184,
+          "offsetEnd": 187,
+          "pos": "DT"
+        },
+        {
+          "word": "best",
+          "lemma": "best",
+          "offsetBegin": 188,
+          "offsetEnd": 192,
+          "pos": "JJS"
+        },
+        {
+          "word": "solutions",
+          "lemma": "solution",
+          "offsetBegin": 193,
+          "offsetEnd": 202,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 203,
+          "offsetEnd": 205,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 206,
+          "offsetEnd": 209,
+          "pos": "DT"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 210,
+          "offsetEnd": 218,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 219,
+          "offsetEnd": 221,
+          "pos": "IN"
+        },
+        {
+          "word": "optimization",
+          "lemma": "optimization",
+          "offsetBegin": 222,
+          "offsetEnd": 234,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 235,
+          "offsetEnd": 237,
+          "pos": "IN"
+        },
+        {
+          "word": "finite",
+          "lemma": "finite",
+          "offsetBegin": 238,
+          "offsetEnd": 244,
+          "pos": "JJ"
+        },
+        {
+          "word": "sets",
+          "lemma": "set",
+          "offsetBegin": 245,
+          "offsetEnd": 249,
+          "pos": "NNS"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 250,
+          "offsetEnd": 253,
+          "pos": "VBD"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 254,
+          "offsetEnd": 262,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 262,
+          "offsetEnd": 263,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Its",
+          "lemma": "its",
+          "offsetBegin": 264,
+          "offsetEnd": 267,
+          "pos": "PRP$"
+        },
+        {
+          "word": "complexity",
+          "lemma": "complexity",
+          "offsetBegin": 268,
+          "offsetEnd": 278,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 279,
+          "offsetEnd": 282,
+          "pos": "VBD"
+        },
+        {
+          "word": "estimated",
+          "lemma": "estimate",
+          "offsetBegin": 283,
+          "offsetEnd": 292,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 293,
+          "offsetEnd": 295,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 296,
+          "offsetEnd": 297,
+          "pos": "DT"
+        },
+        {
+          "word": "polynomial",
+          "lemma": "polynomial",
+          "offsetBegin": 298,
+          "offsetEnd": 308,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 309,
+          "offsetEnd": 311,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 312,
+          "offsetEnd": 315,
+          "pos": "DT"
+        },
+        {
+          "word": "dimension",
+          "lemma": "dimension",
+          "offsetBegin": 316,
+          "offsetEnd": 325,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 326,
+          "offsetEnd": 328,
+          "pos": "IN"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 329,
+          "offsetEnd": 336,
+          "pos": "NN"
+        },
+        {
+          "word": "input",
+          "lemma": "input",
+          "offsetBegin": 337,
+          "offsetEnd": 342,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 342,
+          "offsetEnd": 343,
+          "pos": ","
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 344,
+          "offsetEnd": 349,
+          "pos": "VBN"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 350,
+          "offsetEnd": 356,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 357,
+          "offsetEnd": 359,
+          "pos": "IN"
+        },
+        {
+          "word": "sequence",
+          "lemma": "sequence",
+          "offsetBegin": 360,
+          "offsetEnd": 368,
+          "pos": "NN"
+        },
+        {
+          "word": "terms",
+          "lemma": "term",
+          "offsetBegin": 369,
+          "offsetEnd": 374,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 374,
+          "offsetEnd": 375,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 376,
+          "offsetEnd": 379,
+          "pos": "CC"
+        },
+        {
+          "word": "complexity",
+          "lemma": "complexity",
+          "offsetBegin": 380,
+          "offsetEnd": 390,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 391,
+          "offsetEnd": 393,
+          "pos": "IN"
+        },
+        {
+          "word": "completing",
+          "lemma": "complete",
+          "offsetBegin": 394,
+          "offsetEnd": 404,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 405,
+          "offsetEnd": 408,
+          "pos": "DT"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 409,
+          "offsetEnd": 415,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 416,
+          "offsetEnd": 418,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 419,
+          "offsetEnd": 422,
+          "pos": "DT"
+        },
+        {
+          "word": "original",
+          "lemma": "original",
+          "offsetBegin": 423,
+          "offsetEnd": 431,
+          "pos": "JJ"
+        },
+        {
+          "word": "extremal",
+          "lemma": "extremal",
+          "offsetBegin": 432,
+          "offsetEnd": 440,
+          "pos": "JJ"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 441,
+          "offsetEnd": 448,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 448,
+          "offsetEnd": 449,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 450,
+          "offsetEnd": 453,
+          "pos": "DT"
+        },
+        {
+          "word": "technique",
+          "lemma": "technique",
+          "offsetBegin": 454,
+          "offsetEnd": 463,
+          "pos": "NN"
+        },
+        {
+          "word": "developed",
+          "lemma": "develop",
+          "offsetBegin": 464,
+          "offsetEnd": 473,
+          "pos": "VBD"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 474,
+          "offsetEnd": 477,
+          "pos": "VBD"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 478,
+          "offsetEnd": 485,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 486,
+          "offsetEnd": 488,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 489,
+          "offsetEnd": 492,
+          "pos": "DT"
+        },
+        {
+          "word": "typical",
+          "lemma": "typical",
+          "offsetBegin": 493,
+          "offsetEnd": 500,
+          "pos": "JJ"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 501,
+          "offsetEnd": 508,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 509,
+          "offsetEnd": 511,
+          "pos": "IN"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 512,
+          "offsetEnd": 519,
+          "pos": "NN"
+        },
+        {
+          "word": "reconstruction",
+          "lemma": "reconstruction",
+          "offsetBegin": 520,
+          "offsetEnd": 534,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 535,
+          "offsetEnd": 539,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 540,
+          "offsetEnd": 543,
+          "pos": "DT"
+        },
+        {
+          "word": "aim",
+          "lemma": "aim",
+          "offsetBegin": 544,
+          "offsetEnd": 547,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 548,
+          "offsetEnd": 550,
+          "pos": "IN"
+        },
+        {
+          "word": "increasing",
+          "lemma": "increase",
+          "offsetBegin": 551,
+          "offsetEnd": 561,
+          "pos": "VBG"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 562,
+          "offsetEnd": 565,
+          "pos": "PRP$"
+        },
+        {
+          "word": "throughput",
+          "lemma": "throughput",
+          "offsetBegin": 566,
+          "offsetEnd": 576,
+          "pos": "NN"
+        },
+        {
+          "word": "under",
+          "lemma": "under",
+          "offsetBegin": 577,
+          "offsetEnd": 582,
+          "pos": "IN"
+        },
+        {
+          "word": "restricted",
+          "lemma": "restricted",
+          "offsetBegin": 583,
+          "offsetEnd": 593,
+          "pos": "JJ"
+        },
+        {
+          "word": "reconstruction",
+          "lemma": "reconstruction",
+          "offsetBegin": 594,
+          "offsetEnd": 608,
+          "pos": "NN"
+        },
+        {
+          "word": "costs",
+          "lemma": "cost",
+          "offsetBegin": 609,
+          "offsetEnd": 614,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

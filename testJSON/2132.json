@@ -1,0 +1,474 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Fault-tolerant",
+          "lemma": "fault-tolerant",
+          "offsetBegin": 0,
+          "offsetEnd": 14,
+          "pos": "JJ"
+        },
+        {
+          "word": "computer-aided",
+          "lemma": "computer-aided",
+          "offsetBegin": 15,
+          "offsetEnd": 29,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 30,
+          "offsetEnd": 37,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 38,
+          "offsetEnd": 45,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 46,
+          "offsetEnd": 50,
+          "pos": "IN"
+        },
+        {
+          "word": "multiversion-threshold",
+          "lemma": "multiversion-threshold",
+          "offsetBegin": 51,
+          "offsetEnd": 73,
+          "pos": "JJ"
+        },
+        {
+          "word": "adaptation",
+          "lemma": "adaptation",
+          "offsetBegin": 74,
+          "offsetEnd": 84,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 84,
+          "offsetEnd": 85,
+          "pos": ":"
+        },
+        {
+          "word": "adaptation",
+          "lemma": "adaptation",
+          "offsetBegin": 86,
+          "offsetEnd": 96,
+          "pos": "NN"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 97,
+          "offsetEnd": 104,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 104,
+          "offsetEnd": 105,
+          "pos": ","
+        },
+        {
+          "word": "reliability",
+          "lemma": "reliability",
+          "offsetBegin": 106,
+          "offsetEnd": 117,
+          "pos": "NN"
+        },
+        {
+          "word": "estimation",
+          "lemma": "estimation",
+          "offsetBegin": 118,
+          "offsetEnd": 128,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 128,
+          "offsetEnd": 129,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 130,
+          "offsetEnd": 133,
+          "pos": "CC"
+        },
+        {
+          "word": "choice",
+          "lemma": "choice",
+          "offsetBegin": 134,
+          "offsetEnd": 140,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 141,
+          "offsetEnd": 143,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 144,
+          "offsetEnd": 146,
+          "pos": "DT"
+        },
+        {
+          "word": "architecture",
+          "lemma": "architecture",
+          "offsetBegin": 147,
+          "offsetEnd": 159,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 160,
+          "offsetEnd": 163,
+          "pos": "IN"
+        },
+        {
+          "word": "multiversion",
+          "lemma": "multiversion",
+          "offsetBegin": 164,
+          "offsetEnd": 176,
+          "pos": "JJ"
+        },
+        {
+          "word": "majority-redundant",
+          "lemma": "majority-redundant",
+          "offsetBegin": 177,
+          "offsetEnd": 195,
+          "pos": "JJ"
+        },
+        {
+          "word": "computer-aided",
+          "lemma": "computer-aided",
+          "offsetBegin": 196,
+          "offsetEnd": 210,
+          "pos": "JJ"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 211,
+          "offsetEnd": 218,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 219,
+          "offsetEnd": 226,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 226,
+          "offsetEnd": 227,
+          "pos": ","
+        },
+        {
+          "word": "systematization",
+          "lemma": "systematization",
+          "offsetBegin": 228,
+          "offsetEnd": 243,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 244,
+          "offsetEnd": 246,
+          "pos": "IN"
+        },
+        {
+          "word": "adaptation",
+          "lemma": "adaptation",
+          "offsetBegin": 247,
+          "offsetEnd": 257,
+          "pos": "NN"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 258,
+          "offsetEnd": 265,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 266,
+          "offsetEnd": 270,
+          "pos": "WDT"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 271,
+          "offsetEnd": 274,
+          "pos": "VBP"
+        },
+        {
+          "word": "stable",
+          "lemma": "stable",
+          "offsetBegin": 275,
+          "offsetEnd": 281,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 282,
+          "offsetEnd": 284,
+          "pos": "TO"
+        },
+        {
+          "word": "hardware",
+          "lemma": "hardware",
+          "offsetBegin": 285,
+          "offsetEnd": 293,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 294,
+          "offsetEnd": 297,
+          "pos": "CC"
+        },
+        {
+          "word": "software",
+          "lemma": "software",
+          "offsetBegin": 298,
+          "offsetEnd": 306,
+          "pos": "NN"
+        },
+        {
+          "word": "failures",
+          "lemma": "failure",
+          "offsetBegin": 307,
+          "offsetEnd": 315,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 315,
+          "offsetEnd": 316,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 317,
+          "offsetEnd": 318,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 319,
+          "offsetEnd": 325,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 326,
+          "offsetEnd": 329,
+          "pos": "IN"
+        },
+        {
+          "word": "estimating",
+          "lemma": "estimate",
+          "offsetBegin": 330,
+          "offsetEnd": 340,
+          "pos": "VBG"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 341,
+          "offsetEnd": 346,
+          "pos": "PRP$"
+        },
+        {
+          "word": "reliability",
+          "lemma": "reliability",
+          "offsetBegin": 347,
+          "offsetEnd": 358,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 359,
+          "offsetEnd": 363,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 364,
+          "offsetEnd": 366,
+          "pos": "DT"
+        },
+        {
+          "word": "event",
+          "lemma": "event",
+          "offsetBegin": 367,
+          "offsetEnd": 372,
+          "pos": "NN"
+        },
+        {
+          "word": "graph",
+          "lemma": "graph",
+          "offsetBegin": 373,
+          "offsetEnd": 378,
+          "pos": "NN"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 379,
+          "offsetEnd": 384,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 384,
+          "offsetEnd": 385,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 386,
+          "offsetEnd": 389,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 390,
+          "offsetEnd": 391,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 392,
+          "offsetEnd": 398,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 399,
+          "offsetEnd": 402,
+          "pos": "IN"
+        },
+        {
+          "word": "selecting",
+          "lemma": "select",
+          "offsetBegin": 403,
+          "offsetEnd": 412,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 413,
+          "offsetEnd": 414,
+          "pos": "DT"
+        },
+        {
+          "word": "standard",
+          "lemma": "standard",
+          "offsetBegin": 415,
+          "offsetEnd": 423,
+          "pos": "JJ"
+        },
+        {
+          "word": "architecture",
+          "lemma": "architecture",
+          "offsetBegin": 424,
+          "offsetEnd": 436,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 437,
+          "offsetEnd": 441,
+          "pos": "IN"
+        },
+        {
+          "word": "regard",
+          "lemma": "regard",
+          "offsetBegin": 442,
+          "offsetEnd": 448,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 449,
+          "offsetEnd": 452,
+          "pos": "IN"
+        },
+        {
+          "word": "reliability",
+          "lemma": "reliability",
+          "offsetBegin": 453,
+          "offsetEnd": 464,
+          "pos": "NN"
+        },
+        {
+          "word": "requirements",
+          "lemma": "requirement",
+          "offsetBegin": 465,
+          "offsetEnd": 477,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 478,
+          "offsetEnd": 481,
+          "pos": "VBP"
+        },
+        {
+          "word": "studied",
+          "lemma": "study",
+          "offsetBegin": 482,
+          "offsetEnd": 489,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

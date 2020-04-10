@@ -1,0 +1,804 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "DT"
+        },
+        {
+          "word": "effects",
+          "lemma": "effect",
+          "offsetBegin": 4,
+          "offsetEnd": 11,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 12,
+          "offsetEnd": 14,
+          "pos": "IN"
+        },
+        {
+          "word": "emotions",
+          "lemma": "emotion",
+          "offsetBegin": 15,
+          "offsetEnd": 23,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 24,
+          "offsetEnd": 26,
+          "pos": "IN"
+        },
+        {
+          "word": "bounded",
+          "lemma": "bound",
+          "offsetBegin": 27,
+          "offsetEnd": 34,
+          "pos": "VBN"
+        },
+        {
+          "word": "rationality",
+          "lemma": "rationality",
+          "offsetBegin": 35,
+          "offsetEnd": 46,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 46,
+          "offsetEnd": 47,
+          "pos": ":"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 48,
+          "offsetEnd": 49,
+          "pos": "DT"
+        },
+        {
+          "word": "comment",
+          "lemma": "comment",
+          "offsetBegin": 50,
+          "offsetEnd": 57,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 58,
+          "offsetEnd": 60,
+          "pos": "IN"
+        },
+        {
+          "word": "Kaufman",
+          "lemma": "Kaufman",
+          "offsetBegin": 61,
+          "offsetEnd": 68,
+          "pos": "NNP"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Bruce",
+          "lemma": "Bruce",
+          "offsetBegin": 69,
+          "offsetEnd": 74,
+          "pos": "NNP"
+        },
+        {
+          "word": "Kaufman",
+          "lemma": "Kaufman",
+          "offsetBegin": 75,
+          "offsetEnd": 82,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 82,
+          "offsetEnd": 84,
+          "pos": "POS"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 85,
+          "offsetEnd": 92,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 93,
+          "offsetEnd": 94,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "1999",
+          "lemma": "1999",
+          "offsetBegin": 94,
+          "offsetEnd": 98,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 98,
+          "offsetEnd": 99,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 99,
+          "offsetEnd": 100,
+          "pos": ","
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 101,
+          "offsetEnd": 102,
+          "pos": "``"
+        },
+        {
+          "word": "Emotional",
+          "lemma": "emotional",
+          "offsetBegin": 102,
+          "offsetEnd": 111,
+          "pos": "JJ"
+        },
+        {
+          "word": "arousal",
+          "lemma": "arousal",
+          "offsetBegin": 112,
+          "offsetEnd": 119,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 120,
+          "offsetEnd": 122,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 123,
+          "offsetEnd": 124,
+          "pos": "DT"
+        },
+        {
+          "word": "source",
+          "lemma": "source",
+          "offsetBegin": 125,
+          "offsetEnd": 131,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 132,
+          "offsetEnd": 134,
+          "pos": "IN"
+        },
+        {
+          "word": "bounded",
+          "lemma": "bound",
+          "offsetBegin": 135,
+          "offsetEnd": 142,
+          "pos": "VBN"
+        },
+        {
+          "word": "rationality",
+          "lemma": "rationality",
+          "offsetBegin": 143,
+          "offsetEnd": 154,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 154,
+          "offsetEnd": 155,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 155,
+          "offsetEnd": 156,
+          "pos": ","
+        },
+        {
+          "word": "objective",
+          "lemma": "objective",
+          "offsetBegin": 157,
+          "offsetEnd": 166,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 167,
+          "offsetEnd": 169,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 170,
+          "offsetEnd": 172,
+          "pos": "TO"
+        },
+        {
+          "word": "present",
+          "lemma": "present",
+          "offsetBegin": 173,
+          "offsetEnd": 180,
+          "pos": "VB"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 181,
+          "offsetEnd": 183,
+          "pos": "DT"
+        },
+        {
+          "word": "additional",
+          "lemma": "additional",
+          "offsetBegin": 184,
+          "offsetEnd": 194,
+          "pos": "JJ"
+        },
+        {
+          "word": "source",
+          "lemma": "source",
+          "offsetBegin": 195,
+          "offsetEnd": 201,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 202,
+          "offsetEnd": 204,
+          "pos": "IN"
+        },
+        {
+          "word": "bounded",
+          "lemma": "bound",
+          "offsetBegin": 205,
+          "offsetEnd": 212,
+          "pos": "VBN"
+        },
+        {
+          "word": "rationality",
+          "lemma": "rationality",
+          "offsetBegin": 213,
+          "offsetEnd": 224,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 224,
+          "offsetEnd": 225,
+          "pos": ","
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "offsetBegin": 226,
+          "offsetEnd": 229,
+          "pos": "CD"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 230,
+          "offsetEnd": 234,
+          "pos": "WDT"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 235,
+          "offsetEnd": 237,
+          "pos": "VBZ"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 238,
+          "offsetEnd": 241,
+          "pos": "RB"
+        },
+        {
+          "word": "due",
+          "lemma": "due",
+          "offsetBegin": 242,
+          "offsetEnd": 245,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 246,
+          "offsetEnd": 248,
+          "pos": "TO"
+        },
+        {
+          "word": "cognitive",
+          "lemma": "cognitive",
+          "offsetBegin": 249,
+          "offsetEnd": 258,
+          "pos": "JJ"
+        },
+        {
+          "word": "constraints",
+          "lemma": "constraint",
+          "offsetBegin": 259,
+          "offsetEnd": 270,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 270,
+          "offsetEnd": 271,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 272,
+          "offsetEnd": 275,
+          "pos": "CC"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 276,
+          "offsetEnd": 278,
+          "pos": "TO"
+        },
+        {
+          "word": "high",
+          "lemma": "high",
+          "offsetBegin": 279,
+          "offsetEnd": 283,
+          "pos": "JJ"
+        },
+        {
+          "word": "emotional",
+          "lemma": "emotional",
+          "offsetBegin": 284,
+          "offsetEnd": 293,
+          "pos": "JJ"
+        },
+        {
+          "word": "arousal",
+          "lemma": "arousal",
+          "offsetBegin": 294,
+          "offsetEnd": 301,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 301,
+          "offsetEnd": 302,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 303,
+          "offsetEnd": 305,
+          "pos": "IN"
+        },
+        {
+          "word": "doing",
+          "lemma": "do",
+          "offsetBegin": 306,
+          "offsetEnd": 311,
+          "pos": "VBG"
+        },
+        {
+          "word": "so",
+          "lemma": "so",
+          "offsetBegin": 312,
+          "offsetEnd": 314,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 314,
+          "offsetEnd": 315,
+          "pos": ","
+        },
+        {
+          "word": "Kaufman",
+          "lemma": "Kaufman",
+          "offsetBegin": 316,
+          "offsetEnd": 323,
+          "pos": "NNP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 324,
+          "offsetEnd": 326,
+          "pos": "VBZ"
+        },
+        {
+          "word": "following",
+          "lemma": "follow",
+          "offsetBegin": 327,
+          "offsetEnd": 336,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 337,
+          "offsetEnd": 338,
+          "pos": "DT"
+        },
+        {
+          "word": "long",
+          "lemma": "long",
+          "offsetBegin": 339,
+          "offsetEnd": 343,
+          "pos": "JJ"
+        },
+        {
+          "word": "tradition",
+          "lemma": "tradition",
+          "offsetBegin": 344,
+          "offsetEnd": 353,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 354,
+          "offsetEnd": 356,
+          "pos": "IN"
+        },
+        {
+          "word": "thinkers",
+          "lemma": "thinker",
+          "offsetBegin": 357,
+          "offsetEnd": 365,
+          "pos": "NNS"
+        },
+        {
+          "word": "who",
+          "lemma": "who",
+          "offsetBegin": 366,
+          "offsetEnd": 369,
+          "pos": "WP"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 370,
+          "offsetEnd": 374,
+          "pos": "VBP"
+        },
+        {
+          "word": "contrasted",
+          "lemma": "contrast",
+          "offsetBegin": 375,
+          "offsetEnd": 385,
+          "pos": "VBN"
+        },
+        {
+          "word": "emotion",
+          "lemma": "emotion",
+          "offsetBegin": 386,
+          "offsetEnd": 393,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 394,
+          "offsetEnd": 398,
+          "pos": "IN"
+        },
+        {
+          "word": "reason",
+          "lemma": "reason",
+          "offsetBegin": 399,
+          "offsetEnd": 405,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 405,
+          "offsetEnd": 406,
+          "pos": ","
+        },
+        {
+          "word": "claiming",
+          "lemma": "claim",
+          "offsetBegin": 407,
+          "offsetEnd": 415,
+          "pos": "VBG"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 415,
+          "offsetEnd": 416,
+          "pos": ","
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 417,
+          "offsetEnd": 420,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 421,
+          "offsetEnd": 424,
+          "pos": "DT"
+        },
+        {
+          "word": "most",
+          "lemma": "most",
+          "offsetBegin": 425,
+          "offsetEnd": 429,
+          "pos": "JJS"
+        },
+        {
+          "word": "part",
+          "lemma": "part",
+          "offsetBegin": 430,
+          "offsetEnd": 434,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 434,
+          "offsetEnd": 435,
+          "pos": ","
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 436,
+          "offsetEnd": 440,
+          "pos": "WDT"
+        },
+        {
+          "word": "emotions",
+          "lemma": "emotion",
+          "offsetBegin": 441,
+          "offsetEnd": 449,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 450,
+          "offsetEnd": 453,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 454,
+          "offsetEnd": 455,
+          "pos": "DT"
+        },
+        {
+          "word": "violent",
+          "lemma": "violent",
+          "offsetBegin": 456,
+          "offsetEnd": 463,
+          "pos": "JJ"
+        },
+        {
+          "word": "force",
+          "lemma": "force",
+          "offsetBegin": 464,
+          "offsetEnd": 469,
+          "pos": "NN"
+        },
+        {
+          "word": "hindering",
+          "lemma": "hinder",
+          "offsetBegin": 470,
+          "offsetEnd": 479,
+          "pos": "VBG"
+        },
+        {
+          "word": "rational",
+          "lemma": "rational",
+          "offsetBegin": 480,
+          "offsetEnd": 488,
+          "pos": "JJ"
+        },
+        {
+          "word": "thinking",
+          "lemma": "thinking",
+          "offsetBegin": 489,
+          "offsetEnd": 497,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 497,
+          "offsetEnd": 498,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 499,
+          "offsetEnd": 503,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 504,
+          "offsetEnd": 509,
+          "pos": "NN"
+        },
+        {
+          "word": "aims",
+          "lemma": "aim",
+          "offsetBegin": 510,
+          "offsetEnd": 514,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 515,
+          "offsetEnd": 517,
+          "pos": "TO"
+        },
+        {
+          "word": "challenge",
+          "lemma": "challenge",
+          "offsetBegin": 518,
+          "offsetEnd": 527,
+          "pos": "VB"
+        },
+        {
+          "word": "Kaufman",
+          "lemma": "Kaufman",
+          "offsetBegin": 528,
+          "offsetEnd": 535,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 535,
+          "offsetEnd": 537,
+          "pos": "POS"
+        },
+        {
+          "word": "unidimensional",
+          "lemma": "unidimensional",
+          "offsetBegin": 538,
+          "offsetEnd": 552,
+          "pos": "JJ"
+        },
+        {
+          "word": "idea",
+          "lemma": "idea",
+          "offsetBegin": 553,
+          "offsetEnd": 557,
+          "pos": "NN"
+        },
+        {
+          "word": "regarding",
+          "lemma": "regard",
+          "offsetBegin": 558,
+          "offsetEnd": 567,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 568,
+          "offsetEnd": 571,
+          "pos": "DT"
+        },
+        {
+          "word": "connection",
+          "lemma": "connection",
+          "offsetBegin": 572,
+          "offsetEnd": 582,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 583,
+          "offsetEnd": 590,
+          "pos": "IN"
+        },
+        {
+          "word": "high",
+          "lemma": "high",
+          "offsetBegin": 591,
+          "offsetEnd": 595,
+          "pos": "JJ"
+        },
+        {
+          "word": "emotional",
+          "lemma": "emotional",
+          "offsetBegin": 596,
+          "offsetEnd": 605,
+          "pos": "JJ"
+        },
+        {
+          "word": "arousal",
+          "lemma": "arousal",
+          "offsetBegin": 606,
+          "offsetEnd": 613,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 614,
+          "offsetEnd": 617,
+          "pos": "CC"
+        },
+        {
+          "word": "decision",
+          "lemma": "decision",
+          "offsetBegin": 618,
+          "offsetEnd": 626,
+          "pos": "NN"
+        },
+        {
+          "word": "making",
+          "lemma": "making",
+          "offsetBegin": 627,
+          "offsetEnd": 633,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

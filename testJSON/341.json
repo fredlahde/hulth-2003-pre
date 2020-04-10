@@ -1,0 +1,520 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "How",
+          "lemma": "how",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "WRB"
+        },
+        {
+          "word": "should",
+          "lemma": "should",
+          "offsetBegin": 4,
+          "offsetEnd": 10,
+          "pos": "MD"
+        },
+        {
+          "word": "team",
+          "lemma": "team",
+          "offsetBegin": 11,
+          "offsetEnd": 15,
+          "pos": "NN"
+        },
+        {
+          "word": "captains",
+          "lemma": "captain",
+          "offsetBegin": 16,
+          "offsetEnd": 24,
+          "pos": "NNS"
+        },
+        {
+          "word": "order",
+          "lemma": "order",
+          "offsetBegin": 25,
+          "offsetEnd": 30,
+          "pos": "NN"
+        },
+        {
+          "word": "golfers",
+          "lemma": "golfer",
+          "offsetBegin": 31,
+          "offsetEnd": 38,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 39,
+          "offsetEnd": 41,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 42,
+          "offsetEnd": 45,
+          "pos": "DT"
+        },
+        {
+          "word": "final",
+          "lemma": "final",
+          "offsetBegin": 46,
+          "offsetEnd": 51,
+          "pos": "JJ"
+        },
+        {
+          "word": "day",
+          "lemma": "day",
+          "offsetBegin": 52,
+          "offsetEnd": 55,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 56,
+          "offsetEnd": 58,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 59,
+          "offsetEnd": 62,
+          "pos": "DT"
+        },
+        {
+          "word": "Ryder",
+          "lemma": "Ryder",
+          "offsetBegin": 63,
+          "offsetEnd": 68,
+          "pos": "NNP"
+        },
+        {
+          "word": "Cup",
+          "lemma": "Cup",
+          "offsetBegin": 69,
+          "offsetEnd": 72,
+          "pos": "NNP"
+        },
+        {
+          "word": "matches",
+          "lemma": "match",
+          "offsetBegin": 73,
+          "offsetEnd": 80,
+          "pos": "VBZ"
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "offsetBegin": 80,
+          "offsetEnd": 81,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "I",
+          "lemma": "I",
+          "offsetBegin": 82,
+          "offsetEnd": 83,
+          "pos": "PRP"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 84,
+          "offsetEnd": 88,
+          "pos": "VBD"
+        },
+        {
+          "word": "game",
+          "lemma": "game",
+          "offsetBegin": 89,
+          "offsetEnd": 93,
+          "pos": "NN"
+        },
+        {
+          "word": "theory",
+          "lemma": "theory",
+          "offsetBegin": 94,
+          "offsetEnd": 100,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 101,
+          "offsetEnd": 103,
+          "pos": "TO"
+        },
+        {
+          "word": "examine",
+          "lemma": "examine",
+          "offsetBegin": 104,
+          "offsetEnd": 111,
+          "pos": "VB"
+        },
+        {
+          "word": "how",
+          "lemma": "how",
+          "offsetBegin": 112,
+          "offsetEnd": 115,
+          "pos": "WRB"
+        },
+        {
+          "word": "team",
+          "lemma": "team",
+          "offsetBegin": 116,
+          "offsetEnd": 120,
+          "pos": "NN"
+        },
+        {
+          "word": "captains",
+          "lemma": "captain",
+          "offsetBegin": 121,
+          "offsetEnd": 129,
+          "pos": "NNS"
+        },
+        {
+          "word": "should",
+          "lemma": "should",
+          "offsetBegin": 130,
+          "offsetEnd": 136,
+          "pos": "MD"
+        },
+        {
+          "word": "select",
+          "lemma": "select",
+          "offsetBegin": 137,
+          "offsetEnd": 143,
+          "pos": "VB"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 144,
+          "offsetEnd": 149,
+          "pos": "PRP$"
+        },
+        {
+          "word": "slates",
+          "lemma": "slate",
+          "offsetBegin": 150,
+          "offsetEnd": 156,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 157,
+          "offsetEnd": 160,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 161,
+          "offsetEnd": 164,
+          "pos": "DT"
+        },
+        {
+          "word": "final",
+          "lemma": "final",
+          "offsetBegin": 165,
+          "offsetEnd": 170,
+          "pos": "JJ"
+        },
+        {
+          "word": "day",
+          "lemma": "day",
+          "offsetBegin": 171,
+          "offsetEnd": 174,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 175,
+          "offsetEnd": 177,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 178,
+          "offsetEnd": 181,
+          "pos": "DT"
+        },
+        {
+          "word": "Ryder",
+          "lemma": "Ryder",
+          "offsetBegin": 182,
+          "offsetEnd": 187,
+          "pos": "NNP"
+        },
+        {
+          "word": "Cup",
+          "lemma": "Cup",
+          "offsetBegin": 188,
+          "offsetEnd": 191,
+          "pos": "NNP"
+        },
+        {
+          "word": "matches",
+          "lemma": "match",
+          "offsetBegin": 192,
+          "offsetEnd": 199,
+          "pos": "VBZ"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 199,
+          "offsetEnd": 200,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Under",
+          "lemma": "under",
+          "offsetBegin": 201,
+          "offsetEnd": 206,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 207,
+          "offsetEnd": 210,
+          "pos": "DT"
+        },
+        {
+          "word": "assumption",
+          "lemma": "assumption",
+          "offsetBegin": 211,
+          "offsetEnd": 221,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 222,
+          "offsetEnd": 226,
+          "pos": "IN"
+        },
+        {
+          "word": "golfers",
+          "lemma": "golfer",
+          "offsetBegin": 227,
+          "offsetEnd": 234,
+          "pos": "NNS"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 235,
+          "offsetEnd": 239,
+          "pos": "VBP"
+        },
+        {
+          "word": "different",
+          "lemma": "different",
+          "offsetBegin": 240,
+          "offsetEnd": 249,
+          "pos": "JJ"
+        },
+        {
+          "word": "abilities",
+          "lemma": "ability",
+          "offsetBegin": 250,
+          "offsetEnd": 259,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 260,
+          "offsetEnd": 263,
+          "pos": "CC"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 264,
+          "offsetEnd": 267,
+          "pos": "VBP"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 268,
+          "offsetEnd": 271,
+          "pos": "RB"
+        },
+        {
+          "word": "influenced",
+          "lemma": "influence",
+          "offsetBegin": 272,
+          "offsetEnd": 282,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 283,
+          "offsetEnd": 285,
+          "pos": "IN"
+        },
+        {
+          "word": "pressure",
+          "lemma": "pressure",
+          "offsetBegin": 286,
+          "offsetEnd": 294,
+          "pos": "NN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 295,
+          "offsetEnd": 297,
+          "pos": "CC"
+        },
+        {
+          "word": "momentum",
+          "lemma": "momentum",
+          "offsetBegin": 298,
+          "offsetEnd": 306,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 306,
+          "offsetEnd": 307,
+          "pos": ","
+        },
+        {
+          "word": "I",
+          "lemma": "I",
+          "offsetBegin": 308,
+          "offsetEnd": 309,
+          "pos": "PRP"
+        },
+        {
+          "word": "found",
+          "lemma": "find",
+          "offsetBegin": 310,
+          "offsetEnd": 315,
+          "pos": "VBD"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 316,
+          "offsetEnd": 320,
+          "pos": "IN"
+        },
+        {
+          "word": "drawing",
+          "lemma": "draw",
+          "offsetBegin": 321,
+          "offsetEnd": 328,
+          "pos": "VBG"
+        },
+        {
+          "word": "names",
+          "lemma": "name",
+          "offsetBegin": 329,
+          "offsetEnd": 334,
+          "pos": "NNS"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 335,
+          "offsetEnd": 339,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 340,
+          "offsetEnd": 341,
+          "pos": "DT"
+        },
+        {
+          "word": "hat",
+          "lemma": "hat",
+          "offsetBegin": 342,
+          "offsetEnd": 345,
+          "pos": "NN"
+        },
+        {
+          "word": "will",
+          "lemma": "will",
+          "offsetBegin": 346,
+          "offsetEnd": 350,
+          "pos": "MD"
+        },
+        {
+          "word": "do",
+          "lemma": "do",
+          "offsetBegin": 351,
+          "offsetEnd": 353,
+          "pos": "VB"
+        },
+        {
+          "word": "no",
+          "lemma": "no",
+          "offsetBegin": 354,
+          "offsetEnd": 356,
+          "pos": "DT"
+        },
+        {
+          "word": "worse",
+          "lemma": "worse",
+          "offsetBegin": 357,
+          "offsetEnd": 362,
+          "pos": "JJR"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 363,
+          "offsetEnd": 367,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 368,
+          "offsetEnd": 371,
+          "pos": "DT"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 372,
+          "offsetEnd": 377,
+          "pos": "JJ"
+        },
+        {
+          "word": "strategy",
+          "lemma": "strategy",
+          "offsetBegin": 378,
+          "offsetEnd": 386,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

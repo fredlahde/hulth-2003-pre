@@ -1,0 +1,703 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "DT"
+        },
+        {
+          "word": "perils",
+          "lemma": "peril",
+          "offsetBegin": 4,
+          "offsetEnd": 10,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 11,
+          "offsetEnd": 13,
+          "pos": "IN"
+        },
+        {
+          "word": "privacy",
+          "lemma": "privacy",
+          "offsetBegin": 14,
+          "offsetEnd": 21,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 22,
+          "offsetEnd": 25,
+          "pos": "DT"
+        },
+        {
+          "word": "recent",
+          "lemma": "recent",
+          "offsetBegin": 26,
+          "offsetEnd": 32,
+          "pos": "JJ"
+        },
+        {
+          "word": "string",
+          "lemma": "string",
+          "offsetBegin": 33,
+          "offsetEnd": 39,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 40,
+          "offsetEnd": 42,
+          "pos": "IN"
+        },
+        {
+          "word": "failures",
+          "lemma": "failure",
+          "offsetBegin": 43,
+          "offsetEnd": 51,
+          "pos": "NNS"
+        },
+        {
+          "word": "among",
+          "lemma": "among",
+          "offsetBegin": 52,
+          "offsetEnd": 57,
+          "pos": "IN"
+        },
+        {
+          "word": "dotcom",
+          "lemma": "dotcom",
+          "offsetBegin": 58,
+          "offsetEnd": 64,
+          "pos": "NN"
+        },
+        {
+          "word": "companies",
+          "lemma": "company",
+          "offsetBegin": 65,
+          "offsetEnd": 74,
+          "pos": "NNS"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 75,
+          "offsetEnd": 78,
+          "pos": "VBZ"
+        },
+        {
+          "word": "heightened",
+          "lemma": "heighten",
+          "offsetBegin": 79,
+          "offsetEnd": 89,
+          "pos": "VBN"
+        },
+        {
+          "word": "fears",
+          "lemma": "fear",
+          "offsetBegin": 90,
+          "offsetEnd": 95,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 96,
+          "offsetEnd": 98,
+          "pos": "IN"
+        },
+        {
+          "word": "privacy",
+          "lemma": "privacy",
+          "offsetBegin": 99,
+          "offsetEnd": 106,
+          "pos": "NN"
+        },
+        {
+          "word": "abuse",
+          "lemma": "abuse",
+          "offsetBegin": 107,
+          "offsetEnd": 112,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 112,
+          "offsetEnd": 113,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "What",
+          "lemma": "what",
+          "offsetBegin": 114,
+          "offsetEnd": 118,
+          "pos": "WP"
+        },
+        {
+          "word": "should",
+          "lemma": "should",
+          "offsetBegin": 119,
+          "offsetEnd": 125,
+          "pos": "MD"
+        },
+        {
+          "word": "happen",
+          "lemma": "happen",
+          "offsetBegin": 126,
+          "offsetEnd": 132,
+          "pos": "VB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 133,
+          "offsetEnd": 135,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 136,
+          "offsetEnd": 139,
+          "pos": "DT"
+        },
+        {
+          "word": "names",
+          "lemma": "name",
+          "offsetBegin": 140,
+          "offsetEnd": 145,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 146,
+          "offsetEnd": 149,
+          "pos": "CC"
+        },
+        {
+          "word": "addresses",
+          "lemma": "address",
+          "offsetBegin": 150,
+          "offsetEnd": 159,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 160,
+          "offsetEnd": 162,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 163,
+          "offsetEnd": 164,
+          "pos": "DT"
+        },
+        {
+          "word": "customer",
+          "lemma": "customer",
+          "offsetBegin": 165,
+          "offsetEnd": 173,
+          "pos": "NN"
+        },
+        {
+          "word": "list",
+          "lemma": "list",
+          "offsetBegin": 174,
+          "offsetEnd": 178,
+          "pos": "NN"
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "offsetBegin": 179,
+          "offsetEnd": 181,
+          "pos": "IN"
+        },
+        {
+          "word": "these",
+          "lemma": "these",
+          "offsetBegin": 182,
+          "offsetEnd": 187,
+          "pos": "DT"
+        },
+        {
+          "word": "details",
+          "lemma": "detail",
+          "offsetBegin": 188,
+          "offsetEnd": 195,
+          "pos": "NNS"
+        },
+        {
+          "word": "were",
+          "lemma": "be",
+          "offsetBegin": 196,
+          "offsetEnd": 200,
+          "pos": "VBD"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 201,
+          "offsetEnd": 209,
+          "pos": "VBN"
+        },
+        {
+          "word": "under",
+          "lemma": "under",
+          "offsetBegin": 210,
+          "offsetEnd": 215,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 216,
+          "offsetEnd": 217,
+          "pos": "DT"
+        },
+        {
+          "word": "privacy",
+          "lemma": "privacy",
+          "offsetBegin": 218,
+          "offsetEnd": 225,
+          "pos": "NN"
+        },
+        {
+          "word": "policy",
+          "lemma": "policy",
+          "offsetBegin": 226,
+          "offsetEnd": 232,
+          "pos": "NN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 233,
+          "offsetEnd": 238,
+          "pos": "WDT"
+        },
+        {
+          "word": "specified",
+          "lemma": "specify",
+          "offsetBegin": 239,
+          "offsetEnd": 248,
+          "pos": "VBN"
+        },
+        {
+          "word": "no",
+          "lemma": "no",
+          "offsetBegin": 249,
+          "offsetEnd": 251,
+          "pos": "DT"
+        },
+        {
+          "word": "disclosure",
+          "lemma": "disclosure",
+          "offsetBegin": 252,
+          "offsetEnd": 262,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 263,
+          "offsetEnd": 265,
+          "pos": "TO"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 266,
+          "offsetEnd": 269,
+          "pos": "DT"
+        },
+        {
+          "word": "third",
+          "lemma": "third",
+          "offsetBegin": 270,
+          "offsetEnd": 275,
+          "pos": "JJ"
+        },
+        {
+          "word": "party",
+          "lemma": "party",
+          "offsetBegin": 276,
+          "offsetEnd": 281,
+          "pos": "NN"
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "offsetBegin": 281,
+          "offsetEnd": 282,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Should",
+          "lemma": "should",
+          "offsetBegin": 283,
+          "offsetEnd": 289,
+          "pos": "MD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 290,
+          "offsetEnd": 293,
+          "pos": "DT"
+        },
+        {
+          "word": "personal",
+          "lemma": "personal",
+          "offsetBegin": 294,
+          "offsetEnd": 302,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 303,
+          "offsetEnd": 307,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 308,
+          "offsetEnd": 310,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 311,
+          "offsetEnd": 314,
+          "pos": "DT"
+        },
+        {
+          "word": "list",
+          "lemma": "list",
+          "offsetBegin": 315,
+          "offsetEnd": 319,
+          "pos": "NN"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 320,
+          "offsetEnd": 322,
+          "pos": "VB"
+        },
+        {
+          "word": "deemed",
+          "lemma": "deem",
+          "offsetBegin": 323,
+          "offsetEnd": 329,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 330,
+          "offsetEnd": 332,
+          "pos": "TO"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 333,
+          "offsetEnd": 335,
+          "pos": "VB"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 336,
+          "offsetEnd": 338,
+          "pos": "DT"
+        },
+        {
+          "word": "asset",
+          "lemma": "asset",
+          "offsetBegin": 339,
+          "offsetEnd": 344,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 345,
+          "offsetEnd": 347,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 348,
+          "offsetEnd": 349,
+          "pos": "DT"
+        },
+        {
+          "word": "failing",
+          "lemma": "fail",
+          "offsetBegin": 350,
+          "offsetEnd": 357,
+          "pos": "VBG"
+        },
+        {
+          "word": "company",
+          "lemma": "company",
+          "offsetBegin": 358,
+          "offsetEnd": 365,
+          "pos": "NN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 366,
+          "offsetEnd": 371,
+          "pos": "WDT"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 372,
+          "offsetEnd": 375,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 376,
+          "offsetEnd": 378,
+          "pos": "VB"
+        },
+        {
+          "word": "transferred",
+          "lemma": "transfer",
+          "offsetBegin": 379,
+          "offsetEnd": 390,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 391,
+          "offsetEnd": 393,
+          "pos": "TO"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 394,
+          "offsetEnd": 397,
+          "pos": "DT"
+        },
+        {
+          "word": "future",
+          "lemma": "future",
+          "offsetBegin": 398,
+          "offsetEnd": 404,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 405,
+          "offsetEnd": 406,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "third",
+          "lemma": "third",
+          "offsetBegin": 406,
+          "offsetEnd": 411,
+          "pos": "JJ"
+        },
+        {
+          "word": "party",
+          "lemma": "party",
+          "offsetBegin": 412,
+          "offsetEnd": 417,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 417,
+          "offsetEnd": 418,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "purchaser",
+          "lemma": "purchaser",
+          "offsetBegin": 419,
+          "offsetEnd": 428,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 429,
+          "offsetEnd": 432,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 433,
+          "offsetEnd": 436,
+          "pos": "PRP$"
+        },
+        {
+          "word": "purposes",
+          "lemma": "purpose",
+          "offsetBegin": 437,
+          "offsetEnd": 445,
+          "pos": "NNS"
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "offsetBegin": 445,
+          "offsetEnd": 446,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Or",
+          "lemma": "or",
+          "offsetBegin": 447,
+          "offsetEnd": 449,
+          "pos": "CC"
+        },
+        {
+          "word": "should",
+          "lemma": "should",
+          "offsetBegin": 450,
+          "offsetEnd": 456,
+          "pos": "MD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 457,
+          "offsetEnd": 460,
+          "pos": "DT"
+        },
+        {
+          "word": "privacy",
+          "lemma": "privacy",
+          "offsetBegin": 461,
+          "offsetEnd": 468,
+          "pos": "NN"
+        },
+        {
+          "word": "policy",
+          "lemma": "policy",
+          "offsetBegin": 469,
+          "offsetEnd": 475,
+          "pos": "NN"
+        },
+        {
+          "word": "take",
+          "lemma": "take",
+          "offsetBegin": 476,
+          "offsetEnd": 480,
+          "pos": "VBP"
+        },
+        {
+          "word": "precedence",
+          "lemma": "precedence",
+          "offsetBegin": 481,
+          "offsetEnd": 491,
+          "pos": "NN"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 492,
+          "offsetEnd": 496,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 497,
+          "offsetEnd": 500,
+          "pos": "DT"
+        },
+        {
+          "word": "commercial",
+          "lemma": "commercial",
+          "offsetBegin": 501,
+          "offsetEnd": 511,
+          "pos": "JJ"
+        },
+        {
+          "word": "concerns",
+          "lemma": "concern",
+          "offsetBegin": 512,
+          "offsetEnd": 520,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 521,
+          "offsetEnd": 523,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 524,
+          "offsetEnd": 527,
+          "pos": "DT"
+        },
+        {
+          "word": "purchaser",
+          "lemma": "purchaser",
+          "offsetBegin": 528,
+          "offsetEnd": 537,
+          "pos": "NN"
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "offsetBegin": 537,
+          "offsetEnd": 538,
+          "pos": "."
+        }
+      ]
+    }
+  ]
+}

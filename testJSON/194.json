@@ -1,0 +1,696 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Books",
+          "lemma": "book",
+          "offsetBegin": 0,
+          "offsetEnd": 5,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 6,
+          "offsetEnd": 8,
+          "pos": "IN"
+        },
+        {
+          "word": "demand",
+          "lemma": "demand",
+          "offsetBegin": 9,
+          "offsetEnd": 15,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 15,
+          "offsetEnd": 16,
+          "pos": ":"
+        },
+        {
+          "word": "just-in-time",
+          "lemma": "just-in-time",
+          "offsetBegin": 17,
+          "offsetEnd": 29,
+          "pos": "JJ"
+        },
+        {
+          "word": "acquisitions",
+          "lemma": "acquisition",
+          "offsetBegin": 30,
+          "offsetEnd": 42,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 43,
+          "offsetEnd": 46,
+          "pos": "DT"
+        },
+        {
+          "word": "Purdue",
+          "lemma": "Purdue",
+          "offsetBegin": 47,
+          "offsetEnd": 53,
+          "pos": "NNP"
+        },
+        {
+          "word": "University",
+          "lemma": "University",
+          "offsetBegin": 54,
+          "offsetEnd": 64,
+          "pos": "NNP"
+        },
+        {
+          "word": "Libraries",
+          "lemma": "Libraries",
+          "offsetBegin": 65,
+          "offsetEnd": 74,
+          "pos": "NNPS"
+        },
+        {
+          "word": "Interlibrary",
+          "lemma": "Interlibrary",
+          "offsetBegin": 75,
+          "offsetEnd": 87,
+          "pos": "NNP"
+        },
+        {
+          "word": "Loan",
+          "lemma": "Loan",
+          "offsetBegin": 88,
+          "offsetEnd": 92,
+          "pos": "NNP"
+        },
+        {
+          "word": "unit",
+          "lemma": "unit",
+          "offsetBegin": 93,
+          "offsetEnd": 97,
+          "pos": "NN"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 98,
+          "offsetEnd": 106,
+          "pos": "VBD"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 107,
+          "offsetEnd": 108,
+          "pos": "DT"
+        },
+        {
+          "word": "pilot",
+          "lemma": "pilot",
+          "offsetBegin": 109,
+          "offsetEnd": 114,
+          "pos": "NN"
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "offsetBegin": 115,
+          "offsetEnd": 122,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 123,
+          "offsetEnd": 125,
+          "pos": "TO"
+        },
+        {
+          "word": "purchase",
+          "lemma": "purchase",
+          "offsetBegin": 126,
+          "offsetEnd": 134,
+          "pos": "VB"
+        },
+        {
+          "word": "patrons",
+          "lemma": "patron",
+          "offsetBegin": 135,
+          "offsetEnd": 142,
+          "pos": "NNS"
+        },
+        {
+          "word": "\u0027",
+          "lemma": "\u0027",
+          "offsetBegin": 142,
+          "offsetEnd": 143,
+          "pos": "POS"
+        },
+        {
+          "word": "loan",
+          "lemma": "loan",
+          "offsetBegin": 144,
+          "offsetEnd": 148,
+          "pos": "NN"
+        },
+        {
+          "word": "requests",
+          "lemma": "request",
+          "offsetBegin": 149,
+          "offsetEnd": 157,
+          "pos": "NNS"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 158,
+          "offsetEnd": 162,
+          "pos": "IN"
+        },
+        {
+          "word": "Amazon",
+          "lemma": "Amazon",
+          "offsetBegin": 163,
+          "offsetEnd": 169,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 169,
+          "offsetEnd": 170,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "com",
+          "lemma": "com",
+          "offsetBegin": 171,
+          "offsetEnd": 174,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 174,
+          "offsetEnd": 175,
+          "pos": ","
+        },
+        {
+          "word": "lend",
+          "lemma": "lend",
+          "offsetBegin": 176,
+          "offsetEnd": 180,
+          "pos": "VBP"
+        },
+        {
+          "word": "them",
+          "lemma": "they",
+          "offsetBegin": 181,
+          "offsetEnd": 185,
+          "pos": "PRP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 186,
+          "offsetEnd": 188,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 189,
+          "offsetEnd": 192,
+          "pos": "DT"
+        },
+        {
+          "word": "patrons",
+          "lemma": "patron",
+          "offsetBegin": 193,
+          "offsetEnd": 200,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 200,
+          "offsetEnd": 201,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 202,
+          "offsetEnd": 205,
+          "pos": "CC"
+        },
+        {
+          "word": "then",
+          "lemma": "then",
+          "offsetBegin": 206,
+          "offsetEnd": 210,
+          "pos": "RB"
+        },
+        {
+          "word": "add",
+          "lemma": "add",
+          "offsetBegin": 211,
+          "offsetEnd": 214,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 215,
+          "offsetEnd": 218,
+          "pos": "DT"
+        },
+        {
+          "word": "titles",
+          "lemma": "title",
+          "offsetBegin": 219,
+          "offsetEnd": 225,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 226,
+          "offsetEnd": 228,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 229,
+          "offsetEnd": 232,
+          "pos": "DT"
+        },
+        {
+          "word": "collection",
+          "lemma": "collection",
+          "offsetBegin": 233,
+          "offsetEnd": 243,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 243,
+          "offsetEnd": 244,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Staff",
+          "lemma": "Staff",
+          "offsetBegin": 245,
+          "offsetEnd": 250,
+          "pos": "NNP"
+        },
+        {
+          "word": "analyzed",
+          "lemma": "analyze",
+          "offsetBegin": 251,
+          "offsetEnd": 259,
+          "pos": "VBD"
+        },
+        {
+          "word": "previous",
+          "lemma": "previous",
+          "offsetBegin": 260,
+          "offsetEnd": 268,
+          "pos": "JJ"
+        },
+        {
+          "word": "monograph",
+          "lemma": "monograph",
+          "offsetBegin": 269,
+          "offsetEnd": 278,
+          "pos": "JJ"
+        },
+        {
+          "word": "loans",
+          "lemma": "loan",
+          "offsetBegin": 279,
+          "offsetEnd": 284,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 284,
+          "offsetEnd": 285,
+          "pos": ","
+        },
+        {
+          "word": "developed",
+          "lemma": "develop",
+          "offsetBegin": 286,
+          "offsetEnd": 295,
+          "pos": "VBD"
+        },
+        {
+          "word": "ordering",
+          "lemma": "order",
+          "offsetBegin": 296,
+          "offsetEnd": 304,
+          "pos": "VBG"
+        },
+        {
+          "word": "criteria",
+          "lemma": "criterion",
+          "offsetBegin": 305,
+          "offsetEnd": 313,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 313,
+          "offsetEnd": 314,
+          "pos": ","
+        },
+        {
+          "word": "implemented",
+          "lemma": "implement",
+          "offsetBegin": 315,
+          "offsetEnd": 326,
+          "pos": "VBD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 327,
+          "offsetEnd": 330,
+          "pos": "DT"
+        },
+        {
+          "word": "proposal",
+          "lemma": "proposal",
+          "offsetBegin": 331,
+          "offsetEnd": 339,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 340,
+          "offsetEnd": 342,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 343,
+          "offsetEnd": 344,
+          "pos": "DT"
+        },
+        {
+          "word": "pilot",
+          "lemma": "pilot",
+          "offsetBegin": 345,
+          "offsetEnd": 350,
+          "pos": "NN"
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "offsetBegin": 351,
+          "offsetEnd": 358,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 359,
+          "offsetEnd": 362,
+          "pos": "IN"
+        },
+        {
+          "word": "six",
+          "lemma": "six",
+          "offsetBegin": 363,
+          "offsetEnd": 366,
+          "pos": "CD"
+        },
+        {
+          "word": "months",
+          "lemma": "month",
+          "offsetBegin": 367,
+          "offsetEnd": 373,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 373,
+          "offsetEnd": 374,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 375,
+          "offsetEnd": 378,
+          "pos": "CC"
+        },
+        {
+          "word": "evaluated",
+          "lemma": "evaluate",
+          "offsetBegin": 379,
+          "offsetEnd": 388,
+          "pos": "VBD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 389,
+          "offsetEnd": 392,
+          "pos": "DT"
+        },
+        {
+          "word": "resulting",
+          "lemma": "result",
+          "offsetBegin": 393,
+          "offsetEnd": 402,
+          "pos": "VBG"
+        },
+        {
+          "word": "patron",
+          "lemma": "patron",
+          "offsetBegin": 403,
+          "offsetEnd": 409,
+          "pos": "NN"
+        },
+        {
+          "word": "comments",
+          "lemma": "comment",
+          "offsetBegin": 410,
+          "offsetEnd": 418,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 418,
+          "offsetEnd": 419,
+          "pos": ","
+        },
+        {
+          "word": "statistics",
+          "lemma": "statistics",
+          "offsetBegin": 420,
+          "offsetEnd": 430,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 430,
+          "offsetEnd": 431,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 432,
+          "offsetEnd": 435,
+          "pos": "CC"
+        },
+        {
+          "word": "staff",
+          "lemma": "staff",
+          "offsetBegin": 436,
+          "offsetEnd": 441,
+          "pos": "NN"
+        },
+        {
+          "word": "perceptions",
+          "lemma": "perception",
+          "offsetBegin": 442,
+          "offsetEnd": 453,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 453,
+          "offsetEnd": 454,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "As",
+          "lemma": "as",
+          "offsetBegin": 455,
+          "offsetEnd": 457,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 458,
+          "offsetEnd": 459,
+          "pos": "DT"
+        },
+        {
+          "word": "result",
+          "lemma": "result",
+          "offsetBegin": 460,
+          "offsetEnd": 466,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 467,
+          "offsetEnd": 469,
+          "pos": "IN"
+        },
+        {
+          "word": "enthusiastic",
+          "lemma": "enthusiastic",
+          "offsetBegin": 470,
+          "offsetEnd": 482,
+          "pos": "JJ"
+        },
+        {
+          "word": "patron",
+          "lemma": "patron",
+          "offsetBegin": 483,
+          "offsetEnd": 489,
+          "pos": "NN"
+        },
+        {
+          "word": "comments",
+          "lemma": "comment",
+          "offsetBegin": 490,
+          "offsetEnd": 498,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 499,
+          "offsetEnd": 502,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 503,
+          "offsetEnd": 504,
+          "pos": "DT"
+        },
+        {
+          "word": "review",
+          "lemma": "review",
+          "offsetBegin": 505,
+          "offsetEnd": 511,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 512,
+          "offsetEnd": 514,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 515,
+          "offsetEnd": 518,
+          "pos": "DT"
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "offsetBegin": 519,
+          "offsetEnd": 526,
+          "pos": "NN"
+        },
+        {
+          "word": "statistics",
+          "lemma": "statistics",
+          "offsetBegin": 527,
+          "offsetEnd": 537,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 537,
+          "offsetEnd": 538,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 539,
+          "offsetEnd": 542,
+          "pos": "DT"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 543,
+          "offsetEnd": 550,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 551,
+          "offsetEnd": 554,
+          "pos": "VBD"
+        },
+        {
+          "word": "extended",
+          "lemma": "extend",
+          "offsetBegin": 555,
+          "offsetEnd": 563,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

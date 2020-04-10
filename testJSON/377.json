@@ -1,0 +1,384 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "MATLAB",
+          "lemma": "MATLAB",
+          "offsetBegin": 0,
+          "offsetEnd": 6,
+          "pos": "NNP"
+        },
+        {
+          "word": "code",
+          "lemma": "code",
+          "offsetBegin": 7,
+          "offsetEnd": 11,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 12,
+          "offsetEnd": 15,
+          "pos": "IN"
+        },
+        {
+          "word": "plotting",
+          "lemma": "plot",
+          "offsetBegin": 16,
+          "offsetEnd": 24,
+          "pos": "VBG"
+        },
+        {
+          "word": "ambiguity",
+          "lemma": "ambiguity",
+          "offsetBegin": 25,
+          "offsetEnd": 34,
+          "pos": "NN"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 35,
+          "offsetEnd": 44,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 45,
+          "offsetEnd": 46,
+          "pos": "DT"
+        },
+        {
+          "word": "MATLAB",
+          "lemma": "MATLAB",
+          "offsetBegin": 47,
+          "offsetEnd": 53,
+          "pos": "NNP"
+        },
+        {
+          "word": "code",
+          "lemma": "code",
+          "offsetBegin": 54,
+          "offsetEnd": 58,
+          "pos": "NN"
+        },
+        {
+          "word": "capable",
+          "lemma": "capable",
+          "offsetBegin": 59,
+          "offsetEnd": 66,
+          "pos": "JJ"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 67,
+          "offsetEnd": 69,
+          "pos": "IN"
+        },
+        {
+          "word": "plotting",
+          "lemma": "plot",
+          "offsetBegin": 70,
+          "offsetEnd": 78,
+          "pos": "VBG"
+        },
+        {
+          "word": "ambiguity",
+          "lemma": "ambiguity",
+          "offsetBegin": 79,
+          "offsetEnd": 88,
+          "pos": "NN"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 89,
+          "offsetEnd": 98,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 99,
+          "offsetEnd": 101,
+          "pos": "IN"
+        },
+        {
+          "word": "many",
+          "lemma": "many",
+          "offsetBegin": 102,
+          "offsetEnd": 106,
+          "pos": "JJ"
+        },
+        {
+          "word": "different",
+          "lemma": "different",
+          "offsetBegin": 107,
+          "offsetEnd": 116,
+          "pos": "JJ"
+        },
+        {
+          "word": "radar",
+          "lemma": "radar",
+          "offsetBegin": 117,
+          "offsetEnd": 122,
+          "pos": "NN"
+        },
+        {
+          "word": "signals",
+          "lemma": "signal",
+          "offsetBegin": 123,
+          "offsetEnd": 130,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 131,
+          "offsetEnd": 133,
+          "pos": "VBZ"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 134,
+          "offsetEnd": 143,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 143,
+          "offsetEnd": 144,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 145,
+          "offsetEnd": 148,
+          "pos": "DT"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 149,
+          "offsetEnd": 156,
+          "pos": "NN"
+        },
+        {
+          "word": "makes",
+          "lemma": "make",
+          "offsetBegin": 157,
+          "offsetEnd": 162,
+          "pos": "VBZ"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 163,
+          "offsetEnd": 166,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 167,
+          "offsetEnd": 169,
+          "pos": "IN"
+        },
+        {
+          "word": "MATLAB",
+          "lemma": "MATLAB",
+          "offsetBegin": 170,
+          "offsetEnd": 176,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 176,
+          "offsetEnd": 178,
+          "pos": "POS"
+        },
+        {
+          "word": "sparse",
+          "lemma": "sparse",
+          "offsetBegin": 179,
+          "offsetEnd": 185,
+          "pos": "JJ"
+        },
+        {
+          "word": "matrix",
+          "lemma": "matrix",
+          "offsetBegin": 186,
+          "offsetEnd": 192,
+          "pos": "NN"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 193,
+          "offsetEnd": 203,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 203,
+          "offsetEnd": 204,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 205,
+          "offsetEnd": 208,
+          "pos": "CC"
+        },
+        {
+          "word": "avoids",
+          "lemma": "avoid",
+          "offsetBegin": 209,
+          "offsetEnd": 215,
+          "pos": "VBZ"
+        },
+        {
+          "word": "loops",
+          "lemma": "loop",
+          "offsetBegin": 216,
+          "offsetEnd": 221,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 221,
+          "offsetEnd": 222,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 223,
+          "offsetEnd": 226,
+          "pos": "DT"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 227,
+          "offsetEnd": 234,
+          "pos": "NN"
+        },
+        {
+          "word": "could",
+          "lemma": "could",
+          "offsetBegin": 235,
+          "offsetEnd": 240,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 241,
+          "offsetEnd": 243,
+          "pos": "VB"
+        },
+        {
+          "word": "useful",
+          "lemma": "useful",
+          "offsetBegin": 244,
+          "offsetEnd": 250,
+          "pos": "JJ"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 251,
+          "offsetEnd": 253,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 254,
+          "offsetEnd": 255,
+          "pos": "DT"
+        },
+        {
+          "word": "pedagogical",
+          "lemma": "pedagogical",
+          "offsetBegin": 256,
+          "offsetEnd": 267,
+          "pos": "JJ"
+        },
+        {
+          "word": "tool",
+          "lemma": "tool",
+          "offsetBegin": 268,
+          "offsetEnd": 272,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 273,
+          "offsetEnd": 275,
+          "pos": "IN"
+        },
+        {
+          "word": "radar",
+          "lemma": "radar",
+          "offsetBegin": 276,
+          "offsetEnd": 281,
+          "pos": "NN"
+        },
+        {
+          "word": "courses",
+          "lemma": "course",
+          "offsetBegin": 282,
+          "offsetEnd": 289,
+          "pos": "NNS"
+        },
+        {
+          "word": "teaching",
+          "lemma": "teach",
+          "offsetBegin": 290,
+          "offsetEnd": 298,
+          "pos": "VBG"
+        },
+        {
+          "word": "pulse",
+          "lemma": "pulse",
+          "offsetBegin": 299,
+          "offsetEnd": 304,
+          "pos": "NN"
+        },
+        {
+          "word": "compression",
+          "lemma": "compression",
+          "offsetBegin": 305,
+          "offsetEnd": 316,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

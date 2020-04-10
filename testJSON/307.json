@@ -1,0 +1,809 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Computer",
+          "lemma": "computer",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "NN"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 9,
+          "offsetEnd": 16,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 17,
+          "offsetEnd": 19,
+          "pos": "TO"
+        },
+        {
+          "word": "generate",
+          "lemma": "generate",
+          "offsetBegin": 20,
+          "offsetEnd": 28,
+          "pos": "VB"
+        },
+        {
+          "word": "operant",
+          "lemma": "operant",
+          "offsetBegin": 29,
+          "offsetEnd": 36,
+          "pos": "JJ"
+        },
+        {
+          "word": "schedules",
+          "lemma": "schedule",
+          "offsetBegin": 37,
+          "offsetEnd": 46,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 47,
+          "offsetEnd": 48,
+          "pos": "DT"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 49,
+          "offsetEnd": 57,
+          "pos": "NN"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 58,
+          "offsetEnd": 65,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 66,
+          "offsetEnd": 69,
+          "pos": "IN"
+        },
+        {
+          "word": "programming",
+          "lemma": "programming",
+          "offsetBegin": 70,
+          "offsetEnd": 81,
+          "pos": "NN"
+        },
+        {
+          "word": "schedules",
+          "lemma": "schedule",
+          "offsetBegin": 82,
+          "offsetEnd": 91,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 92,
+          "offsetEnd": 94,
+          "pos": "IN"
+        },
+        {
+          "word": "reinforcement",
+          "lemma": "reinforcement",
+          "offsetBegin": 95,
+          "offsetEnd": 108,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 109,
+          "offsetEnd": 111,
+          "pos": "VBZ"
+        },
+        {
+          "word": "described",
+          "lemma": "describe",
+          "offsetBegin": 112,
+          "offsetEnd": 121,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 121,
+          "offsetEnd": 122,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Students",
+          "lemma": "student",
+          "offsetBegin": 123,
+          "offsetEnd": 131,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 132,
+          "offsetEnd": 135,
+          "pos": "MD"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 136,
+          "offsetEnd": 139,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 140,
+          "offsetEnd": 143,
+          "pos": "DT"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 144,
+          "offsetEnd": 151,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 152,
+          "offsetEnd": 154,
+          "pos": "TO"
+        },
+        {
+          "word": "experience",
+          "lemma": "experience",
+          "offsetBegin": 155,
+          "offsetEnd": 165,
+          "pos": "VB"
+        },
+        {
+          "word": "schedules",
+          "lemma": "schedule",
+          "offsetBegin": 166,
+          "offsetEnd": 175,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 176,
+          "offsetEnd": 178,
+          "pos": "IN"
+        },
+        {
+          "word": "reinforcement",
+          "lemma": "reinforcement",
+          "offsetBegin": 179,
+          "offsetEnd": 192,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 193,
+          "offsetEnd": 197,
+          "pos": "WDT"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 198,
+          "offsetEnd": 201,
+          "pos": "VBP"
+        },
+        {
+          "word": "typically",
+          "lemma": "typically",
+          "offsetBegin": 202,
+          "offsetEnd": 211,
+          "pos": "RB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 212,
+          "offsetEnd": 216,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 217,
+          "offsetEnd": 221,
+          "pos": "IN"
+        },
+        {
+          "word": "nonhuman",
+          "lemma": "nonhuman",
+          "offsetBegin": 222,
+          "offsetEnd": 230,
+          "pos": "JJ"
+        },
+        {
+          "word": "subjects",
+          "lemma": "subject",
+          "offsetBegin": 231,
+          "offsetEnd": 239,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 239,
+          "offsetEnd": 240,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Accumulative",
+          "lemma": "accumulative",
+          "offsetBegin": 241,
+          "offsetEnd": 253,
+          "pos": "JJ"
+        },
+        {
+          "word": "recording",
+          "lemma": "recording",
+          "offsetBegin": 254,
+          "offsetEnd": 263,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 264,
+          "offsetEnd": 266,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 267,
+          "offsetEnd": 268,
+          "pos": "DT"
+        },
+        {
+          "word": "student",
+          "lemma": "student",
+          "offsetBegin": 269,
+          "offsetEnd": 276,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 276,
+          "offsetEnd": 278,
+          "pos": "POS"
+        },
+        {
+          "word": "response",
+          "lemma": "response",
+          "offsetBegin": 279,
+          "offsetEnd": 287,
+          "pos": "NN"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 288,
+          "offsetEnd": 291,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 292,
+          "offsetEnd": 294,
+          "pos": "VB"
+        },
+        {
+          "word": "shown",
+          "lemma": "show",
+          "offsetBegin": 295,
+          "offsetEnd": 300,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 301,
+          "offsetEnd": 303,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 304,
+          "offsetEnd": 307,
+          "pos": "DT"
+        },
+        {
+          "word": "screen",
+          "lemma": "screen",
+          "offsetBegin": 308,
+          "offsetEnd": 314,
+          "pos": "NN"
+        },
+        {
+          "word": "and/or",
+          "lemma": "and/or",
+          "offsetBegin": 315,
+          "offsetEnd": 321,
+          "pos": "CC"
+        },
+        {
+          "word": "printed",
+          "lemma": "print",
+          "offsetBegin": 322,
+          "offsetEnd": 329,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 330,
+          "offsetEnd": 334,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 335,
+          "offsetEnd": 338,
+          "pos": "DT"
+        },
+        {
+          "word": "computer",
+          "lemma": "computer",
+          "offsetBegin": 339,
+          "offsetEnd": 347,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 347,
+          "offsetEnd": 349,
+          "pos": "POS"
+        },
+        {
+          "word": "printer",
+          "lemma": "printer",
+          "offsetBegin": 350,
+          "offsetEnd": 357,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 357,
+          "offsetEnd": 358,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 359,
+          "offsetEnd": 362,
+          "pos": "DT"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 363,
+          "offsetEnd": 370,
+          "pos": "NN"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 371,
+          "offsetEnd": 374,
+          "pos": "MD"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 375,
+          "offsetEnd": 379,
+          "pos": "RB"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 380,
+          "offsetEnd": 382,
+          "pos": "VB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 383,
+          "offsetEnd": 387,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 388,
+          "offsetEnd": 390,
+          "pos": "TO"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 391,
+          "offsetEnd": 398,
+          "pos": "NN"
+        },
+        {
+          "word": "operant",
+          "lemma": "operant",
+          "offsetBegin": 399,
+          "offsetEnd": 406,
+          "pos": "JJ"
+        },
+        {
+          "word": "schedules",
+          "lemma": "schedule",
+          "offsetBegin": 407,
+          "offsetEnd": 416,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 417,
+          "offsetEnd": 420,
+          "pos": "IN"
+        },
+        {
+          "word": "animal",
+          "lemma": "animal",
+          "offsetBegin": 421,
+          "offsetEnd": 427,
+          "pos": "JJ"
+        },
+        {
+          "word": "subjects",
+          "lemma": "subject",
+          "offsetBegin": 428,
+          "offsetEnd": 436,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 436,
+          "offsetEnd": 437,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 438,
+          "offsetEnd": 441,
+          "pos": "DT"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 442,
+          "offsetEnd": 449,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 450,
+          "offsetEnd": 453,
+          "pos": "VBD"
+        },
+        {
+          "word": "tested",
+          "lemma": "test",
+          "offsetBegin": 454,
+          "offsetEnd": 460,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 461,
+          "offsetEnd": 465,
+          "pos": "IN"
+        },
+        {
+          "word": "human",
+          "lemma": "human",
+          "offsetBegin": 466,
+          "offsetEnd": 471,
+          "pos": "JJ"
+        },
+        {
+          "word": "subjects",
+          "lemma": "subject",
+          "offsetBegin": 472,
+          "offsetEnd": 480,
+          "pos": "NNS"
+        },
+        {
+          "word": "experiencing",
+          "lemma": "experience",
+          "offsetBegin": 481,
+          "offsetEnd": 493,
+          "pos": "VBG"
+        },
+        {
+          "word": "fixed",
+          "lemma": "fix",
+          "offsetBegin": 494,
+          "offsetEnd": 499,
+          "pos": "VBN"
+        },
+        {
+          "word": "ratio",
+          "lemma": "ratio",
+          "offsetBegin": 500,
+          "offsetEnd": 505,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 505,
+          "offsetEnd": 506,
+          "pos": ","
+        },
+        {
+          "word": "variable",
+          "lemma": "variable",
+          "offsetBegin": 507,
+          "offsetEnd": 515,
+          "pos": "JJ"
+        },
+        {
+          "word": "ratio",
+          "lemma": "ratio",
+          "offsetBegin": 516,
+          "offsetEnd": 521,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 521,
+          "offsetEnd": 522,
+          "pos": ","
+        },
+        {
+          "word": "fixed",
+          "lemma": "fix",
+          "offsetBegin": 523,
+          "offsetEnd": 528,
+          "pos": "VBN"
+        },
+        {
+          "word": "interval",
+          "lemma": "interval",
+          "offsetBegin": 529,
+          "offsetEnd": 537,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 537,
+          "offsetEnd": 538,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 539,
+          "offsetEnd": 542,
+          "pos": "CC"
+        },
+        {
+          "word": "variable",
+          "lemma": "variable",
+          "offsetBegin": 543,
+          "offsetEnd": 551,
+          "pos": "JJ"
+        },
+        {
+          "word": "interval",
+          "lemma": "interval",
+          "offsetBegin": 552,
+          "offsetEnd": 560,
+          "pos": "JJ"
+        },
+        {
+          "word": "schedules",
+          "lemma": "schedule",
+          "offsetBegin": 561,
+          "offsetEnd": 570,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 570,
+          "offsetEnd": 571,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Performance",
+          "lemma": "Performance",
+          "offsetBegin": 572,
+          "offsetEnd": 583,
+          "pos": "NNP"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 584,
+          "offsetEnd": 587,
+          "pos": "IN"
+        },
+        {
+          "word": "human",
+          "lemma": "human",
+          "offsetBegin": 588,
+          "offsetEnd": 593,
+          "pos": "JJ"
+        },
+        {
+          "word": "subjects",
+          "lemma": "subject",
+          "offsetBegin": 594,
+          "offsetEnd": 602,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 603,
+          "offsetEnd": 605,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 606,
+          "offsetEnd": 607,
+          "pos": "DT"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 608,
+          "offsetEnd": 613,
+          "pos": "VBN"
+        },
+        {
+          "word": "schedule",
+          "lemma": "schedule",
+          "offsetBegin": 614,
+          "offsetEnd": 622,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 623,
+          "offsetEnd": 626,
+          "pos": "VBD"
+        },
+        {
+          "word": "similar",
+          "lemma": "similar",
+          "offsetBegin": 627,
+          "offsetEnd": 634,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 635,
+          "offsetEnd": 637,
+          "pos": "TO"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 638,
+          "offsetEnd": 649,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 650,
+          "offsetEnd": 653,
+          "pos": "IN"
+        },
+        {
+          "word": "nonhuman",
+          "lemma": "nonhuman",
+          "offsetBegin": 654,
+          "offsetEnd": 662,
+          "pos": "JJ"
+        },
+        {
+          "word": "subjects",
+          "lemma": "subject",
+          "offsetBegin": 663,
+          "offsetEnd": 671,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 672,
+          "offsetEnd": 674,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 675,
+          "offsetEnd": 678,
+          "pos": "DT"
+        },
+        {
+          "word": "same",
+          "lemma": "same",
+          "offsetBegin": 679,
+          "offsetEnd": 683,
+          "pos": "JJ"
+        },
+        {
+          "word": "schedule",
+          "lemma": "schedule",
+          "offsetBegin": 684,
+          "offsetEnd": 692,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

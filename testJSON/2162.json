@@ -1,0 +1,835 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "More",
+          "lemma": "more",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "JJR"
+        },
+        {
+          "word": "constructions",
+          "lemma": "construction",
+          "offsetBegin": 5,
+          "offsetEnd": 18,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 19,
+          "offsetEnd": 22,
+          "pos": "IN"
+        },
+        {
+          "word": "Boolean",
+          "lemma": "boolean",
+          "offsetBegin": 23,
+          "offsetEnd": 30,
+          "pos": "JJ"
+        },
+        {
+          "word": "algebras",
+          "lemma": "algebra",
+          "offsetBegin": 31,
+          "offsetEnd": 39,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 40,
+          "offsetEnd": 42,
+          "pos": "PRP"
+        },
+        {
+          "word": "construct",
+          "lemma": "construct",
+          "offsetBegin": 43,
+          "offsetEnd": 52,
+          "pos": "VBP"
+        },
+        {
+          "word": "Boolean",
+          "lemma": "boolean",
+          "offsetBegin": 53,
+          "offsetEnd": 60,
+          "pos": "JJ"
+        },
+        {
+          "word": "algebras",
+          "lemma": "algebra",
+          "offsetBegin": 61,
+          "offsetEnd": 69,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 70,
+          "offsetEnd": 74,
+          "pos": "IN"
+        },
+        {
+          "word": "prescribed",
+          "lemma": "prescribe",
+          "offsetBegin": 75,
+          "offsetEnd": 85,
+          "pos": "VBN"
+        },
+        {
+          "word": "behaviour",
+          "lemma": "behaviour",
+          "offsetBegin": 86,
+          "offsetEnd": 95,
+          "pos": "NN"
+        },
+        {
+          "word": "concerning",
+          "lemma": "concern",
+          "offsetBegin": 96,
+          "offsetEnd": 106,
+          "pos": "VBG"
+        },
+        {
+          "word": "depth",
+          "lemma": "depth",
+          "offsetBegin": 107,
+          "offsetEnd": 112,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 113,
+          "offsetEnd": 116,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 117,
+          "offsetEnd": 120,
+          "pos": "DT"
+        },
+        {
+          "word": "free",
+          "lemma": "free",
+          "offsetBegin": 121,
+          "offsetEnd": 125,
+          "pos": "JJ"
+        },
+        {
+          "word": "product",
+          "lemma": "product",
+          "offsetBegin": 126,
+          "offsetEnd": 133,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 134,
+          "offsetEnd": 136,
+          "pos": "IN"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 137,
+          "offsetEnd": 140,
+          "pos": "CD"
+        },
+        {
+          "word": "Boolean",
+          "lemma": "boolean",
+          "offsetBegin": 141,
+          "offsetEnd": 148,
+          "pos": "JJ"
+        },
+        {
+          "word": "algebras",
+          "lemma": "algebra",
+          "offsetBegin": 149,
+          "offsetEnd": 157,
+          "pos": "NNS"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 158,
+          "offsetEnd": 162,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 163,
+          "offsetEnd": 164,
+          "pos": "DT"
+        },
+        {
+          "word": "third",
+          "lemma": "third",
+          "offsetBegin": 165,
+          "offsetEnd": 170,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 170,
+          "offsetEnd": 171,
+          "pos": ","
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 172,
+          "offsetEnd": 174,
+          "pos": "IN"
+        },
+        {
+          "word": "ZFC",
+          "lemma": "zfc",
+          "offsetBegin": 175,
+          "offsetEnd": 178,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 179,
+          "offsetEnd": 184,
+          "pos": "VBG"
+        },
+        {
+          "word": "pcf",
+          "lemma": "pcf",
+          "offsetBegin": 185,
+          "offsetEnd": 188,
+          "pos": "NN"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 188,
+          "offsetEnd": 189,
+          "pos": ":"
+        },
+        {
+          "word": "assuming",
+          "lemma": "assume",
+          "offsetBegin": 190,
+          "offsetEnd": 198,
+          "pos": "VBG"
+        },
+        {
+          "word": "squares",
+          "lemma": "square",
+          "offsetBegin": 199,
+          "offsetEnd": 206,
+          "pos": "NNS"
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 207,
+          "offsetEnd": 209,
+          "pos": "PRP"
+        },
+        {
+          "word": "get",
+          "lemma": "get",
+          "offsetBegin": 210,
+          "offsetEnd": 213,
+          "pos": "VBP"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 214,
+          "offsetEnd": 221,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 222,
+          "offsetEnd": 224,
+          "pos": "IN"
+        },
+        {
+          "word": "ultraproducts",
+          "lemma": "ultraproduct",
+          "offsetBegin": 225,
+          "offsetEnd": 238,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 238,
+          "offsetEnd": 239,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 240,
+          "offsetEnd": 242,
+          "pos": "PRP"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 243,
+          "offsetEnd": 247,
+          "pos": "RB"
+        },
+        {
+          "word": "deal",
+          "lemma": "deal",
+          "offsetBegin": 248,
+          "offsetEnd": 252,
+          "pos": "VBP"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 253,
+          "offsetEnd": 257,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 258,
+          "offsetEnd": 261,
+          "pos": "DT"
+        },
+        {
+          "word": "family",
+          "lemma": "family",
+          "offsetBegin": 262,
+          "offsetEnd": 268,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 269,
+          "offsetEnd": 271,
+          "pos": "IN"
+        },
+        {
+          "word": "cardinalities",
+          "lemma": "cardinality",
+          "offsetBegin": 272,
+          "offsetEnd": 285,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 286,
+          "offsetEnd": 289,
+          "pos": "CC"
+        },
+        {
+          "word": "topological",
+          "lemma": "topological",
+          "offsetBegin": 290,
+          "offsetEnd": 301,
+          "pos": "JJ"
+        },
+        {
+          "word": "density",
+          "lemma": "density",
+          "offsetBegin": 302,
+          "offsetEnd": 309,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 310,
+          "offsetEnd": 312,
+          "pos": "IN"
+        },
+        {
+          "word": "homomorphic",
+          "lemma": "homomorphic",
+          "offsetBegin": 313,
+          "offsetEnd": 324,
+          "pos": "JJ"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 325,
+          "offsetEnd": 331,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 332,
+          "offsetEnd": 334,
+          "pos": "IN"
+        },
+        {
+          "word": "Boolean",
+          "lemma": "boolean",
+          "offsetBegin": 335,
+          "offsetEnd": 342,
+          "pos": "JJ"
+        },
+        {
+          "word": "algebras",
+          "lemma": "algebra",
+          "offsetBegin": 343,
+          "offsetEnd": 351,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 352,
+          "offsetEnd": 353,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "offsetBegin": 353,
+          "offsetEnd": 356,
+          "pos": "PRP"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 357,
+          "offsetEnd": 360,
+          "pos": "MD"
+        },
+        {
+          "word": "translate",
+          "lemma": "translate",
+          "offsetBegin": 361,
+          "offsetEnd": 370,
+          "pos": "VB"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 371,
+          "offsetEnd": 373,
+          "pos": "PRP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 374,
+          "offsetEnd": 376,
+          "pos": "TO"
+        },
+        {
+          "word": "topology-on",
+          "lemma": "topology-on",
+          "offsetBegin": 377,
+          "offsetEnd": 388,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 389,
+          "offsetEnd": 392,
+          "pos": "DT"
+        },
+        {
+          "word": "cardinalities",
+          "lemma": "cardinality",
+          "offsetBegin": 393,
+          "offsetEnd": 406,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 407,
+          "offsetEnd": 409,
+          "pos": "IN"
+        },
+        {
+          "word": "closed",
+          "lemma": "closed",
+          "offsetBegin": 410,
+          "offsetEnd": 416,
+          "pos": "JJ"
+        },
+        {
+          "word": "subspaces",
+          "lemma": "subspace",
+          "offsetBegin": 417,
+          "offsetEnd": 426,
+          "pos": "NNS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 426,
+          "offsetEnd": 427,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 427,
+          "offsetEnd": 428,
+          "pos": ":"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 429,
+          "offsetEnd": 432,
+          "pos": "CC"
+        },
+        {
+          "word": "lastly",
+          "lemma": "lastly",
+          "offsetBegin": 433,
+          "offsetEnd": 439,
+          "pos": "RB"
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 440,
+          "offsetEnd": 442,
+          "pos": "PRP"
+        },
+        {
+          "word": "deal",
+          "lemma": "deal",
+          "offsetBegin": 443,
+          "offsetEnd": 447,
+          "pos": "VBP"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 448,
+          "offsetEnd": 452,
+          "pos": "IN"
+        },
+        {
+          "word": "inequalities",
+          "lemma": "inequality",
+          "offsetBegin": 453,
+          "offsetEnd": 465,
+          "pos": "NNS"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 466,
+          "offsetEnd": 473,
+          "pos": "IN"
+        },
+        {
+          "word": "cardinal",
+          "lemma": "cardinal",
+          "offsetBegin": 474,
+          "offsetEnd": 482,
+          "pos": "JJ"
+        },
+        {
+          "word": "invariants",
+          "lemma": "invariant",
+          "offsetBegin": 483,
+          "offsetEnd": 493,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 493,
+          "offsetEnd": 494,
+          "pos": ","
+        },
+        {
+          "word": "mainly",
+          "lemma": "mainly",
+          "offsetBegin": 495,
+          "offsetEnd": 501,
+          "pos": "RB"
+        },
+        {
+          "word": "d",
+          "lemma": "d",
+          "offsetBegin": 502,
+          "offsetEnd": 503,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 503,
+          "offsetEnd": 504,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "B",
+          "lemma": "b",
+          "offsetBegin": 504,
+          "offsetEnd": 505,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 505,
+          "offsetEnd": 506,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 506,
+          "offsetEnd": 507,
+          "pos": ":"
+        },
+        {
+          "word": "sup",
+          "lemma": "sup",
+          "offsetBegin": 507,
+          "offsetEnd": 510,
+          "pos": "NN"
+        },
+        {
+          "word": "kappa",
+          "lemma": "kappa",
+          "offsetBegin": 511,
+          "offsetEnd": 516,
+          "pos": "NN"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 517,
+          "offsetEnd": 518,
+          "pos": ":"
+        },
+        {
+          "word": "\u003c",
+          "lemma": "\u003c",
+          "offsetBegin": 518,
+          "offsetEnd": 519,
+          "pos": "JJR"
+        },
+        {
+          "word": "|",
+          "lemma": "|",
+          "offsetBegin": 519,
+          "offsetEnd": 520,
+          "pos": "CD"
+        },
+        {
+          "word": "B",
+          "lemma": "b",
+          "offsetBegin": 520,
+          "offsetEnd": 521,
+          "pos": "NN"
+        },
+        {
+          "word": "|",
+          "lemma": "|",
+          "offsetBegin": 521,
+          "offsetEnd": 522,
+          "pos": "CD"
+        },
+        {
+          "word": "implies",
+          "lemma": "imply",
+          "offsetBegin": 523,
+          "offsetEnd": 530,
+          "pos": "VBZ"
+        },
+        {
+          "word": "ind",
+          "lemma": "ind",
+          "offsetBegin": 531,
+          "offsetEnd": 534,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 534,
+          "offsetEnd": 535,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "B",
+          "lemma": "b",
+          "offsetBegin": 535,
+          "offsetEnd": 536,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 536,
+          "offsetEnd": 537,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "\u003e",
+          "lemma": "\u003e",
+          "offsetBegin": 537,
+          "offsetEnd": 538,
+          "pos": "JJR"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 538,
+          "offsetEnd": 539,
+          "pos": ":"
+        },
+        {
+          "word": "sup",
+          "lemma": "sup",
+          "offsetBegin": 539,
+          "offsetEnd": 542,
+          "pos": "NN"
+        },
+        {
+          "word": "kappa",
+          "lemma": "kappa",
+          "offsetBegin": 543,
+          "offsetEnd": 548,
+          "pos": "NN"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 549,
+          "offsetEnd": 550,
+          "pos": ":"
+        },
+        {
+          "word": "V",
+          "lemma": "v",
+          "offsetBegin": 550,
+          "offsetEnd": 551,
+          "pos": "NN"
+        },
+        {
+          "word": "Depth",
+          "lemma": "depth",
+          "offsetBegin": 552,
+          "offsetEnd": 557,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 557,
+          "offsetEnd": 558,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "B",
+          "lemma": "b",
+          "offsetBegin": 558,
+          "offsetEnd": 559,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 559,
+          "offsetEnd": 560,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "\u003e",
+          "lemma": "\u003e",
+          "offsetBegin": 560,
+          "offsetEnd": 561,
+          "pos": "JJR"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 561,
+          "offsetEnd": 563,
+          "pos": "CC"
+        },
+        {
+          "word": "\u003d",
+          "lemma": "\u003d",
+          "offsetBegin": 563,
+          "offsetEnd": 564,
+          "pos": "JJ"
+        },
+        {
+          "word": "log",
+          "lemma": "log",
+          "offsetBegin": 564,
+          "offsetEnd": 567,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 567,
+          "offsetEnd": 568,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "|",
+          "lemma": "|",
+          "offsetBegin": 568,
+          "offsetEnd": 569,
+          "pos": "NN"
+        },
+        {
+          "word": "B",
+          "lemma": "b",
+          "offsetBegin": 569,
+          "offsetEnd": 570,
+          "pos": "NN"
+        },
+        {
+          "word": "|",
+          "lemma": "|",
+          "offsetBegin": 570,
+          "offsetEnd": 571,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 571,
+          "offsetEnd": 572,
+          "pos": "-RRB-"
+        }
+      ]
+    }
+  ]
+}

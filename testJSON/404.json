@@ -1,0 +1,1308 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "0.8-V",
+          "lemma": "0.8-v",
+          "offsetBegin": 2,
+          "offsetEnd": 7,
+          "pos": "NN"
+        },
+        {
+          "word": "128-kb",
+          "lemma": "128-kb",
+          "offsetBegin": 8,
+          "offsetEnd": 14,
+          "pos": "JJ"
+        },
+        {
+          "word": "four-way",
+          "lemma": "four-way",
+          "offsetBegin": 15,
+          "offsetEnd": 23,
+          "pos": "JJ"
+        },
+        {
+          "word": "set-associative",
+          "lemma": "set-associative",
+          "offsetBegin": 24,
+          "offsetEnd": 39,
+          "pos": "JJ"
+        },
+        {
+          "word": "two-level",
+          "lemma": "two-level",
+          "offsetBegin": 40,
+          "offsetEnd": 49,
+          "pos": "JJ"
+        },
+        {
+          "word": "CMOS",
+          "lemma": "cmo",
+          "offsetBegin": 50,
+          "offsetEnd": 54,
+          "pos": "NNS"
+        },
+        {
+          "word": "cache",
+          "lemma": "cache",
+          "offsetBegin": 55,
+          "offsetEnd": 60,
+          "pos": "NN"
+        },
+        {
+          "word": "memory",
+          "lemma": "memory",
+          "offsetBegin": 61,
+          "offsetEnd": 67,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 68,
+          "offsetEnd": 73,
+          "pos": "VBG"
+        },
+        {
+          "word": "two-stage",
+          "lemma": "two-stage",
+          "offsetBegin": 74,
+          "offsetEnd": 83,
+          "pos": "JJ"
+        },
+        {
+          "word": "wordline/bitline-oriented",
+          "lemma": "wordline/bitline-oriented",
+          "offsetBegin": 84,
+          "offsetEnd": 109,
+          "pos": "JJ"
+        },
+        {
+          "word": "tag-compare",
+          "lemma": "tag-compare",
+          "offsetBegin": 110,
+          "offsetEnd": 121,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 122,
+          "offsetEnd": 123,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "WLOTC/BLOTC",
+          "lemma": "wlotc/blotc",
+          "offsetBegin": 123,
+          "offsetEnd": 134,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 134,
+          "offsetEnd": 135,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 136,
+          "offsetEnd": 142,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 143,
+          "offsetEnd": 147,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 148,
+          "offsetEnd": 153,
+          "pos": "NN"
+        },
+        {
+          "word": "reports",
+          "lemma": "report",
+          "offsetBegin": 154,
+          "offsetEnd": 161,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 162,
+          "offsetEnd": 163,
+          "pos": "DT"
+        },
+        {
+          "word": "0.8-V",
+          "lemma": "0.8-v",
+          "offsetBegin": 164,
+          "offsetEnd": 169,
+          "pos": "NN"
+        },
+        {
+          "word": "128-kb",
+          "lemma": "128-kb",
+          "offsetBegin": 170,
+          "offsetEnd": 176,
+          "pos": "JJ"
+        },
+        {
+          "word": "four-way",
+          "lemma": "four-way",
+          "offsetBegin": 177,
+          "offsetEnd": 185,
+          "pos": "JJ"
+        },
+        {
+          "word": "set-associative",
+          "lemma": "set-associative",
+          "offsetBegin": 186,
+          "offsetEnd": 201,
+          "pos": "JJ"
+        },
+        {
+          "word": "two-level",
+          "lemma": "two-level",
+          "offsetBegin": 202,
+          "offsetEnd": 211,
+          "pos": "JJ"
+        },
+        {
+          "word": "CMOS",
+          "lemma": "cmo",
+          "offsetBegin": 212,
+          "offsetEnd": 216,
+          "pos": "NNS"
+        },
+        {
+          "word": "cache",
+          "lemma": "cache",
+          "offsetBegin": 217,
+          "offsetEnd": 222,
+          "pos": "NN"
+        },
+        {
+          "word": "memory",
+          "lemma": "memory",
+          "offsetBegin": 223,
+          "offsetEnd": 229,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 230,
+          "offsetEnd": 235,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 236,
+          "offsetEnd": 237,
+          "pos": "DT"
+        },
+        {
+          "word": "novel",
+          "lemma": "novel",
+          "offsetBegin": 238,
+          "offsetEnd": 243,
+          "pos": "JJ"
+        },
+        {
+          "word": "two-stage",
+          "lemma": "two-stage",
+          "offsetBegin": 244,
+          "offsetEnd": 253,
+          "pos": "JJ"
+        },
+        {
+          "word": "wordline/bitline-oriented",
+          "lemma": "wordline/bitline-oriented",
+          "offsetBegin": 254,
+          "offsetEnd": 279,
+          "pos": "JJ"
+        },
+        {
+          "word": "tag-compare",
+          "lemma": "tag-compare",
+          "offsetBegin": 280,
+          "offsetEnd": 291,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 292,
+          "offsetEnd": 293,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "WLOTC/BLOTC",
+          "lemma": "wlotc/blotc",
+          "offsetBegin": 293,
+          "offsetEnd": 304,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 304,
+          "offsetEnd": 305,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 306,
+          "offsetEnd": 309,
+          "pos": "CC"
+        },
+        {
+          "word": "sense",
+          "lemma": "sense",
+          "offsetBegin": 310,
+          "offsetEnd": 315,
+          "pos": "NN"
+        },
+        {
+          "word": "wordline/bitline",
+          "lemma": "wordline/bitline",
+          "offsetBegin": 316,
+          "offsetEnd": 332,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 333,
+          "offsetEnd": 334,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "SWL/SBL",
+          "lemma": "swl/sbl",
+          "offsetBegin": 334,
+          "offsetEnd": 341,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 341,
+          "offsetEnd": 342,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "tag-sense",
+          "lemma": "tag-sense",
+          "offsetBegin": 343,
+          "offsetEnd": 352,
+          "pos": "JJ"
+        },
+        {
+          "word": "amplifiers",
+          "lemma": "amplifier",
+          "offsetBegin": 353,
+          "offsetEnd": 363,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 364,
+          "offsetEnd": 368,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 369,
+          "offsetEnd": 371,
+          "pos": "DT"
+        },
+        {
+          "word": "eight-transistor",
+          "lemma": "eight-transistor",
+          "offsetBegin": 372,
+          "offsetEnd": 388,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 389,
+          "offsetEnd": 390,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "8-T",
+          "lemma": "8-t",
+          "offsetBegin": 390,
+          "offsetEnd": 393,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 393,
+          "offsetEnd": 394,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "tag",
+          "lemma": "tag",
+          "offsetBegin": 395,
+          "offsetEnd": 398,
+          "pos": "NN"
+        },
+        {
+          "word": "cell",
+          "lemma": "cell",
+          "offsetBegin": 399,
+          "offsetEnd": 403,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 404,
+          "offsetEnd": 406,
+          "pos": "IN"
+        },
+        {
+          "word": "Level",
+          "lemma": "level",
+          "offsetBegin": 407,
+          "offsetEnd": 412,
+          "pos": "NN"
+        },
+        {
+          "word": "2",
+          "lemma": "2",
+          "offsetBegin": 413,
+          "offsetEnd": 414,
+          "pos": "CD"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 415,
+          "offsetEnd": 416,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "L2",
+          "lemma": "l2",
+          "offsetBegin": 416,
+          "offsetEnd": 418,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 418,
+          "offsetEnd": 419,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 420,
+          "offsetEnd": 423,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 424,
+          "offsetEnd": 425,
+          "pos": "DT"
+        },
+        {
+          "word": "10-T",
+          "lemma": "10-t",
+          "offsetBegin": 426,
+          "offsetEnd": 430,
+          "pos": "JJ"
+        },
+        {
+          "word": "shrunk",
+          "lemma": "shrink",
+          "offsetBegin": 431,
+          "offsetEnd": 437,
+          "pos": "VBD"
+        },
+        {
+          "word": "logic",
+          "lemma": "logic",
+          "offsetBegin": 438,
+          "offsetEnd": 443,
+          "pos": "NN"
+        },
+        {
+          "word": "swing",
+          "lemma": "swing",
+          "offsetBegin": 444,
+          "offsetEnd": 449,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 450,
+          "offsetEnd": 451,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "SLS",
+          "lemma": "sls",
+          "offsetBegin": 451,
+          "offsetEnd": 454,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 454,
+          "offsetEnd": 455,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "memory",
+          "lemma": "memory",
+          "offsetBegin": 456,
+          "offsetEnd": 462,
+          "pos": "NN"
+        },
+        {
+          "word": "cell",
+          "lemma": "cell",
+          "offsetBegin": 463,
+          "offsetEnd": 467,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 467,
+          "offsetEnd": 468,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 469,
+          "offsetEnd": 473,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 474,
+          "offsetEnd": 477,
+          "pos": "DT"
+        },
+        {
+          "word": "ground/floating",
+          "lemma": "ground/floating",
+          "offsetBegin": 478,
+          "offsetEnd": 493,
+          "pos": "VBG"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 494,
+          "offsetEnd": 495,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "G/F",
+          "lemma": "g/f",
+          "offsetBegin": 495,
+          "offsetEnd": 498,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 498,
+          "offsetEnd": 499,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 500,
+          "offsetEnd": 504,
+          "pos": "NNS"
+        },
+        {
+          "word": "sense",
+          "lemma": "sense",
+          "offsetBegin": 505,
+          "offsetEnd": 510,
+          "pos": "VBP"
+        },
+        {
+          "word": "amplifier",
+          "lemma": "amplifier",
+          "offsetBegin": 511,
+          "offsetEnd": 520,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 521,
+          "offsetEnd": 523,
+          "pos": "IN"
+        },
+        {
+          "word": "Level",
+          "lemma": "Level",
+          "offsetBegin": 524,
+          "offsetEnd": 529,
+          "pos": "NNP"
+        },
+        {
+          "word": "1",
+          "lemma": "1",
+          "offsetBegin": 530,
+          "offsetEnd": 531,
+          "pos": "CD"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 532,
+          "offsetEnd": 533,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "L1",
+          "lemma": "l1",
+          "offsetBegin": 533,
+          "offsetEnd": 535,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 535,
+          "offsetEnd": 536,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 537,
+          "offsetEnd": 540,
+          "pos": "IN"
+        },
+        {
+          "word": "high-speed",
+          "lemma": "high-speed",
+          "offsetBegin": 541,
+          "offsetEnd": 551,
+          "pos": "JJ"
+        },
+        {
+          "word": "operation",
+          "lemma": "operation",
+          "offsetBegin": 552,
+          "offsetEnd": 561,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 562,
+          "offsetEnd": 565,
+          "pos": "IN"
+        },
+        {
+          "word": "low-voltage",
+          "lemma": "low-voltage",
+          "offsetBegin": 566,
+          "offsetEnd": 577,
+          "pos": "JJ"
+        },
+        {
+          "word": "low-power",
+          "lemma": "low-power",
+          "offsetBegin": 578,
+          "offsetEnd": 587,
+          "pos": "JJ"
+        },
+        {
+          "word": "VLSI",
+          "lemma": "VLSI",
+          "offsetBegin": 588,
+          "offsetEnd": 592,
+          "pos": "NNP"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 593,
+          "offsetEnd": 599,
+          "pos": "NN"
+        },
+        {
+          "word": "applications",
+          "lemma": "application",
+          "offsetBegin": 600,
+          "offsetEnd": 612,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 612,
+          "offsetEnd": 613,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Owing",
+          "lemma": "owe",
+          "offsetBegin": 614,
+          "offsetEnd": 619,
+          "pos": "VBG"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 620,
+          "offsetEnd": 622,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 623,
+          "offsetEnd": 626,
+          "pos": "DT"
+        },
+        {
+          "word": "reduced",
+          "lemma": "reduce",
+          "offsetBegin": 627,
+          "offsetEnd": 634,
+          "pos": "VBN"
+        },
+        {
+          "word": "loading",
+          "lemma": "loading",
+          "offsetBegin": 635,
+          "offsetEnd": 642,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 643,
+          "offsetEnd": 645,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 646,
+          "offsetEnd": 649,
+          "pos": "DT"
+        },
+        {
+          "word": "SWL",
+          "lemma": "swl",
+          "offsetBegin": 650,
+          "offsetEnd": 653,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 654,
+          "offsetEnd": 656,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 657,
+          "offsetEnd": 660,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 661,
+          "offsetEnd": 664,
+          "pos": "JJ"
+        },
+        {
+          "word": "11-T",
+          "lemma": "11-t",
+          "offsetBegin": 665,
+          "offsetEnd": 669,
+          "pos": "JJ"
+        },
+        {
+          "word": "tag",
+          "lemma": "tag",
+          "offsetBegin": 670,
+          "offsetEnd": 673,
+          "pos": "NN"
+        },
+        {
+          "word": "cell",
+          "lemma": "cell",
+          "offsetBegin": 674,
+          "offsetEnd": 678,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 679,
+          "offsetEnd": 684,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 685,
+          "offsetEnd": 688,
+          "pos": "DT"
+        },
+        {
+          "word": "WLOTC",
+          "lemma": "WLOTC",
+          "offsetBegin": 689,
+          "offsetEnd": 694,
+          "pos": "NNP"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 695,
+          "offsetEnd": 701,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 701,
+          "offsetEnd": 702,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 703,
+          "offsetEnd": 706,
+          "pos": "DT"
+        },
+        {
+          "word": "10-T",
+          "lemma": "10-t",
+          "offsetBegin": 707,
+          "offsetEnd": 711,
+          "pos": "JJ"
+        },
+        {
+          "word": "SLS",
+          "lemma": "sls",
+          "offsetBegin": 712,
+          "offsetEnd": 715,
+          "pos": "NN"
+        },
+        {
+          "word": "memory",
+          "lemma": "memory",
+          "offsetBegin": 716,
+          "offsetEnd": 722,
+          "pos": "NN"
+        },
+        {
+          "word": "cell",
+          "lemma": "cell",
+          "offsetBegin": 723,
+          "offsetEnd": 727,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 728,
+          "offsetEnd": 732,
+          "pos": "IN"
+        },
+        {
+          "word": "G/F",
+          "lemma": "g/f",
+          "offsetBegin": 733,
+          "offsetEnd": 736,
+          "pos": "NN"
+        },
+        {
+          "word": "sense",
+          "lemma": "sense",
+          "offsetBegin": 737,
+          "offsetEnd": 742,
+          "pos": "NN"
+        },
+        {
+          "word": "amplifier",
+          "lemma": "amplifier",
+          "offsetBegin": 743,
+          "offsetEnd": 752,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 753,
+          "offsetEnd": 755,
+          "pos": "IN"
+        },
+        {
+          "word": "L1",
+          "lemma": "l1",
+          "offsetBegin": 756,
+          "offsetEnd": 758,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 758,
+          "offsetEnd": 759,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 760,
+          "offsetEnd": 763,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 764,
+          "offsetEnd": 767,
+          "pos": "DT"
+        },
+        {
+          "word": "split",
+          "lemma": "split",
+          "offsetBegin": 768,
+          "offsetEnd": 773,
+          "pos": "NN"
+        },
+        {
+          "word": "comparison",
+          "lemma": "comparison",
+          "offsetBegin": 774,
+          "offsetEnd": 784,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 785,
+          "offsetEnd": 787,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 788,
+          "offsetEnd": 791,
+          "pos": "DT"
+        },
+        {
+          "word": "index",
+          "lemma": "index",
+          "offsetBegin": 792,
+          "offsetEnd": 797,
+          "pos": "NN"
+        },
+        {
+          "word": "signal",
+          "lemma": "signal",
+          "offsetBegin": 798,
+          "offsetEnd": 804,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 805,
+          "offsetEnd": 807,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 808,
+          "offsetEnd": 811,
+          "pos": "DT"
+        },
+        {
+          "word": "8-T",
+          "lemma": "8-t",
+          "offsetBegin": 812,
+          "offsetEnd": 815,
+          "pos": "NN"
+        },
+        {
+          "word": "tag",
+          "lemma": "tag",
+          "offsetBegin": 816,
+          "offsetEnd": 819,
+          "pos": "NN"
+        },
+        {
+          "word": "cells",
+          "lemma": "cell",
+          "offsetBegin": 820,
+          "offsetEnd": 825,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 826,
+          "offsetEnd": 830,
+          "pos": "IN"
+        },
+        {
+          "word": "SWL/SBL",
+          "lemma": "swl/sbl",
+          "offsetBegin": 831,
+          "offsetEnd": 838,
+          "pos": "NN"
+        },
+        {
+          "word": "tag",
+          "lemma": "tag",
+          "offsetBegin": 839,
+          "offsetEnd": 842,
+          "pos": "NN"
+        },
+        {
+          "word": "sense",
+          "lemma": "sense",
+          "offsetBegin": 843,
+          "offsetEnd": 848,
+          "pos": "NN"
+        },
+        {
+          "word": "amplifiers",
+          "lemma": "amplifier",
+          "offsetBegin": 849,
+          "offsetEnd": 859,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 860,
+          "offsetEnd": 862,
+          "pos": "IN"
+        },
+        {
+          "word": "L2",
+          "lemma": "l2",
+          "offsetBegin": 863,
+          "offsetEnd": 865,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 865,
+          "offsetEnd": 866,
+          "pos": ","
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 867,
+          "offsetEnd": 871,
+          "pos": "DT"
+        },
+        {
+          "word": "0.8-V",
+          "lemma": "0.8-v",
+          "offsetBegin": 872,
+          "offsetEnd": 877,
+          "pos": "NN"
+        },
+        {
+          "word": "cache",
+          "lemma": "cache",
+          "offsetBegin": 878,
+          "offsetEnd": 883,
+          "pos": "NN"
+        },
+        {
+          "word": "memory",
+          "lemma": "memory",
+          "offsetBegin": 884,
+          "offsetEnd": 890,
+          "pos": "NN"
+        },
+        {
+          "word": "implemented",
+          "lemma": "implement",
+          "offsetBegin": 891,
+          "offsetEnd": 902,
+          "pos": "VBD"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 903,
+          "offsetEnd": 905,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 906,
+          "offsetEnd": 907,
+          "pos": "DT"
+        },
+        {
+          "word": "1.8-V",
+          "lemma": "1.8-v",
+          "offsetBegin": 908,
+          "offsetEnd": 913,
+          "pos": "NN"
+        },
+        {
+          "word": "0.18",
+          "lemma": "0.18",
+          "offsetBegin": 914,
+          "offsetEnd": 918,
+          "pos": "CD"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 918,
+          "offsetEnd": 919,
+          "pos": ":"
+        },
+        {
+          "word": "mu",
+          "lemma": "mu",
+          "offsetBegin": 920,
+          "offsetEnd": 922,
+          "pos": "NN"
+        },
+        {
+          "word": "m",
+          "lemma": "m",
+          "offsetBegin": 923,
+          "offsetEnd": 924,
+          "pos": "NN"
+        },
+        {
+          "word": "CMOS",
+          "lemma": "cmo",
+          "offsetBegin": 925,
+          "offsetEnd": 929,
+          "pos": "NNS"
+        },
+        {
+          "word": "technology",
+          "lemma": "technology",
+          "offsetBegin": 930,
+          "offsetEnd": 940,
+          "pos": "NN"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 941,
+          "offsetEnd": 944,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 945,
+          "offsetEnd": 946,
+          "pos": "DT"
+        },
+        {
+          "word": "measured",
+          "lemma": "measure",
+          "offsetBegin": 947,
+          "offsetEnd": 955,
+          "pos": "VBN"
+        },
+        {
+          "word": "L1/L2",
+          "lemma": "l1/l2",
+          "offsetBegin": 956,
+          "offsetEnd": 961,
+          "pos": "NN"
+        },
+        {
+          "word": "hit",
+          "lemma": "hit",
+          "offsetBegin": 962,
+          "offsetEnd": 965,
+          "pos": "NN"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 966,
+          "offsetEnd": 970,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 971,
+          "offsetEnd": 973,
+          "pos": "IN"
+        },
+        {
+          "word": "11.6",
+          "lemma": "11.6",
+          "offsetBegin": 974,
+          "offsetEnd": 978,
+          "pos": "CD"
+        },
+        {
+          "word": "/",
+          "lemma": "/",
+          "offsetBegin": 978,
+          "offsetEnd": 979,
+          "pos": ":"
+        },
+        {
+          "word": "20.5",
+          "lemma": "20.5",
+          "offsetBegin": 979,
+          "offsetEnd": 983,
+          "pos": "CD"
+        },
+        {
+          "word": "ns",
+          "lemma": "n",
+          "offsetBegin": 984,
+          "offsetEnd": 986,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 987,
+          "offsetEnd": 989,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 990,
+          "offsetEnd": 993,
+          "pos": "DT"
+        },
+        {
+          "word": "average",
+          "lemma": "average",
+          "offsetBegin": 994,
+          "offsetEnd": 1001,
+          "pos": "JJ"
+        },
+        {
+          "word": "dissipation",
+          "lemma": "dissipation",
+          "offsetBegin": 1002,
+          "offsetEnd": 1013,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1014,
+          "offsetEnd": 1016,
+          "pos": "IN"
+        },
+        {
+          "word": "0.77",
+          "lemma": "0.77",
+          "offsetBegin": 1017,
+          "offsetEnd": 1021,
+          "pos": "CD"
+        },
+        {
+          "word": "mW",
+          "lemma": "mw",
+          "offsetBegin": 1022,
+          "offsetEnd": 1024,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 1025,
+          "offsetEnd": 1027,
+          "pos": "IN"
+        },
+        {
+          "word": "50",
+          "lemma": "50",
+          "offsetBegin": 1028,
+          "offsetEnd": 1030,
+          "pos": "CD"
+        },
+        {
+          "word": "MHz",
+          "lemma": "mhz",
+          "offsetBegin": 1031,
+          "offsetEnd": 1034,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

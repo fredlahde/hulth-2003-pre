@@ -1,0 +1,443 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "generalized",
+          "lemma": "generalize",
+          "offsetBegin": 2,
+          "offsetEnd": 13,
+          "pos": "VBN"
+        },
+        {
+          "word": "PERT/CPM",
+          "lemma": "pert/cpm",
+          "offsetBegin": 14,
+          "offsetEnd": 22,
+          "pos": "NN"
+        },
+        {
+          "word": "implementation",
+          "lemma": "implementation",
+          "offsetBegin": 23,
+          "offsetEnd": 37,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 38,
+          "offsetEnd": 40,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 41,
+          "offsetEnd": 42,
+          "pos": "DT"
+        },
+        {
+          "word": "spreadsheet",
+          "lemma": "spreadsheet",
+          "offsetBegin": 43,
+          "offsetEnd": 54,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 55,
+          "offsetEnd": 59,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 60,
+          "offsetEnd": 65,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 66,
+          "offsetEnd": 75,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 76,
+          "offsetEnd": 79,
+          "pos": "DT"
+        },
+        {
+          "word": "implementation",
+          "lemma": "implementation",
+          "offsetBegin": 80,
+          "offsetEnd": 94,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 95,
+          "offsetEnd": 97,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 98,
+          "offsetEnd": 101,
+          "pos": "DT"
+        },
+        {
+          "word": "traditional",
+          "lemma": "traditional",
+          "offsetBegin": 102,
+          "offsetEnd": 113,
+          "pos": "JJ"
+        },
+        {
+          "word": "PERT/CPM",
+          "lemma": "pert/cpm",
+          "offsetBegin": 114,
+          "offsetEnd": 122,
+          "pos": "NN"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 123,
+          "offsetEnd": 132,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 133,
+          "offsetEnd": 136,
+          "pos": "IN"
+        },
+        {
+          "word": "finding",
+          "lemma": "find",
+          "offsetBegin": 137,
+          "offsetEnd": 144,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 145,
+          "offsetEnd": 148,
+          "pos": "DT"
+        },
+        {
+          "word": "critical",
+          "lemma": "critical",
+          "offsetBegin": 149,
+          "offsetEnd": 157,
+          "pos": "JJ"
+        },
+        {
+          "word": "path",
+          "lemma": "path",
+          "offsetBegin": 158,
+          "offsetEnd": 162,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 163,
+          "offsetEnd": 165,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 166,
+          "offsetEnd": 167,
+          "pos": "DT"
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "offsetBegin": 168,
+          "offsetEnd": 175,
+          "pos": "NN"
+        },
+        {
+          "word": "network",
+          "lemma": "network",
+          "offsetBegin": 176,
+          "offsetEnd": 183,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 184,
+          "offsetEnd": 186,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 187,
+          "offsetEnd": 188,
+          "pos": "DT"
+        },
+        {
+          "word": "spreadsheet",
+          "lemma": "spreadsheet",
+          "offsetBegin": 189,
+          "offsetEnd": 200,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 200,
+          "offsetEnd": 201,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 202,
+          "offsetEnd": 205,
+          "pos": "DT"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 206,
+          "offsetEnd": 213,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 214,
+          "offsetEnd": 216,
+          "pos": "VBZ"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 217,
+          "offsetEnd": 219,
+          "pos": "IN"
+        },
+        {
+          "word": "importance",
+          "lemma": "importance",
+          "offsetBegin": 220,
+          "offsetEnd": 230,
+          "pos": "NN"
+        },
+        {
+          "word": "due",
+          "lemma": "due",
+          "offsetBegin": 231,
+          "offsetEnd": 234,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 235,
+          "offsetEnd": 237,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 238,
+          "offsetEnd": 241,
+          "pos": "DT"
+        },
+        {
+          "word": "recent",
+          "lemma": "recent",
+          "offsetBegin": 242,
+          "offsetEnd": 248,
+          "pos": "JJ"
+        },
+        {
+          "word": "shift",
+          "lemma": "shift",
+          "offsetBegin": 249,
+          "offsetEnd": 254,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 255,
+          "offsetEnd": 257,
+          "pos": "IN"
+        },
+        {
+          "word": "attention",
+          "lemma": "attention",
+          "offsetBegin": 258,
+          "offsetEnd": 267,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 268,
+          "offsetEnd": 270,
+          "pos": "TO"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 271,
+          "offsetEnd": 276,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 277,
+          "offsetEnd": 280,
+          "pos": "DT"
+        },
+        {
+          "word": "spreadsheet",
+          "lemma": "spreadsheet",
+          "offsetBegin": 281,
+          "offsetEnd": 292,
+          "pos": "NN"
+        },
+        {
+          "word": "environment",
+          "lemma": "environment",
+          "offsetBegin": 293,
+          "offsetEnd": 304,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 305,
+          "offsetEnd": 307,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 308,
+          "offsetEnd": 309,
+          "pos": "DT"
+        },
+        {
+          "word": "vehicle",
+          "lemma": "vehicle",
+          "offsetBegin": 310,
+          "offsetEnd": 317,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 318,
+          "offsetEnd": 321,
+          "pos": "IN"
+        },
+        {
+          "word": "delivering",
+          "lemma": "deliver",
+          "offsetBegin": 322,
+          "offsetEnd": 332,
+          "pos": "VBG"
+        },
+        {
+          "word": "management",
+          "lemma": "management",
+          "offsetBegin": 333,
+          "offsetEnd": 343,
+          "pos": "NN"
+        },
+        {
+          "word": "science/operations",
+          "lemma": "science/operations",
+          "offsetBegin": 344,
+          "offsetEnd": 362,
+          "pos": "NNS"
+        },
+        {
+          "word": "research",
+          "lemma": "research",
+          "offsetBegin": 363,
+          "offsetEnd": 371,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 372,
+          "offsetEnd": 373,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "MS/OR",
+          "lemma": "ms/or",
+          "offsetBegin": 373,
+          "offsetEnd": 378,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 378,
+          "offsetEnd": 379,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 380,
+          "offsetEnd": 390,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 391,
+          "offsetEnd": 393,
+          "pos": "TO"
+        },
+        {
+          "word": "end-users",
+          "lemma": "end-user",
+          "offsetBegin": 394,
+          "offsetEnd": 403,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

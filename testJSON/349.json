@@ -1,0 +1,1379 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "self-adjusting",
+          "lemma": "self-adjusting",
+          "offsetBegin": 2,
+          "offsetEnd": 16,
+          "pos": "JJ"
+        },
+        {
+          "word": "quality",
+          "lemma": "quality",
+          "offsetBegin": 17,
+          "offsetEnd": 24,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 25,
+          "offsetEnd": 27,
+          "pos": "IN"
+        },
+        {
+          "word": "service",
+          "lemma": "service",
+          "offsetBegin": 28,
+          "offsetEnd": 35,
+          "pos": "NN"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 36,
+          "offsetEnd": 43,
+          "pos": "NN"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 44,
+          "offsetEnd": 50,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 51,
+          "offsetEnd": 53,
+          "pos": "PRP"
+        },
+        {
+          "word": "propose",
+          "lemma": "propose",
+          "offsetBegin": 54,
+          "offsetEnd": 61,
+          "pos": "VBP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 62,
+          "offsetEnd": 65,
+          "pos": "CC"
+        },
+        {
+          "word": "analyze",
+          "lemma": "analyze",
+          "offsetBegin": 66,
+          "offsetEnd": 73,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 74,
+          "offsetEnd": 75,
+          "pos": "DT"
+        },
+        {
+          "word": "self-adjusting",
+          "lemma": "self-adjusting",
+          "offsetBegin": 76,
+          "offsetEnd": 90,
+          "pos": "JJ"
+        },
+        {
+          "word": "Quality",
+          "lemma": "Quality",
+          "offsetBegin": 91,
+          "offsetEnd": 98,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 99,
+          "offsetEnd": 101,
+          "pos": "IN"
+        },
+        {
+          "word": "Service",
+          "lemma": "Service",
+          "offsetBegin": 102,
+          "offsetEnd": 109,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 110,
+          "offsetEnd": 111,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 111,
+          "offsetEnd": 114,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 114,
+          "offsetEnd": 115,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 116,
+          "offsetEnd": 123,
+          "pos": "NN"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 124,
+          "offsetEnd": 130,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 131,
+          "offsetEnd": 135,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 136,
+          "offsetEnd": 139,
+          "pos": "DT"
+        },
+        {
+          "word": "goal",
+          "lemma": "goal",
+          "offsetBegin": 140,
+          "offsetEnd": 144,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 145,
+          "offsetEnd": 147,
+          "pos": "IN"
+        },
+        {
+          "word": "optimizing",
+          "lemma": "optimize",
+          "offsetBegin": 148,
+          "offsetEnd": 158,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 159,
+          "offsetEnd": 162,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 163,
+          "offsetEnd": 169,
+          "pos": "NN"
+        },
+        {
+          "word": "reward",
+          "lemma": "reward",
+          "offsetBegin": 170,
+          "offsetEnd": 176,
+          "pos": "NN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 177,
+          "offsetEnd": 179,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 180,
+          "offsetEnd": 181,
+          "pos": "DT"
+        },
+        {
+          "word": "result",
+          "lemma": "result",
+          "offsetBegin": 182,
+          "offsetEnd": 188,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 189,
+          "offsetEnd": 191,
+          "pos": "IN"
+        },
+        {
+          "word": "servicing",
+          "lemma": "service",
+          "offsetBegin": 192,
+          "offsetEnd": 201,
+          "pos": "VBG"
+        },
+        {
+          "word": "different",
+          "lemma": "different",
+          "offsetBegin": 202,
+          "offsetEnd": 211,
+          "pos": "JJ"
+        },
+        {
+          "word": "priority",
+          "lemma": "priority",
+          "offsetBegin": 212,
+          "offsetEnd": 220,
+          "pos": "NN"
+        },
+        {
+          "word": "clients",
+          "lemma": "client",
+          "offsetBegin": 221,
+          "offsetEnd": 228,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 229,
+          "offsetEnd": 233,
+          "pos": "IN"
+        },
+        {
+          "word": "varying",
+          "lemma": "vary",
+          "offsetBegin": 234,
+          "offsetEnd": 241,
+          "pos": "VBG"
+        },
+        {
+          "word": "workload",
+          "lemma": "workload",
+          "offsetBegin": 242,
+          "offsetEnd": 250,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 250,
+          "offsetEnd": 251,
+          "pos": ","
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 252,
+          "offsetEnd": 255,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 256,
+          "offsetEnd": 259,
+          "pos": "CC"
+        },
+        {
+          "word": "reward/penalty",
+          "lemma": "reward/penalty",
+          "offsetBegin": 260,
+          "offsetEnd": 274,
+          "pos": "NN"
+        },
+        {
+          "word": "requirements",
+          "lemma": "requirement",
+          "offsetBegin": 275,
+          "offsetEnd": 287,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 287,
+          "offsetEnd": 288,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Our",
+          "lemma": "we",
+          "offsetBegin": 289,
+          "offsetEnd": 292,
+          "pos": "PRP$"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 293,
+          "offsetEnd": 299,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 300,
+          "offsetEnd": 302,
+          "pos": "VBZ"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 303,
+          "offsetEnd": 308,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 309,
+          "offsetEnd": 311,
+          "pos": "IN"
+        },
+        {
+          "word": "resource",
+          "lemma": "resource",
+          "offsetBegin": 312,
+          "offsetEnd": 320,
+          "pos": "NN"
+        },
+        {
+          "word": "partitioning",
+          "lemma": "partitioning",
+          "offsetBegin": 321,
+          "offsetEnd": 333,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 334,
+          "offsetEnd": 337,
+          "pos": "CC"
+        },
+        {
+          "word": "designated",
+          "lemma": "designate",
+          "offsetBegin": 338,
+          "offsetEnd": 348,
+          "pos": "VBN"
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 349,
+          "offsetEnd": 350,
+          "pos": "``"
+        },
+        {
+          "word": "degrade",
+          "lemma": "degrade",
+          "offsetBegin": 350,
+          "offsetEnd": 357,
+          "pos": "VB"
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 358,
+          "offsetEnd": 361,
+          "pos": "NN"
+        },
+        {
+          "word": "areas",
+          "lemma": "area",
+          "offsetBegin": 362,
+          "offsetEnd": 367,
+          "pos": "NNS"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 367,
+          "offsetEnd": 368,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "offsetBegin": 369,
+          "offsetEnd": 373,
+          "pos": "JJ"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 374,
+          "offsetEnd": 378,
+          "pos": "IN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 379,
+          "offsetEnd": 385,
+          "pos": "NN"
+        },
+        {
+          "word": "resources",
+          "lemma": "resource",
+          "offsetBegin": 386,
+          "offsetEnd": 395,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 396,
+          "offsetEnd": 399,
+          "pos": "VBP"
+        },
+        {
+          "word": "partitioned",
+          "lemma": "partition",
+          "offsetBegin": 400,
+          "offsetEnd": 411,
+          "pos": "VBN"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 412,
+          "offsetEnd": 416,
+          "pos": "IN"
+        },
+        {
+          "word": "priority",
+          "lemma": "priority",
+          "offsetBegin": 417,
+          "offsetEnd": 425,
+          "pos": "NN"
+        },
+        {
+          "word": "areas",
+          "lemma": "area",
+          "offsetBegin": 426,
+          "offsetEnd": 431,
+          "pos": "NNS"
+        },
+        {
+          "word": "each",
+          "lemma": "each",
+          "offsetBegin": 432,
+          "offsetEnd": 436,
+          "pos": "DT"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 437,
+          "offsetEnd": 439,
+          "pos": "IN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 440,
+          "offsetEnd": 445,
+          "pos": "WDT"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 446,
+          "offsetEnd": 448,
+          "pos": "VBZ"
+        },
+        {
+          "word": "reserved",
+          "lemma": "reserve",
+          "offsetBegin": 449,
+          "offsetEnd": 457,
+          "pos": "VBN"
+        },
+        {
+          "word": "specifically",
+          "lemma": "specifically",
+          "offsetBegin": 458,
+          "offsetEnd": 470,
+          "pos": "RB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 471,
+          "offsetEnd": 473,
+          "pos": "TO"
+        },
+        {
+          "word": "serve",
+          "lemma": "serve",
+          "offsetBegin": 474,
+          "offsetEnd": 479,
+          "pos": "VB"
+        },
+        {
+          "word": "only",
+          "lemma": "only",
+          "offsetBegin": 480,
+          "offsetEnd": 484,
+          "pos": "RB"
+        },
+        {
+          "word": "clients",
+          "lemma": "client",
+          "offsetBegin": 485,
+          "offsetEnd": 492,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 493,
+          "offsetEnd": 495,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 496,
+          "offsetEnd": 497,
+          "pos": "DT"
+        },
+        {
+          "word": "corresponding",
+          "lemma": "corresponding",
+          "offsetBegin": 498,
+          "offsetEnd": 511,
+          "pos": "JJ"
+        },
+        {
+          "word": "class",
+          "lemma": "class",
+          "offsetBegin": 512,
+          "offsetEnd": 517,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 518,
+          "offsetEnd": 522,
+          "pos": "IN"
+        },
+        {
+          "word": "no",
+          "lemma": "no",
+          "offsetBegin": 523,
+          "offsetEnd": 525,
+          "pos": "DT"
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 526,
+          "offsetEnd": 529,
+          "pos": "NN"
+        },
+        {
+          "word": "degradation",
+          "lemma": "degradation",
+          "offsetBegin": 530,
+          "offsetEnd": 541,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 541,
+          "offsetEnd": 542,
+          "pos": ","
+        },
+        {
+          "word": "plus",
+          "lemma": "plus",
+          "offsetBegin": 543,
+          "offsetEnd": 547,
+          "pos": "CC"
+        },
+        {
+          "word": "one",
+          "lemma": "one",
+          "offsetBegin": 548,
+          "offsetEnd": 551,
+          "pos": "CD"
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 552,
+          "offsetEnd": 553,
+          "pos": "``"
+        },
+        {
+          "word": "degraded",
+          "lemma": "degraded",
+          "offsetBegin": 553,
+          "offsetEnd": 561,
+          "pos": "JJ"
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 562,
+          "offsetEnd": 565,
+          "pos": "NN"
+        },
+        {
+          "word": "area",
+          "lemma": "area",
+          "offsetBegin": 566,
+          "offsetEnd": 570,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 570,
+          "offsetEnd": 571,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 572,
+          "offsetEnd": 576,
+          "pos": "IN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 577,
+          "offsetEnd": 582,
+          "pos": "WDT"
+        },
+        {
+          "word": "all",
+          "lemma": "all",
+          "offsetBegin": 583,
+          "offsetEnd": 586,
+          "pos": "DT"
+        },
+        {
+          "word": "clients",
+          "lemma": "client",
+          "offsetBegin": 587,
+          "offsetEnd": 594,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 595,
+          "offsetEnd": 598,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 599,
+          "offsetEnd": 601,
+          "pos": "VB"
+        },
+        {
+          "word": "admitted",
+          "lemma": "admit",
+          "offsetBegin": 602,
+          "offsetEnd": 610,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 611,
+          "offsetEnd": 615,
+          "pos": "IN"
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 616,
+          "offsetEnd": 619,
+          "pos": "NN"
+        },
+        {
+          "word": "adjustment",
+          "lemma": "adjustment",
+          "offsetBegin": 620,
+          "offsetEnd": 630,
+          "pos": "NN"
+        },
+        {
+          "word": "being",
+          "lemma": "be",
+          "offsetBegin": 631,
+          "offsetEnd": 636,
+          "pos": "VBG"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 637,
+          "offsetEnd": 644,
+          "pos": "VBN"
+        },
+        {
+          "word": "only",
+          "lemma": "only",
+          "offsetBegin": 645,
+          "offsetEnd": 649,
+          "pos": "RB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 650,
+          "offsetEnd": 652,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 653,
+          "offsetEnd": 656,
+          "pos": "DT"
+        },
+        {
+          "word": "lowest",
+          "lemma": "lowest",
+          "offsetBegin": 657,
+          "offsetEnd": 663,
+          "pos": "JJS"
+        },
+        {
+          "word": "priority",
+          "lemma": "priority",
+          "offsetBegin": 664,
+          "offsetEnd": 672,
+          "pos": "NN"
+        },
+        {
+          "word": "clients",
+          "lemma": "client",
+          "offsetBegin": 673,
+          "offsetEnd": 680,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 680,
+          "offsetEnd": 681,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 682,
+          "offsetEnd": 684,
+          "pos": "PRP"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 685,
+          "offsetEnd": 689,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 690,
+          "offsetEnd": 694,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 695,
+          "offsetEnd": 698,
+          "pos": "DT"
+        },
+        {
+          "word": "best",
+          "lemma": "best",
+          "offsetBegin": 699,
+          "offsetEnd": 703,
+          "pos": "JJS"
+        },
+        {
+          "word": "partition",
+          "lemma": "partition",
+          "offsetBegin": 704,
+          "offsetEnd": 713,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 714,
+          "offsetEnd": 716,
+          "pos": "VBZ"
+        },
+        {
+          "word": "dictated",
+          "lemma": "dictate",
+          "offsetBegin": 717,
+          "offsetEnd": 725,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 726,
+          "offsetEnd": 728,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 729,
+          "offsetEnd": 732,
+          "pos": "DT"
+        },
+        {
+          "word": "workload",
+          "lemma": "workload",
+          "offsetBegin": 733,
+          "offsetEnd": 741,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 742,
+          "offsetEnd": 745,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 746,
+          "offsetEnd": 749,
+          "pos": "DT"
+        },
+        {
+          "word": "reward/penalty",
+          "lemma": "reward/penalty",
+          "offsetBegin": 750,
+          "offsetEnd": 764,
+          "pos": "NN"
+        },
+        {
+          "word": "characteristics",
+          "lemma": "characteristic",
+          "offsetBegin": 765,
+          "offsetEnd": 780,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 781,
+          "offsetEnd": 783,
+          "pos": "IN"
+        },
+        {
+          "word": "clients",
+          "lemma": "client",
+          "offsetBegin": 784,
+          "offsetEnd": 791,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 792,
+          "offsetEnd": 794,
+          "pos": "IN"
+        },
+        {
+          "word": "difference",
+          "lemma": "difference",
+          "offsetBegin": 795,
+          "offsetEnd": 805,
+          "pos": "NN"
+        },
+        {
+          "word": "priority",
+          "lemma": "priority",
+          "offsetBegin": 806,
+          "offsetEnd": 814,
+          "pos": "NN"
+        },
+        {
+          "word": "classes",
+          "lemma": "class",
+          "offsetBegin": 815,
+          "offsetEnd": 822,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 822,
+          "offsetEnd": 823,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 824,
+          "offsetEnd": 827,
+          "pos": "DT"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 828,
+          "offsetEnd": 836,
+          "pos": "NN"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 837,
+          "offsetEnd": 844,
+          "pos": "VBZ"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 845,
+          "offsetEnd": 848,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 849,
+          "offsetEnd": 851,
+          "pos": "VB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 852,
+          "offsetEnd": 856,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 857,
+          "offsetEnd": 859,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 860,
+          "offsetEnd": 861,
+          "pos": "DT"
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 862,
+          "offsetEnd": 865,
+          "pos": "NN"
+        },
+        {
+          "word": "manager",
+          "lemma": "manager",
+          "offsetBegin": 866,
+          "offsetEnd": 873,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 874,
+          "offsetEnd": 876,
+          "pos": "TO"
+        },
+        {
+          "word": "optimize",
+          "lemma": "optimize",
+          "offsetBegin": 877,
+          "offsetEnd": 885,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 886,
+          "offsetEnd": 889,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 890,
+          "offsetEnd": 896,
+          "pos": "NN"
+        },
+        {
+          "word": "total",
+          "lemma": "total",
+          "offsetBegin": 897,
+          "offsetEnd": 902,
+          "pos": "JJ"
+        },
+        {
+          "word": "reward",
+          "lemma": "reward",
+          "offsetBegin": 903,
+          "offsetEnd": 909,
+          "pos": "NN"
+        },
+        {
+          "word": "dynamically",
+          "lemma": "dynamically",
+          "offsetBegin": 910,
+          "offsetEnd": 921,
+          "pos": "RB"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 922,
+          "offsetEnd": 924,
+          "pos": "IN"
+        },
+        {
+          "word": "response",
+          "lemma": "response",
+          "offsetBegin": 925,
+          "offsetEnd": 933,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 934,
+          "offsetEnd": 936,
+          "pos": "TO"
+        },
+        {
+          "word": "changing",
+          "lemma": "change",
+          "offsetBegin": 937,
+          "offsetEnd": 945,
+          "pos": "VBG"
+        },
+        {
+          "word": "workloads",
+          "lemma": "workload",
+          "offsetBegin": 946,
+          "offsetEnd": 955,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 956,
+          "offsetEnd": 958,
+          "pos": "IN"
+        },
+        {
+          "word": "run",
+          "lemma": "run",
+          "offsetBegin": 959,
+          "offsetEnd": 962,
+          "pos": "NN"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 963,
+          "offsetEnd": 967,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 967,
+          "offsetEnd": 968,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 969,
+          "offsetEnd": 971,
+          "pos": "PRP"
+        },
+        {
+          "word": "demonstrate",
+          "lemma": "demonstrate",
+          "offsetBegin": 972,
+          "offsetEnd": 983,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 984,
+          "offsetEnd": 987,
+          "pos": "DT"
+        },
+        {
+          "word": "validity",
+          "lemma": "validity",
+          "offsetBegin": 988,
+          "offsetEnd": 996,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 997,
+          "offsetEnd": 999,
+          "pos": "IN"
+        },
+        {
+          "word": "our",
+          "lemma": "we",
+          "offsetBegin": 1000,
+          "offsetEnd": 1003,
+          "pos": "PRP$"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 1004,
+          "offsetEnd": 1010,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 1011,
+          "offsetEnd": 1013,
+          "pos": "IN"
+        },
+        {
+          "word": "means",
+          "lemma": "means",
+          "offsetBegin": 1014,
+          "offsetEnd": 1019,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1020,
+          "offsetEnd": 1022,
+          "pos": "IN"
+        },
+        {
+          "word": "simulation",
+          "lemma": "simulation",
+          "offsetBegin": 1023,
+          "offsetEnd": 1033,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1034,
+          "offsetEnd": 1037,
+          "pos": "CC"
+        },
+        {
+          "word": "comparing",
+          "lemma": "compare",
+          "offsetBegin": 1038,
+          "offsetEnd": 1047,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1048,
+          "offsetEnd": 1051,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 1052,
+          "offsetEnd": 1060,
+          "pos": "VBN"
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 1061,
+          "offsetEnd": 1064,
+          "pos": "NN"
+        },
+        {
+          "word": "self-adjusting",
+          "lemma": "self-adjusting",
+          "offsetBegin": 1065,
+          "offsetEnd": 1079,
+          "pos": "JJ"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 1080,
+          "offsetEnd": 1086,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 1087,
+          "offsetEnd": 1091,
+          "pos": "IN"
+        },
+        {
+          "word": "those",
+          "lemma": "those",
+          "offsetBegin": 1092,
+          "offsetEnd": 1097,
+          "pos": "DT"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 1098,
+          "offsetEnd": 1102,
+          "pos": "WDT"
+        },
+        {
+          "word": "do",
+          "lemma": "do",
+          "offsetBegin": 1103,
+          "offsetEnd": 1105,
+          "pos": "VBP"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 1106,
+          "offsetEnd": 1109,
+          "pos": "RB"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 1110,
+          "offsetEnd": 1113,
+          "pos": "VB"
+        },
+        {
+          "word": "resource",
+          "lemma": "resource",
+          "offsetBegin": 1114,
+          "offsetEnd": 1122,
+          "pos": "NN"
+        },
+        {
+          "word": "partitioning",
+          "lemma": "partitioning",
+          "offsetBegin": 1123,
+          "offsetEnd": 1135,
+          "pos": "NN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 1136,
+          "offsetEnd": 1138,
+          "pos": "CC"
+        },
+        {
+          "word": "designated",
+          "lemma": "designate",
+          "offsetBegin": 1139,
+          "offsetEnd": 1149,
+          "pos": "VBN"
+        },
+        {
+          "word": "degraded",
+          "lemma": "degraded",
+          "offsetBegin": 1150,
+          "offsetEnd": 1158,
+          "pos": "JJ"
+        },
+        {
+          "word": "QoS",
+          "lemma": "qos",
+          "offsetBegin": 1159,
+          "offsetEnd": 1162,
+          "pos": "NN"
+        },
+        {
+          "word": "areas",
+          "lemma": "area",
+          "offsetBegin": 1163,
+          "offsetEnd": 1168,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

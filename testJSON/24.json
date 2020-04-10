@@ -1,0 +1,948 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 0,
+          "offsetEnd": 5,
+          "pos": "JJ"
+        },
+        {
+          "word": "modeling",
+          "lemma": "modeling",
+          "offsetBegin": 6,
+          "offsetEnd": 14,
+          "pos": "NN"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 15,
+          "offsetEnd": 20,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 21,
+          "offsetEnd": 23,
+          "pos": "IN"
+        },
+        {
+          "word": "generalized",
+          "lemma": "generalize",
+          "offsetBegin": 24,
+          "offsetEnd": 35,
+          "pos": "VBN"
+        },
+        {
+          "word": "conjunction",
+          "lemma": "conjunction",
+          "offsetBegin": 36,
+          "offsetEnd": 47,
+          "pos": "NN"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 48,
+          "offsetEnd": 58,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "An",
+          "lemma": "a",
+          "offsetBegin": 59,
+          "offsetEnd": 61,
+          "pos": "DT"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 62,
+          "offsetEnd": 70,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 71,
+          "offsetEnd": 73,
+          "pos": "TO"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 74,
+          "offsetEnd": 79,
+          "pos": "JJ"
+        },
+        {
+          "word": "modeling",
+          "lemma": "modeling",
+          "offsetBegin": 80,
+          "offsetEnd": 88,
+          "pos": "NN"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 89,
+          "offsetEnd": 94,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 95,
+          "offsetEnd": 97,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 98,
+          "offsetEnd": 101,
+          "pos": "DT"
+        },
+        {
+          "word": "tuning",
+          "lemma": "tuning",
+          "offsetBegin": 102,
+          "offsetEnd": 108,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 109,
+          "offsetEnd": 111,
+          "pos": "IN"
+        },
+        {
+          "word": "parametric",
+          "lemma": "parametric",
+          "offsetBegin": 112,
+          "offsetEnd": 122,
+          "pos": "JJ"
+        },
+        {
+          "word": "conjunction",
+          "lemma": "conjunction",
+          "offsetBegin": 123,
+          "offsetEnd": 134,
+          "pos": "NN"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 135,
+          "offsetEnd": 145,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 146,
+          "offsetEnd": 148,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 149,
+          "offsetEnd": 157,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 157,
+          "offsetEnd": 158,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "First",
+          "lemma": "first",
+          "offsetBegin": 159,
+          "offsetEnd": 164,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 164,
+          "offsetEnd": 165,
+          "pos": ","
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 166,
+          "offsetEnd": 170,
+          "pos": "DT"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 171,
+          "offsetEnd": 178,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 179,
+          "offsetEnd": 182,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 183,
+          "offsetEnd": 186,
+          "pos": "DT"
+        },
+        {
+          "word": "construction",
+          "lemma": "construction",
+          "offsetBegin": 187,
+          "offsetEnd": 199,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 200,
+          "offsetEnd": 202,
+          "pos": "IN"
+        },
+        {
+          "word": "parametric",
+          "lemma": "parametric",
+          "offsetBegin": 203,
+          "offsetEnd": 213,
+          "pos": "JJ"
+        },
+        {
+          "word": "generalized",
+          "lemma": "generalize",
+          "offsetBegin": 214,
+          "offsetEnd": 225,
+          "pos": "VBN"
+        },
+        {
+          "word": "conjunction",
+          "lemma": "conjunction",
+          "offsetBegin": 226,
+          "offsetEnd": 237,
+          "pos": "NN"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 238,
+          "offsetEnd": 248,
+          "pos": "NNS"
+        },
+        {
+          "word": "simpler",
+          "lemma": "simpler",
+          "offsetBegin": 249,
+          "offsetEnd": 256,
+          "pos": "JJR"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 257,
+          "offsetEnd": 261,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 262,
+          "offsetEnd": 265,
+          "pos": "DT"
+        },
+        {
+          "word": "known",
+          "lemma": "known",
+          "offsetBegin": 266,
+          "offsetEnd": 271,
+          "pos": "JJ"
+        },
+        {
+          "word": "parametric",
+          "lemma": "parametric",
+          "offsetBegin": 272,
+          "offsetEnd": 282,
+          "pos": "JJ"
+        },
+        {
+          "word": "classes",
+          "lemma": "class",
+          "offsetBegin": 283,
+          "offsetEnd": 290,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 291,
+          "offsetEnd": 293,
+          "pos": "IN"
+        },
+        {
+          "word": "conjunctions",
+          "lemma": "conjunction",
+          "offsetBegin": 294,
+          "offsetEnd": 306,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 307,
+          "offsetEnd": 310,
+          "pos": "VBP"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 311,
+          "offsetEnd": 321,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 322,
+          "offsetEnd": 325,
+          "pos": "CC"
+        },
+        {
+          "word": "discussed",
+          "lemma": "discuss",
+          "offsetBegin": 326,
+          "offsetEnd": 335,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 335,
+          "offsetEnd": 336,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Second",
+          "lemma": "second",
+          "offsetBegin": 337,
+          "offsetEnd": 343,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 343,
+          "offsetEnd": 344,
+          "pos": ","
+        },
+        {
+          "word": "several",
+          "lemma": "several",
+          "offsetBegin": 345,
+          "offsetEnd": 352,
+          "pos": "JJ"
+        },
+        {
+          "word": "examples",
+          "lemma": "example",
+          "offsetBegin": 353,
+          "offsetEnd": 361,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 362,
+          "offsetEnd": 364,
+          "pos": "IN"
+        },
+        {
+          "word": "function",
+          "lemma": "function",
+          "offsetBegin": 365,
+          "offsetEnd": 373,
+          "pos": "NN"
+        },
+        {
+          "word": "approximation",
+          "lemma": "approximation",
+          "offsetBegin": 374,
+          "offsetEnd": 387,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 388,
+          "offsetEnd": 390,
+          "pos": "IN"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 391,
+          "offsetEnd": 396,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 397,
+          "offsetEnd": 403,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 403,
+          "offsetEnd": 404,
+          "pos": ","
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 405,
+          "offsetEnd": 410,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 411,
+          "offsetEnd": 413,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 414,
+          "offsetEnd": 417,
+          "pos": "DT"
+        },
+        {
+          "word": "tuning",
+          "lemma": "tuning",
+          "offsetBegin": 418,
+          "offsetEnd": 424,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 425,
+          "offsetEnd": 427,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 428,
+          "offsetEnd": 431,
+          "pos": "DT"
+        },
+        {
+          "word": "parameters",
+          "lemma": "parameter",
+          "offsetBegin": 432,
+          "offsetEnd": 442,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 443,
+          "offsetEnd": 445,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 446,
+          "offsetEnd": 449,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 450,
+          "offsetEnd": 453,
+          "pos": "JJ"
+        },
+        {
+          "word": "conjunction",
+          "lemma": "conjunction",
+          "offsetBegin": 454,
+          "offsetEnd": 465,
+          "pos": "NN"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 466,
+          "offsetEnd": 476,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 476,
+          "offsetEnd": 477,
+          "pos": ","
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 478,
+          "offsetEnd": 481,
+          "pos": "VBP"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 482,
+          "offsetEnd": 487,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 488,
+          "offsetEnd": 491,
+          "pos": "CC"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 492,
+          "offsetEnd": 497,
+          "pos": "PRP$"
+        },
+        {
+          "word": "approximation",
+          "lemma": "approximation",
+          "offsetBegin": 498,
+          "offsetEnd": 511,
+          "pos": "NN"
+        },
+        {
+          "word": "performances",
+          "lemma": "performance",
+          "offsetBegin": 512,
+          "offsetEnd": 524,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 525,
+          "offsetEnd": 528,
+          "pos": "VBP"
+        },
+        {
+          "word": "compared",
+          "lemma": "compare",
+          "offsetBegin": 529,
+          "offsetEnd": 537,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 538,
+          "offsetEnd": 542,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 543,
+          "offsetEnd": 546,
+          "pos": "DT"
+        },
+        {
+          "word": "approaches",
+          "lemma": "approach",
+          "offsetBegin": 547,
+          "offsetEnd": 557,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 558,
+          "offsetEnd": 563,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 564,
+          "offsetEnd": 566,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 567,
+          "offsetEnd": 568,
+          "pos": "DT"
+        },
+        {
+          "word": "tuning",
+          "lemma": "tuning",
+          "offsetBegin": 569,
+          "offsetEnd": 575,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 576,
+          "offsetEnd": 578,
+          "pos": "IN"
+        },
+        {
+          "word": "membership",
+          "lemma": "membership",
+          "offsetBegin": 579,
+          "offsetEnd": 589,
+          "pos": "NN"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 590,
+          "offsetEnd": 599,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 600,
+          "offsetEnd": 603,
+          "pos": "CC"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 604,
+          "offsetEnd": 609,
+          "pos": "JJ"
+        },
+        {
+          "word": "approaches",
+          "lemma": "approach",
+          "offsetBegin": 610,
+          "offsetEnd": 620,
+          "pos": "NNS"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 621,
+          "offsetEnd": 629,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 630,
+          "offsetEnd": 632,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 633,
+          "offsetEnd": 636,
+          "pos": "DT"
+        },
+        {
+          "word": "literature",
+          "lemma": "literature",
+          "offsetBegin": 637,
+          "offsetEnd": 647,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 647,
+          "offsetEnd": 648,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "It",
+          "lemma": "it",
+          "offsetBegin": 649,
+          "offsetEnd": 651,
+          "pos": "PRP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 652,
+          "offsetEnd": 654,
+          "pos": "VBZ"
+        },
+        {
+          "word": "seen",
+          "lemma": "see",
+          "offsetBegin": 655,
+          "offsetEnd": 659,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 660,
+          "offsetEnd": 664,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 665,
+          "offsetEnd": 668,
+          "pos": "DT"
+        },
+        {
+          "word": "tuning",
+          "lemma": "tuning",
+          "offsetBegin": 669,
+          "offsetEnd": 675,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 676,
+          "offsetEnd": 678,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 679,
+          "offsetEnd": 682,
+          "pos": "DT"
+        },
+        {
+          "word": "conjunction",
+          "lemma": "conjunction",
+          "offsetBegin": 683,
+          "offsetEnd": 694,
+          "pos": "NN"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 695,
+          "offsetEnd": 705,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 706,
+          "offsetEnd": 709,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 710,
+          "offsetEnd": 712,
+          "pos": "VB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 713,
+          "offsetEnd": 717,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 718,
+          "offsetEnd": 721,
+          "pos": "IN"
+        },
+        {
+          "word": "obtaining",
+          "lemma": "obtain",
+          "offsetBegin": 722,
+          "offsetEnd": 731,
+          "pos": "VBG"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 732,
+          "offsetEnd": 737,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 738,
+          "offsetEnd": 744,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 745,
+          "offsetEnd": 749,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 750,
+          "offsetEnd": 751,
+          "pos": "DT"
+        },
+        {
+          "word": "sufficiently",
+          "lemma": "sufficiently",
+          "offsetBegin": 752,
+          "offsetEnd": 764,
+          "pos": "RB"
+        },
+        {
+          "word": "good",
+          "lemma": "good",
+          "offsetBegin": 765,
+          "offsetEnd": 769,
+          "pos": "JJ"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 770,
+          "offsetEnd": 781,
+          "pos": "NN"
+        },
+        {
+          "word": "when",
+          "lemma": "when",
+          "offsetBegin": 782,
+          "offsetEnd": 786,
+          "pos": "WRB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 787,
+          "offsetEnd": 790,
+          "pos": "DT"
+        },
+        {
+          "word": "tuning",
+          "lemma": "tuning",
+          "offsetBegin": 791,
+          "offsetEnd": 797,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 798,
+          "offsetEnd": 800,
+          "pos": "IN"
+        },
+        {
+          "word": "membership",
+          "lemma": "membership",
+          "offsetBegin": 801,
+          "offsetEnd": 811,
+          "pos": "NN"
+        },
+        {
+          "word": "functions",
+          "lemma": "function",
+          "offsetBegin": 812,
+          "offsetEnd": 821,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 822,
+          "offsetEnd": 824,
+          "pos": "VBZ"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 825,
+          "offsetEnd": 828,
+          "pos": "RB"
+        },
+        {
+          "word": "possible",
+          "lemma": "possible",
+          "offsetBegin": 829,
+          "offsetEnd": 837,
+          "pos": "JJ"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 838,
+          "offsetEnd": 840,
+          "pos": "CC"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 841,
+          "offsetEnd": 844,
+          "pos": "RB"
+        },
+        {
+          "word": "desirable",
+          "lemma": "desirable",
+          "offsetBegin": 845,
+          "offsetEnd": 854,
+          "pos": "JJ"
+        }
+      ]
+    }
+  ]
+}

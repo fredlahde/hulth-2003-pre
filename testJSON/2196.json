@@ -1,0 +1,1127 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "ConChat",
+          "lemma": "ConChat",
+          "offsetBegin": 0,
+          "offsetEnd": 7,
+          "pos": "NNP"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 7,
+          "offsetEnd": 8,
+          "pos": ":"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 9,
+          "offsetEnd": 10,
+          "pos": "DT"
+        },
+        {
+          "word": "context-aware",
+          "lemma": "context-aware",
+          "offsetBegin": 11,
+          "offsetEnd": 24,
+          "pos": "JJ"
+        },
+        {
+          "word": "chat",
+          "lemma": "chat",
+          "offsetBegin": 25,
+          "offsetEnd": 29,
+          "pos": "NN"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 30,
+          "offsetEnd": 37,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "ConChat",
+          "lemma": "ConChat",
+          "offsetBegin": 38,
+          "offsetEnd": 45,
+          "pos": "NNP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 46,
+          "offsetEnd": 48,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 49,
+          "offsetEnd": 50,
+          "pos": "DT"
+        },
+        {
+          "word": "context-aware",
+          "lemma": "context-aware",
+          "offsetBegin": 51,
+          "offsetEnd": 64,
+          "pos": "JJ"
+        },
+        {
+          "word": "chat",
+          "lemma": "chat",
+          "offsetBegin": 65,
+          "offsetEnd": 69,
+          "pos": "NN"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 70,
+          "offsetEnd": 77,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 78,
+          "offsetEnd": 82,
+          "pos": "WDT"
+        },
+        {
+          "word": "enriches",
+          "lemma": "enrich",
+          "offsetBegin": 83,
+          "offsetEnd": 91,
+          "pos": "VBZ"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 92,
+          "offsetEnd": 102,
+          "pos": "JJ"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 103,
+          "offsetEnd": 116,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 117,
+          "offsetEnd": 119,
+          "pos": "IN"
+        },
+        {
+          "word": "providing",
+          "lemma": "provide",
+          "offsetBegin": 120,
+          "offsetEnd": 129,
+          "pos": "VBG"
+        },
+        {
+          "word": "contextual",
+          "lemma": "contextual",
+          "offsetBegin": 130,
+          "offsetEnd": 140,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 141,
+          "offsetEnd": 152,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 153,
+          "offsetEnd": 156,
+          "pos": "CC"
+        },
+        {
+          "word": "resolving",
+          "lemma": "resolve",
+          "offsetBegin": 157,
+          "offsetEnd": 166,
+          "pos": "VBG"
+        },
+        {
+          "word": "potential",
+          "lemma": "potential",
+          "offsetBegin": 167,
+          "offsetEnd": 176,
+          "pos": "JJ"
+        },
+        {
+          "word": "semantic",
+          "lemma": "semantic",
+          "offsetBegin": 177,
+          "offsetEnd": 185,
+          "pos": "JJ"
+        },
+        {
+          "word": "conflicts",
+          "lemma": "conflict",
+          "offsetBegin": 186,
+          "offsetEnd": 195,
+          "pos": "NNS"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 196,
+          "offsetEnd": 203,
+          "pos": "IN"
+        },
+        {
+          "word": "users.ConChat",
+          "lemma": "users.conchat",
+          "offsetBegin": 204,
+          "offsetEnd": 217,
+          "pos": "NN"
+        },
+        {
+          "word": "uses",
+          "lemma": "use",
+          "offsetBegin": 218,
+          "offsetEnd": 222,
+          "pos": "VBZ"
+        },
+        {
+          "word": "contextual",
+          "lemma": "contextual",
+          "offsetBegin": 223,
+          "offsetEnd": 233,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 234,
+          "offsetEnd": 245,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 246,
+          "offsetEnd": 248,
+          "pos": "TO"
+        },
+        {
+          "word": "improve",
+          "lemma": "improve",
+          "offsetBegin": 249,
+          "offsetEnd": 256,
+          "pos": "VB"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 257,
+          "offsetEnd": 267,
+          "pos": "JJ"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 268,
+          "offsetEnd": 281,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 281,
+          "offsetEnd": 282,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Using",
+          "lemma": "use",
+          "offsetBegin": 283,
+          "offsetEnd": 288,
+          "pos": "VBG"
+        },
+        {
+          "word": "contextual",
+          "lemma": "contextual",
+          "offsetBegin": 289,
+          "offsetEnd": 299,
+          "pos": "JJ"
+        },
+        {
+          "word": "cues",
+          "lemma": "cue",
+          "offsetBegin": 300,
+          "offsetEnd": 304,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 304,
+          "offsetEnd": 305,
+          "pos": ","
+        },
+        {
+          "word": "users",
+          "lemma": "user",
+          "offsetBegin": 306,
+          "offsetEnd": 311,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 312,
+          "offsetEnd": 315,
+          "pos": "MD"
+        },
+        {
+          "word": "infer",
+          "lemma": "infer",
+          "offsetBegin": 316,
+          "offsetEnd": 321,
+          "pos": "VB"
+        },
+        {
+          "word": "during",
+          "lemma": "during",
+          "offsetBegin": 322,
+          "offsetEnd": 328,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 329,
+          "offsetEnd": 330,
+          "pos": "DT"
+        },
+        {
+          "word": "conversation",
+          "lemma": "conversation",
+          "offsetBegin": 331,
+          "offsetEnd": 343,
+          "pos": "NN"
+        },
+        {
+          "word": "what",
+          "lemma": "what",
+          "offsetBegin": 344,
+          "offsetEnd": 348,
+          "pos": "WP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 349,
+          "offsetEnd": 352,
+          "pos": "DT"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 353,
+          "offsetEnd": 358,
+          "pos": "JJ"
+        },
+        {
+          "word": "person",
+          "lemma": "person",
+          "offsetBegin": 359,
+          "offsetEnd": 365,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 366,
+          "offsetEnd": 368,
+          "pos": "VBZ"
+        },
+        {
+          "word": "doing",
+          "lemma": "do",
+          "offsetBegin": 369,
+          "offsetEnd": 374,
+          "pos": "VBG"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 375,
+          "offsetEnd": 378,
+          "pos": "CC"
+        },
+        {
+          "word": "what",
+          "lemma": "what",
+          "offsetBegin": 379,
+          "offsetEnd": 383,
+          "pos": "WP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 384,
+          "offsetEnd": 386,
+          "pos": "VBZ"
+        },
+        {
+          "word": "happening",
+          "lemma": "happen",
+          "offsetBegin": 387,
+          "offsetEnd": 396,
+          "pos": "VBG"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 397,
+          "offsetEnd": 399,
+          "pos": "IN"
+        },
+        {
+          "word": "his",
+          "lemma": "he",
+          "offsetBegin": 400,
+          "offsetEnd": 403,
+          "pos": "PRP$"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 404,
+          "offsetEnd": 406,
+          "pos": "CC"
+        },
+        {
+          "word": "her",
+          "lemma": "she",
+          "offsetBegin": 407,
+          "offsetEnd": 410,
+          "pos": "PRP$"
+        },
+        {
+          "word": "immediate",
+          "lemma": "immediate",
+          "offsetBegin": 411,
+          "offsetEnd": 420,
+          "pos": "JJ"
+        },
+        {
+          "word": "surroundings",
+          "lemma": "surroundings",
+          "offsetBegin": 421,
+          "offsetEnd": 433,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 433,
+          "offsetEnd": 434,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 435,
+          "offsetEnd": 438,
+          "pos": "IN"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 439,
+          "offsetEnd": 446,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 446,
+          "offsetEnd": 447,
+          "pos": ","
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "offsetBegin": 448,
+          "offsetEnd": 450,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 451,
+          "offsetEnd": 452,
+          "pos": "DT"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 453,
+          "offsetEnd": 457,
+          "pos": "NN"
+        },
+        {
+          "word": "learns",
+          "lemma": "learn",
+          "offsetBegin": 458,
+          "offsetEnd": 464,
+          "pos": "VBZ"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 465,
+          "offsetEnd": 469,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 470,
+          "offsetEnd": 473,
+          "pos": "DT"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 474,
+          "offsetEnd": 479,
+          "pos": "JJ"
+        },
+        {
+          "word": "person",
+          "lemma": "person",
+          "offsetBegin": 480,
+          "offsetEnd": 486,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 487,
+          "offsetEnd": 489,
+          "pos": "VBZ"
+        },
+        {
+          "word": "talking",
+          "lemma": "talk",
+          "offsetBegin": 490,
+          "offsetEnd": 497,
+          "pos": "VBG"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 498,
+          "offsetEnd": 502,
+          "pos": "IN"
+        },
+        {
+          "word": "somebody",
+          "lemma": "somebody",
+          "offsetBegin": 503,
+          "offsetEnd": 511,
+          "pos": "NN"
+        },
+        {
+          "word": "else",
+          "lemma": "else",
+          "offsetBegin": 512,
+          "offsetEnd": 516,
+          "pos": "RB"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 517,
+          "offsetEnd": 519,
+          "pos": "CC"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 520,
+          "offsetEnd": 522,
+          "pos": "VBZ"
+        },
+        {
+          "word": "involved",
+          "lemma": "involve",
+          "offsetBegin": 523,
+          "offsetEnd": 531,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 532,
+          "offsetEnd": 534,
+          "pos": "IN"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 535,
+          "offsetEnd": 539,
+          "pos": "DT"
+        },
+        {
+          "word": "urgent",
+          "lemma": "urgent",
+          "offsetBegin": 540,
+          "offsetEnd": 546,
+          "pos": "JJ"
+        },
+        {
+          "word": "activity",
+          "lemma": "activity",
+          "offsetBegin": 547,
+          "offsetEnd": 555,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 555,
+          "offsetEnd": 556,
+          "pos": ","
+        },
+        {
+          "word": "he",
+          "lemma": "he",
+          "offsetBegin": 557,
+          "offsetEnd": 559,
+          "pos": "PRP"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 560,
+          "offsetEnd": 562,
+          "pos": "CC"
+        },
+        {
+          "word": "she",
+          "lemma": "she",
+          "offsetBegin": 563,
+          "offsetEnd": 566,
+          "pos": "PRP"
+        },
+        {
+          "word": "knows",
+          "lemma": "know",
+          "offsetBegin": 567,
+          "offsetEnd": 572,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 573,
+          "offsetEnd": 575,
+          "pos": "TO"
+        },
+        {
+          "word": "expect",
+          "lemma": "expect",
+          "offsetBegin": 576,
+          "offsetEnd": 582,
+          "pos": "VB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 583,
+          "offsetEnd": 584,
+          "pos": "DT"
+        },
+        {
+          "word": "slower",
+          "lemma": "slower",
+          "offsetBegin": 585,
+          "offsetEnd": 591,
+          "pos": "JJR"
+        },
+        {
+          "word": "response",
+          "lemma": "response",
+          "offsetBegin": 592,
+          "offsetEnd": 600,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 600,
+          "offsetEnd": 601,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Conversely",
+          "lemma": "conversely",
+          "offsetBegin": 602,
+          "offsetEnd": 612,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 612,
+          "offsetEnd": 613,
+          "pos": ","
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "offsetBegin": 614,
+          "offsetEnd": 616,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 617,
+          "offsetEnd": 620,
+          "pos": "DT"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 621,
+          "offsetEnd": 625,
+          "pos": "NN"
+        },
+        {
+          "word": "learns",
+          "lemma": "learn",
+          "offsetBegin": 626,
+          "offsetEnd": 632,
+          "pos": "VBZ"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 633,
+          "offsetEnd": 637,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 638,
+          "offsetEnd": 641,
+          "pos": "DT"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 642,
+          "offsetEnd": 647,
+          "pos": "JJ"
+        },
+        {
+          "word": "person",
+          "lemma": "person",
+          "offsetBegin": 648,
+          "offsetEnd": 654,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 655,
+          "offsetEnd": 657,
+          "pos": "VBZ"
+        },
+        {
+          "word": "sitting",
+          "lemma": "sit",
+          "offsetBegin": 658,
+          "offsetEnd": 665,
+          "pos": "VBG"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 666,
+          "offsetEnd": 668,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 669,
+          "offsetEnd": 670,
+          "pos": "DT"
+        },
+        {
+          "word": "meeting",
+          "lemma": "meeting",
+          "offsetBegin": 671,
+          "offsetEnd": 678,
+          "pos": "NN"
+        },
+        {
+          "word": "directly",
+          "lemma": "directly",
+          "offsetBegin": 679,
+          "offsetEnd": 687,
+          "pos": "RB"
+        },
+        {
+          "word": "related",
+          "lemma": "related",
+          "offsetBegin": 688,
+          "offsetEnd": 695,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 696,
+          "offsetEnd": 698,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 699,
+          "offsetEnd": 702,
+          "pos": "DT"
+        },
+        {
+          "word": "conversation",
+          "lemma": "conversation",
+          "offsetBegin": 703,
+          "offsetEnd": 715,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 715,
+          "offsetEnd": 716,
+          "pos": ","
+        },
+        {
+          "word": "he",
+          "lemma": "he",
+          "offsetBegin": 717,
+          "offsetEnd": 719,
+          "pos": "PRP"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 720,
+          "offsetEnd": 722,
+          "pos": "CC"
+        },
+        {
+          "word": "she",
+          "lemma": "she",
+          "offsetBegin": 723,
+          "offsetEnd": 726,
+          "pos": "PRP"
+        },
+        {
+          "word": "then",
+          "lemma": "then",
+          "offsetBegin": 727,
+          "offsetEnd": 731,
+          "pos": "RB"
+        },
+        {
+          "word": "knows",
+          "lemma": "know",
+          "offsetBegin": 732,
+          "offsetEnd": 737,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 738,
+          "offsetEnd": 740,
+          "pos": "TO"
+        },
+        {
+          "word": "respond",
+          "lemma": "respond",
+          "offsetBegin": 741,
+          "offsetEnd": 748,
+          "pos": "VB"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 749,
+          "offsetEnd": 753,
+          "pos": "RBR"
+        },
+        {
+          "word": "quickly",
+          "lemma": "quickly",
+          "offsetBegin": 754,
+          "offsetEnd": 761,
+          "pos": "RB"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 761,
+          "offsetEnd": 762,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Also",
+          "lemma": "also",
+          "offsetBegin": 763,
+          "offsetEnd": 767,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 767,
+          "offsetEnd": 768,
+          "pos": ","
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 769,
+          "offsetEnd": 771,
+          "pos": "IN"
+        },
+        {
+          "word": "informing",
+          "lemma": "inform",
+          "offsetBegin": 772,
+          "offsetEnd": 781,
+          "pos": "VBG"
+        },
+        {
+          "word": "users",
+          "lemma": "user",
+          "offsetBegin": 782,
+          "offsetEnd": 787,
+          "pos": "NNS"
+        },
+        {
+          "word": "about",
+          "lemma": "about",
+          "offsetBegin": 788,
+          "offsetEnd": 793,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 794,
+          "offsetEnd": 797,
+          "pos": "DT"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 798,
+          "offsetEnd": 803,
+          "pos": "JJ"
+        },
+        {
+          "word": "person",
+          "lemma": "person",
+          "offsetBegin": 804,
+          "offsetEnd": 810,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 810,
+          "offsetEnd": 812,
+          "pos": "POS"
+        },
+        {
+          "word": "context",
+          "lemma": "context",
+          "offsetBegin": 813,
+          "offsetEnd": 820,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 821,
+          "offsetEnd": 824,
+          "pos": "CC"
+        },
+        {
+          "word": "tagging",
+          "lemma": "tag",
+          "offsetBegin": 825,
+          "offsetEnd": 832,
+          "pos": "VBG"
+        },
+        {
+          "word": "potentially",
+          "lemma": "potentially",
+          "offsetBegin": 833,
+          "offsetEnd": 844,
+          "pos": "RB"
+        },
+        {
+          "word": "ambiguous",
+          "lemma": "ambiguous",
+          "offsetBegin": 845,
+          "offsetEnd": 854,
+          "pos": "JJ"
+        },
+        {
+          "word": "chat",
+          "lemma": "chat",
+          "offsetBegin": 855,
+          "offsetEnd": 859,
+          "pos": "NN"
+        },
+        {
+          "word": "messages",
+          "lemma": "message",
+          "offsetBegin": 860,
+          "offsetEnd": 868,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 868,
+          "offsetEnd": 869,
+          "pos": ","
+        },
+        {
+          "word": "ConChat",
+          "lemma": "ConChat",
+          "offsetBegin": 870,
+          "offsetEnd": 877,
+          "pos": "NNP"
+        },
+        {
+          "word": "explores",
+          "lemma": "explore",
+          "offsetBegin": 878,
+          "offsetEnd": 886,
+          "pos": "VBZ"
+        },
+        {
+          "word": "how",
+          "lemma": "how",
+          "offsetBegin": 887,
+          "offsetEnd": 890,
+          "pos": "WRB"
+        },
+        {
+          "word": "context",
+          "lemma": "context",
+          "offsetBegin": 891,
+          "offsetEnd": 898,
+          "pos": "NN"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 899,
+          "offsetEnd": 902,
+          "pos": "MD"
+        },
+        {
+          "word": "improve",
+          "lemma": "improve",
+          "offsetBegin": 903,
+          "offsetEnd": 910,
+          "pos": "VB"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 911,
+          "offsetEnd": 921,
+          "pos": "JJ"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 922,
+          "offsetEnd": 935,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 936,
+          "offsetEnd": 938,
+          "pos": "IN"
+        },
+        {
+          "word": "reducing",
+          "lemma": "reduce",
+          "offsetBegin": 939,
+          "offsetEnd": 947,
+          "pos": "VBG"
+        },
+        {
+          "word": "semantic",
+          "lemma": "semantic",
+          "offsetBegin": 948,
+          "offsetEnd": 956,
+          "pos": "JJ"
+        },
+        {
+          "word": "conflicts",
+          "lemma": "conflict",
+          "offsetBegin": 957,
+          "offsetEnd": 966,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1320 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Using",
+          "lemma": "use",
+          "offsetBegin": 0,
+          "offsetEnd": 5,
+          "pos": "VBG"
+        },
+        {
+          "word": "molecular",
+          "lemma": "molecular",
+          "offsetBegin": 6,
+          "offsetEnd": 15,
+          "pos": "JJ"
+        },
+        {
+          "word": "equivalence",
+          "lemma": "equivalence",
+          "offsetBegin": 16,
+          "offsetEnd": 27,
+          "pos": "JJ"
+        },
+        {
+          "word": "numbers",
+          "lemma": "number",
+          "offsetBegin": 28,
+          "offsetEnd": 35,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 36,
+          "offsetEnd": 38,
+          "pos": "TO"
+        },
+        {
+          "word": "visually",
+          "lemma": "visually",
+          "offsetBegin": 39,
+          "offsetEnd": 47,
+          "pos": "RB"
+        },
+        {
+          "word": "explore",
+          "lemma": "explore",
+          "offsetBegin": 48,
+          "offsetEnd": 55,
+          "pos": "VB"
+        },
+        {
+          "word": "structural",
+          "lemma": "structural",
+          "offsetBegin": 56,
+          "offsetEnd": 66,
+          "pos": "JJ"
+        },
+        {
+          "word": "features",
+          "lemma": "feature",
+          "offsetBegin": 67,
+          "offsetEnd": 75,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 76,
+          "offsetEnd": 80,
+          "pos": "WDT"
+        },
+        {
+          "word": "distinguish",
+          "lemma": "distinguish",
+          "offsetBegin": 81,
+          "offsetEnd": 92,
+          "pos": "VBP"
+        },
+        {
+          "word": "chemical",
+          "lemma": "chemical",
+          "offsetBegin": 93,
+          "offsetEnd": 101,
+          "pos": "NN"
+        },
+        {
+          "word": "libraries",
+          "lemma": "library",
+          "offsetBegin": 102,
+          "offsetEnd": 111,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 112,
+          "offsetEnd": 113,
+          "pos": "DT"
+        },
+        {
+          "word": "molecular",
+          "lemma": "molecular",
+          "offsetBegin": 114,
+          "offsetEnd": 123,
+          "pos": "JJ"
+        },
+        {
+          "word": "equivalence",
+          "lemma": "equivalence",
+          "offsetBegin": 124,
+          "offsetEnd": 135,
+          "pos": "JJ"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 136,
+          "offsetEnd": 142,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 143,
+          "offsetEnd": 144,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "meqnum",
+          "lemma": "meqnum",
+          "offsetBegin": 144,
+          "offsetEnd": 150,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 150,
+          "offsetEnd": 151,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "classifies",
+          "lemma": "classify",
+          "offsetBegin": 152,
+          "offsetEnd": 162,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 163,
+          "offsetEnd": 164,
+          "pos": "DT"
+        },
+        {
+          "word": "molecule",
+          "lemma": "molecule",
+          "offsetBegin": 165,
+          "offsetEnd": 173,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 174,
+          "offsetEnd": 178,
+          "pos": "IN"
+        },
+        {
+          "word": "respect",
+          "lemma": "respect",
+          "offsetBegin": 179,
+          "offsetEnd": 186,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 187,
+          "offsetEnd": 189,
+          "pos": "TO"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 190,
+          "offsetEnd": 191,
+          "pos": "DT"
+        },
+        {
+          "word": "class",
+          "lemma": "class",
+          "offsetBegin": 192,
+          "offsetEnd": 197,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 198,
+          "offsetEnd": 200,
+          "pos": "IN"
+        },
+        {
+          "word": "structural",
+          "lemma": "structural",
+          "offsetBegin": 201,
+          "offsetEnd": 211,
+          "pos": "JJ"
+        },
+        {
+          "word": "features",
+          "lemma": "feature",
+          "offsetBegin": 212,
+          "offsetEnd": 220,
+          "pos": "NNS"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 221,
+          "offsetEnd": 223,
+          "pos": "CC"
+        },
+        {
+          "word": "topological",
+          "lemma": "topological",
+          "offsetBegin": 224,
+          "offsetEnd": 235,
+          "pos": "JJ"
+        },
+        {
+          "word": "shapes",
+          "lemma": "shape",
+          "offsetBegin": 236,
+          "offsetEnd": 242,
+          "pos": "NNS"
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "offsetBegin": 243,
+          "offsetEnd": 247,
+          "pos": "JJ"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 248,
+          "offsetEnd": 250,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 251,
+          "offsetEnd": 254,
+          "pos": "PRP$"
+        },
+        {
+          "word": "cyclic",
+          "lemma": "cyclic",
+          "offsetBegin": 255,
+          "offsetEnd": 261,
+          "pos": "JJ"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 262,
+          "offsetEnd": 268,
+          "pos": "NN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 269,
+          "offsetEnd": 271,
+          "pos": "CC"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 272,
+          "offsetEnd": 275,
+          "pos": "PRP$"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 276,
+          "offsetEnd": 279,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 280,
+          "offsetEnd": 282,
+          "pos": "IN"
+        },
+        {
+          "word": "functional",
+          "lemma": "functional",
+          "offsetBegin": 283,
+          "offsetEnd": 293,
+          "pos": "JJ"
+        },
+        {
+          "word": "groups",
+          "lemma": "group",
+          "offsetBegin": 294,
+          "offsetEnd": 300,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 300,
+          "offsetEnd": 301,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Meqnums",
+          "lemma": "meqnum",
+          "offsetBegin": 302,
+          "offsetEnd": 309,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 310,
+          "offsetEnd": 313,
+          "pos": "MD"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 314,
+          "offsetEnd": 316,
+          "pos": "VB"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 317,
+          "offsetEnd": 321,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 322,
+          "offsetEnd": 324,
+          "pos": "TO"
+        },
+        {
+          "word": "organize",
+          "lemma": "organize",
+          "offsetBegin": 325,
+          "offsetEnd": 333,
+          "pos": "VB"
+        },
+        {
+          "word": "molecular",
+          "lemma": "molecular",
+          "offsetBegin": 334,
+          "offsetEnd": 343,
+          "pos": "JJ"
+        },
+        {
+          "word": "structures",
+          "lemma": "structure",
+          "offsetBegin": 344,
+          "offsetEnd": 354,
+          "pos": "NNS"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 355,
+          "offsetEnd": 359,
+          "pos": "IN"
+        },
+        {
+          "word": "nonoverlapping",
+          "lemma": "nonoverlapping",
+          "offsetBegin": 360,
+          "offsetEnd": 374,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 374,
+          "offsetEnd": 375,
+          "pos": ","
+        },
+        {
+          "word": "yet",
+          "lemma": "yet",
+          "offsetBegin": 376,
+          "offsetEnd": 379,
+          "pos": "RB"
+        },
+        {
+          "word": "highly",
+          "lemma": "highly",
+          "offsetBegin": 380,
+          "offsetEnd": 386,
+          "pos": "RB"
+        },
+        {
+          "word": "relatable",
+          "lemma": "relatable",
+          "offsetBegin": 387,
+          "offsetEnd": 396,
+          "pos": "JJ"
+        },
+        {
+          "word": "classes",
+          "lemma": "class",
+          "offsetBegin": 397,
+          "offsetEnd": 404,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 404,
+          "offsetEnd": 405,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 406,
+          "offsetEnd": 408,
+          "pos": "PRP"
+        },
+        {
+          "word": "illustrate",
+          "lemma": "illustrate",
+          "offsetBegin": 409,
+          "offsetEnd": 419,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 420,
+          "offsetEnd": 423,
+          "pos": "DT"
+        },
+        {
+          "word": "construction",
+          "lemma": "construction",
+          "offsetBegin": 424,
+          "offsetEnd": 436,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 437,
+          "offsetEnd": 439,
+          "pos": "IN"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 440,
+          "offsetEnd": 444,
+          "pos": "DT"
+        },
+        {
+          "word": "different",
+          "lemma": "different",
+          "offsetBegin": 445,
+          "offsetEnd": 454,
+          "pos": "JJ"
+        },
+        {
+          "word": "types",
+          "lemma": "type",
+          "offsetBegin": 455,
+          "offsetEnd": 460,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 461,
+          "offsetEnd": 463,
+          "pos": "IN"
+        },
+        {
+          "word": "meqnums",
+          "lemma": "meqnum",
+          "offsetBegin": 464,
+          "offsetEnd": 471,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 472,
+          "offsetEnd": 475,
+          "pos": "CC"
+        },
+        {
+          "word": "present",
+          "lemma": "present",
+          "offsetBegin": 476,
+          "offsetEnd": 483,
+          "pos": "JJ"
+        },
+        {
+          "word": "via",
+          "lemma": "via",
+          "offsetBegin": 484,
+          "offsetEnd": 487,
+          "pos": "IN"
+        },
+        {
+          "word": "examples",
+          "lemma": "example",
+          "offsetBegin": 488,
+          "offsetEnd": 496,
+          "pos": "NNS"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 497,
+          "offsetEnd": 501,
+          "pos": "DT"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 502,
+          "offsetEnd": 509,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 510,
+          "offsetEnd": 512,
+          "pos": "IN"
+        },
+        {
+          "word": "comparing",
+          "lemma": "compare",
+          "offsetBegin": 513,
+          "offsetEnd": 522,
+          "pos": "VBG"
+        },
+        {
+          "word": "diverse",
+          "lemma": "diverse",
+          "offsetBegin": 523,
+          "offsetEnd": 530,
+          "pos": "JJ"
+        },
+        {
+          "word": "chemical",
+          "lemma": "chemical",
+          "offsetBegin": 531,
+          "offsetEnd": 539,
+          "pos": "NN"
+        },
+        {
+          "word": "libraries",
+          "lemma": "library",
+          "offsetBegin": 540,
+          "offsetEnd": 549,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 550,
+          "offsetEnd": 555,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 556,
+          "offsetEnd": 558,
+          "pos": "IN"
+        },
+        {
+          "word": "meqnums",
+          "lemma": "meqnum",
+          "offsetBegin": 559,
+          "offsetEnd": 566,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 566,
+          "offsetEnd": 567,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 568,
+          "offsetEnd": 570,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 571,
+          "offsetEnd": 574,
+          "pos": "DT"
+        },
+        {
+          "word": "examples",
+          "lemma": "example",
+          "offsetBegin": 575,
+          "offsetEnd": 583,
+          "pos": "NNS"
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 584,
+          "offsetEnd": 586,
+          "pos": "PRP"
+        },
+        {
+          "word": "compare",
+          "lemma": "compare",
+          "offsetBegin": 587,
+          "offsetEnd": 594,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 595,
+          "offsetEnd": 596,
+          "pos": "DT"
+        },
+        {
+          "word": "library",
+          "lemma": "library",
+          "offsetBegin": 597,
+          "offsetEnd": 604,
+          "pos": "NN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 605,
+          "offsetEnd": 610,
+          "pos": "WDT"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 611,
+          "offsetEnd": 613,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 614,
+          "offsetEnd": 615,
+          "pos": "DT"
+        },
+        {
+          "word": "random",
+          "lemma": "random",
+          "offsetBegin": 616,
+          "offsetEnd": 622,
+          "pos": "JJ"
+        },
+        {
+          "word": "sample",
+          "lemma": "sample",
+          "offsetBegin": 623,
+          "offsetEnd": 629,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 630,
+          "offsetEnd": 634,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 635,
+          "offsetEnd": 638,
+          "pos": "DT"
+        },
+        {
+          "word": "MDL",
+          "lemma": "MDL",
+          "offsetBegin": 639,
+          "offsetEnd": 642,
+          "pos": "NNP"
+        },
+        {
+          "word": "Drug",
+          "lemma": "Drug",
+          "offsetBegin": 643,
+          "offsetEnd": 647,
+          "pos": "NNP"
+        },
+        {
+          "word": "Data",
+          "lemma": "Data",
+          "offsetBegin": 648,
+          "offsetEnd": 652,
+          "pos": "NNP"
+        },
+        {
+          "word": "Report",
+          "lemma": "Report",
+          "offsetBegin": 653,
+          "offsetEnd": 659,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 660,
+          "offsetEnd": 661,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "MDDR",
+          "lemma": "mddr",
+          "offsetBegin": 661,
+          "offsetEnd": 665,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 665,
+          "offsetEnd": 666,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 667,
+          "offsetEnd": 671,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 672,
+          "offsetEnd": 673,
+          "pos": "DT"
+        },
+        {
+          "word": "library",
+          "lemma": "library",
+          "offsetBegin": 674,
+          "offsetEnd": 681,
+          "pos": "NN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 682,
+          "offsetEnd": 687,
+          "pos": "WDT"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 688,
+          "offsetEnd": 690,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 691,
+          "offsetEnd": 692,
+          "pos": "DT"
+        },
+        {
+          "word": "random",
+          "lemma": "random",
+          "offsetBegin": 693,
+          "offsetEnd": 699,
+          "pos": "JJ"
+        },
+        {
+          "word": "sample",
+          "lemma": "sample",
+          "offsetBegin": 700,
+          "offsetEnd": 706,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 707,
+          "offsetEnd": 711,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 712,
+          "offsetEnd": 715,
+          "pos": "DT"
+        },
+        {
+          "word": "Available",
+          "lemma": "Available",
+          "offsetBegin": 716,
+          "offsetEnd": 725,
+          "pos": "NNP"
+        },
+        {
+          "word": "Chemical",
+          "lemma": "Chemical",
+          "offsetBegin": 726,
+          "offsetEnd": 734,
+          "pos": "NNP"
+        },
+        {
+          "word": "Directory",
+          "lemma": "Directory",
+          "offsetBegin": 735,
+          "offsetEnd": 744,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 745,
+          "offsetEnd": 746,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "ACD",
+          "lemma": "ACD",
+          "offsetBegin": 746,
+          "offsetEnd": 749,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 749,
+          "offsetEnd": 750,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 750,
+          "offsetEnd": 751,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 752,
+          "offsetEnd": 754,
+          "pos": "IN"
+        },
+        {
+          "word": "our",
+          "lemma": "we",
+          "offsetBegin": 755,
+          "offsetEnd": 758,
+          "pos": "PRP$"
+        },
+        {
+          "word": "analyses",
+          "lemma": "analysis",
+          "offsetBegin": 759,
+          "offsetEnd": 767,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 767,
+          "offsetEnd": 768,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 769,
+          "offsetEnd": 771,
+          "pos": "PRP"
+        },
+        {
+          "word": "discover",
+          "lemma": "discover",
+          "offsetBegin": 772,
+          "offsetEnd": 780,
+          "pos": "VBP"
+        },
+        {
+          "word": "some",
+          "lemma": "some",
+          "offsetBegin": 781,
+          "offsetEnd": 785,
+          "pos": "DT"
+        },
+        {
+          "word": "interesting",
+          "lemma": "interesting",
+          "offsetBegin": 786,
+          "offsetEnd": 797,
+          "pos": "JJ"
+        },
+        {
+          "word": "features",
+          "lemma": "feature",
+          "offsetBegin": 798,
+          "offsetEnd": 806,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 807,
+          "offsetEnd": 809,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 810,
+          "offsetEnd": 813,
+          "pos": "DT"
+        },
+        {
+          "word": "topological",
+          "lemma": "topological",
+          "offsetBegin": 814,
+          "offsetEnd": 825,
+          "pos": "JJ"
+        },
+        {
+          "word": "shape",
+          "lemma": "shape",
+          "offsetBegin": 826,
+          "offsetEnd": 831,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 832,
+          "offsetEnd": 834,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 835,
+          "offsetEnd": 836,
+          "pos": "DT"
+        },
+        {
+          "word": "molecule",
+          "lemma": "molecule",
+          "offsetBegin": 837,
+          "offsetEnd": 845,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 846,
+          "offsetEnd": 849,
+          "pos": "CC"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 850,
+          "offsetEnd": 853,
+          "pos": "PRP$"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 854,
+          "offsetEnd": 857,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 858,
+          "offsetEnd": 860,
+          "pos": "IN"
+        },
+        {
+          "word": "functional",
+          "lemma": "functional",
+          "offsetBegin": 861,
+          "offsetEnd": 871,
+          "pos": "JJ"
+        },
+        {
+          "word": "groups",
+          "lemma": "group",
+          "offsetBegin": 872,
+          "offsetEnd": 878,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 879,
+          "offsetEnd": 883,
+          "pos": "WDT"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 884,
+          "offsetEnd": 887,
+          "pos": "VBP"
+        },
+        {
+          "word": "strongly",
+          "lemma": "strongly",
+          "offsetBegin": 888,
+          "offsetEnd": 896,
+          "pos": "RB"
+        },
+        {
+          "word": "linked",
+          "lemma": "link",
+          "offsetBegin": 897,
+          "offsetEnd": 903,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 904,
+          "offsetEnd": 908,
+          "pos": "IN"
+        },
+        {
+          "word": "compounds",
+          "lemma": "compound",
+          "offsetBegin": 909,
+          "offsetEnd": 918,
+          "pos": "NNS"
+        },
+        {
+          "word": "occurring",
+          "lemma": "occur",
+          "offsetBegin": 919,
+          "offsetEnd": 928,
+          "pos": "VBG"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 929,
+          "offsetEnd": 931,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 932,
+          "offsetEnd": 935,
+          "pos": "DT"
+        },
+        {
+          "word": "MDDR",
+          "lemma": "mddr",
+          "offsetBegin": 936,
+          "offsetEnd": 940,
+          "pos": "NN"
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 941,
+          "offsetEnd": 944,
+          "pos": "CC"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 945,
+          "offsetEnd": 948,
+          "pos": "RB"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 949,
+          "offsetEnd": 951,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 952,
+          "offsetEnd": 955,
+          "pos": "DT"
+        },
+        {
+          "word": "ACD",
+          "lemma": "ACD",
+          "offsetBegin": 956,
+          "offsetEnd": 959,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 959,
+          "offsetEnd": 960,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 961,
+          "offsetEnd": 963,
+          "pos": "PRP"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 964,
+          "offsetEnd": 968,
+          "pos": "RB"
+        },
+        {
+          "word": "illustrate",
+          "lemma": "illustrate",
+          "offsetBegin": 969,
+          "offsetEnd": 979,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 980,
+          "offsetEnd": 983,
+          "pos": "DT"
+        },
+        {
+          "word": "utility",
+          "lemma": "utility",
+          "offsetBegin": 984,
+          "offsetEnd": 991,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 992,
+          "offsetEnd": 994,
+          "pos": "IN"
+        },
+        {
+          "word": "molecular",
+          "lemma": "molecular",
+          "offsetBegin": 995,
+          "offsetEnd": 1004,
+          "pos": "JJ"
+        },
+        {
+          "word": "equivalence",
+          "lemma": "equivalence",
+          "offsetBegin": 1005,
+          "offsetEnd": 1016,
+          "pos": "JJ"
+        },
+        {
+          "word": "indices",
+          "lemma": "index",
+          "offsetBegin": 1017,
+          "offsetEnd": 1024,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1025,
+          "offsetEnd": 1027,
+          "pos": "IN"
+        },
+        {
+          "word": "delineating",
+          "lemma": "delineate",
+          "offsetBegin": 1028,
+          "offsetEnd": 1039,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1040,
+          "offsetEnd": 1043,
+          "pos": "DT"
+        },
+        {
+          "word": "structural",
+          "lemma": "structural",
+          "offsetBegin": 1044,
+          "offsetEnd": 1054,
+          "pos": "JJ"
+        },
+        {
+          "word": "domain",
+          "lemma": "domain",
+          "offsetBegin": 1055,
+          "offsetEnd": 1061,
+          "pos": "NN"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 1062,
+          "offsetEnd": 1066,
+          "pos": "IN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 1067,
+          "offsetEnd": 1072,
+          "pos": "WDT"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 1073,
+          "offsetEnd": 1075,
+          "pos": "DT"
+        },
+        {
+          "word": "SAR",
+          "lemma": "sar",
+          "offsetBegin": 1076,
+          "offsetEnd": 1079,
+          "pos": "NN"
+        },
+        {
+          "word": "conclusion",
+          "lemma": "conclusion",
+          "offsetBegin": 1080,
+          "offsetEnd": 1090,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 1091,
+          "offsetEnd": 1093,
+          "pos": "VBZ"
+        },
+        {
+          "word": "valid",
+          "lemma": "valid",
+          "offsetBegin": 1094,
+          "offsetEnd": 1099,
+          "pos": "JJ"
+        }
+      ]
+    }
+  ]
+}

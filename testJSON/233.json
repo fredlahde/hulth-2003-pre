@@ -1,0 +1,909 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "DT"
+        },
+        {
+          "word": "Canadian",
+          "lemma": "Canadian",
+          "offsetBegin": 4,
+          "offsetEnd": 12,
+          "pos": "NNP"
+        },
+        {
+          "word": "National",
+          "lemma": "National",
+          "offsetBegin": 13,
+          "offsetEnd": 21,
+          "pos": "NNP"
+        },
+        {
+          "word": "Site",
+          "lemma": "site",
+          "offsetBegin": 22,
+          "offsetEnd": 26,
+          "pos": "NN"
+        },
+        {
+          "word": "Licensing",
+          "lemma": "Licensing",
+          "offsetBegin": 27,
+          "offsetEnd": 36,
+          "pos": "NNP"
+        },
+        {
+          "word": "Project",
+          "lemma": "Project",
+          "offsetBegin": 37,
+          "offsetEnd": 44,
+          "pos": "NNP"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 45,
+          "offsetEnd": 47,
+          "pos": "IN"
+        },
+        {
+          "word": "January",
+          "lemma": "January",
+          "offsetBegin": 48,
+          "offsetEnd": 55,
+          "pos": "NNP"
+        },
+        {
+          "word": "2000",
+          "lemma": "2000",
+          "offsetBegin": 56,
+          "offsetEnd": 60,
+          "pos": "CD"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 60,
+          "offsetEnd": 61,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 62,
+          "offsetEnd": 63,
+          "pos": "DT"
+        },
+        {
+          "word": "consortium",
+          "lemma": "consortium",
+          "offsetBegin": 64,
+          "offsetEnd": 74,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 75,
+          "offsetEnd": 77,
+          "pos": "IN"
+        },
+        {
+          "word": "64",
+          "lemma": "64",
+          "offsetBegin": 78,
+          "offsetEnd": 80,
+          "pos": "CD"
+        },
+        {
+          "word": "universities",
+          "lemma": "university",
+          "offsetBegin": 81,
+          "offsetEnd": 93,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 94,
+          "offsetEnd": 96,
+          "pos": "IN"
+        },
+        {
+          "word": "Canada",
+          "lemma": "Canada",
+          "offsetBegin": 97,
+          "offsetEnd": 103,
+          "pos": "NNP"
+        },
+        {
+          "word": "signed",
+          "lemma": "sign",
+          "offsetBegin": 104,
+          "offsetEnd": 110,
+          "pos": "VBD"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 111,
+          "offsetEnd": 112,
+          "pos": "DT"
+        },
+        {
+          "word": "historic",
+          "lemma": "historic",
+          "offsetBegin": 113,
+          "offsetEnd": 121,
+          "pos": "JJ"
+        },
+        {
+          "word": "inter-institutional",
+          "lemma": "inter-institutional",
+          "offsetBegin": 122,
+          "offsetEnd": 141,
+          "pos": "JJ"
+        },
+        {
+          "word": "agreement",
+          "lemma": "agreement",
+          "offsetBegin": 142,
+          "offsetEnd": 151,
+          "pos": "NN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 152,
+          "offsetEnd": 156,
+          "pos": "WDT"
+        },
+        {
+          "word": "launched",
+          "lemma": "launch",
+          "offsetBegin": 157,
+          "offsetEnd": 165,
+          "pos": "VBD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 166,
+          "offsetEnd": 169,
+          "pos": "DT"
+        },
+        {
+          "word": "Canadian",
+          "lemma": "Canadian",
+          "offsetBegin": 170,
+          "offsetEnd": 178,
+          "pos": "NNP"
+        },
+        {
+          "word": "National",
+          "lemma": "National",
+          "offsetBegin": 179,
+          "offsetEnd": 187,
+          "pos": "NNP"
+        },
+        {
+          "word": "Site",
+          "lemma": "site",
+          "offsetBegin": 188,
+          "offsetEnd": 192,
+          "pos": "NN"
+        },
+        {
+          "word": "Licensing",
+          "lemma": "Licensing",
+          "offsetBegin": 193,
+          "offsetEnd": 202,
+          "pos": "NNP"
+        },
+        {
+          "word": "Project",
+          "lemma": "Project",
+          "offsetBegin": 203,
+          "offsetEnd": 210,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 211,
+          "offsetEnd": 212,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "CNSLP",
+          "lemma": "CNSLP",
+          "offsetBegin": 212,
+          "offsetEnd": 217,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 217,
+          "offsetEnd": 218,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 218,
+          "offsetEnd": 219,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 220,
+          "offsetEnd": 221,
+          "pos": "DT"
+        },
+        {
+          "word": "three-year",
+          "lemma": "three-year",
+          "offsetBegin": 222,
+          "offsetEnd": 232,
+          "pos": "JJ"
+        },
+        {
+          "word": "pilot",
+          "lemma": "pilot",
+          "offsetBegin": 233,
+          "offsetEnd": 238,
+          "pos": "NN"
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "offsetBegin": 239,
+          "offsetEnd": 246,
+          "pos": "NN"
+        },
+        {
+          "word": "aimed",
+          "lemma": "aim",
+          "offsetBegin": 247,
+          "offsetEnd": 252,
+          "pos": "VBN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 253,
+          "offsetEnd": 255,
+          "pos": "IN"
+        },
+        {
+          "word": "bolstering",
+          "lemma": "bolster",
+          "offsetBegin": 256,
+          "offsetEnd": 266,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 267,
+          "offsetEnd": 270,
+          "pos": "DT"
+        },
+        {
+          "word": "research",
+          "lemma": "research",
+          "offsetBegin": 271,
+          "offsetEnd": 279,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 280,
+          "offsetEnd": 283,
+          "pos": "CC"
+        },
+        {
+          "word": "innovation",
+          "lemma": "innovation",
+          "offsetBegin": 284,
+          "offsetEnd": 294,
+          "pos": "NN"
+        },
+        {
+          "word": "capacity",
+          "lemma": "capacity",
+          "offsetBegin": 295,
+          "offsetEnd": 303,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 304,
+          "offsetEnd": 306,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 307,
+          "offsetEnd": 310,
+          "pos": "DT"
+        },
+        {
+          "word": "country",
+          "lemma": "country",
+          "offsetBegin": 311,
+          "offsetEnd": 318,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 318,
+          "offsetEnd": 320,
+          "pos": "POS"
+        },
+        {
+          "word": "universities",
+          "lemma": "university",
+          "offsetBegin": 321,
+          "offsetEnd": 333,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 333,
+          "offsetEnd": 334,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "CNSLP",
+          "lemma": "cnslp",
+          "offsetBegin": 335,
+          "offsetEnd": 340,
+          "pos": "NN"
+        },
+        {
+          "word": "tests",
+          "lemma": "test",
+          "offsetBegin": 341,
+          "offsetEnd": 346,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 347,
+          "offsetEnd": 350,
+          "pos": "DT"
+        },
+        {
+          "word": "feasibility",
+          "lemma": "feasibility",
+          "offsetBegin": 351,
+          "offsetEnd": 362,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 363,
+          "offsetEnd": 365,
+          "pos": "IN"
+        },
+        {
+          "word": "licensing",
+          "lemma": "licensing",
+          "offsetBegin": 366,
+          "offsetEnd": 375,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 375,
+          "offsetEnd": 376,
+          "pos": ","
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 377,
+          "offsetEnd": 379,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 380,
+          "offsetEnd": 381,
+          "pos": "DT"
+        },
+        {
+          "word": "national",
+          "lemma": "national",
+          "offsetBegin": 382,
+          "offsetEnd": 390,
+          "pos": "JJ"
+        },
+        {
+          "word": "scale",
+          "lemma": "scale",
+          "offsetBegin": 391,
+          "offsetEnd": 396,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 396,
+          "offsetEnd": 397,
+          "pos": ","
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 398,
+          "offsetEnd": 408,
+          "pos": "JJ"
+        },
+        {
+          "word": "versions",
+          "lemma": "version",
+          "offsetBegin": 409,
+          "offsetEnd": 417,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 418,
+          "offsetEnd": 420,
+          "pos": "IN"
+        },
+        {
+          "word": "scholarly",
+          "lemma": "scholarly",
+          "offsetBegin": 421,
+          "offsetEnd": 430,
+          "pos": "JJ"
+        },
+        {
+          "word": "publications",
+          "lemma": "publication",
+          "offsetBegin": 431,
+          "offsetEnd": 443,
+          "pos": "NNS"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 443,
+          "offsetEnd": 444,
+          "pos": ":"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 445,
+          "offsetEnd": 447,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 448,
+          "offsetEnd": 451,
+          "pos": "PRP$"
+        },
+        {
+          "word": "initial",
+          "lemma": "initial",
+          "offsetBegin": 452,
+          "offsetEnd": 459,
+          "pos": "JJ"
+        },
+        {
+          "word": "phases",
+          "lemma": "phase",
+          "offsetBegin": 460,
+          "offsetEnd": 466,
+          "pos": "NNS"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 467,
+          "offsetEnd": 470,
+          "pos": "DT"
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "offsetBegin": 471,
+          "offsetEnd": 478,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 479,
+          "offsetEnd": 481,
+          "pos": "VBZ"
+        },
+        {
+          "word": "focused",
+          "lemma": "focus",
+          "offsetBegin": 482,
+          "offsetEnd": 489,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 490,
+          "offsetEnd": 492,
+          "pos": "IN"
+        },
+        {
+          "word": "full-text",
+          "lemma": "full-text",
+          "offsetBegin": 493,
+          "offsetEnd": 502,
+          "pos": "JJ"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 503,
+          "offsetEnd": 513,
+          "pos": "JJ"
+        },
+        {
+          "word": "journals",
+          "lemma": "journal",
+          "offsetBegin": 514,
+          "offsetEnd": 522,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 523,
+          "offsetEnd": 526,
+          "pos": "CC"
+        },
+        {
+          "word": "research",
+          "lemma": "research",
+          "offsetBegin": 527,
+          "offsetEnd": 535,
+          "pos": "NN"
+        },
+        {
+          "word": "databases",
+          "lemma": "database",
+          "offsetBegin": 536,
+          "offsetEnd": 545,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 546,
+          "offsetEnd": 548,
+          "pos": "IN"
+        },
+        {
+          "word": "science",
+          "lemma": "science",
+          "offsetBegin": 549,
+          "offsetEnd": 556,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 556,
+          "offsetEnd": 557,
+          "pos": ","
+        },
+        {
+          "word": "engineering",
+          "lemma": "engineering",
+          "offsetBegin": 558,
+          "offsetEnd": 569,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 569,
+          "offsetEnd": 570,
+          "pos": ","
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 571,
+          "offsetEnd": 577,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 578,
+          "offsetEnd": 581,
+          "pos": "CC"
+        },
+        {
+          "word": "environmental",
+          "lemma": "environmental",
+          "offsetBegin": 582,
+          "offsetEnd": 595,
+          "pos": "JJ"
+        },
+        {
+          "word": "disciplines",
+          "lemma": "discipline",
+          "offsetBegin": 596,
+          "offsetEnd": 607,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 607,
+          "offsetEnd": 608,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 609,
+          "offsetEnd": 613,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 614,
+          "offsetEnd": 621,
+          "pos": "NN"
+        },
+        {
+          "word": "provides",
+          "lemma": "provide",
+          "offsetBegin": 622,
+          "offsetEnd": 630,
+          "pos": "VBZ"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 631,
+          "offsetEnd": 633,
+          "pos": "DT"
+        },
+        {
+          "word": "overview",
+          "lemma": "overview",
+          "offsetBegin": 634,
+          "offsetEnd": 642,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 643,
+          "offsetEnd": 645,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 646,
+          "offsetEnd": 649,
+          "pos": "DT"
+        },
+        {
+          "word": "CNSLP",
+          "lemma": "cnslp",
+          "offsetBegin": 650,
+          "offsetEnd": 655,
+          "pos": "NN"
+        },
+        {
+          "word": "initiative",
+          "lemma": "initiative",
+          "offsetBegin": 656,
+          "offsetEnd": 666,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 666,
+          "offsetEnd": 667,
+          "pos": ","
+        },
+        {
+          "word": "summarizes",
+          "lemma": "summarize",
+          "offsetBegin": 668,
+          "offsetEnd": 678,
+          "pos": "VBZ"
+        },
+        {
+          "word": "organizational",
+          "lemma": "organizational",
+          "offsetBegin": 679,
+          "offsetEnd": 693,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 694,
+          "offsetEnd": 697,
+          "pos": "CC"
+        },
+        {
+          "word": "licensing",
+          "lemma": "licensing",
+          "offsetBegin": 698,
+          "offsetEnd": 707,
+          "pos": "NN"
+        },
+        {
+          "word": "accomplishments",
+          "lemma": "accomplishment",
+          "offsetBegin": 708,
+          "offsetEnd": 723,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 724,
+          "offsetEnd": 726,
+          "pos": "TO"
+        },
+        {
+          "word": "date",
+          "lemma": "date",
+          "offsetBegin": 727,
+          "offsetEnd": 731,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 731,
+          "offsetEnd": 732,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 733,
+          "offsetEnd": 736,
+          "pos": "CC"
+        },
+        {
+          "word": "offers",
+          "lemma": "offer",
+          "offsetBegin": 737,
+          "offsetEnd": 743,
+          "pos": "VBZ"
+        },
+        {
+          "word": "preliminary",
+          "lemma": "preliminary",
+          "offsetBegin": 744,
+          "offsetEnd": 755,
+          "pos": "JJ"
+        },
+        {
+          "word": "observations",
+          "lemma": "observation",
+          "offsetBegin": 756,
+          "offsetEnd": 768,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 769,
+          "offsetEnd": 771,
+          "pos": "IN"
+        },
+        {
+          "word": "challenges",
+          "lemma": "challenge",
+          "offsetBegin": 772,
+          "offsetEnd": 782,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 783,
+          "offsetEnd": 786,
+          "pos": "CC"
+        },
+        {
+          "word": "opportunities",
+          "lemma": "opportunity",
+          "offsetBegin": 787,
+          "offsetEnd": 800,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 801,
+          "offsetEnd": 804,
+          "pos": "IN"
+        },
+        {
+          "word": "subsequent",
+          "lemma": "subsequent",
+          "offsetBegin": 805,
+          "offsetEnd": 815,
+          "pos": "JJ"
+        },
+        {
+          "word": "phases",
+          "lemma": "phase",
+          "offsetBegin": 816,
+          "offsetEnd": 822,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 823,
+          "offsetEnd": 825,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 826,
+          "offsetEnd": 829,
+          "pos": "DT"
+        },
+        {
+          "word": "project",
+          "lemma": "project",
+          "offsetBegin": 830,
+          "offsetEnd": 837,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

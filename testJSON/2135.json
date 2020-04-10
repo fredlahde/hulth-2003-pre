@@ -1,0 +1,475 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 0,
+          "offsetEnd": 1,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 2,
+          "offsetEnd": 5,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 6,
+          "offsetEnd": 14,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 15,
+          "offsetEnd": 17,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 18,
+          "offsetEnd": 21,
+          "pos": "DT"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 22,
+          "offsetEnd": 29,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 30,
+          "offsetEnd": 32,
+          "pos": "IN"
+        },
+        {
+          "word": "structural",
+          "lemma": "structural",
+          "offsetBegin": 33,
+          "offsetEnd": 43,
+          "pos": "JJ"
+        },
+        {
+          "word": "identification",
+          "lemma": "identification",
+          "offsetBegin": 44,
+          "offsetEnd": 58,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 58,
+          "offsetEnd": 59,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "II",
+          "lemma": "II",
+          "offsetBegin": 60,
+          "offsetEnd": 62,
+          "pos": "NNP"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 63,
+          "offsetEnd": 66,
+          "pos": "DT"
+        },
+        {
+          "word": "subject",
+          "lemma": "subject",
+          "offsetBegin": 67,
+          "offsetEnd": 74,
+          "pos": "NN"
+        },
+        {
+          "word": "under",
+          "lemma": "under",
+          "offsetBegin": 75,
+          "offsetEnd": 80,
+          "pos": "IN"
+        },
+        {
+          "word": "discussion",
+          "lemma": "discussion",
+          "offsetBegin": 81,
+          "offsetEnd": 91,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 92,
+          "offsetEnd": 94,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 95,
+          "offsetEnd": 96,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 97,
+          "offsetEnd": 100,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 101,
+          "offsetEnd": 109,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 110,
+          "offsetEnd": 112,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 113,
+          "offsetEnd": 116,
+          "pos": "DT"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 117,
+          "offsetEnd": 124,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 125,
+          "offsetEnd": 127,
+          "pos": "IN"
+        },
+        {
+          "word": "structural",
+          "lemma": "structural",
+          "offsetBegin": 128,
+          "offsetEnd": 138,
+          "pos": "JJ"
+        },
+        {
+          "word": "identification",
+          "lemma": "identification",
+          "offsetBegin": 139,
+          "offsetEnd": 153,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 153,
+          "offsetEnd": 154,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 155,
+          "offsetEnd": 160,
+          "pos": "WDT"
+        },
+        {
+          "word": "relies",
+          "lemma": "rely",
+          "offsetBegin": 161,
+          "offsetEnd": 167,
+          "pos": "VBZ"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 168,
+          "offsetEnd": 170,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 171,
+          "offsetEnd": 174,
+          "pos": "DT"
+        },
+        {
+          "word": "recognition",
+          "lemma": "recognition",
+          "offsetBegin": 175,
+          "offsetEnd": 186,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 187,
+          "offsetEnd": 189,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 190,
+          "offsetEnd": 191,
+          "pos": "DT"
+        },
+        {
+          "word": "decisive",
+          "lemma": "decisive",
+          "offsetBegin": 192,
+          "offsetEnd": 200,
+          "pos": "JJ"
+        },
+        {
+          "word": "role",
+          "lemma": "role",
+          "offsetBegin": 201,
+          "offsetEnd": 205,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 206,
+          "offsetEnd": 208,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 209,
+          "offsetEnd": 212,
+          "pos": "DT"
+        },
+        {
+          "word": "human",
+          "lemma": "human",
+          "offsetBegin": 213,
+          "offsetEnd": 218,
+          "pos": "JJ"
+        },
+        {
+          "word": "factor",
+          "lemma": "factor",
+          "offsetBegin": 219,
+          "offsetEnd": 225,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 226,
+          "offsetEnd": 228,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 229,
+          "offsetEnd": 232,
+          "pos": "DT"
+        },
+        {
+          "word": "process",
+          "lemma": "process",
+          "offsetBegin": 233,
+          "offsetEnd": 240,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 241,
+          "offsetEnd": 243,
+          "pos": "IN"
+        },
+        {
+          "word": "structural",
+          "lemma": "structural",
+          "offsetBegin": 244,
+          "offsetEnd": 254,
+          "pos": "JJ"
+        },
+        {
+          "word": "identification",
+          "lemma": "identification",
+          "offsetBegin": 255,
+          "offsetEnd": 269,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 269,
+          "offsetEnd": 270,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Potential",
+          "lemma": "potential",
+          "offsetBegin": 271,
+          "offsetEnd": 280,
+          "pos": "JJ"
+        },
+        {
+          "word": "possibilities",
+          "lemma": "possibility",
+          "offsetBegin": 281,
+          "offsetEnd": 294,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 295,
+          "offsetEnd": 297,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 298,
+          "offsetEnd": 301,
+          "pos": "DT"
+        },
+        {
+          "word": "suggested",
+          "lemma": "suggest",
+          "offsetBegin": 302,
+          "offsetEnd": 311,
+          "pos": "VBN"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 312,
+          "offsetEnd": 320,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 321,
+          "offsetEnd": 324,
+          "pos": "VBP"
+        },
+        {
+          "word": "illustrated",
+          "lemma": "illustrate",
+          "offsetBegin": 325,
+          "offsetEnd": 336,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 337,
+          "offsetEnd": 339,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 340,
+          "offsetEnd": 343,
+          "pos": "DT"
+        },
+        {
+          "word": "statement",
+          "lemma": "statement",
+          "offsetBegin": 344,
+          "offsetEnd": 353,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 354,
+          "offsetEnd": 356,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 357,
+          "offsetEnd": 358,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 359,
+          "offsetEnd": 362,
+          "pos": "JJ"
+        },
+        {
+          "word": "mathematical",
+          "lemma": "mathematical",
+          "offsetBegin": 363,
+          "offsetEnd": 375,
+          "pos": "JJ"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 376,
+          "offsetEnd": 383,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 384,
+          "offsetEnd": 386,
+          "pos": "IN"
+        },
+        {
+          "word": "structural",
+          "lemma": "structural",
+          "offsetBegin": 387,
+          "offsetEnd": 397,
+          "pos": "JJ"
+        },
+        {
+          "word": "identification",
+          "lemma": "identification",
+          "offsetBegin": 398,
+          "offsetEnd": 412,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

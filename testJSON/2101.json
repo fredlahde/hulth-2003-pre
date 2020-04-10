@@ -1,0 +1,643 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "All-optical",
+          "lemma": "all-optical",
+          "offsetBegin": 0,
+          "offsetEnd": 11,
+          "pos": "JJ"
+        },
+        {
+          "word": "XOR",
+          "lemma": "XOR",
+          "offsetBegin": 12,
+          "offsetEnd": 15,
+          "pos": "NNP"
+        },
+        {
+          "word": "gate",
+          "lemma": "gate",
+          "offsetBegin": 16,
+          "offsetEnd": 20,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 21,
+          "offsetEnd": 26,
+          "pos": "VBG"
+        },
+        {
+          "word": "semiconductor",
+          "lemma": "semiconductor",
+          "offsetBegin": 27,
+          "offsetEnd": 40,
+          "pos": "NN"
+        },
+        {
+          "word": "optical",
+          "lemma": "optical",
+          "offsetBegin": 41,
+          "offsetEnd": 48,
+          "pos": "JJ"
+        },
+        {
+          "word": "amplifiers",
+          "lemma": "amplifier",
+          "offsetBegin": 49,
+          "offsetEnd": 59,
+          "pos": "NNS"
+        },
+        {
+          "word": "without",
+          "lemma": "without",
+          "offsetBegin": 60,
+          "offsetEnd": 67,
+          "pos": "IN"
+        },
+        {
+          "word": "additional",
+          "lemma": "additional",
+          "offsetBegin": 68,
+          "offsetEnd": 78,
+          "pos": "JJ"
+        },
+        {
+          "word": "input",
+          "lemma": "input",
+          "offsetBegin": 79,
+          "offsetEnd": 84,
+          "pos": "NN"
+        },
+        {
+          "word": "beam",
+          "lemma": "beam",
+          "offsetBegin": 85,
+          "offsetEnd": 89,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 90,
+          "offsetEnd": 93,
+          "pos": "DT"
+        },
+        {
+          "word": "novel",
+          "lemma": "novel",
+          "offsetBegin": 94,
+          "offsetEnd": 99,
+          "pos": "JJ"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 100,
+          "offsetEnd": 106,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 107,
+          "offsetEnd": 109,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 110,
+          "offsetEnd": 112,
+          "pos": "DT"
+        },
+        {
+          "word": "all-optical",
+          "lemma": "all-optical",
+          "offsetBegin": 113,
+          "offsetEnd": 124,
+          "pos": "JJ"
+        },
+        {
+          "word": "XOR",
+          "lemma": "XOR",
+          "offsetBegin": 125,
+          "offsetEnd": 128,
+          "pos": "NNP"
+        },
+        {
+          "word": "gate",
+          "lemma": "gate",
+          "offsetBegin": 129,
+          "offsetEnd": 133,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 134,
+          "offsetEnd": 136,
+          "pos": "IN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 137,
+          "offsetEnd": 142,
+          "pos": "VBG"
+        },
+        {
+          "word": "cross-gain",
+          "lemma": "cross-gain",
+          "offsetBegin": 143,
+          "offsetEnd": 153,
+          "pos": "JJ"
+        },
+        {
+          "word": "modulation",
+          "lemma": "modulation",
+          "offsetBegin": 154,
+          "offsetEnd": 164,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 165,
+          "offsetEnd": 167,
+          "pos": "IN"
+        },
+        {
+          "word": "semiconductor",
+          "lemma": "semiconductor",
+          "offsetBegin": 168,
+          "offsetEnd": 181,
+          "pos": "NN"
+        },
+        {
+          "word": "optical",
+          "lemma": "optical",
+          "offsetBegin": 182,
+          "offsetEnd": 189,
+          "pos": "JJ"
+        },
+        {
+          "word": "amplifiers",
+          "lemma": "amplifier",
+          "offsetBegin": 190,
+          "offsetEnd": 200,
+          "pos": "NNS"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 201,
+          "offsetEnd": 204,
+          "pos": "VBZ"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 205,
+          "offsetEnd": 209,
+          "pos": "VBN"
+        },
+        {
+          "word": "suggested",
+          "lemma": "suggest",
+          "offsetBegin": 210,
+          "offsetEnd": 219,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 220,
+          "offsetEnd": 223,
+          "pos": "CC"
+        },
+        {
+          "word": "demonstrated",
+          "lemma": "demonstrate",
+          "offsetBegin": 224,
+          "offsetEnd": 236,
+          "pos": "VBN"
+        },
+        {
+          "word": "successfully",
+          "lemma": "successfully",
+          "offsetBegin": 237,
+          "offsetEnd": 249,
+          "pos": "RB"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 250,
+          "offsetEnd": 252,
+          "pos": "IN"
+        },
+        {
+          "word": "10",
+          "lemma": "10",
+          "offsetBegin": 253,
+          "offsetEnd": 255,
+          "pos": "CD"
+        },
+        {
+          "word": "Gb/s",
+          "lemma": "gb/s",
+          "offsetBegin": 256,
+          "offsetEnd": 260,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 260,
+          "offsetEnd": 261,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Boolean",
+          "lemma": "Boolean",
+          "offsetBegin": 262,
+          "offsetEnd": 269,
+          "pos": "NNP"
+        },
+        {
+          "word": "AB",
+          "lemma": "AB",
+          "offsetBegin": 270,
+          "offsetEnd": 272,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 273,
+          "offsetEnd": 276,
+          "pos": "CC"
+        },
+        {
+          "word": "AB",
+          "lemma": "AB",
+          "offsetBegin": 277,
+          "offsetEnd": 279,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 280,
+          "offsetEnd": 282,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 283,
+          "offsetEnd": 286,
+          "pos": "DT"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 287,
+          "offsetEnd": 290,
+          "pos": "CD"
+        },
+        {
+          "word": "input",
+          "lemma": "input",
+          "offsetBegin": 291,
+          "offsetEnd": 296,
+          "pos": "NN"
+        },
+        {
+          "word": "signals",
+          "lemma": "signal",
+          "offsetBegin": 297,
+          "offsetEnd": 304,
+          "pos": "NNS"
+        },
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 305,
+          "offsetEnd": 306,
+          "pos": "DT"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 307,
+          "offsetEnd": 310,
+          "pos": "CC"
+        },
+        {
+          "word": "B",
+          "lemma": "b",
+          "offsetBegin": 311,
+          "offsetEnd": 312,
+          "pos": "NN"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 313,
+          "offsetEnd": 317,
+          "pos": "VBP"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 318,
+          "offsetEnd": 322,
+          "pos": "VBN"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 323,
+          "offsetEnd": 331,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 332,
+          "offsetEnd": 335,
+          "pos": "CC"
+        },
+        {
+          "word": "combined",
+          "lemma": "combine",
+          "offsetBegin": 336,
+          "offsetEnd": 344,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 345,
+          "offsetEnd": 347,
+          "pos": "TO"
+        },
+        {
+          "word": "achieve",
+          "lemma": "achieve",
+          "offsetBegin": 348,
+          "offsetEnd": 355,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 356,
+          "offsetEnd": 359,
+          "pos": "DT"
+        },
+        {
+          "word": "all-optical",
+          "lemma": "all-optical",
+          "offsetBegin": 360,
+          "offsetEnd": 371,
+          "pos": "JJ"
+        },
+        {
+          "word": "XOR",
+          "lemma": "XOR",
+          "offsetBegin": 372,
+          "offsetEnd": 375,
+          "pos": "NNP"
+        },
+        {
+          "word": "gate",
+          "lemma": "gate",
+          "offsetBegin": 376,
+          "offsetEnd": 380,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 380,
+          "offsetEnd": 381,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "No",
+          "lemma": "no",
+          "offsetBegin": 382,
+          "offsetEnd": 384,
+          "pos": "DT"
+        },
+        {
+          "word": "additional",
+          "lemma": "additional",
+          "offsetBegin": 385,
+          "offsetEnd": 395,
+          "pos": "JJ"
+        },
+        {
+          "word": "input",
+          "lemma": "input",
+          "offsetBegin": 396,
+          "offsetEnd": 401,
+          "pos": "NN"
+        },
+        {
+          "word": "beam",
+          "lemma": "beam",
+          "offsetBegin": 402,
+          "offsetEnd": 406,
+          "pos": "NN"
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "offsetBegin": 407,
+          "offsetEnd": 411,
+          "pos": "JJ"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 412,
+          "offsetEnd": 414,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 415,
+          "offsetEnd": 416,
+          "pos": "DT"
+        },
+        {
+          "word": "clock",
+          "lemma": "clock",
+          "offsetBegin": 417,
+          "offsetEnd": 422,
+          "pos": "NN"
+        },
+        {
+          "word": "signal",
+          "lemma": "signal",
+          "offsetBegin": 423,
+          "offsetEnd": 429,
+          "pos": "NN"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 430,
+          "offsetEnd": 432,
+          "pos": "CC"
+        },
+        {
+          "word": "continuous",
+          "lemma": "continuous",
+          "offsetBegin": 433,
+          "offsetEnd": 443,
+          "pos": "JJ"
+        },
+        {
+          "word": "wave",
+          "lemma": "wave",
+          "offsetBegin": 444,
+          "offsetEnd": 448,
+          "pos": "NN"
+        },
+        {
+          "word": "light",
+          "lemma": "light",
+          "offsetBegin": 449,
+          "offsetEnd": 454,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 455,
+          "offsetEnd": 457,
+          "pos": "VBZ"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 458,
+          "offsetEnd": 462,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 463,
+          "offsetEnd": 465,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 466,
+          "offsetEnd": 470,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 471,
+          "offsetEnd": 474,
+          "pos": "JJ"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 475,
+          "offsetEnd": 481,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 481,
+          "offsetEnd": 482,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 483,
+          "offsetEnd": 488,
+          "pos": "WDT"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 489,
+          "offsetEnd": 491,
+          "pos": "VBZ"
+        },
+        {
+          "word": "required",
+          "lemma": "require",
+          "offsetBegin": 492,
+          "offsetEnd": 500,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 501,
+          "offsetEnd": 503,
+          "pos": "IN"
+        },
+        {
+          "word": "other",
+          "lemma": "other",
+          "offsetBegin": 504,
+          "offsetEnd": 509,
+          "pos": "JJ"
+        },
+        {
+          "word": "all-optical",
+          "lemma": "all-optical",
+          "offsetBegin": 510,
+          "offsetEnd": 521,
+          "pos": "JJ"
+        },
+        {
+          "word": "XOR",
+          "lemma": "xor",
+          "offsetBegin": 522,
+          "offsetEnd": 525,
+          "pos": "NN"
+        },
+        {
+          "word": "gates",
+          "lemma": "gate",
+          "offsetBegin": 526,
+          "offsetEnd": 531,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

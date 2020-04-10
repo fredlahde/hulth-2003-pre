@@ -1,0 +1,559 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Spam",
+          "lemma": "Spam",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "NNP"
+        },
+        {
+          "word": "solution",
+          "lemma": "solution",
+          "offsetBegin": 5,
+          "offsetEnd": 13,
+          "pos": "NN"
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "offsetBegin": 13,
+          "offsetEnd": 14,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 15,
+          "offsetEnd": 18,
+          "pos": "DT"
+        },
+        {
+          "word": "author",
+          "lemma": "author",
+          "offsetBegin": 19,
+          "offsetEnd": 25,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 26,
+          "offsetEnd": 35,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 36,
+          "offsetEnd": 37,
+          "pos": "DT"
+        },
+        {
+          "word": "solution",
+          "lemma": "solution",
+          "offsetBegin": 38,
+          "offsetEnd": 46,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 47,
+          "offsetEnd": 49,
+          "pos": "TO"
+        },
+        {
+          "word": "spam",
+          "lemma": "spam",
+          "offsetBegin": 50,
+          "offsetEnd": 54,
+          "pos": "VB"
+        },
+        {
+          "word": "E-mails",
+          "lemma": "e-mail",
+          "offsetBegin": 55,
+          "offsetEnd": 62,
+          "pos": "NNS"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 62,
+          "offsetEnd": 63,
+          "pos": ":"
+        },
+        {
+          "word": "disposable",
+          "lemma": "disposable",
+          "offsetBegin": 64,
+          "offsetEnd": 74,
+          "pos": "JJ"
+        },
+        {
+          "word": "E-mail",
+          "lemma": "e-mail",
+          "offsetBegin": 75,
+          "offsetEnd": 81,
+          "pos": "NN"
+        },
+        {
+          "word": "addresses",
+          "lemma": "address",
+          "offsetBegin": 82,
+          "offsetEnd": 91,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 92,
+          "offsetEnd": 93,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "DEA",
+          "lemma": "DEA",
+          "offsetBegin": 93,
+          "offsetEnd": 96,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 96,
+          "offsetEnd": 97,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 97,
+          "offsetEnd": 98,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Mailshell",
+          "lemma": "Mailshell",
+          "offsetBegin": 99,
+          "offsetEnd": 108,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 108,
+          "offsetEnd": 110,
+          "pos": "POS"
+        },
+        {
+          "word": "free",
+          "lemma": "free",
+          "offsetBegin": 111,
+          "offsetEnd": 115,
+          "pos": "JJ"
+        },
+        {
+          "word": "trial",
+          "lemma": "trial",
+          "offsetBegin": 116,
+          "offsetEnd": 121,
+          "pos": "NN"
+        },
+        {
+          "word": "Web-based",
+          "lemma": "web-based",
+          "offsetBegin": 122,
+          "offsetEnd": 131,
+          "pos": "JJ"
+        },
+        {
+          "word": "E-mail",
+          "lemma": "e-mail",
+          "offsetBegin": 132,
+          "offsetEnd": 138,
+          "pos": "NN"
+        },
+        {
+          "word": "service",
+          "lemma": "service",
+          "offsetBegin": 139,
+          "offsetEnd": 146,
+          "pos": "NN"
+        },
+        {
+          "word": "allows",
+          "lemma": "allow",
+          "offsetBegin": 147,
+          "offsetEnd": 153,
+          "pos": "VBZ"
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "offsetBegin": 154,
+          "offsetEnd": 157,
+          "pos": "PRP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 157,
+          "offsetEnd": 158,
+          "pos": ","
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "offsetBegin": 159,
+          "offsetEnd": 161,
+          "pos": "IN"
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "offsetBegin": 162,
+          "offsetEnd": 165,
+          "pos": "PRP"
+        },
+        {
+          "word": "start",
+          "lemma": "start",
+          "offsetBegin": 166,
+          "offsetEnd": 171,
+          "pos": "VBP"
+        },
+        {
+          "word": "getting",
+          "lemma": "get",
+          "offsetBegin": 172,
+          "offsetEnd": 179,
+          "pos": "VBG"
+        },
+        {
+          "word": "spammed",
+          "lemma": "spam",
+          "offsetBegin": 180,
+          "offsetEnd": 187,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 188,
+          "offsetEnd": 190,
+          "pos": "IN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 191,
+          "offsetEnd": 195,
+          "pos": "DT"
+        },
+        {
+          "word": "DEA",
+          "lemma": "DEA",
+          "offsetBegin": 196,
+          "offsetEnd": 199,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 199,
+          "offsetEnd": 200,
+          "pos": ","
+        },
+        {
+          "word": "just",
+          "lemma": "just",
+          "offsetBegin": 201,
+          "offsetEnd": 205,
+          "pos": "RB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 206,
+          "offsetEnd": 208,
+          "pos": "TO"
+        },
+        {
+          "word": "delete",
+          "lemma": "delete",
+          "offsetBegin": 209,
+          "offsetEnd": 215,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 216,
+          "offsetEnd": 219,
+          "pos": "DT"
+        },
+        {
+          "word": "DEA",
+          "lemma": "DEA",
+          "offsetBegin": 220,
+          "offsetEnd": 223,
+          "pos": "NNP"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 224,
+          "offsetEnd": 226,
+          "pos": "IN"
+        },
+        {
+          "word": "Mailshell",
+          "lemma": "Mailshell",
+          "offsetBegin": 227,
+          "offsetEnd": 236,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 236,
+          "offsetEnd": 237,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 238,
+          "offsetEnd": 241,
+          "pos": "CC"
+        },
+        {
+          "word": "all",
+          "lemma": "all",
+          "offsetBegin": 242,
+          "offsetEnd": 245,
+          "pos": "DT"
+        },
+        {
+          "word": "E-mail",
+          "lemma": "e-mail",
+          "offsetBegin": 246,
+          "offsetEnd": 252,
+          "pos": "NN"
+        },
+        {
+          "word": "thereafter",
+          "lemma": "thereafter",
+          "offsetBegin": 253,
+          "offsetEnd": 263,
+          "pos": "RB"
+        },
+        {
+          "word": "sent",
+          "lemma": "send",
+          "offsetBegin": 264,
+          "offsetEnd": 268,
+          "pos": "VBD"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 269,
+          "offsetEnd": 271,
+          "pos": "TO"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 272,
+          "offsetEnd": 276,
+          "pos": "DT"
+        },
+        {
+          "word": "address",
+          "lemma": "address",
+          "offsetBegin": 277,
+          "offsetEnd": 284,
+          "pos": "NN"
+        },
+        {
+          "word": "will",
+          "lemma": "will",
+          "offsetBegin": 285,
+          "offsetEnd": 289,
+          "pos": "MD"
+        },
+        {
+          "word": "automatically",
+          "lemma": "automatically",
+          "offsetBegin": 290,
+          "offsetEnd": 303,
+          "pos": "RB"
+        },
+        {
+          "word": "be",
+          "lemma": "be",
+          "offsetBegin": 304,
+          "offsetEnd": 306,
+          "pos": "VB"
+        },
+        {
+          "word": "junked",
+          "lemma": "junk",
+          "offsetBegin": 307,
+          "offsetEnd": 313,
+          "pos": "VBN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 314,
+          "offsetEnd": 315,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "though",
+          "lemma": "though",
+          "offsetBegin": 315,
+          "offsetEnd": 321,
+          "pos": "IN"
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "offsetBegin": 322,
+          "offsetEnd": 325,
+          "pos": "PRP"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 326,
+          "offsetEnd": 329,
+          "pos": "MD"
+        },
+        {
+          "word": "later",
+          "lemma": "later",
+          "offsetBegin": 330,
+          "offsetEnd": 335,
+          "pos": "RB"
+        },
+        {
+          "word": "restore",
+          "lemma": "restore",
+          "offsetBegin": 336,
+          "offsetEnd": 343,
+          "pos": "VB"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 344,
+          "offsetEnd": 348,
+          "pos": "IN"
+        },
+        {
+          "word": "address",
+          "lemma": "address",
+          "offsetBegin": 349,
+          "offsetEnd": 356,
+          "pos": "NN"
+        },
+        {
+          "word": "if",
+          "lemma": "if",
+          "offsetBegin": 357,
+          "offsetEnd": 359,
+          "pos": "IN"
+        },
+        {
+          "word": "you",
+          "lemma": "you",
+          "offsetBegin": 360,
+          "offsetEnd": 363,
+          "pos": "PRP"
+        },
+        {
+          "word": "want",
+          "lemma": "want",
+          "offsetBegin": 364,
+          "offsetEnd": 368,
+          "pos": "VBP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 368,
+          "offsetEnd": 369,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 369,
+          "offsetEnd": 370,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Mailshell",
+          "lemma": "Mailshell",
+          "offsetBegin": 371,
+          "offsetEnd": 380,
+          "pos": "NNP"
+        },
+        {
+          "word": "allows",
+          "lemma": "allow",
+          "offsetBegin": 381,
+          "offsetEnd": 387,
+          "pos": "VBZ"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 388,
+          "offsetEnd": 391,
+          "pos": "DT"
+        },
+        {
+          "word": "number",
+          "lemma": "number",
+          "offsetBegin": 392,
+          "offsetEnd": 398,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 399,
+          "offsetEnd": 401,
+          "pos": "IN"
+        },
+        {
+          "word": "DEA",
+          "lemma": "DEA",
+          "offsetBegin": 402,
+          "offsetEnd": 405,
+          "pos": "NNP"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,973 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "DT"
+        },
+        {
+          "word": "California",
+          "lemma": "California",
+          "offsetBegin": 4,
+          "offsetEnd": 14,
+          "pos": "NNP"
+        },
+        {
+          "word": "Digital",
+          "lemma": "Digital",
+          "offsetBegin": 15,
+          "offsetEnd": 22,
+          "pos": "NNP"
+        },
+        {
+          "word": "Library",
+          "lemma": "Library",
+          "offsetBegin": 23,
+          "offsetEnd": 30,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 31,
+          "offsetEnd": 34,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 35,
+          "offsetEnd": 38,
+          "pos": "DT"
+        },
+        {
+          "word": "eScholarship",
+          "lemma": "escholarship",
+          "offsetBegin": 39,
+          "offsetEnd": 51,
+          "pos": "NN"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 52,
+          "offsetEnd": 59,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 60,
+          "offsetEnd": 63,
+          "pos": "DT"
+        },
+        {
+          "word": "eScholarship",
+          "lemma": "escholarship",
+          "offsetBegin": 64,
+          "offsetEnd": 76,
+          "pos": "NN"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 77,
+          "offsetEnd": 84,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 85,
+          "offsetEnd": 88,
+          "pos": "VBD"
+        },
+        {
+          "word": "launched",
+          "lemma": "launch",
+          "offsetBegin": 89,
+          "offsetEnd": 97,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 98,
+          "offsetEnd": 100,
+          "pos": "IN"
+        },
+        {
+          "word": "2000",
+          "lemma": "2000",
+          "offsetBegin": 101,
+          "offsetEnd": 105,
+          "pos": "CD"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 106,
+          "offsetEnd": 108,
+          "pos": "TO"
+        },
+        {
+          "word": "foster",
+          "lemma": "foster",
+          "offsetBegin": 109,
+          "offsetEnd": 115,
+          "pos": "VB"
+        },
+        {
+          "word": "faculty-led",
+          "lemma": "faculty-led",
+          "offsetBegin": 116,
+          "offsetEnd": 127,
+          "pos": "JJ"
+        },
+        {
+          "word": "innovation",
+          "lemma": "innovation",
+          "offsetBegin": 128,
+          "offsetEnd": 138,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 139,
+          "offsetEnd": 141,
+          "pos": "IN"
+        },
+        {
+          "word": "scholarly",
+          "lemma": "scholarly",
+          "offsetBegin": 142,
+          "offsetEnd": 151,
+          "pos": "JJ"
+        },
+        {
+          "word": "publishing",
+          "lemma": "publishing",
+          "offsetBegin": 152,
+          "offsetEnd": 162,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 162,
+          "offsetEnd": 163,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "An",
+          "lemma": "a",
+          "offsetBegin": 164,
+          "offsetEnd": 166,
+          "pos": "DT"
+        },
+        {
+          "word": "initiative",
+          "lemma": "initiative",
+          "offsetBegin": 167,
+          "offsetEnd": 177,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 178,
+          "offsetEnd": 180,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 181,
+          "offsetEnd": 184,
+          "pos": "DT"
+        },
+        {
+          "word": "University",
+          "lemma": "University",
+          "offsetBegin": 185,
+          "offsetEnd": 195,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 196,
+          "offsetEnd": 198,
+          "pos": "IN"
+        },
+        {
+          "word": "California",
+          "lemma": "California",
+          "offsetBegin": 199,
+          "offsetEnd": 209,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 210,
+          "offsetEnd": 211,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "UC",
+          "lemma": "uc",
+          "offsetBegin": 211,
+          "offsetEnd": 213,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 213,
+          "offsetEnd": 214,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 215,
+          "offsetEnd": 218,
+          "pos": "CC"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 219,
+          "offsetEnd": 220,
+          "pos": "DT"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 221,
+          "offsetEnd": 228,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 229,
+          "offsetEnd": 231,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 232,
+          "offsetEnd": 235,
+          "pos": "DT"
+        },
+        {
+          "word": "California",
+          "lemma": "California",
+          "offsetBegin": 236,
+          "offsetEnd": 246,
+          "pos": "NNP"
+        },
+        {
+          "word": "Digital",
+          "lemma": "Digital",
+          "offsetBegin": 247,
+          "offsetEnd": 254,
+          "pos": "NNP"
+        },
+        {
+          "word": "Library",
+          "lemma": "Library",
+          "offsetBegin": 255,
+          "offsetEnd": 262,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 262,
+          "offsetEnd": 263,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 264,
+          "offsetEnd": 267,
+          "pos": "DT"
+        },
+        {
+          "word": "eScholarship",
+          "lemma": "escholarship",
+          "offsetBegin": 268,
+          "offsetEnd": 280,
+          "pos": "NN"
+        },
+        {
+          "word": "program",
+          "lemma": "program",
+          "offsetBegin": 281,
+          "offsetEnd": 288,
+          "pos": "NN"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 289,
+          "offsetEnd": 292,
+          "pos": "VBZ"
+        },
+        {
+          "word": "stimulated",
+          "lemma": "stimulate",
+          "offsetBegin": 293,
+          "offsetEnd": 303,
+          "pos": "VBN"
+        },
+        {
+          "word": "significant",
+          "lemma": "significant",
+          "offsetBegin": 304,
+          "offsetEnd": 315,
+          "pos": "JJ"
+        },
+        {
+          "word": "interest",
+          "lemma": "interest",
+          "offsetBegin": 316,
+          "offsetEnd": 324,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 325,
+          "offsetEnd": 327,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 328,
+          "offsetEnd": 331,
+          "pos": "PRP$"
+        },
+        {
+          "word": "short",
+          "lemma": "short",
+          "offsetBegin": 332,
+          "offsetEnd": 337,
+          "pos": "JJ"
+        },
+        {
+          "word": "life",
+          "lemma": "life",
+          "offsetBegin": 338,
+          "offsetEnd": 342,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 342,
+          "offsetEnd": 343,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Its",
+          "lemma": "its",
+          "offsetBegin": 344,
+          "offsetEnd": 347,
+          "pos": "PRP$"
+        },
+        {
+          "word": "modest",
+          "lemma": "modest",
+          "offsetBegin": 348,
+          "offsetEnd": 354,
+          "pos": "JJ"
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 355,
+          "offsetEnd": 358,
+          "pos": "CC"
+        },
+        {
+          "word": "visible",
+          "lemma": "visible",
+          "offsetBegin": 359,
+          "offsetEnd": 366,
+          "pos": "JJ"
+        },
+        {
+          "word": "accomplishments",
+          "lemma": "accomplishment",
+          "offsetBegin": 367,
+          "offsetEnd": 382,
+          "pos": "NNS"
+        },
+        {
+          "word": "garner",
+          "lemma": "garner",
+          "offsetBegin": 383,
+          "offsetEnd": 389,
+          "pos": "VBP"
+        },
+        {
+          "word": "praise",
+          "lemma": "praise",
+          "offsetBegin": 390,
+          "offsetEnd": 396,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 397,
+          "offsetEnd": 401,
+          "pos": "IN"
+        },
+        {
+          "word": "many",
+          "lemma": "many",
+          "offsetBegin": 402,
+          "offsetEnd": 406,
+          "pos": "JJ"
+        },
+        {
+          "word": "quarters",
+          "lemma": "quarter",
+          "offsetBegin": 407,
+          "offsetEnd": 415,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 415,
+          "offsetEnd": 416,
+          "pos": ","
+        },
+        {
+          "word": "within",
+          "lemma": "within",
+          "offsetBegin": 417,
+          "offsetEnd": 423,
+          "pos": "IN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 424,
+          "offsetEnd": 427,
+          "pos": "CC"
+        },
+        {
+          "word": "beyond",
+          "lemma": "beyond",
+          "offsetBegin": 428,
+          "offsetEnd": 434,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 435,
+          "offsetEnd": 438,
+          "pos": "DT"
+        },
+        {
+          "word": "University",
+          "lemma": "University",
+          "offsetBegin": 439,
+          "offsetEnd": 449,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 450,
+          "offsetEnd": 452,
+          "pos": "IN"
+        },
+        {
+          "word": "California",
+          "lemma": "California",
+          "offsetBegin": 453,
+          "offsetEnd": 463,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 463,
+          "offsetEnd": 464,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 465,
+          "offsetEnd": 467,
+          "pos": "IN"
+        },
+        {
+          "word": "perhaps",
+          "lemma": "perhaps",
+          "offsetBegin": 468,
+          "offsetEnd": 475,
+          "pos": "RB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 476,
+          "offsetEnd": 479,
+          "pos": "DT"
+        },
+        {
+          "word": "best",
+          "lemma": "best",
+          "offsetBegin": 480,
+          "offsetEnd": 484,
+          "pos": "JJS"
+        },
+        {
+          "word": "indication",
+          "lemma": "indication",
+          "offsetBegin": 485,
+          "offsetEnd": 495,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 496,
+          "offsetEnd": 498,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 499,
+          "offsetEnd": 502,
+          "pos": "PRP$"
+        },
+        {
+          "word": "timeliness",
+          "lemma": "timeliness",
+          "offsetBegin": 503,
+          "offsetEnd": 513,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 514,
+          "offsetEnd": 517,
+          "pos": "CC"
+        },
+        {
+          "word": "momentum",
+          "lemma": "momentum",
+          "offsetBegin": 518,
+          "offsetEnd": 526,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 526,
+          "offsetEnd": 527,
+          "pos": ","
+        },
+        {
+          "word": "there",
+          "lemma": "there",
+          "offsetBegin": 528,
+          "offsetEnd": 533,
+          "pos": "EX"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 534,
+          "offsetEnd": 537,
+          "pos": "VBP"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 538,
+          "offsetEnd": 542,
+          "pos": "RBR"
+        },
+        {
+          "word": "proposals",
+          "lemma": "proposal",
+          "offsetBegin": 543,
+          "offsetEnd": 552,
+          "pos": "NNS"
+        },
+        {
+          "word": "submitted",
+          "lemma": "submit",
+          "offsetBegin": 553,
+          "offsetEnd": 562,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 563,
+          "offsetEnd": 565,
+          "pos": "TO"
+        },
+        {
+          "word": "eScholarship",
+          "lemma": "escholarship",
+          "offsetBegin": 566,
+          "offsetEnd": 578,
+          "pos": "NN"
+        },
+        {
+          "word": "today",
+          "lemma": "today",
+          "offsetBegin": 579,
+          "offsetEnd": 584,
+          "pos": "NN"
+        },
+        {
+          "word": "than",
+          "lemma": "than",
+          "offsetBegin": 585,
+          "offsetEnd": 589,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 590,
+          "offsetEnd": 593,
+          "pos": "DT"
+        },
+        {
+          "word": "CDL",
+          "lemma": "CDL",
+          "offsetBegin": 594,
+          "offsetEnd": 597,
+          "pos": "NNP"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 598,
+          "offsetEnd": 601,
+          "pos": "MD"
+        },
+        {
+          "word": "manage",
+          "lemma": "manage",
+          "offsetBegin": 602,
+          "offsetEnd": 608,
+          "pos": "VB"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 608,
+          "offsetEnd": 609,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 610,
+          "offsetEnd": 614,
+          "pos": "DT"
+        },
+        {
+          "word": "early",
+          "lemma": "early",
+          "offsetBegin": 615,
+          "offsetEnd": 620,
+          "pos": "JJ"
+        },
+        {
+          "word": "success",
+          "lemma": "success",
+          "offsetBegin": 621,
+          "offsetEnd": 628,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 629,
+          "offsetEnd": 631,
+          "pos": "VBZ"
+        },
+        {
+          "word": "due",
+          "lemma": "due",
+          "offsetBegin": 632,
+          "offsetEnd": 635,
+          "pos": "JJ"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 636,
+          "offsetEnd": 638,
+          "pos": "IN"
+        },
+        {
+          "word": "part",
+          "lemma": "part",
+          "offsetBegin": 639,
+          "offsetEnd": 643,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 644,
+          "offsetEnd": 646,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 647,
+          "offsetEnd": 650,
+          "pos": "DT"
+        },
+        {
+          "word": "sheer",
+          "lemma": "sheer",
+          "offsetBegin": 651,
+          "offsetEnd": 656,
+          "pos": "JJ"
+        },
+        {
+          "word": "power",
+          "lemma": "power",
+          "offsetBegin": 657,
+          "offsetEnd": 662,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 663,
+          "offsetEnd": 665,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 666,
+          "offsetEnd": 668,
+          "pos": "DT"
+        },
+        {
+          "word": "idea",
+          "lemma": "idea",
+          "offsetBegin": 669,
+          "offsetEnd": 673,
+          "pos": "NN"
+        },
+        {
+          "word": "whose",
+          "lemma": "whose",
+          "offsetBegin": 674,
+          "offsetEnd": 679,
+          "pos": "WP$"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 680,
+          "offsetEnd": 684,
+          "pos": "NN"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 685,
+          "offsetEnd": 688,
+          "pos": "VBZ"
+        },
+        {
+          "word": "come",
+          "lemma": "come",
+          "offsetBegin": 689,
+          "offsetEnd": 693,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 693,
+          "offsetEnd": 694,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 695,
+          "offsetEnd": 698,
+          "pos": "CC"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 699,
+          "offsetEnd": 703,
+          "pos": "RB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 704,
+          "offsetEnd": 706,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 707,
+          "offsetEnd": 710,
+          "pos": "DT"
+        },
+        {
+          "word": "unique",
+          "lemma": "unique",
+          "offsetBegin": 711,
+          "offsetEnd": 717,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 718,
+          "offsetEnd": 726,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 727,
+          "offsetEnd": 729,
+          "pos": "IN"
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 730,
+          "offsetEnd": 735,
+          "pos": "WDT"
+        },
+        {
+          "word": "CDL",
+          "lemma": "CDL",
+          "offsetBegin": 736,
+          "offsetEnd": 739,
+          "pos": "NNP"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 740,
+          "offsetEnd": 743,
+          "pos": "VBD"
+        },
+        {
+          "word": "founded",
+          "lemma": "found",
+          "offsetBegin": 744,
+          "offsetEnd": 751,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 752,
+          "offsetEnd": 755,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 756,
+          "offsetEnd": 759,
+          "pos": "DT"
+        },
+        {
+          "word": "eScholarship",
+          "lemma": "escholarship",
+          "offsetBegin": 760,
+          "offsetEnd": 772,
+          "pos": "NN"
+        },
+        {
+          "word": "initiative",
+          "lemma": "initiative",
+          "offsetBegin": 773,
+          "offsetEnd": 783,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 784,
+          "offsetEnd": 787,
+          "pos": "VBD"
+        },
+        {
+          "word": "first",
+          "lemma": "first",
+          "offsetBegin": 788,
+          "offsetEnd": 793,
+          "pos": "JJ"
+        },
+        {
+          "word": "launched",
+          "lemma": "launch",
+          "offsetBegin": 794,
+          "offsetEnd": 802,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

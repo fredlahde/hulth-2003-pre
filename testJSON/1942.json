@@ -1,0 +1,1756 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Precoded",
+          "lemma": "precoded",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "JJ"
+        },
+        {
+          "word": "OFDM",
+          "lemma": "ofdm",
+          "offsetBegin": 9,
+          "offsetEnd": 13,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 14,
+          "offsetEnd": 18,
+          "pos": "IN"
+        },
+        {
+          "word": "adaptive",
+          "lemma": "adaptive",
+          "offsetBegin": 19,
+          "offsetEnd": 27,
+          "pos": "JJ"
+        },
+        {
+          "word": "vector",
+          "lemma": "vector",
+          "offsetBegin": 28,
+          "offsetEnd": 34,
+          "pos": "NN"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 35,
+          "offsetEnd": 42,
+          "pos": "NN"
+        },
+        {
+          "word": "allocation",
+          "lemma": "allocation",
+          "offsetBegin": 43,
+          "offsetEnd": 53,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 54,
+          "offsetEnd": 57,
+          "pos": "IN"
+        },
+        {
+          "word": "scalable",
+          "lemma": "scalable",
+          "offsetBegin": 58,
+          "offsetEnd": 66,
+          "pos": "JJ"
+        },
+        {
+          "word": "video",
+          "lemma": "video",
+          "offsetBegin": 67,
+          "offsetEnd": 72,
+          "pos": "NN"
+        },
+        {
+          "word": "transmission",
+          "lemma": "transmission",
+          "offsetBegin": 73,
+          "offsetEnd": 85,
+          "pos": "NN"
+        },
+        {
+          "word": "over",
+          "lemma": "over",
+          "offsetBegin": 86,
+          "offsetEnd": 90,
+          "pos": "IN"
+        },
+        {
+          "word": "frequency-selective",
+          "lemma": "frequency-selective",
+          "offsetBegin": 91,
+          "offsetEnd": 110,
+          "pos": "JJ"
+        },
+        {
+          "word": "fading",
+          "lemma": "fading",
+          "offsetBegin": 111,
+          "offsetEnd": 117,
+          "pos": "JJ"
+        },
+        {
+          "word": "channels",
+          "lemma": "channel",
+          "offsetBegin": 118,
+          "offsetEnd": 126,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Orthogonal",
+          "lemma": "orthogonal",
+          "offsetBegin": 127,
+          "offsetEnd": 137,
+          "pos": "JJ"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 138,
+          "offsetEnd": 147,
+          "pos": "NN"
+        },
+        {
+          "word": "division",
+          "lemma": "division",
+          "offsetBegin": 148,
+          "offsetEnd": 156,
+          "pos": "NN"
+        },
+        {
+          "word": "multiplexing",
+          "lemma": "multiplexing",
+          "offsetBegin": 157,
+          "offsetEnd": 169,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 170,
+          "offsetEnd": 171,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "OFDM",
+          "lemma": "ofdm",
+          "offsetBegin": 171,
+          "offsetEnd": 175,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 175,
+          "offsetEnd": 176,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 177,
+          "offsetEnd": 180,
+          "pos": "VBZ"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 181,
+          "offsetEnd": 185,
+          "pos": "VBN"
+        },
+        {
+          "word": "applied",
+          "lemma": "apply",
+          "offsetBegin": 186,
+          "offsetEnd": 193,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 194,
+          "offsetEnd": 196,
+          "pos": "IN"
+        },
+        {
+          "word": "broadband",
+          "lemma": "broadband",
+          "offsetBegin": 197,
+          "offsetEnd": 206,
+          "pos": "NN"
+        },
+        {
+          "word": "wireline",
+          "lemma": "wireline",
+          "offsetBegin": 207,
+          "offsetEnd": 215,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 216,
+          "offsetEnd": 219,
+          "pos": "CC"
+        },
+        {
+          "word": "wireless",
+          "lemma": "wireless",
+          "offsetBegin": 220,
+          "offsetEnd": 228,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 229,
+          "offsetEnd": 236,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 237,
+          "offsetEnd": 240,
+          "pos": "IN"
+        },
+        {
+          "word": "high",
+          "lemma": "high",
+          "offsetBegin": 241,
+          "offsetEnd": 245,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 246,
+          "offsetEnd": 250,
+          "pos": "NNS"
+        },
+        {
+          "word": "rate",
+          "lemma": "rate",
+          "offsetBegin": 251,
+          "offsetEnd": 255,
+          "pos": "NN"
+        },
+        {
+          "word": "transmission",
+          "lemma": "transmission",
+          "offsetBegin": 256,
+          "offsetEnd": 268,
+          "pos": "NN"
+        },
+        {
+          "word": "where",
+          "lemma": "where",
+          "offsetBegin": 269,
+          "offsetEnd": 274,
+          "pos": "WRB"
+        },
+        {
+          "word": "severe",
+          "lemma": "severe",
+          "offsetBegin": 275,
+          "offsetEnd": 281,
+          "pos": "JJ"
+        },
+        {
+          "word": "intersymbol",
+          "lemma": "intersymbol",
+          "offsetBegin": 282,
+          "offsetEnd": 293,
+          "pos": "NN"
+        },
+        {
+          "word": "interference",
+          "lemma": "interference",
+          "offsetBegin": 294,
+          "offsetEnd": 306,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 307,
+          "offsetEnd": 308,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "ISI",
+          "lemma": "isi",
+          "offsetBegin": 308,
+          "offsetEnd": 311,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 311,
+          "offsetEnd": 312,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "always",
+          "lemma": "always",
+          "offsetBegin": 313,
+          "offsetEnd": 319,
+          "pos": "RB"
+        },
+        {
+          "word": "occurs",
+          "lemma": "occur",
+          "offsetBegin": 320,
+          "offsetEnd": 326,
+          "pos": "VBZ"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 326,
+          "offsetEnd": 327,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 328,
+          "offsetEnd": 331,
+          "pos": "DT"
+        },
+        {
+          "word": "conventional",
+          "lemma": "conventional",
+          "offsetBegin": 332,
+          "offsetEnd": 344,
+          "pos": "JJ"
+        },
+        {
+          "word": "OFDM",
+          "lemma": "ofdm",
+          "offsetBegin": 345,
+          "offsetEnd": 349,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 350,
+          "offsetEnd": 356,
+          "pos": "NN"
+        },
+        {
+          "word": "provides",
+          "lemma": "provide",
+          "offsetBegin": 357,
+          "offsetEnd": 365,
+          "pos": "VBZ"
+        },
+        {
+          "word": "advantages",
+          "lemma": "advantage",
+          "offsetBegin": 366,
+          "offsetEnd": 376,
+          "pos": "NNS"
+        },
+        {
+          "word": "through",
+          "lemma": "through",
+          "offsetBegin": 377,
+          "offsetEnd": 384,
+          "pos": "IN"
+        },
+        {
+          "word": "conversion",
+          "lemma": "conversion",
+          "offsetBegin": 385,
+          "offsetEnd": 395,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 396,
+          "offsetEnd": 398,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 399,
+          "offsetEnd": 401,
+          "pos": "DT"
+        },
+        {
+          "word": "ISI",
+          "lemma": "isi",
+          "offsetBegin": 402,
+          "offsetEnd": 405,
+          "pos": "NN"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 406,
+          "offsetEnd": 413,
+          "pos": "NN"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 414,
+          "offsetEnd": 418,
+          "pos": "IN"
+        },
+        {
+          "word": "ISI-free",
+          "lemma": "isi-free",
+          "offsetBegin": 419,
+          "offsetEnd": 427,
+          "pos": "JJ"
+        },
+        {
+          "word": "subchannels",
+          "lemma": "subchannel",
+          "offsetBegin": 428,
+          "offsetEnd": 439,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 440,
+          "offsetEnd": 442,
+          "pos": "IN"
+        },
+        {
+          "word": "multiple",
+          "lemma": "multiple",
+          "offsetBegin": 443,
+          "offsetEnd": 451,
+          "pos": "JJ"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 452,
+          "offsetEnd": 461,
+          "pos": "NN"
+        },
+        {
+          "word": "bands",
+          "lemma": "band",
+          "offsetBegin": 462,
+          "offsetEnd": 467,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 467,
+          "offsetEnd": 468,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "However",
+          "lemma": "however",
+          "offsetBegin": 469,
+          "offsetEnd": 476,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 476,
+          "offsetEnd": 477,
+          "pos": ","
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 478,
+          "offsetEnd": 480,
+          "pos": "PRP"
+        },
+        {
+          "word": "may",
+          "lemma": "may",
+          "offsetBegin": 481,
+          "offsetEnd": 484,
+          "pos": "MD"
+        },
+        {
+          "word": "suffer",
+          "lemma": "suffer",
+          "offsetBegin": 485,
+          "offsetEnd": 491,
+          "pos": "VB"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 492,
+          "offsetEnd": 496,
+          "pos": "IN"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 497,
+          "offsetEnd": 504,
+          "pos": "NN"
+        },
+        {
+          "word": "spectral",
+          "lemma": "spectral",
+          "offsetBegin": 505,
+          "offsetEnd": 513,
+          "pos": "JJ"
+        },
+        {
+          "word": "nulls",
+          "lemma": "null",
+          "offsetBegin": 514,
+          "offsetEnd": 519,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 520,
+          "offsetEnd": 523,
+          "pos": "CC"
+        },
+        {
+          "word": "heavy",
+          "lemma": "heavy",
+          "offsetBegin": 524,
+          "offsetEnd": 529,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 530,
+          "offsetEnd": 534,
+          "pos": "NNS"
+        },
+        {
+          "word": "rate",
+          "lemma": "rate",
+          "offsetBegin": 535,
+          "offsetEnd": 539,
+          "pos": "NN"
+        },
+        {
+          "word": "overhead",
+          "lemma": "overhead",
+          "offsetBegin": 540,
+          "offsetEnd": 548,
+          "pos": "NN"
+        },
+        {
+          "word": "due",
+          "lemma": "due",
+          "offsetBegin": 549,
+          "offsetEnd": 552,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 553,
+          "offsetEnd": 555,
+          "pos": "TO"
+        },
+        {
+          "word": "cyclic",
+          "lemma": "cyclic",
+          "offsetBegin": 556,
+          "offsetEnd": 562,
+          "pos": "JJ"
+        },
+        {
+          "word": "prefix",
+          "lemma": "prefix",
+          "offsetBegin": 563,
+          "offsetEnd": 569,
+          "pos": "NN"
+        },
+        {
+          "word": "insertion",
+          "lemma": "insertion",
+          "offsetBegin": 570,
+          "offsetEnd": 579,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 579,
+          "offsetEnd": 580,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Previously",
+          "lemma": "previously",
+          "offsetBegin": 581,
+          "offsetEnd": 591,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 591,
+          "offsetEnd": 592,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 593,
+          "offsetEnd": 594,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 595,
+          "offsetEnd": 598,
+          "pos": "JJ"
+        },
+        {
+          "word": "OFDM",
+          "lemma": "OFDM",
+          "offsetBegin": 599,
+          "offsetEnd": 603,
+          "pos": "NNP"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 604,
+          "offsetEnd": 613,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 613,
+          "offsetEnd": 614,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 615,
+          "offsetEnd": 618,
+          "pos": "DT"
+        },
+        {
+          "word": "precoded",
+          "lemma": "precoded",
+          "offsetBegin": 619,
+          "offsetEnd": 627,
+          "pos": "JJ"
+        },
+        {
+          "word": "OFDM",
+          "lemma": "ofdm",
+          "offsetBegin": 628,
+          "offsetEnd": 632,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 632,
+          "offsetEnd": 633,
+          "pos": ","
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 634,
+          "offsetEnd": 637,
+          "pos": "VBZ"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 638,
+          "offsetEnd": 642,
+          "pos": "VBN"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 643,
+          "offsetEnd": 651,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 652,
+          "offsetEnd": 654,
+          "pos": "TO"
+        },
+        {
+          "word": "mitigate",
+          "lemma": "mitigate",
+          "offsetBegin": 655,
+          "offsetEnd": 663,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 664,
+          "offsetEnd": 667,
+          "pos": "DT"
+        },
+        {
+          "word": "above",
+          "lemma": "above",
+          "offsetBegin": 668,
+          "offsetEnd": 673,
+          "pos": "JJ"
+        },
+        {
+          "word": "two",
+          "lemma": "two",
+          "offsetBegin": 674,
+          "offsetEnd": 677,
+          "pos": "CD"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 678,
+          "offsetEnd": 686,
+          "pos": "NNS"
+        },
+        {
+          "word": "through",
+          "lemma": "through",
+          "offsetBegin": 687,
+          "offsetEnd": 694,
+          "pos": "IN"
+        },
+        {
+          "word": "precoding",
+          "lemma": "precoding",
+          "offsetBegin": 695,
+          "offsetEnd": 704,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 705,
+          "offsetEnd": 708,
+          "pos": "CC"
+        },
+        {
+          "word": "conversion",
+          "lemma": "conversion",
+          "offsetBegin": 709,
+          "offsetEnd": 719,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 720,
+          "offsetEnd": 722,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 723,
+          "offsetEnd": 725,
+          "pos": "DT"
+        },
+        {
+          "word": "ISI",
+          "lemma": "isi",
+          "offsetBegin": 726,
+          "offsetEnd": 729,
+          "pos": "NN"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 730,
+          "offsetEnd": 737,
+          "pos": "NN"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 738,
+          "offsetEnd": 742,
+          "pos": "IN"
+        },
+        {
+          "word": "ISI-free",
+          "lemma": "isi-free",
+          "offsetBegin": 743,
+          "offsetEnd": 751,
+          "pos": "JJ"
+        },
+        {
+          "word": "vector",
+          "lemma": "vector",
+          "offsetBegin": 752,
+          "offsetEnd": 758,
+          "pos": "NN"
+        },
+        {
+          "word": "channels",
+          "lemma": "channel",
+          "offsetBegin": 759,
+          "offsetEnd": 767,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 767,
+          "offsetEnd": 768,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 769,
+          "offsetEnd": 771,
+          "pos": "IN"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 772,
+          "offsetEnd": 776,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 777,
+          "offsetEnd": 782,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 782,
+          "offsetEnd": 783,
+          "pos": ","
+        },
+        {
+          "word": "we",
+          "lemma": "we",
+          "offsetBegin": 784,
+          "offsetEnd": 786,
+          "pos": "PRP"
+        },
+        {
+          "word": "consider",
+          "lemma": "consider",
+          "offsetBegin": 787,
+          "offsetEnd": 795,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 796,
+          "offsetEnd": 799,
+          "pos": "DT"
+        },
+        {
+          "word": "application",
+          "lemma": "application",
+          "offsetBegin": 800,
+          "offsetEnd": 811,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 812,
+          "offsetEnd": 814,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 815,
+          "offsetEnd": 818,
+          "pos": "DT"
+        },
+        {
+          "word": "precoded",
+          "lemma": "precoded",
+          "offsetBegin": 819,
+          "offsetEnd": 827,
+          "pos": "JJ"
+        },
+        {
+          "word": "OFDM",
+          "lemma": "ofdm",
+          "offsetBegin": 828,
+          "offsetEnd": 832,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 833,
+          "offsetEnd": 839,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 840,
+          "offsetEnd": 842,
+          "pos": "TO"
+        },
+        {
+          "word": "efficient",
+          "lemma": "efficient",
+          "offsetBegin": 843,
+          "offsetEnd": 852,
+          "pos": "JJ"
+        },
+        {
+          "word": "scalable",
+          "lemma": "scalable",
+          "offsetBegin": 853,
+          "offsetEnd": 861,
+          "pos": "JJ"
+        },
+        {
+          "word": "video",
+          "lemma": "video",
+          "offsetBegin": 862,
+          "offsetEnd": 867,
+          "pos": "NN"
+        },
+        {
+          "word": "transmission",
+          "lemma": "transmission",
+          "offsetBegin": 868,
+          "offsetEnd": 880,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 880,
+          "offsetEnd": 881,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 882,
+          "offsetEnd": 884,
+          "pos": "PRP"
+        },
+        {
+          "word": "propose",
+          "lemma": "propose",
+          "offsetBegin": 885,
+          "offsetEnd": 892,
+          "pos": "VBP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 893,
+          "offsetEnd": 895,
+          "pos": "TO"
+        },
+        {
+          "word": "enhance",
+          "lemma": "enhance",
+          "offsetBegin": 896,
+          "offsetEnd": 903,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 904,
+          "offsetEnd": 907,
+          "pos": "DT"
+        },
+        {
+          "word": "precoded",
+          "lemma": "precoded",
+          "offsetBegin": 908,
+          "offsetEnd": 916,
+          "pos": "JJ"
+        },
+        {
+          "word": "OFDM",
+          "lemma": "ofdm",
+          "offsetBegin": 917,
+          "offsetEnd": 921,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 922,
+          "offsetEnd": 928,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 929,
+          "offsetEnd": 933,
+          "pos": "IN"
+        },
+        {
+          "word": "adaptive",
+          "lemma": "adaptive",
+          "offsetBegin": 934,
+          "offsetEnd": 942,
+          "pos": "JJ"
+        },
+        {
+          "word": "vector",
+          "lemma": "vector",
+          "offsetBegin": 943,
+          "offsetEnd": 949,
+          "pos": "NN"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 950,
+          "offsetEnd": 957,
+          "pos": "NN"
+        },
+        {
+          "word": "allocation",
+          "lemma": "allocation",
+          "offsetBegin": 958,
+          "offsetEnd": 968,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 969,
+          "offsetEnd": 971,
+          "pos": "TO"
+        },
+        {
+          "word": "provide",
+          "lemma": "provide",
+          "offsetBegin": 972,
+          "offsetEnd": 979,
+          "pos": "VB"
+        },
+        {
+          "word": "stronger",
+          "lemma": "stronger",
+          "offsetBegin": 980,
+          "offsetEnd": 988,
+          "pos": "JJR"
+        },
+        {
+          "word": "protection",
+          "lemma": "protection",
+          "offsetBegin": 989,
+          "offsetEnd": 999,
+          "pos": "NN"
+        },
+        {
+          "word": "against",
+          "lemma": "against",
+          "offsetBegin": 1000,
+          "offsetEnd": 1007,
+          "pos": "IN"
+        },
+        {
+          "word": "errors",
+          "lemma": "error",
+          "offsetBegin": 1008,
+          "offsetEnd": 1014,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1015,
+          "offsetEnd": 1017,
+          "pos": "TO"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 1018,
+          "offsetEnd": 1022,
+          "pos": "RBR"
+        },
+        {
+          "word": "important",
+          "lemma": "important",
+          "offsetBegin": 1023,
+          "offsetEnd": 1032,
+          "pos": "JJ"
+        },
+        {
+          "word": "layers",
+          "lemma": "layer",
+          "offsetBegin": 1033,
+          "offsetEnd": 1039,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1040,
+          "offsetEnd": 1042,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1043,
+          "offsetEnd": 1046,
+          "pos": "DT"
+        },
+        {
+          "word": "layered",
+          "lemma": "layered",
+          "offsetBegin": 1047,
+          "offsetEnd": 1054,
+          "pos": "JJ"
+        },
+        {
+          "word": "bit",
+          "lemma": "bit",
+          "offsetBegin": 1055,
+          "offsetEnd": 1058,
+          "pos": "NN"
+        },
+        {
+          "word": "stream",
+          "lemma": "stream",
+          "offsetBegin": 1059,
+          "offsetEnd": 1065,
+          "pos": "NN"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 1066,
+          "offsetEnd": 1075,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1076,
+          "offsetEnd": 1078,
+          "pos": "IN"
+        },
+        {
+          "word": "scalable",
+          "lemma": "scalable",
+          "offsetBegin": 1079,
+          "offsetEnd": 1087,
+          "pos": "JJ"
+        },
+        {
+          "word": "video",
+          "lemma": "video",
+          "offsetBegin": 1088,
+          "offsetEnd": 1093,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1093,
+          "offsetEnd": 1094,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 1095,
+          "offsetEnd": 1098,
+          "pos": "DT"
+        },
+        {
+          "word": "more",
+          "lemma": "more",
+          "offsetBegin": 1099,
+          "offsetEnd": 1103,
+          "pos": "JJR"
+        },
+        {
+          "word": "critical",
+          "lemma": "critical",
+          "offsetBegin": 1104,
+          "offsetEnd": 1112,
+          "pos": "JJ"
+        },
+        {
+          "word": "layers",
+          "lemma": "layer",
+          "offsetBegin": 1113,
+          "offsetEnd": 1119,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1119,
+          "offsetEnd": 1120,
+          "pos": ","
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 1121,
+          "offsetEnd": 1123,
+          "pos": "CC"
+        },
+        {
+          "word": "equivalently",
+          "lemma": "equivalently",
+          "offsetBegin": 1124,
+          "offsetEnd": 1136,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1136,
+          "offsetEnd": 1137,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1138,
+          "offsetEnd": 1141,
+          "pos": "DT"
+        },
+        {
+          "word": "lower",
+          "lemma": "lower",
+          "offsetBegin": 1142,
+          "offsetEnd": 1147,
+          "pos": "JJR"
+        },
+        {
+          "word": "layers",
+          "lemma": "layer",
+          "offsetBegin": 1148,
+          "offsetEnd": 1154,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 1154,
+          "offsetEnd": 1155,
+          "pos": ","
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 1156,
+          "offsetEnd": 1159,
+          "pos": "VBP"
+        },
+        {
+          "word": "allocated",
+          "lemma": "allocate",
+          "offsetBegin": 1160,
+          "offsetEnd": 1169,
+          "pos": "VBN"
+        },
+        {
+          "word": "vector",
+          "lemma": "vector",
+          "offsetBegin": 1170,
+          "offsetEnd": 1176,
+          "pos": "NN"
+        },
+        {
+          "word": "channels",
+          "lemma": "channel",
+          "offsetBegin": 1177,
+          "offsetEnd": 1185,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1186,
+          "offsetEnd": 1188,
+          "pos": "IN"
+        },
+        {
+          "word": "higher",
+          "lemma": "higher",
+          "offsetBegin": 1189,
+          "offsetEnd": 1195,
+          "pos": "JJR"
+        },
+        {
+          "word": "transmission",
+          "lemma": "transmission",
+          "offsetBegin": 1196,
+          "offsetEnd": 1208,
+          "pos": "NN"
+        },
+        {
+          "word": "quality",
+          "lemma": "quality",
+          "offsetBegin": 1209,
+          "offsetEnd": 1216,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1216,
+          "offsetEnd": 1217,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 1218,
+          "offsetEnd": 1221,
+          "pos": "DT"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 1222,
+          "offsetEnd": 1229,
+          "pos": "NN"
+        },
+        {
+          "word": "quality",
+          "lemma": "quality",
+          "offsetBegin": 1230,
+          "offsetEnd": 1237,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 1238,
+          "offsetEnd": 1240,
+          "pos": "VBZ"
+        },
+        {
+          "word": "characterized",
+          "lemma": "characterize",
+          "offsetBegin": 1241,
+          "offsetEnd": 1254,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 1255,
+          "offsetEnd": 1257,
+          "pos": "IN"
+        },
+        {
+          "word": "Frobenius",
+          "lemma": "Frobenius",
+          "offsetBegin": 1258,
+          "offsetEnd": 1267,
+          "pos": "NNP"
+        },
+        {
+          "word": "norm",
+          "lemma": "norm",
+          "offsetBegin": 1268,
+          "offsetEnd": 1272,
+          "pos": "NN"
+        },
+        {
+          "word": "metrics",
+          "lemma": "metric",
+          "offsetBegin": 1273,
+          "offsetEnd": 1280,
+          "pos": "NNS"
+        },
+        {
+          "word": ";",
+          "lemma": ";",
+          "offsetBegin": 1280,
+          "offsetEnd": 1281,
+          "pos": ":"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 1282,
+          "offsetEnd": 1287,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 1288,
+          "offsetEnd": 1290,
+          "pos": "IN"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 1291,
+          "offsetEnd": 1298,
+          "pos": "NN"
+        },
+        {
+          "word": "estimation",
+          "lemma": "estimation",
+          "offsetBegin": 1299,
+          "offsetEnd": 1309,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 1310,
+          "offsetEnd": 1312,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1313,
+          "offsetEnd": 1316,
+          "pos": "DT"
+        },
+        {
+          "word": "receiver",
+          "lemma": "receiver",
+          "offsetBegin": 1317,
+          "offsetEnd": 1325,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1325,
+          "offsetEnd": 1326,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 1327,
+          "offsetEnd": 1330,
+          "pos": "DT"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 1331,
+          "offsetEnd": 1338,
+          "pos": "NN"
+        },
+        {
+          "word": "allocation",
+          "lemma": "allocation",
+          "offsetBegin": 1339,
+          "offsetEnd": 1349,
+          "pos": "NN"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 1350,
+          "offsetEnd": 1361,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 1362,
+          "offsetEnd": 1364,
+          "pos": "VBZ"
+        },
+        {
+          "word": "fed",
+          "lemma": "feed",
+          "offsetBegin": 1365,
+          "offsetEnd": 1368,
+          "pos": "VBN"
+        },
+        {
+          "word": "back",
+          "lemma": "back",
+          "offsetBegin": 1369,
+          "offsetEnd": 1373,
+          "pos": "RB"
+        },
+        {
+          "word": "periodically",
+          "lemma": "periodically",
+          "offsetBegin": 1374,
+          "offsetEnd": 1386,
+          "pos": "RB"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1387,
+          "offsetEnd": 1389,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1390,
+          "offsetEnd": 1393,
+          "pos": "DT"
+        },
+        {
+          "word": "transmitter",
+          "lemma": "transmitter",
+          "offsetBegin": 1394,
+          "offsetEnd": 1405,
+          "pos": "NN"
+        },
+        {
+          "word": "through",
+          "lemma": "through",
+          "offsetBegin": 1406,
+          "offsetEnd": 1413,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 1414,
+          "offsetEnd": 1415,
+          "pos": "DT"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 1416,
+          "offsetEnd": 1423,
+          "pos": "NN"
+        },
+        {
+          "word": "channel",
+          "lemma": "channel",
+          "offsetBegin": 1424,
+          "offsetEnd": 1431,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1431,
+          "offsetEnd": 1432,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Simulation",
+          "lemma": "simulation",
+          "offsetBegin": 1433,
+          "offsetEnd": 1443,
+          "pos": "NN"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 1444,
+          "offsetEnd": 1451,
+          "pos": "NNS"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 1452,
+          "offsetEnd": 1456,
+          "pos": "VBP"
+        },
+        {
+          "word": "demonstrated",
+          "lemma": "demonstrate",
+          "offsetBegin": 1457,
+          "offsetEnd": 1469,
+          "pos": "VBN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1470,
+          "offsetEnd": 1473,
+          "pos": "DT"
+        },
+        {
+          "word": "robustness",
+          "lemma": "robustness",
+          "offsetBegin": 1474,
+          "offsetEnd": 1484,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1485,
+          "offsetEnd": 1487,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1488,
+          "offsetEnd": 1491,
+          "pos": "DT"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 1492,
+          "offsetEnd": 1500,
+          "pos": "VBN"
+        },
+        {
+          "word": "scheme",
+          "lemma": "scheme",
+          "offsetBegin": 1501,
+          "offsetEnd": 1507,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 1508,
+          "offsetEnd": 1510,
+          "pos": "TO"
+        },
+        {
+          "word": "noise",
+          "lemma": "noise",
+          "offsetBegin": 1511,
+          "offsetEnd": 1516,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1517,
+          "offsetEnd": 1520,
+          "pos": "CC"
+        },
+        {
+          "word": "fading",
+          "lemma": "fading",
+          "offsetBegin": 1521,
+          "offsetEnd": 1527,
+          "pos": "JJ"
+        },
+        {
+          "word": "inherent",
+          "lemma": "inherent",
+          "offsetBegin": 1528,
+          "offsetEnd": 1536,
+          "pos": "JJ"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1537,
+          "offsetEnd": 1539,
+          "pos": "IN"
+        },
+        {
+          "word": "wireless",
+          "lemma": "wireless",
+          "offsetBegin": 1540,
+          "offsetEnd": 1548,
+          "pos": "JJ"
+        },
+        {
+          "word": "channels",
+          "lemma": "channel",
+          "offsetBegin": 1549,
+          "offsetEnd": 1557,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

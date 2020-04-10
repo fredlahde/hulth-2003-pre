@@ -1,0 +1,391 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Unsafe",
+          "lemma": "unsafe",
+          "offsetBegin": 0,
+          "offsetEnd": 6,
+          "pos": "JJ"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 7,
+          "offsetEnd": 9,
+          "pos": "IN"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 10,
+          "offsetEnd": 13,
+          "pos": "DT"
+        },
+        {
+          "word": "speed",
+          "lemma": "speed",
+          "offsetBegin": 14,
+          "offsetEnd": 19,
+          "pos": "NN"
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "offsetBegin": 19,
+          "offsetEnd": 20,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "While",
+          "lemma": "while",
+          "offsetBegin": 21,
+          "offsetEnd": 26,
+          "pos": "IN"
+        },
+        {
+          "word": "Sun",
+          "lemma": "Sun",
+          "offsetBegin": 27,
+          "offsetEnd": 30,
+          "pos": "NNP"
+        },
+        {
+          "word": "prides",
+          "lemma": "pride",
+          "offsetBegin": 31,
+          "offsetEnd": 37,
+          "pos": "VBZ"
+        },
+        {
+          "word": "itself",
+          "lemma": "itself",
+          "offsetBegin": 38,
+          "offsetEnd": 44,
+          "pos": "PRP"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 45,
+          "offsetEnd": 47,
+          "pos": "IN"
+        },
+        {
+          "word": "Java",
+          "lemma": "Java",
+          "offsetBegin": 48,
+          "offsetEnd": 52,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 52,
+          "offsetEnd": 54,
+          "pos": "POS"
+        },
+        {
+          "word": "secure",
+          "lemma": "secure",
+          "offsetBegin": 55,
+          "offsetEnd": 61,
+          "pos": "JJ"
+        },
+        {
+          "word": "sandbox",
+          "lemma": "sandbox",
+          "offsetBegin": 62,
+          "offsetEnd": 69,
+          "pos": "NN"
+        },
+        {
+          "word": "programming",
+          "lemma": "programming",
+          "offsetBegin": 70,
+          "offsetEnd": 81,
+          "pos": "NN"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 82,
+          "offsetEnd": 87,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 87,
+          "offsetEnd": 88,
+          "pos": ","
+        },
+        {
+          "word": "Microsoft",
+          "lemma": "Microsoft",
+          "offsetBegin": 89,
+          "offsetEnd": 98,
+          "pos": "NNP"
+        },
+        {
+          "word": "takes",
+          "lemma": "take",
+          "offsetBegin": 99,
+          "offsetEnd": 104,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 105,
+          "offsetEnd": 106,
+          "pos": "DT"
+        },
+        {
+          "word": "looser",
+          "lemma": "looser",
+          "offsetBegin": 107,
+          "offsetEnd": 113,
+          "pos": "JJR"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 114,
+          "offsetEnd": 122,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 122,
+          "offsetEnd": 123,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Its",
+          "lemma": "its",
+          "offsetBegin": 124,
+          "offsetEnd": 127,
+          "pos": "PRP$"
+        },
+        {
+          "word": "C#",
+          "lemma": "c#",
+          "offsetBegin": 128,
+          "offsetEnd": 130,
+          "pos": "NN"
+        },
+        {
+          "word": "language",
+          "lemma": "language",
+          "offsetBegin": 131,
+          "offsetEnd": 139,
+          "pos": "NN"
+        },
+        {
+          "word": "incorporates",
+          "lemma": "incorporate",
+          "offsetBegin": 140,
+          "offsetEnd": 152,
+          "pos": "VBZ"
+        },
+        {
+          "word": "C-like",
+          "lemma": "c-like",
+          "offsetBegin": 153,
+          "offsetEnd": 159,
+          "pos": "JJ"
+        },
+        {
+          "word": "concepts",
+          "lemma": "concept",
+          "offsetBegin": 160,
+          "offsetEnd": 168,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 168,
+          "offsetEnd": 169,
+          "pos": ","
+        },
+        {
+          "word": "including",
+          "lemma": "include",
+          "offsetBegin": 170,
+          "offsetEnd": 179,
+          "pos": "VBG"
+        },
+        {
+          "word": "pointers",
+          "lemma": "pointer",
+          "offsetBegin": 180,
+          "offsetEnd": 188,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 189,
+          "offsetEnd": 192,
+          "pos": "CC"
+        },
+        {
+          "word": "memory",
+          "lemma": "memory",
+          "offsetBegin": 193,
+          "offsetEnd": 199,
+          "pos": "NN"
+        },
+        {
+          "word": "management",
+          "lemma": "management",
+          "offsetBegin": 200,
+          "offsetEnd": 210,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 210,
+          "offsetEnd": 211,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "But",
+          "lemma": "but",
+          "offsetBegin": 212,
+          "offsetEnd": 215,
+          "pos": "CC"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 216,
+          "offsetEnd": 218,
+          "pos": "VBZ"
+        },
+        {
+          "word": "unsafe",
+          "lemma": "unsafe",
+          "offsetBegin": 219,
+          "offsetEnd": 225,
+          "pos": "JJ"
+        },
+        {
+          "word": "code",
+          "lemma": "code",
+          "offsetBegin": 226,
+          "offsetEnd": 230,
+          "pos": "NN"
+        },
+        {
+          "word": "really",
+          "lemma": "really",
+          "offsetBegin": 231,
+          "offsetEnd": 237,
+          "pos": "RB"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 238,
+          "offsetEnd": 239,
+          "pos": "DT"
+        },
+        {
+          "word": "boon",
+          "lemma": "boon",
+          "offsetBegin": 240,
+          "offsetEnd": 244,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 245,
+          "offsetEnd": 247,
+          "pos": "TO"
+        },
+        {
+          "word": "programmers",
+          "lemma": "programmer",
+          "offsetBegin": 248,
+          "offsetEnd": 259,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 259,
+          "offsetEnd": 260,
+          "pos": ","
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 261,
+          "offsetEnd": 263,
+          "pos": "CC"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 264,
+          "offsetEnd": 266,
+          "pos": "VBZ"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 267,
+          "offsetEnd": 269,
+          "pos": "PRP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 270,
+          "offsetEnd": 271,
+          "pos": "DT"
+        },
+        {
+          "word": "step",
+          "lemma": "step",
+          "offsetBegin": 272,
+          "offsetEnd": 276,
+          "pos": "NN"
+        },
+        {
+          "word": "backward",
+          "lemma": "backward",
+          "offsetBegin": 277,
+          "offsetEnd": 285,
+          "pos": "RB"
+        },
+        {
+          "word": "?",
+          "lemma": "?",
+          "offsetBegin": 285,
+          "offsetEnd": 286,
+          "pos": "."
+        }
+      ]
+    }
+  ]
+}

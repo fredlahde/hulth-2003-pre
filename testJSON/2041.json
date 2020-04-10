@@ -1,0 +1,524 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Application",
+          "lemma": "application",
+          "offsetBegin": 0,
+          "offsetEnd": 11,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 12,
+          "offsetEnd": 14,
+          "pos": "IN"
+        },
+        {
+          "word": "multiprocessor",
+          "lemma": "multiprocessor",
+          "offsetBegin": 15,
+          "offsetEnd": 29,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 30,
+          "offsetEnd": 37,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 38,
+          "offsetEnd": 41,
+          "pos": "IN"
+        },
+        {
+          "word": "computation",
+          "lemma": "computation",
+          "offsetBegin": 42,
+          "offsetEnd": 53,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 54,
+          "offsetEnd": 56,
+          "pos": "IN"
+        },
+        {
+          "word": "jets",
+          "lemma": "jet",
+          "offsetBegin": 57,
+          "offsetEnd": 61,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 62,
+          "offsetEnd": 65,
+          "pos": "DT"
+        },
+        {
+          "word": "article",
+          "lemma": "article",
+          "offsetBegin": 66,
+          "offsetEnd": 73,
+          "pos": "NN"
+        },
+        {
+          "word": "describes",
+          "lemma": "describe",
+          "offsetBegin": 74,
+          "offsetEnd": 83,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 84,
+          "offsetEnd": 87,
+          "pos": "DT"
+        },
+        {
+          "word": "implementation",
+          "lemma": "implementation",
+          "offsetBegin": 88,
+          "offsetEnd": 102,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 103,
+          "offsetEnd": 105,
+          "pos": "IN"
+        },
+        {
+          "word": "methods",
+          "lemma": "method",
+          "offsetBegin": 106,
+          "offsetEnd": 113,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 114,
+          "offsetEnd": 117,
+          "pos": "IN"
+        },
+        {
+          "word": "numerical",
+          "lemma": "numerical",
+          "offsetBegin": 118,
+          "offsetEnd": 127,
+          "pos": "JJ"
+        },
+        {
+          "word": "solution",
+          "lemma": "solution",
+          "offsetBegin": 128,
+          "offsetEnd": 136,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 137,
+          "offsetEnd": 139,
+          "pos": "IN"
+        },
+        {
+          "word": "gas-dynamic",
+          "lemma": "gas-dynamic",
+          "offsetBegin": 140,
+          "offsetEnd": 151,
+          "pos": "JJ"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 152,
+          "offsetEnd": 160,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 161,
+          "offsetEnd": 163,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 164,
+          "offsetEnd": 165,
+          "pos": "DT"
+        },
+        {
+          "word": "wide",
+          "lemma": "wide",
+          "offsetBegin": 166,
+          "offsetEnd": 170,
+          "pos": "JJ"
+        },
+        {
+          "word": "class",
+          "lemma": "class",
+          "offsetBegin": 171,
+          "offsetEnd": 176,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 177,
+          "offsetEnd": 179,
+          "pos": "IN"
+        },
+        {
+          "word": "multiprocessor",
+          "lemma": "multiprocessor",
+          "offsetBegin": 180,
+          "offsetEnd": 194,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 195,
+          "offsetEnd": 202,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 202,
+          "offsetEnd": 203,
+          "pos": ","
+        },
+        {
+          "word": "conventionally",
+          "lemma": "conventionally",
+          "offsetBegin": 204,
+          "offsetEnd": 218,
+          "pos": "RB"
+        },
+        {
+          "word": "characterized",
+          "lemma": "characterize",
+          "offsetBegin": 219,
+          "offsetEnd": 232,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 233,
+          "offsetEnd": 235,
+          "pos": "IN"
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 236,
+          "offsetEnd": 237,
+          "pos": "``"
+        },
+        {
+          "word": "cluster",
+          "lemma": "cluster",
+          "offsetBegin": 237,
+          "offsetEnd": 244,
+          "pos": "NN"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 244,
+          "offsetEnd": 245,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 246,
+          "offsetEnd": 253,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 253,
+          "offsetEnd": 254,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 255,
+          "offsetEnd": 256,
+          "pos": "DT"
+        },
+        {
+          "word": "standard",
+          "lemma": "standard",
+          "offsetBegin": 257,
+          "offsetEnd": 265,
+          "pos": "JJ"
+        },
+        {
+          "word": "data-transfer",
+          "lemma": "data-transfer",
+          "offsetBegin": 266,
+          "offsetEnd": 279,
+          "pos": "NN"
+        },
+        {
+          "word": "interface",
+          "lemma": "interface",
+          "offsetBegin": 280,
+          "offsetEnd": 289,
+          "pos": "NN"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 290,
+          "offsetEnd": 291,
+          "pos": ":"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 292,
+          "offsetEnd": 295,
+          "pos": "DT"
+        },
+        {
+          "word": "so-called",
+          "lemma": "so-called",
+          "offsetBegin": 296,
+          "offsetEnd": 305,
+          "pos": "JJ"
+        },
+        {
+          "word": "message",
+          "lemma": "message",
+          "offsetBegin": 306,
+          "offsetEnd": 313,
+          "pos": "NN"
+        },
+        {
+          "word": "passing",
+          "lemma": "pass",
+          "offsetBegin": 314,
+          "offsetEnd": 321,
+          "pos": "VBG"
+        },
+        {
+          "word": "interface",
+          "lemma": "interface",
+          "offsetBegin": 322,
+          "offsetEnd": 331,
+          "pos": "NN"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 332,
+          "offsetEnd": 333,
+          "pos": ":"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 334,
+          "offsetEnd": 336,
+          "pos": "VBZ"
+        },
+        {
+          "word": "used",
+          "lemma": "use",
+          "offsetBegin": 337,
+          "offsetEnd": 341,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 342,
+          "offsetEnd": 345,
+          "pos": "IN"
+        },
+        {
+          "word": "parallelization",
+          "lemma": "parallelization",
+          "offsetBegin": 346,
+          "offsetEnd": 361,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 362,
+          "offsetEnd": 364,
+          "pos": "IN"
+        },
+        {
+          "word": "application",
+          "lemma": "application",
+          "offsetBegin": 365,
+          "offsetEnd": 376,
+          "pos": "NN"
+        },
+        {
+          "word": "algorithms",
+          "lemma": "algorithm",
+          "offsetBegin": 377,
+          "offsetEnd": 387,
+          "pos": "NNS"
+        },
+        {
+          "word": "among",
+          "lemma": "among",
+          "offsetBegin": 388,
+          "offsetEnd": 393,
+          "pos": "IN"
+        },
+        {
+          "word": "processors",
+          "lemma": "processor",
+          "offsetBegin": 394,
+          "offsetEnd": 404,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 404,
+          "offsetEnd": 405,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Simulation",
+          "lemma": "simulation",
+          "offsetBegin": 406,
+          "offsetEnd": 416,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 417,
+          "offsetEnd": 419,
+          "pos": "IN"
+        },
+        {
+          "word": "jets",
+          "lemma": "jet",
+          "offsetBegin": 420,
+          "offsetEnd": 424,
+          "pos": "NNS"
+        },
+        {
+          "word": "escaping",
+          "lemma": "escape",
+          "offsetBegin": 425,
+          "offsetEnd": 433,
+          "pos": "VBG"
+        },
+        {
+          "word": "into",
+          "lemma": "into",
+          "offsetBegin": 434,
+          "offsetEnd": 438,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 439,
+          "offsetEnd": 440,
+          "pos": "DT"
+        },
+        {
+          "word": "low-pressure",
+          "lemma": "low-pressure",
+          "offsetBegin": 441,
+          "offsetEnd": 453,
+          "pos": "JJ"
+        },
+        {
+          "word": "region",
+          "lemma": "region",
+          "offsetBegin": 454,
+          "offsetEnd": 460,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 461,
+          "offsetEnd": 463,
+          "pos": "VBZ"
+        },
+        {
+          "word": "chosen",
+          "lemma": "choose",
+          "offsetBegin": 464,
+          "offsetEnd": 470,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 471,
+          "offsetEnd": 473,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 474,
+          "offsetEnd": 475,
+          "pos": "DT"
+        },
+        {
+          "word": "computational",
+          "lemma": "computational",
+          "offsetBegin": 476,
+          "offsetEnd": 489,
+          "pos": "JJ"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 490,
+          "offsetEnd": 497,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Strong",
+          "lemma": "strong",
+          "offsetBegin": 0,
+          "offsetEnd": 6,
+          "pos": "JJ"
+        },
+        {
+          "word": "active",
+          "lemma": "active",
+          "offsetBegin": 7,
+          "offsetEnd": 13,
+          "pos": "JJ"
+        },
+        {
+          "word": "solution",
+          "lemma": "solution",
+          "offsetBegin": 14,
+          "offsetEnd": 22,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 23,
+          "offsetEnd": 25,
+          "pos": "IN"
+        },
+        {
+          "word": "non-cooperative",
+          "lemma": "non-cooperative",
+          "offsetBegin": 26,
+          "offsetEnd": 41,
+          "pos": "JJ"
+        },
+        {
+          "word": "games",
+          "lemma": "game",
+          "offsetBegin": 42,
+          "offsetEnd": 47,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 48,
+          "offsetEnd": 51,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 52,
+          "offsetEnd": 55,
+          "pos": "DT"
+        },
+        {
+          "word": "non-cooperative",
+          "lemma": "non-cooperative",
+          "offsetBegin": 56,
+          "offsetEnd": 71,
+          "pos": "JJ"
+        },
+        {
+          "word": "games",
+          "lemma": "game",
+          "offsetBegin": 72,
+          "offsetEnd": 77,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 78,
+          "offsetEnd": 81,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 82,
+          "offsetEnd": 85,
+          "pos": "DT"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 86,
+          "offsetEnd": 94,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 95,
+          "offsetEnd": 97,
+          "pos": "IN"
+        },
+        {
+          "word": "accepting",
+          "lemma": "accept",
+          "offsetBegin": 98,
+          "offsetEnd": 107,
+          "pos": "VBG"
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 108,
+          "offsetEnd": 110,
+          "pos": "CC"
+        },
+        {
+          "word": "rejecting",
+          "lemma": "reject",
+          "offsetBegin": 111,
+          "offsetEnd": 120,
+          "pos": "VBG"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 121,
+          "offsetEnd": 122,
+          "pos": "DT"
+        },
+        {
+          "word": "proposal",
+          "lemma": "proposal",
+          "offsetBegin": 123,
+          "offsetEnd": 131,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 131,
+          "offsetEnd": 132,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 133,
+          "offsetEnd": 134,
+          "pos": "DT"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 135,
+          "offsetEnd": 138,
+          "pos": "JJ"
+        },
+        {
+          "word": "notion",
+          "lemma": "notion",
+          "offsetBegin": 139,
+          "offsetEnd": 145,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 146,
+          "offsetEnd": 148,
+          "pos": "IN"
+        },
+        {
+          "word": "equilibrium",
+          "lemma": "equilibrium",
+          "offsetBegin": 149,
+          "offsetEnd": 160,
+          "pos": "NN"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 161,
+          "offsetEnd": 164,
+          "pos": "VBD"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 165,
+          "offsetEnd": 173,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 173,
+          "offsetEnd": 174,
+          "pos": ","
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 175,
+          "offsetEnd": 178,
+          "pos": "PRP$"
+        },
+        {
+          "word": "place",
+          "lemma": "place",
+          "offsetBegin": 179,
+          "offsetEnd": 184,
+          "pos": "NN"
+        },
+        {
+          "word": "among",
+          "lemma": "among",
+          "offsetBegin": 185,
+          "offsetEnd": 190,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 191,
+          "offsetEnd": 194,
+          "pos": "DT"
+        },
+        {
+          "word": "known",
+          "lemma": "known",
+          "offsetBegin": 195,
+          "offsetEnd": 200,
+          "pos": "JJ"
+        },
+        {
+          "word": "basic",
+          "lemma": "basic",
+          "offsetBegin": 201,
+          "offsetEnd": 206,
+          "pos": "JJ"
+        },
+        {
+          "word": "equilibria",
+          "lemma": "equilibrium",
+          "offsetBegin": 207,
+          "offsetEnd": 217,
+          "pos": "NNS"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 218,
+          "offsetEnd": 221,
+          "pos": "VBD"
+        },
+        {
+          "word": "established",
+          "lemma": "establish",
+          "offsetBegin": 222,
+          "offsetEnd": 233,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 233,
+          "offsetEnd": 234,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 235,
+          "offsetEnd": 238,
+          "pos": "CC"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 239,
+          "offsetEnd": 242,
+          "pos": "PRP$"
+        },
+        {
+          "word": "application",
+          "lemma": "application",
+          "offsetBegin": 243,
+          "offsetEnd": 254,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 255,
+          "offsetEnd": 257,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 258,
+          "offsetEnd": 261,
+          "pos": "DT"
+        },
+        {
+          "word": "static",
+          "lemma": "static",
+          "offsetBegin": 262,
+          "offsetEnd": 268,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 269,
+          "offsetEnd": 272,
+          "pos": "CC"
+        },
+        {
+          "word": "dynamic",
+          "lemma": "dynamic",
+          "offsetBegin": 273,
+          "offsetEnd": 280,
+          "pos": "JJ"
+        },
+        {
+          "word": "game",
+          "lemma": "game",
+          "offsetBegin": 281,
+          "offsetEnd": 285,
+          "pos": "NN"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 286,
+          "offsetEnd": 294,
+          "pos": "NNS"
+        },
+        {
+          "word": "was",
+          "lemma": "be",
+          "offsetBegin": 295,
+          "offsetEnd": 298,
+          "pos": "VBD"
+        },
+        {
+          "word": "demonstrated",
+          "lemma": "demonstrate",
+          "offsetBegin": 299,
+          "offsetEnd": 311,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

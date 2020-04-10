@@ -1,0 +1,744 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Who",
+          "lemma": "who",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "WP"
+        },
+        {
+          "word": "Wants",
+          "lemma": "want",
+          "offsetBegin": 4,
+          "offsetEnd": 9,
+          "pos": "VBZ"
+        },
+        {
+          "word": "To",
+          "lemma": "to",
+          "offsetBegin": 10,
+          "offsetEnd": 12,
+          "pos": "TO"
+        },
+        {
+          "word": "Be",
+          "lemma": "be",
+          "offsetBegin": 13,
+          "offsetEnd": 15,
+          "pos": "VB"
+        },
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 16,
+          "offsetEnd": 17,
+          "pos": "DT"
+        },
+        {
+          "word": "Millionaire",
+          "lemma": "millionaire",
+          "offsetBegin": 18,
+          "offsetEnd": 29,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 29,
+          "offsetEnd": 30,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "R",
+          "lemma": "r",
+          "offsetBegin": 30,
+          "offsetEnd": 31,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 31,
+          "offsetEnd": 32,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 32,
+          "offsetEnd": 33,
+          "pos": ":"
+        },
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 34,
+          "offsetEnd": 37,
+          "pos": "DT"
+        },
+        {
+          "word": "classroom",
+          "lemma": "classroom",
+          "offsetBegin": 38,
+          "offsetEnd": 47,
+          "pos": "NN"
+        },
+        {
+          "word": "edition",
+          "lemma": "edition",
+          "offsetBegin": 48,
+          "offsetEnd": 55,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 56,
+          "offsetEnd": 60,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 61,
+          "offsetEnd": 66,
+          "pos": "NN"
+        },
+        {
+          "word": "introduces",
+          "lemma": "introduce",
+          "offsetBegin": 67,
+          "offsetEnd": 77,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 78,
+          "offsetEnd": 79,
+          "pos": "DT"
+        },
+        {
+          "word": "version",
+          "lemma": "version",
+          "offsetBegin": 80,
+          "offsetEnd": 87,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 88,
+          "offsetEnd": 90,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 91,
+          "offsetEnd": 94,
+          "pos": "DT"
+        },
+        {
+          "word": "internationally",
+          "lemma": "internationally",
+          "offsetBegin": 95,
+          "offsetEnd": 110,
+          "pos": "RB"
+        },
+        {
+          "word": "popular",
+          "lemma": "popular",
+          "offsetBegin": 111,
+          "offsetEnd": 118,
+          "pos": "JJ"
+        },
+        {
+          "word": "television",
+          "lemma": "television",
+          "offsetBegin": 119,
+          "offsetEnd": 129,
+          "pos": "NN"
+        },
+        {
+          "word": "game",
+          "lemma": "game",
+          "offsetBegin": 130,
+          "offsetEnd": 134,
+          "pos": "NN"
+        },
+        {
+          "word": "show",
+          "lemma": "show",
+          "offsetBegin": 135,
+          "offsetEnd": 139,
+          "pos": "VBP"
+        },
+        {
+          "word": "Who",
+          "lemma": "who",
+          "offsetBegin": 140,
+          "offsetEnd": 143,
+          "pos": "WP"
+        },
+        {
+          "word": "Wants",
+          "lemma": "want",
+          "offsetBegin": 144,
+          "offsetEnd": 149,
+          "pos": "VBZ"
+        },
+        {
+          "word": "To",
+          "lemma": "to",
+          "offsetBegin": 150,
+          "offsetEnd": 152,
+          "pos": "TO"
+        },
+        {
+          "word": "Be",
+          "lemma": "be",
+          "offsetBegin": 153,
+          "offsetEnd": 155,
+          "pos": "VB"
+        },
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 156,
+          "offsetEnd": 157,
+          "pos": "DT"
+        },
+        {
+          "word": "Millionaire",
+          "lemma": "millionaire",
+          "offsetBegin": 158,
+          "offsetEnd": 169,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 169,
+          "offsetEnd": 170,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "R",
+          "lemma": "r",
+          "offsetBegin": 170,
+          "offsetEnd": 171,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 171,
+          "offsetEnd": 172,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 173,
+          "offsetEnd": 177,
+          "pos": "WDT"
+        },
+        {
+          "word": "has",
+          "lemma": "have",
+          "offsetBegin": 178,
+          "offsetEnd": 181,
+          "pos": "VBZ"
+        },
+        {
+          "word": "been",
+          "lemma": "be",
+          "offsetBegin": 182,
+          "offsetEnd": 186,
+          "pos": "VBN"
+        },
+        {
+          "word": "created",
+          "lemma": "create",
+          "offsetBegin": 187,
+          "offsetEnd": 194,
+          "pos": "VBN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 195,
+          "offsetEnd": 198,
+          "pos": "IN"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 199,
+          "offsetEnd": 202,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 203,
+          "offsetEnd": 205,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 206,
+          "offsetEnd": 209,
+          "pos": "DT"
+        },
+        {
+          "word": "classroom",
+          "lemma": "classroom",
+          "offsetBegin": 210,
+          "offsetEnd": 219,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 220,
+          "offsetEnd": 225,
+          "pos": "VBG"
+        },
+        {
+          "word": "Microsoft",
+          "lemma": "Microsoft",
+          "offsetBegin": 226,
+          "offsetEnd": 235,
+          "pos": "NNP"
+        },
+        {
+          "word": "PowerPoint",
+          "lemma": "PowerPoint",
+          "offsetBegin": 236,
+          "offsetEnd": 246,
+          "pos": "NNP"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 246,
+          "offsetEnd": 247,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "R",
+          "lemma": "R",
+          "offsetBegin": 247,
+          "offsetEnd": 248,
+          "pos": "NNP"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 248,
+          "offsetEnd": 249,
+          "pos": "-RRB-"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 249,
+          "offsetEnd": 250,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 251,
+          "offsetEnd": 252,
+          "pos": "DT"
+        },
+        {
+          "word": "suggested",
+          "lemma": "suggest",
+          "offsetBegin": 253,
+          "offsetEnd": 262,
+          "pos": "VBD"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 263,
+          "offsetEnd": 272,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 273,
+          "offsetEnd": 276,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 277,
+          "offsetEnd": 280,
+          "pos": "PRP$"
+        },
+        {
+          "word": "classroom",
+          "lemma": "classroom",
+          "offsetBegin": 281,
+          "offsetEnd": 290,
+          "pos": "NN"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 291,
+          "offsetEnd": 294,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 295,
+          "offsetEnd": 297,
+          "pos": "VBZ"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 298,
+          "offsetEnd": 307,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 307,
+          "offsetEnd": 308,
+          "pos": ","
+        },
+        {
+          "word": "instructions",
+          "lemma": "instruction",
+          "offsetBegin": 309,
+          "offsetEnd": 321,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 322,
+          "offsetEnd": 324,
+          "pos": "IN"
+        },
+        {
+          "word": "operating",
+          "lemma": "operating",
+          "offsetBegin": 325,
+          "offsetEnd": 334,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 335,
+          "offsetEnd": 338,
+          "pos": "CC"
+        },
+        {
+          "word": "editing",
+          "lemma": "editing",
+          "offsetBegin": 339,
+          "offsetEnd": 346,
+          "pos": "NN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 347,
+          "offsetEnd": 350,
+          "pos": "DT"
+        },
+        {
+          "word": "classroom",
+          "lemma": "classroom",
+          "offsetBegin": 351,
+          "offsetEnd": 360,
+          "pos": "NN"
+        },
+        {
+          "word": "version",
+          "lemma": "version",
+          "offsetBegin": 361,
+          "offsetEnd": 368,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 369,
+          "offsetEnd": 371,
+          "pos": "IN"
+        },
+        {
+          "word": "Who",
+          "lemma": "who",
+          "offsetBegin": 372,
+          "offsetEnd": 375,
+          "pos": "WP"
+        },
+        {
+          "word": "Wants",
+          "lemma": "want",
+          "offsetBegin": 376,
+          "offsetEnd": 381,
+          "pos": "VBZ"
+        },
+        {
+          "word": "To",
+          "lemma": "to",
+          "offsetBegin": 382,
+          "offsetEnd": 384,
+          "pos": "TO"
+        },
+        {
+          "word": "Be",
+          "lemma": "be",
+          "offsetBegin": 385,
+          "offsetEnd": 387,
+          "pos": "VB"
+        },
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 388,
+          "offsetEnd": 389,
+          "pos": "DT"
+        },
+        {
+          "word": "Millionaire",
+          "lemma": "millionaire",
+          "offsetBegin": 390,
+          "offsetEnd": 401,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 401,
+          "offsetEnd": 402,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "R",
+          "lemma": "r",
+          "offsetBegin": 402,
+          "offsetEnd": 403,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 403,
+          "offsetEnd": 404,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 405,
+          "offsetEnd": 408,
+          "pos": "VBP"
+        },
+        {
+          "word": "provided",
+          "lemma": "provide",
+          "offsetBegin": 409,
+          "offsetEnd": 417,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 417,
+          "offsetEnd": 418,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 419,
+          "offsetEnd": 422,
+          "pos": "CC"
+        },
+        {
+          "word": "sample",
+          "lemma": "sample",
+          "offsetBegin": 423,
+          "offsetEnd": 429,
+          "pos": "NN"
+        },
+        {
+          "word": "feedback",
+          "lemma": "feedback",
+          "offsetBegin": 430,
+          "offsetEnd": 438,
+          "pos": "NN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 439,
+          "offsetEnd": 443,
+          "pos": "IN"
+        },
+        {
+          "word": "students",
+          "lemma": "student",
+          "offsetBegin": 444,
+          "offsetEnd": 452,
+          "pos": "NNS"
+        },
+        {
+          "word": "who",
+          "lemma": "who",
+          "offsetBegin": 453,
+          "offsetEnd": 456,
+          "pos": "WP"
+        },
+        {
+          "word": "have",
+          "lemma": "have",
+          "offsetBegin": 457,
+          "offsetEnd": 461,
+          "pos": "VBP"
+        },
+        {
+          "word": "played",
+          "lemma": "play",
+          "offsetBegin": 462,
+          "offsetEnd": 468,
+          "pos": "VBN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 469,
+          "offsetEnd": 472,
+          "pos": "DT"
+        },
+        {
+          "word": "classroom",
+          "lemma": "classroom",
+          "offsetBegin": 473,
+          "offsetEnd": 482,
+          "pos": "NN"
+        },
+        {
+          "word": "version",
+          "lemma": "version",
+          "offsetBegin": 483,
+          "offsetEnd": 490,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 491,
+          "offsetEnd": 493,
+          "pos": "IN"
+        },
+        {
+          "word": "Who",
+          "lemma": "who",
+          "offsetBegin": 494,
+          "offsetEnd": 497,
+          "pos": "WP"
+        },
+        {
+          "word": "Wants",
+          "lemma": "want",
+          "offsetBegin": 498,
+          "offsetEnd": 503,
+          "pos": "VBZ"
+        },
+        {
+          "word": "To",
+          "lemma": "to",
+          "offsetBegin": 504,
+          "offsetEnd": 506,
+          "pos": "TO"
+        },
+        {
+          "word": "Be",
+          "lemma": "be",
+          "offsetBegin": 507,
+          "offsetEnd": 509,
+          "pos": "VB"
+        },
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 510,
+          "offsetEnd": 511,
+          "pos": "DT"
+        },
+        {
+          "word": "Millionaire",
+          "lemma": "millionaire",
+          "offsetBegin": 512,
+          "offsetEnd": 523,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 523,
+          "offsetEnd": 524,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "R",
+          "lemma": "r",
+          "offsetBegin": 524,
+          "offsetEnd": 525,
+          "pos": "NN"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 525,
+          "offsetEnd": 526,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 527,
+          "offsetEnd": 529,
+          "pos": "VBZ"
+        },
+        {
+          "word": "offered",
+          "lemma": "offer",
+          "offsetBegin": 530,
+          "offsetEnd": 537,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

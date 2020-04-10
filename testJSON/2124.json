@@ -1,0 +1,412 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "DT"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 4,
+          "offsetEnd": 7,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 8,
+          "offsetEnd": 10,
+          "pos": "IN"
+        },
+        {
+          "word": "stable",
+          "lemma": "stable",
+          "offsetBegin": 11,
+          "offsetEnd": 17,
+          "pos": "JJ"
+        },
+        {
+          "word": "polynomials",
+          "lemma": "polynomial",
+          "offsetBegin": 18,
+          "offsetEnd": 29,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 30,
+          "offsetEnd": 32,
+          "pos": "IN"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 33,
+          "offsetEnd": 39,
+          "pos": "JJ"
+        },
+        {
+          "word": "discrete",
+          "lemma": "discrete",
+          "offsetBegin": 40,
+          "offsetEnd": 48,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 49,
+          "offsetEnd": 56,
+          "pos": "NNS"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 56,
+          "offsetEnd": 57,
+          "pos": ":"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 58,
+          "offsetEnd": 61,
+          "pos": "PRP$"
+        },
+        {
+          "word": "geometry",
+          "lemma": "geometry",
+          "offsetBegin": 62,
+          "offsetEnd": 70,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 71,
+          "offsetEnd": 74,
+          "pos": "DT"
+        },
+        {
+          "word": "multidimensional",
+          "lemma": "multidimensional",
+          "offsetBegin": 75,
+          "offsetEnd": 91,
+          "pos": "JJ"
+        },
+        {
+          "word": "stability",
+          "lemma": "stability",
+          "offsetBegin": 92,
+          "offsetEnd": 101,
+          "pos": "NN"
+        },
+        {
+          "word": "domain",
+          "lemma": "domain",
+          "offsetBegin": 102,
+          "offsetEnd": 108,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 109,
+          "offsetEnd": 111,
+          "pos": "IN"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 112,
+          "offsetEnd": 118,
+          "pos": "JJ"
+        },
+        {
+          "word": "discrete",
+          "lemma": "discrete",
+          "offsetBegin": 119,
+          "offsetEnd": 127,
+          "pos": "JJ"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 128,
+          "offsetEnd": 135,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 136,
+          "offsetEnd": 138,
+          "pos": "VBZ"
+        },
+        {
+          "word": "studied",
+          "lemma": "study",
+          "offsetBegin": 139,
+          "offsetEnd": 146,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 146,
+          "offsetEnd": 147,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Its",
+          "lemma": "its",
+          "offsetBegin": 148,
+          "offsetEnd": 151,
+          "pos": "PRP$"
+        },
+        {
+          "word": "configuration",
+          "lemma": "configuration",
+          "offsetBegin": 152,
+          "offsetEnd": 165,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 166,
+          "offsetEnd": 168,
+          "pos": "VBZ"
+        },
+        {
+          "word": "determined",
+          "lemma": "determine",
+          "offsetBegin": 169,
+          "offsetEnd": 179,
+          "pos": "VBN"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 180,
+          "offsetEnd": 184,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 185,
+          "offsetEnd": 188,
+          "pos": "DT"
+        },
+        {
+          "word": "parameters",
+          "lemma": "parameter",
+          "offsetBegin": 189,
+          "offsetEnd": 199,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 200,
+          "offsetEnd": 202,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 203,
+          "offsetEnd": 206,
+          "pos": "PRP$"
+        },
+        {
+          "word": "intersection",
+          "lemma": "intersection",
+          "offsetBegin": 207,
+          "offsetEnd": 219,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 220,
+          "offsetEnd": 224,
+          "pos": "IN"
+        },
+        {
+          "word": "coordinate",
+          "lemma": "coordinate",
+          "offsetBegin": 225,
+          "offsetEnd": 235,
+          "pos": "JJ"
+        },
+        {
+          "word": "axes",
+          "lemma": "axis",
+          "offsetBegin": 236,
+          "offsetEnd": 240,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 240,
+          "offsetEnd": 241,
+          "pos": ","
+        },
+        {
+          "word": "coordinate",
+          "lemma": "coordinate",
+          "offsetBegin": 242,
+          "offsetEnd": 252,
+          "pos": "JJ"
+        },
+        {
+          "word": "planes",
+          "lemma": "plane",
+          "offsetBegin": 253,
+          "offsetEnd": 259,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 259,
+          "offsetEnd": 260,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 261,
+          "offsetEnd": 264,
+          "pos": "CC"
+        },
+        {
+          "word": "certain",
+          "lemma": "certain",
+          "offsetBegin": 265,
+          "offsetEnd": 272,
+          "pos": "JJ"
+        },
+        {
+          "word": "auxiliary",
+          "lemma": "auxiliary",
+          "offsetBegin": 273,
+          "offsetEnd": 282,
+          "pos": "JJ"
+        },
+        {
+          "word": "planes",
+          "lemma": "plane",
+          "offsetBegin": 283,
+          "offsetEnd": 289,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 289,
+          "offsetEnd": 290,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Counterexamples",
+          "lemma": "counterexample",
+          "offsetBegin": 291,
+          "offsetEnd": 306,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 307,
+          "offsetEnd": 310,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 311,
+          "offsetEnd": 314,
+          "pos": "DT"
+        },
+        {
+          "word": "discrete",
+          "lemma": "discrete",
+          "offsetBegin": 315,
+          "offsetEnd": 323,
+          "pos": "JJ"
+        },
+        {
+          "word": "variant",
+          "lemma": "variant",
+          "offsetBegin": 324,
+          "offsetEnd": 331,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 332,
+          "offsetEnd": 334,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 335,
+          "offsetEnd": 338,
+          "pos": "DT"
+        },
+        {
+          "word": "Kharitonov",
+          "lemma": "Kharitonov",
+          "offsetBegin": 339,
+          "offsetEnd": 349,
+          "pos": "NNP"
+        },
+        {
+          "word": "theorem",
+          "lemma": "theorem",
+          "offsetBegin": 350,
+          "offsetEnd": 357,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 358,
+          "offsetEnd": 361,
+          "pos": "VBP"
+        },
+        {
+          "word": "given",
+          "lemma": "give",
+          "offsetBegin": 362,
+          "offsetEnd": 367,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Three-dimensional",
+          "lemma": "three-dimensional",
+          "offsetBegin": 0,
+          "offsetEnd": 17,
+          "pos": "JJ"
+        },
+        {
+          "word": "optimum",
+          "lemma": "optimum",
+          "offsetBegin": 18,
+          "offsetEnd": 25,
+          "pos": "JJ"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 26,
+          "offsetEnd": 32,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 33,
+          "offsetEnd": 35,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 36,
+          "offsetEnd": 39,
+          "pos": "DT"
+        },
+        {
+          "word": "cooling",
+          "lemma": "cooling",
+          "offsetBegin": 40,
+          "offsetEnd": 47,
+          "pos": "NN"
+        },
+        {
+          "word": "lines",
+          "lemma": "line",
+          "offsetBegin": 48,
+          "offsetEnd": 53,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 54,
+          "offsetEnd": 56,
+          "pos": "IN"
+        },
+        {
+          "word": "injection",
+          "lemma": "injection",
+          "offsetBegin": 57,
+          "offsetEnd": 66,
+          "pos": "NN"
+        },
+        {
+          "word": "moulds",
+          "lemma": "mould",
+          "offsetBegin": 67,
+          "offsetEnd": 73,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 74,
+          "offsetEnd": 79,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 80,
+          "offsetEnd": 82,
+          "pos": "IN"
+        },
+        {
+          "word": "boundary",
+          "lemma": "boundary",
+          "offsetBegin": 83,
+          "offsetEnd": 91,
+          "pos": "NN"
+        },
+        {
+          "word": "element",
+          "lemma": "element",
+          "offsetBegin": 92,
+          "offsetEnd": 99,
+          "pos": "NN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 100,
+          "offsetEnd": 106,
+          "pos": "NN"
+        },
+        {
+          "word": "sensitivity",
+          "lemma": "sensitivity",
+          "offsetBegin": 107,
+          "offsetEnd": 118,
+          "pos": "NN"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 119,
+          "offsetEnd": 127,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 128,
+          "offsetEnd": 129,
+          "pos": "DT"
+        },
+        {
+          "word": "three-dimensional",
+          "lemma": "three-dimensional",
+          "offsetBegin": 130,
+          "offsetEnd": 147,
+          "pos": "JJ"
+        },
+        {
+          "word": "numerical",
+          "lemma": "numerical",
+          "offsetBegin": 148,
+          "offsetEnd": 157,
+          "pos": "JJ"
+        },
+        {
+          "word": "simulation",
+          "lemma": "simulation",
+          "offsetBegin": 158,
+          "offsetEnd": 168,
+          "pos": "NN"
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 169,
+          "offsetEnd": 174,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 175,
+          "offsetEnd": 178,
+          "pos": "DT"
+        },
+        {
+          "word": "boundary",
+          "lemma": "boundary",
+          "offsetBegin": 179,
+          "offsetEnd": 187,
+          "pos": "NN"
+        },
+        {
+          "word": "element",
+          "lemma": "element",
+          "offsetBegin": 188,
+          "offsetEnd": 195,
+          "pos": "NN"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 196,
+          "offsetEnd": 202,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 203,
+          "offsetEnd": 205,
+          "pos": "VBZ"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 206,
+          "offsetEnd": 214,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 214,
+          "offsetEnd": 215,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 216,
+          "offsetEnd": 221,
+          "pos": "WDT"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 222,
+          "offsetEnd": 225,
+          "pos": "MD"
+        },
+        {
+          "word": "predict",
+          "lemma": "predict",
+          "offsetBegin": 226,
+          "offsetEnd": 233,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 234,
+          "offsetEnd": 237,
+          "pos": "DT"
+        },
+        {
+          "word": "cavity",
+          "lemma": "cavity",
+          "offsetBegin": 238,
+          "offsetEnd": 244,
+          "pos": "NN"
+        },
+        {
+          "word": "temperature",
+          "lemma": "temperature",
+          "offsetBegin": 245,
+          "offsetEnd": 256,
+          "pos": "NN"
+        },
+        {
+          "word": "distributions",
+          "lemma": "distribution",
+          "offsetBegin": 257,
+          "offsetEnd": 270,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 271,
+          "offsetEnd": 273,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 274,
+          "offsetEnd": 277,
+          "pos": "DT"
+        },
+        {
+          "word": "cooling",
+          "lemma": "cooling",
+          "offsetBegin": 278,
+          "offsetEnd": 285,
+          "pos": "JJ"
+        },
+        {
+          "word": "stage",
+          "lemma": "stage",
+          "offsetBegin": 286,
+          "offsetEnd": 291,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 292,
+          "offsetEnd": 294,
+          "pos": "IN"
+        },
+        {
+          "word": "injection",
+          "lemma": "injection",
+          "offsetBegin": 295,
+          "offsetEnd": 304,
+          "pos": "NN"
+        },
+        {
+          "word": "moulding",
+          "lemma": "moulding",
+          "offsetBegin": 305,
+          "offsetEnd": 313,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 313,
+          "offsetEnd": 314,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Then",
+          "lemma": "then",
+          "offsetBegin": 315,
+          "offsetEnd": 319,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 319,
+          "offsetEnd": 320,
+          "pos": ","
+        },
+        {
+          "word": "choosing",
+          "lemma": "choose",
+          "offsetBegin": 321,
+          "offsetEnd": 329,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 330,
+          "offsetEnd": 333,
+          "pos": "DT"
+        },
+        {
+          "word": "radii",
+          "lemma": "radii",
+          "offsetBegin": 334,
+          "offsetEnd": 339,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 340,
+          "offsetEnd": 343,
+          "pos": "CC"
+        },
+        {
+          "word": "positions",
+          "lemma": "position",
+          "offsetBegin": 344,
+          "offsetEnd": 353,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 354,
+          "offsetEnd": 356,
+          "pos": "IN"
+        },
+        {
+          "word": "cooling",
+          "lemma": "cooling",
+          "offsetBegin": 357,
+          "offsetEnd": 364,
+          "pos": "NN"
+        },
+        {
+          "word": "lines",
+          "lemma": "line",
+          "offsetBegin": 365,
+          "offsetEnd": 370,
+          "pos": "NNS"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 371,
+          "offsetEnd": 373,
+          "pos": "IN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 374,
+          "offsetEnd": 380,
+          "pos": "NN"
+        },
+        {
+          "word": "variables",
+          "lemma": "variable",
+          "offsetBegin": 381,
+          "offsetEnd": 390,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 390,
+          "offsetEnd": 391,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 392,
+          "offsetEnd": 395,
+          "pos": "DT"
+        },
+        {
+          "word": "boundary",
+          "lemma": "boundary",
+          "offsetBegin": 396,
+          "offsetEnd": 404,
+          "pos": "NN"
+        },
+        {
+          "word": "integral",
+          "lemma": "integral",
+          "offsetBegin": 405,
+          "offsetEnd": 413,
+          "pos": "JJ"
+        },
+        {
+          "word": "sensitivity",
+          "lemma": "sensitivity",
+          "offsetBegin": 414,
+          "offsetEnd": 425,
+          "pos": "NN"
+        },
+        {
+          "word": "formulations",
+          "lemma": "formulation",
+          "offsetBegin": 426,
+          "offsetEnd": 438,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 439,
+          "offsetEnd": 442,
+          "pos": "VBP"
+        },
+        {
+          "word": "deduced",
+          "lemma": "deduce",
+          "offsetBegin": 443,
+          "offsetEnd": 450,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 450,
+          "offsetEnd": 451,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "For",
+          "lemma": "for",
+          "offsetBegin": 452,
+          "offsetEnd": 455,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 456,
+          "offsetEnd": 459,
+          "pos": "DT"
+        },
+        {
+          "word": "optimum",
+          "lemma": "optimum",
+          "offsetBegin": 460,
+          "offsetEnd": 467,
+          "pos": "JJ"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 468,
+          "offsetEnd": 474,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 475,
+          "offsetEnd": 477,
+          "pos": "IN"
+        },
+        {
+          "word": "cooling",
+          "lemma": "cooling",
+          "offsetBegin": 478,
+          "offsetEnd": 485,
+          "pos": "NN"
+        },
+        {
+          "word": "lines",
+          "lemma": "line",
+          "offsetBegin": 486,
+          "offsetEnd": 491,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 491,
+          "offsetEnd": 492,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 493,
+          "offsetEnd": 496,
+          "pos": "DT"
+        },
+        {
+          "word": "squared",
+          "lemma": "square",
+          "offsetBegin": 497,
+          "offsetEnd": 504,
+          "pos": "VBN"
+        },
+        {
+          "word": "difference",
+          "lemma": "difference",
+          "offsetBegin": 505,
+          "offsetEnd": 515,
+          "pos": "NN"
+        },
+        {
+          "word": "between",
+          "lemma": "between",
+          "offsetBegin": 516,
+          "offsetEnd": 523,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 524,
+          "offsetEnd": 527,
+          "pos": "DT"
+        },
+        {
+          "word": "objective",
+          "lemma": "objective",
+          "offsetBegin": 528,
+          "offsetEnd": 537,
+          "pos": "JJ"
+        },
+        {
+          "word": "temperature",
+          "lemma": "temperature",
+          "offsetBegin": 538,
+          "offsetEnd": 549,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 550,
+          "offsetEnd": 553,
+          "pos": "CC"
+        },
+        {
+          "word": "temperature",
+          "lemma": "temperature",
+          "offsetBegin": 554,
+          "offsetEnd": 565,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 566,
+          "offsetEnd": 568,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 569,
+          "offsetEnd": 572,
+          "pos": "DT"
+        },
+        {
+          "word": "cavity",
+          "lemma": "cavity",
+          "offsetBegin": 573,
+          "offsetEnd": 579,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 580,
+          "offsetEnd": 582,
+          "pos": "VBZ"
+        },
+        {
+          "word": "taken",
+          "lemma": "take",
+          "offsetBegin": 583,
+          "offsetEnd": 588,
+          "pos": "VBN"
+        },
+        {
+          "word": "as",
+          "lemma": "as",
+          "offsetBegin": 589,
+          "offsetEnd": 591,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 592,
+          "offsetEnd": 595,
+          "pos": "DT"
+        },
+        {
+          "word": "objective",
+          "lemma": "objective",
+          "offsetBegin": 596,
+          "offsetEnd": 605,
+          "pos": "JJ"
+        },
+        {
+          "word": "function",
+          "lemma": "function",
+          "offsetBegin": 606,
+          "offsetEnd": 614,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 614,
+          "offsetEnd": 615,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Based",
+          "lemma": "base",
+          "offsetBegin": 616,
+          "offsetEnd": 621,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 622,
+          "offsetEnd": 624,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 625,
+          "offsetEnd": 628,
+          "pos": "DT"
+        },
+        {
+          "word": "optimization",
+          "lemma": "optimization",
+          "offsetBegin": 629,
+          "offsetEnd": 641,
+          "pos": "NN"
+        },
+        {
+          "word": "techniques",
+          "lemma": "technique",
+          "offsetBegin": 642,
+          "offsetEnd": 652,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 653,
+          "offsetEnd": 657,
+          "pos": "IN"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 658,
+          "offsetEnd": 664,
+          "pos": "NN"
+        },
+        {
+          "word": "sensitivity",
+          "lemma": "sensitivity",
+          "offsetBegin": 665,
+          "offsetEnd": 676,
+          "pos": "NN"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 677,
+          "offsetEnd": 685,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 685,
+          "offsetEnd": 686,
+          "pos": ","
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 687,
+          "offsetEnd": 689,
+          "pos": "DT"
+        },
+        {
+          "word": "iterative",
+          "lemma": "iterative",
+          "offsetBegin": 690,
+          "offsetEnd": 699,
+          "pos": "JJ"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 700,
+          "offsetEnd": 709,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 710,
+          "offsetEnd": 712,
+          "pos": "TO"
+        },
+        {
+          "word": "reach",
+          "lemma": "reach",
+          "offsetBegin": 713,
+          "offsetEnd": 718,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 719,
+          "offsetEnd": 722,
+          "pos": "DT"
+        },
+        {
+          "word": "minimum",
+          "lemma": "minimum",
+          "offsetBegin": 723,
+          "offsetEnd": 730,
+          "pos": "JJ"
+        },
+        {
+          "word": "value",
+          "lemma": "value",
+          "offsetBegin": 731,
+          "offsetEnd": 736,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 737,
+          "offsetEnd": 739,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 740,
+          "offsetEnd": 743,
+          "pos": "DT"
+        },
+        {
+          "word": "objective",
+          "lemma": "objective",
+          "offsetBegin": 744,
+          "offsetEnd": 753,
+          "pos": "JJ"
+        },
+        {
+          "word": "function",
+          "lemma": "function",
+          "offsetBegin": 754,
+          "offsetEnd": 762,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 763,
+          "offsetEnd": 765,
+          "pos": "VBZ"
+        },
+        {
+          "word": "introduced",
+          "lemma": "introduce",
+          "offsetBegin": 766,
+          "offsetEnd": 776,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 776,
+          "offsetEnd": 777,
+          "pos": ","
+        },
+        {
+          "word": "which",
+          "lemma": "which",
+          "offsetBegin": 778,
+          "offsetEnd": 783,
+          "pos": "WDT"
+        },
+        {
+          "word": "leads",
+          "lemma": "lead",
+          "offsetBegin": 784,
+          "offsetEnd": 789,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 790,
+          "offsetEnd": 792,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 793,
+          "offsetEnd": 796,
+          "pos": "DT"
+        },
+        {
+          "word": "optimum",
+          "lemma": "optimum",
+          "offsetBegin": 797,
+          "offsetEnd": 804,
+          "pos": "JJ"
+        },
+        {
+          "word": "design",
+          "lemma": "design",
+          "offsetBegin": 805,
+          "offsetEnd": 811,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 812,
+          "offsetEnd": 814,
+          "pos": "IN"
+        },
+        {
+          "word": "cooling",
+          "lemma": "cooling",
+          "offsetBegin": 815,
+          "offsetEnd": 822,
+          "pos": "NN"
+        },
+        {
+          "word": "lines",
+          "lemma": "line",
+          "offsetBegin": 823,
+          "offsetEnd": 828,
+          "pos": "NNS"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 829,
+          "offsetEnd": 831,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 832,
+          "offsetEnd": 835,
+          "pos": "DT"
+        },
+        {
+          "word": "same",
+          "lemma": "same",
+          "offsetBegin": 836,
+          "offsetEnd": 840,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 841,
+          "offsetEnd": 845,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

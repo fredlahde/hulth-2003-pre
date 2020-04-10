@@ -1,0 +1,970 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Evaluation",
+          "lemma": "evaluation",
+          "offsetBegin": 0,
+          "offsetEnd": 10,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 11,
+          "offsetEnd": 13,
+          "pos": "IN"
+        },
+        {
+          "word": "combined",
+          "lemma": "combined",
+          "offsetBegin": 14,
+          "offsetEnd": 22,
+          "pos": "JJ"
+        },
+        {
+          "word": "dispatching",
+          "lemma": "dispatch",
+          "offsetBegin": 23,
+          "offsetEnd": 34,
+          "pos": "VBG"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 35,
+          "offsetEnd": 38,
+          "pos": "CC"
+        },
+        {
+          "word": "routeing",
+          "lemma": "routee",
+          "offsetBegin": 39,
+          "offsetEnd": 47,
+          "pos": "VBG"
+        },
+        {
+          "word": "strategies",
+          "lemma": "strategy",
+          "offsetBegin": 48,
+          "offsetEnd": 58,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 59,
+          "offsetEnd": 62,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 63,
+          "offsetEnd": 64,
+          "pos": "DT"
+        },
+        {
+          "word": "flexible",
+          "lemma": "flexible",
+          "offsetBegin": 65,
+          "offsetEnd": 73,
+          "pos": "JJ"
+        },
+        {
+          "word": "manufacturing",
+          "lemma": "manufacturing",
+          "offsetBegin": 74,
+          "offsetEnd": 87,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 88,
+          "offsetEnd": 94,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 95,
+          "offsetEnd": 99,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 100,
+          "offsetEnd": 105,
+          "pos": "NN"
+        },
+        {
+          "word": "deals",
+          "lemma": "deal",
+          "offsetBegin": 106,
+          "offsetEnd": 111,
+          "pos": "VBZ"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 112,
+          "offsetEnd": 116,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 117,
+          "offsetEnd": 120,
+          "pos": "DT"
+        },
+        {
+          "word": "evaluation",
+          "lemma": "evaluation",
+          "offsetBegin": 121,
+          "offsetEnd": 131,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 132,
+          "offsetEnd": 134,
+          "pos": "IN"
+        },
+        {
+          "word": "combined",
+          "lemma": "combined",
+          "offsetBegin": 135,
+          "offsetEnd": 143,
+          "pos": "JJ"
+        },
+        {
+          "word": "dispatching",
+          "lemma": "dispatch",
+          "offsetBegin": 144,
+          "offsetEnd": 155,
+          "pos": "VBG"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 156,
+          "offsetEnd": 159,
+          "pos": "CC"
+        },
+        {
+          "word": "routeing",
+          "lemma": "routee",
+          "offsetBegin": 160,
+          "offsetEnd": 168,
+          "pos": "VBG"
+        },
+        {
+          "word": "strategies",
+          "lemma": "strategy",
+          "offsetBegin": 169,
+          "offsetEnd": 179,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 180,
+          "offsetEnd": 182,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 183,
+          "offsetEnd": 186,
+          "pos": "DT"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 187,
+          "offsetEnd": 198,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 199,
+          "offsetEnd": 201,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 202,
+          "offsetEnd": 203,
+          "pos": "DT"
+        },
+        {
+          "word": "flexible",
+          "lemma": "flexible",
+          "offsetBegin": 204,
+          "offsetEnd": 212,
+          "pos": "JJ"
+        },
+        {
+          "word": "manufacturing",
+          "lemma": "manufacturing",
+          "offsetBegin": 213,
+          "offsetEnd": 226,
+          "pos": "NN"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 227,
+          "offsetEnd": 233,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 233,
+          "offsetEnd": 234,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Three",
+          "lemma": "three",
+          "offsetBegin": 235,
+          "offsetEnd": 240,
+          "pos": "CD"
+        },
+        {
+          "word": "routeing",
+          "lemma": "routee",
+          "offsetBegin": 241,
+          "offsetEnd": 249,
+          "pos": "VBG"
+        },
+        {
+          "word": "policies",
+          "lemma": "policy",
+          "offsetBegin": 250,
+          "offsetEnd": 258,
+          "pos": "NNS"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 259,
+          "offsetEnd": 260,
+          "pos": ":"
+        },
+        {
+          "word": "no",
+          "lemma": "no",
+          "offsetBegin": 261,
+          "offsetEnd": 263,
+          "pos": "RB"
+        },
+        {
+          "word": "alternative",
+          "lemma": "alternative",
+          "offsetBegin": 264,
+          "offsetEnd": 275,
+          "pos": "JJ"
+        },
+        {
+          "word": "routings",
+          "lemma": "routing",
+          "offsetBegin": 276,
+          "offsetEnd": 284,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 284,
+          "offsetEnd": 285,
+          "pos": ","
+        },
+        {
+          "word": "alternative",
+          "lemma": "alternative",
+          "offsetBegin": 286,
+          "offsetEnd": 297,
+          "pos": "JJ"
+        },
+        {
+          "word": "routeing",
+          "lemma": "routeing",
+          "offsetBegin": 298,
+          "offsetEnd": 306,
+          "pos": "NN"
+        },
+        {
+          "word": "dynamics",
+          "lemma": "dynamics",
+          "offsetBegin": 307,
+          "offsetEnd": 315,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 316,
+          "offsetEnd": 319,
+          "pos": "CC"
+        },
+        {
+          "word": "alternative",
+          "lemma": "alternative",
+          "offsetBegin": 320,
+          "offsetEnd": 331,
+          "pos": "JJ"
+        },
+        {
+          "word": "routeing",
+          "lemma": "routeing",
+          "offsetBegin": 332,
+          "offsetEnd": 340,
+          "pos": "NN"
+        },
+        {
+          "word": "plans",
+          "lemma": "plan",
+          "offsetBegin": 341,
+          "offsetEnd": 346,
+          "pos": "NNS"
+        },
+        {
+          "word": "-",
+          "lemma": "-",
+          "offsetBegin": 347,
+          "offsetEnd": 348,
+          "pos": ":"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 349,
+          "offsetEnd": 352,
+          "pos": "VBP"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 353,
+          "offsetEnd": 363,
+          "pos": "VBN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 364,
+          "offsetEnd": 368,
+          "pos": "IN"
+        },
+        {
+          "word": "four",
+          "lemma": "four",
+          "offsetBegin": 369,
+          "offsetEnd": 373,
+          "pos": "CD"
+        },
+        {
+          "word": "dispatching",
+          "lemma": "dispatch",
+          "offsetBegin": 374,
+          "offsetEnd": 385,
+          "pos": "VBG"
+        },
+        {
+          "word": "rules",
+          "lemma": "rule",
+          "offsetBegin": 386,
+          "offsetEnd": 391,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 392,
+          "offsetEnd": 396,
+          "pos": "IN"
+        },
+        {
+          "word": "finite",
+          "lemma": "finite",
+          "offsetBegin": 397,
+          "offsetEnd": 403,
+          "pos": "JJ"
+        },
+        {
+          "word": "buffer",
+          "lemma": "buffer",
+          "offsetBegin": 404,
+          "offsetEnd": 410,
+          "pos": "NN"
+        },
+        {
+          "word": "capacity",
+          "lemma": "capacity",
+          "offsetBegin": 411,
+          "offsetEnd": 419,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 419,
+          "offsetEnd": 420,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 421,
+          "offsetEnd": 423,
+          "pos": "IN"
+        },
+        {
+          "word": "addition",
+          "lemma": "addition",
+          "offsetBegin": 424,
+          "offsetEnd": 432,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 432,
+          "offsetEnd": 433,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 434,
+          "offsetEnd": 437,
+          "pos": "DT"
+        },
+        {
+          "word": "effect",
+          "lemma": "effect",
+          "offsetBegin": 438,
+          "offsetEnd": 444,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 445,
+          "offsetEnd": 447,
+          "pos": "IN"
+        },
+        {
+          "word": "changing",
+          "lemma": "change",
+          "offsetBegin": 448,
+          "offsetEnd": 456,
+          "pos": "VBG"
+        },
+        {
+          "word": "part",
+          "lemma": "part",
+          "offsetBegin": 457,
+          "offsetEnd": 461,
+          "pos": "NN"
+        },
+        {
+          "word": "mix",
+          "lemma": "mix",
+          "offsetBegin": 462,
+          "offsetEnd": 465,
+          "pos": "NN"
+        },
+        {
+          "word": "ratios",
+          "lemma": "ratio",
+          "offsetBegin": 466,
+          "offsetEnd": 472,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 473,
+          "offsetEnd": 475,
+          "pos": "VBZ"
+        },
+        {
+          "word": "also",
+          "lemma": "also",
+          "offsetBegin": 476,
+          "offsetEnd": 480,
+          "pos": "RB"
+        },
+        {
+          "word": "discussed",
+          "lemma": "discuss",
+          "offsetBegin": 481,
+          "offsetEnd": 490,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 490,
+          "offsetEnd": 491,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 492,
+          "offsetEnd": 495,
+          "pos": "DT"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 496,
+          "offsetEnd": 507,
+          "pos": "NN"
+        },
+        {
+          "word": "measures",
+          "lemma": "measure",
+          "offsetBegin": 508,
+          "offsetEnd": 516,
+          "pos": "VBZ"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 517,
+          "offsetEnd": 527,
+          "pos": "VBN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 528,
+          "offsetEnd": 531,
+          "pos": "VBP"
+        },
+        {
+          "word": "makespan",
+          "lemma": "makespan",
+          "offsetBegin": 532,
+          "offsetEnd": 540,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 540,
+          "offsetEnd": 541,
+          "pos": ","
+        },
+        {
+          "word": "average",
+          "lemma": "average",
+          "offsetBegin": 542,
+          "offsetEnd": 549,
+          "pos": "JJ"
+        },
+        {
+          "word": "machine",
+          "lemma": "machine",
+          "offsetBegin": 550,
+          "offsetEnd": 557,
+          "pos": "NN"
+        },
+        {
+          "word": "utilization",
+          "lemma": "utilization",
+          "offsetBegin": 558,
+          "offsetEnd": 569,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 569,
+          "offsetEnd": 570,
+          "pos": ","
+        },
+        {
+          "word": "average",
+          "lemma": "average",
+          "offsetBegin": 571,
+          "offsetEnd": 578,
+          "pos": "NN"
+        },
+        {
+          "word": "flow",
+          "lemma": "flow",
+          "offsetBegin": 579,
+          "offsetEnd": 583,
+          "pos": "NN"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 584,
+          "offsetEnd": 588,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 589,
+          "offsetEnd": 592,
+          "pos": "CC"
+        },
+        {
+          "word": "average",
+          "lemma": "average",
+          "offsetBegin": 593,
+          "offsetEnd": 600,
+          "pos": "JJ"
+        },
+        {
+          "word": "delay",
+          "lemma": "delay",
+          "offsetBegin": 601,
+          "offsetEnd": 606,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 607,
+          "offsetEnd": 609,
+          "pos": "IN"
+        },
+        {
+          "word": "local",
+          "lemma": "local",
+          "offsetBegin": 610,
+          "offsetEnd": 615,
+          "pos": "JJ"
+        },
+        {
+          "word": "input",
+          "lemma": "input",
+          "offsetBegin": 616,
+          "offsetEnd": 621,
+          "pos": "NN"
+        },
+        {
+          "word": "buffers",
+          "lemma": "buffer",
+          "offsetBegin": 622,
+          "offsetEnd": 629,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 629,
+          "offsetEnd": 630,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Simulation",
+          "lemma": "simulation",
+          "offsetBegin": 631,
+          "offsetEnd": 641,
+          "pos": "NN"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 642,
+          "offsetEnd": 649,
+          "pos": "NNS"
+        },
+        {
+          "word": "indicate",
+          "lemma": "indicate",
+          "offsetBegin": 650,
+          "offsetEnd": 658,
+          "pos": "VBP"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 659,
+          "offsetEnd": 663,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 664,
+          "offsetEnd": 667,
+          "pos": "DT"
+        },
+        {
+          "word": "alternative",
+          "lemma": "alternative",
+          "offsetBegin": 668,
+          "offsetEnd": 679,
+          "pos": "JJ"
+        },
+        {
+          "word": "routings",
+          "lemma": "routing",
+          "offsetBegin": 680,
+          "offsetEnd": 688,
+          "pos": "NNS"
+        },
+        {
+          "word": "dynamic",
+          "lemma": "dynamic",
+          "offsetBegin": 689,
+          "offsetEnd": 696,
+          "pos": "JJ"
+        },
+        {
+          "word": "policy",
+          "lemma": "policy",
+          "offsetBegin": 697,
+          "offsetEnd": 703,
+          "pos": "NN"
+        },
+        {
+          "word": "gives",
+          "lemma": "give",
+          "offsetBegin": 704,
+          "offsetEnd": 709,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 710,
+          "offsetEnd": 713,
+          "pos": "DT"
+        },
+        {
+          "word": "best",
+          "lemma": "best",
+          "offsetBegin": 714,
+          "offsetEnd": 718,
+          "pos": "JJS"
+        },
+        {
+          "word": "results",
+          "lemma": "result",
+          "offsetBegin": 719,
+          "offsetEnd": 726,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 727,
+          "offsetEnd": 729,
+          "pos": "IN"
+        },
+        {
+          "word": "three",
+          "lemma": "three",
+          "offsetBegin": 730,
+          "offsetEnd": 735,
+          "pos": "CD"
+        },
+        {
+          "word": "performance",
+          "lemma": "performance",
+          "offsetBegin": 736,
+          "offsetEnd": 747,
+          "pos": "NN"
+        },
+        {
+          "word": "measures",
+          "lemma": "measure",
+          "offsetBegin": 748,
+          "offsetEnd": 756,
+          "pos": "NNS"
+        },
+        {
+          "word": "except",
+          "lemma": "except",
+          "offsetBegin": 757,
+          "offsetEnd": 763,
+          "pos": "IN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 764,
+          "offsetEnd": 767,
+          "pos": "IN"
+        },
+        {
+          "word": "average",
+          "lemma": "average",
+          "offsetBegin": 768,
+          "offsetEnd": 775,
+          "pos": "JJ"
+        },
+        {
+          "word": "delay",
+          "lemma": "delay",
+          "offsetBegin": 776,
+          "offsetEnd": 781,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 782,
+          "offsetEnd": 784,
+          "pos": "IN"
+        },
+        {
+          "word": "local",
+          "lemma": "local",
+          "offsetBegin": 785,
+          "offsetEnd": 790,
+          "pos": "JJ"
+        },
+        {
+          "word": "input",
+          "lemma": "input",
+          "offsetBegin": 791,
+          "offsetEnd": 796,
+          "pos": "NN"
+        },
+        {
+          "word": "buffers",
+          "lemma": "buffer",
+          "offsetBegin": 797,
+          "offsetEnd": 804,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 804,
+          "offsetEnd": 805,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Further",
+          "lemma": "further",
+          "offsetBegin": 806,
+          "offsetEnd": 813,
+          "pos": "RB"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 813,
+          "offsetEnd": 814,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 815,
+          "offsetEnd": 818,
+          "pos": "DT"
+        },
+        {
+          "word": "effect",
+          "lemma": "effect",
+          "offsetBegin": 819,
+          "offsetEnd": 825,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 826,
+          "offsetEnd": 828,
+          "pos": "IN"
+        },
+        {
+          "word": "changing",
+          "lemma": "change",
+          "offsetBegin": 829,
+          "offsetEnd": 837,
+          "pos": "VBG"
+        },
+        {
+          "word": "part",
+          "lemma": "part",
+          "offsetBegin": 838,
+          "offsetEnd": 842,
+          "pos": "NN"
+        },
+        {
+          "word": "mix",
+          "lemma": "mix",
+          "offsetBegin": 843,
+          "offsetEnd": 846,
+          "pos": "NN"
+        },
+        {
+          "word": "ratios",
+          "lemma": "ratio",
+          "offsetBegin": 847,
+          "offsetEnd": 853,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 854,
+          "offsetEnd": 856,
+          "pos": "VBZ"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 857,
+          "offsetEnd": 860,
+          "pos": "RB"
+        },
+        {
+          "word": "significant",
+          "lemma": "significant",
+          "offsetBegin": 861,
+          "offsetEnd": 872,
+          "pos": "JJ"
+        }
+      ]
+    }
+  ]
+}

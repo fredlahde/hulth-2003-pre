@@ -1,0 +1,380 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Reconfigurable",
+          "lemma": "reconfigurable",
+          "offsetBegin": 0,
+          "offsetEnd": 14,
+          "pos": "JJ"
+        },
+        {
+          "word": "context-sensitive",
+          "lemma": "context-sensitive",
+          "offsetBegin": 15,
+          "offsetEnd": 32,
+          "pos": "JJ"
+        },
+        {
+          "word": "middleware",
+          "lemma": "middleware",
+          "offsetBegin": 33,
+          "offsetEnd": 43,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 44,
+          "offsetEnd": 47,
+          "pos": "IN"
+        },
+        {
+          "word": "pervasive",
+          "lemma": "pervasive",
+          "offsetBegin": 48,
+          "offsetEnd": 57,
+          "pos": "JJ"
+        },
+        {
+          "word": "computing",
+          "lemma": "computing",
+          "offsetBegin": 58,
+          "offsetEnd": 67,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Context-sensitive",
+          "lemma": "context-sensitive",
+          "offsetBegin": 68,
+          "offsetEnd": 85,
+          "pos": "JJ"
+        },
+        {
+          "word": "applications",
+          "lemma": "application",
+          "offsetBegin": 86,
+          "offsetEnd": 98,
+          "pos": "NNS"
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "offsetBegin": 99,
+          "offsetEnd": 103,
+          "pos": "VBP"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 104,
+          "offsetEnd": 108,
+          "pos": "NNS"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 109,
+          "offsetEnd": 113,
+          "pos": "IN"
+        },
+        {
+          "word": "sensors",
+          "lemma": "sensor",
+          "offsetBegin": 114,
+          "offsetEnd": 121,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 121,
+          "offsetEnd": 122,
+          "pos": ","
+        },
+        {
+          "word": "devices",
+          "lemma": "device",
+          "offsetBegin": 123,
+          "offsetEnd": 130,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 130,
+          "offsetEnd": 131,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 132,
+          "offsetEnd": 135,
+          "pos": "CC"
+        },
+        {
+          "word": "user",
+          "lemma": "user",
+          "offsetBegin": 136,
+          "offsetEnd": 140,
+          "pos": "NN"
+        },
+        {
+          "word": "actions",
+          "lemma": "action",
+          "offsetBegin": 141,
+          "offsetEnd": 148,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 148,
+          "offsetEnd": 149,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 150,
+          "offsetEnd": 153,
+          "pos": "CC"
+        },
+        {
+          "word": "might",
+          "lemma": "might",
+          "offsetBegin": 154,
+          "offsetEnd": 159,
+          "pos": "MD"
+        },
+        {
+          "word": "need",
+          "lemma": "need",
+          "offsetBegin": 160,
+          "offsetEnd": 164,
+          "pos": "VB"
+        },
+        {
+          "word": "ad",
+          "lemma": "ad",
+          "offsetBegin": 165,
+          "offsetEnd": 167,
+          "pos": "NN"
+        },
+        {
+          "word": "hoc",
+          "lemma": "hoc",
+          "offsetBegin": 168,
+          "offsetEnd": 171,
+          "pos": "FW"
+        },
+        {
+          "word": "communication",
+          "lemma": "communication",
+          "offsetBegin": 172,
+          "offsetEnd": 185,
+          "pos": "NN"
+        },
+        {
+          "word": "support",
+          "lemma": "support",
+          "offsetBegin": 186,
+          "offsetEnd": 193,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 194,
+          "offsetEnd": 196,
+          "pos": "TO"
+        },
+        {
+          "word": "dynamically",
+          "lemma": "dynamically",
+          "offsetBegin": 197,
+          "offsetEnd": 208,
+          "pos": "RB"
+        },
+        {
+          "word": "discover",
+          "lemma": "discover",
+          "offsetBegin": 209,
+          "offsetEnd": 217,
+          "pos": "VB"
+        },
+        {
+          "word": "new",
+          "lemma": "new",
+          "offsetBegin": 218,
+          "offsetEnd": 221,
+          "pos": "JJ"
+        },
+        {
+          "word": "devices",
+          "lemma": "device",
+          "offsetBegin": 222,
+          "offsetEnd": 229,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 230,
+          "offsetEnd": 233,
+          "pos": "CC"
+        },
+        {
+          "word": "engage",
+          "lemma": "engage",
+          "offsetBegin": 234,
+          "offsetEnd": 240,
+          "pos": "VB"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 241,
+          "offsetEnd": 243,
+          "pos": "IN"
+        },
+        {
+          "word": "spontaneous",
+          "lemma": "spontaneous",
+          "offsetBegin": 244,
+          "offsetEnd": 255,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 256,
+          "offsetEnd": 267,
+          "pos": "NN"
+        },
+        {
+          "word": "exchange",
+          "lemma": "exchange",
+          "offsetBegin": 268,
+          "offsetEnd": 276,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 276,
+          "offsetEnd": 277,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Reconfigurable",
+          "lemma": "reconfigurable",
+          "offsetBegin": 278,
+          "offsetEnd": 292,
+          "pos": "JJ"
+        },
+        {
+          "word": "Context-Sensitive",
+          "lemma": "context-sensitive",
+          "offsetBegin": 293,
+          "offsetEnd": 310,
+          "pos": "JJ"
+        },
+        {
+          "word": "Middleware",
+          "lemma": "middleware",
+          "offsetBegin": 311,
+          "offsetEnd": 321,
+          "pos": "NN"
+        },
+        {
+          "word": "facilitates",
+          "lemma": "facilitate",
+          "offsetBegin": 322,
+          "offsetEnd": 333,
+          "pos": "VBZ"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 334,
+          "offsetEnd": 337,
+          "pos": "DT"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 338,
+          "offsetEnd": 349,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 350,
+          "offsetEnd": 353,
+          "pos": "CC"
+        },
+        {
+          "word": "runtime",
+          "lemma": "runtime",
+          "offsetBegin": 354,
+          "offsetEnd": 361,
+          "pos": "NN"
+        },
+        {
+          "word": "operations",
+          "lemma": "operation",
+          "offsetBegin": 362,
+          "offsetEnd": 372,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 373,
+          "offsetEnd": 375,
+          "pos": "IN"
+        },
+        {
+          "word": "context-sensitive",
+          "lemma": "context-sensitive",
+          "offsetBegin": 376,
+          "offsetEnd": 393,
+          "pos": "JJ"
+        },
+        {
+          "word": "pervasive",
+          "lemma": "pervasive",
+          "offsetBegin": 394,
+          "offsetEnd": 403,
+          "pos": "JJ"
+        },
+        {
+          "word": "computing",
+          "lemma": "computing",
+          "offsetBegin": 404,
+          "offsetEnd": 413,
+          "pos": "NN"
+        },
+        {
+          "word": "software",
+          "lemma": "software",
+          "offsetBegin": 414,
+          "offsetEnd": 422,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Regularization",
+          "lemma": "regularization",
+          "offsetBegin": 0,
+          "offsetEnd": 14,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 15,
+          "offsetEnd": 17,
+          "pos": "IN"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 18,
+          "offsetEnd": 24,
+          "pos": "JJ"
+        },
+        {
+          "word": "regression",
+          "lemma": "regression",
+          "offsetBegin": 25,
+          "offsetEnd": 35,
+          "pos": "NN"
+        },
+        {
+          "word": "problems",
+          "lemma": "problem",
+          "offsetBegin": 36,
+          "offsetEnd": 44,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 45,
+          "offsetEnd": 48,
+          "pos": "DT"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 49,
+          "offsetEnd": 54,
+          "pos": "NN"
+        },
+        {
+          "word": "considers",
+          "lemma": "consider",
+          "offsetBegin": 55,
+          "offsetEnd": 64,
+          "pos": "VBZ"
+        },
+        {
+          "word": "robust",
+          "lemma": "robust",
+          "offsetBegin": 65,
+          "offsetEnd": 71,
+          "pos": "JJ"
+        },
+        {
+          "word": "estimation",
+          "lemma": "estimation",
+          "offsetBegin": 72,
+          "offsetEnd": 82,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 83,
+          "offsetEnd": 85,
+          "pos": "IN"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 86,
+          "offsetEnd": 92,
+          "pos": "JJ"
+        },
+        {
+          "word": "regression",
+          "lemma": "regression",
+          "offsetBegin": 93,
+          "offsetEnd": 103,
+          "pos": "NN"
+        },
+        {
+          "word": "parameters",
+          "lemma": "parameter",
+          "offsetBegin": 104,
+          "offsetEnd": 114,
+          "pos": "NNS"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 115,
+          "offsetEnd": 117,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 118,
+          "offsetEnd": 121,
+          "pos": "DT"
+        },
+        {
+          "word": "regularization",
+          "lemma": "regularization",
+          "offsetBegin": 122,
+          "offsetEnd": 136,
+          "pos": "NN"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 137,
+          "offsetEnd": 143,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 143,
+          "offsetEnd": 144,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 145,
+          "offsetEnd": 148,
+          "pos": "DT"
+        },
+        {
+          "word": "pseudoinverse",
+          "lemma": "pseudoinverse",
+          "offsetBegin": 149,
+          "offsetEnd": 162,
+          "pos": "NN"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 163,
+          "offsetEnd": 169,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 169,
+          "offsetEnd": 170,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 171,
+          "offsetEnd": 174,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 175,
+          "offsetEnd": 178,
+          "pos": "DT"
+        },
+        {
+          "word": "Bayesian",
+          "lemma": "bayesian",
+          "offsetBegin": 179,
+          "offsetEnd": 187,
+          "pos": "JJ"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 188,
+          "offsetEnd": 194,
+          "pos": "NN"
+        },
+        {
+          "word": "allowing",
+          "lemma": "allow",
+          "offsetBegin": 195,
+          "offsetEnd": 203,
+          "pos": "VBG"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 204,
+          "offsetEnd": 207,
+          "pos": "IN"
+        },
+        {
+          "word": "correlations",
+          "lemma": "correlation",
+          "offsetBegin": 208,
+          "offsetEnd": 220,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 221,
+          "offsetEnd": 224,
+          "pos": "CC"
+        },
+        {
+          "word": "errors",
+          "lemma": "error",
+          "offsetBegin": 225,
+          "offsetEnd": 231,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 232,
+          "offsetEnd": 234,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 235,
+          "offsetEnd": 238,
+          "pos": "DT"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 239,
+          "offsetEnd": 243,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 243,
+          "offsetEnd": 244,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Regularizing",
+          "lemma": "regularize",
+          "offsetBegin": 245,
+          "offsetEnd": 257,
+          "pos": "VBG"
+        },
+        {
+          "word": "algorithms",
+          "lemma": "algorithm",
+          "offsetBegin": 258,
+          "offsetEnd": 268,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 269,
+          "offsetEnd": 272,
+          "pos": "VBP"
+        },
+        {
+          "word": "constructed",
+          "lemma": "construct",
+          "offsetBegin": 273,
+          "offsetEnd": 284,
+          "pos": "VBN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 285,
+          "offsetEnd": 288,
+          "pos": "CC"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 289,
+          "offsetEnd": 294,
+          "pos": "PRP$"
+        },
+        {
+          "word": "relationship",
+          "lemma": "relationship",
+          "offsetBegin": 295,
+          "offsetEnd": 307,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 308,
+          "offsetEnd": 312,
+          "pos": "IN"
+        },
+        {
+          "word": "pseudoinversion",
+          "lemma": "pseudoinversion",
+          "offsetBegin": 313,
+          "offsetEnd": 328,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 328,
+          "offsetEnd": 329,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 330,
+          "offsetEnd": 333,
+          "pos": "DT"
+        },
+        {
+          "word": "Bayesian",
+          "lemma": "bayesian",
+          "offsetBegin": 334,
+          "offsetEnd": 342,
+          "pos": "JJ"
+        },
+        {
+          "word": "approach",
+          "lemma": "approach",
+          "offsetBegin": 343,
+          "offsetEnd": 351,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 351,
+          "offsetEnd": 352,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 353,
+          "offsetEnd": 356,
+          "pos": "CC"
+        },
+        {
+          "word": "BLUE",
+          "lemma": "blue",
+          "offsetBegin": 357,
+          "offsetEnd": 361,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 362,
+          "offsetEnd": 364,
+          "pos": "VBZ"
+        },
+        {
+          "word": "investigated",
+          "lemma": "investigate",
+          "offsetBegin": 365,
+          "offsetEnd": 377,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

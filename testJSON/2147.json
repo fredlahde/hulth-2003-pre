@@ -1,0 +1,626 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Much",
+          "lemma": "much",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "JJ"
+        },
+        {
+          "word": "ado",
+          "lemma": "ado",
+          "offsetBegin": 5,
+          "offsetEnd": 8,
+          "pos": "NN"
+        },
+        {
+          "word": "about",
+          "lemma": "about",
+          "offsetBegin": 9,
+          "offsetEnd": 14,
+          "pos": "IN"
+        },
+        {
+          "word": "nothing",
+          "lemma": "nothing",
+          "offsetBegin": 15,
+          "offsetEnd": 22,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 22,
+          "offsetEnd": 23,
+          "pos": ":"
+        },
+        {
+          "word": "Win32.Perrun",
+          "lemma": "win32.perrun",
+          "offsetBegin": 24,
+          "offsetEnd": 36,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "JPEG",
+          "lemma": "JPEG",
+          "offsetBegin": 37,
+          "offsetEnd": 41,
+          "pos": "NNP"
+        },
+        {
+          "word": "files",
+          "lemma": "file",
+          "offsetBegin": 42,
+          "offsetEnd": 47,
+          "pos": "NNS"
+        },
+        {
+          "word": "do",
+          "lemma": "do",
+          "offsetBegin": 48,
+          "offsetEnd": 50,
+          "pos": "VBP"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 51,
+          "offsetEnd": 54,
+          "pos": "RB"
+        },
+        {
+          "word": "contain",
+          "lemma": "contain",
+          "offsetBegin": 55,
+          "offsetEnd": 62,
+          "pos": "VB"
+        },
+        {
+          "word": "any",
+          "lemma": "any",
+          "offsetBegin": 63,
+          "offsetEnd": 66,
+          "pos": "DT"
+        },
+        {
+          "word": "executable",
+          "lemma": "executable",
+          "offsetBegin": 67,
+          "offsetEnd": 77,
+          "pos": "JJ"
+        },
+        {
+          "word": "code",
+          "lemma": "code",
+          "offsetBegin": 78,
+          "offsetEnd": 82,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 83,
+          "offsetEnd": 86,
+          "pos": "CC"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 87,
+          "offsetEnd": 89,
+          "pos": "PRP"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 90,
+          "offsetEnd": 92,
+          "pos": "VBZ"
+        },
+        {
+          "word": "impossible",
+          "lemma": "impossible",
+          "offsetBegin": 93,
+          "offsetEnd": 103,
+          "pos": "JJ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 104,
+          "offsetEnd": 106,
+          "pos": "TO"
+        },
+        {
+          "word": "infect",
+          "lemma": "infect",
+          "offsetBegin": 107,
+          "offsetEnd": 113,
+          "pos": "VB"
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "offsetBegin": 114,
+          "offsetEnd": 118,
+          "pos": "JJ"
+        },
+        {
+          "word": "files",
+          "lemma": "file",
+          "offsetBegin": 119,
+          "offsetEnd": 124,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 124,
+          "offsetEnd": 125,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 126,
+          "offsetEnd": 129,
+          "pos": "DT"
+        },
+        {
+          "word": "author",
+          "lemma": "author",
+          "offsetBegin": 130,
+          "offsetEnd": 136,
+          "pos": "NN"
+        },
+        {
+          "word": "takes",
+          "lemma": "take",
+          "offsetBegin": 137,
+          "offsetEnd": 142,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 143,
+          "offsetEnd": 144,
+          "pos": "DT"
+        },
+        {
+          "word": "look",
+          "lemma": "look",
+          "offsetBegin": 145,
+          "offsetEnd": 149,
+          "pos": "NN"
+        },
+        {
+          "word": "at",
+          "lemma": "at",
+          "offsetBegin": 150,
+          "offsetEnd": 152,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 153,
+          "offsetEnd": 156,
+          "pos": "DT"
+        },
+        {
+          "word": "details",
+          "lemma": "detail",
+          "offsetBegin": 157,
+          "offsetEnd": 164,
+          "pos": "NNS"
+        },
+        {
+          "word": "surrounding",
+          "lemma": "surround",
+          "offsetBegin": 165,
+          "offsetEnd": 176,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 177,
+          "offsetEnd": 180,
+          "pos": "DT"
+        },
+        {
+          "word": "Win32.Perrun",
+          "lemma": "win32.perrun",
+          "offsetBegin": 181,
+          "offsetEnd": 193,
+          "pos": "NN"
+        },
+        {
+          "word": "virus",
+          "lemma": "virus",
+          "offsetBegin": 194,
+          "offsetEnd": 199,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 200,
+          "offsetEnd": 203,
+          "pos": "CC"
+        },
+        {
+          "word": "make",
+          "lemma": "make",
+          "offsetBegin": 204,
+          "offsetEnd": 208,
+          "pos": "VB"
+        },
+        {
+          "word": "clear",
+          "lemma": "clear",
+          "offsetBegin": 209,
+          "offsetEnd": 214,
+          "pos": "JJ"
+        },
+        {
+          "word": "exactly",
+          "lemma": "exactly",
+          "offsetBegin": 215,
+          "offsetEnd": 222,
+          "pos": "RB"
+        },
+        {
+          "word": "what",
+          "lemma": "what",
+          "offsetBegin": 223,
+          "offsetEnd": 227,
+          "pos": "WP"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 228,
+          "offsetEnd": 230,
+          "pos": "PRP"
+        },
+        {
+          "word": "does",
+          "lemma": "do",
+          "offsetBegin": 231,
+          "offsetEnd": 235,
+          "pos": "VBZ"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 235,
+          "offsetEnd": 236,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 237,
+          "offsetEnd": 240,
+          "pos": "DT"
+        },
+        {
+          "word": "main",
+          "lemma": "main",
+          "offsetBegin": 241,
+          "offsetEnd": 245,
+          "pos": "JJ"
+        },
+        {
+          "word": "virus",
+          "lemma": "virus",
+          "offsetBegin": 246,
+          "offsetEnd": 251,
+          "pos": "NN"
+        },
+        {
+          "word": "feature",
+          "lemma": "feature",
+          "offsetBegin": 252,
+          "offsetEnd": 259,
+          "pos": "NN"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 260,
+          "offsetEnd": 262,
+          "pos": "VBZ"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 263,
+          "offsetEnd": 266,
+          "pos": "PRP$"
+        },
+        {
+          "word": "ability",
+          "lemma": "ability",
+          "offsetBegin": 267,
+          "offsetEnd": 274,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 275,
+          "offsetEnd": 277,
+          "pos": "TO"
+        },
+        {
+          "word": "affect",
+          "lemma": "affect",
+          "offsetBegin": 278,
+          "offsetEnd": 284,
+          "pos": "VB"
+        },
+        {
+          "word": "JPEG",
+          "lemma": "JPEG",
+          "offsetBegin": 285,
+          "offsetEnd": 289,
+          "pos": "NNP"
+        },
+        {
+          "word": "image",
+          "lemma": "image",
+          "offsetBegin": 290,
+          "offsetEnd": 295,
+          "pos": "NN"
+        },
+        {
+          "word": "files",
+          "lemma": "file",
+          "offsetBegin": 296,
+          "offsetEnd": 301,
+          "pos": "NNS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 302,
+          "offsetEnd": 303,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "compressed",
+          "lemma": "compress",
+          "offsetBegin": 303,
+          "offsetEnd": 313,
+          "pos": "VBN"
+        },
+        {
+          "word": "graphic",
+          "lemma": "graphic",
+          "offsetBegin": 314,
+          "offsetEnd": 321,
+          "pos": "JJ"
+        },
+        {
+          "word": "images",
+          "lemma": "image",
+          "offsetBegin": 322,
+          "offsetEnd": 328,
+          "pos": "NNS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 328,
+          "offsetEnd": 329,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 330,
+          "offsetEnd": 333,
+          "pos": "CC"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 334,
+          "offsetEnd": 336,
+          "pos": "TO"
+        },
+        {
+          "word": "spread",
+          "lemma": "spread",
+          "offsetBegin": 337,
+          "offsetEnd": 343,
+          "pos": "VB"
+        },
+        {
+          "word": "via",
+          "lemma": "via",
+          "offsetBegin": 344,
+          "offsetEnd": 347,
+          "pos": "IN"
+        },
+        {
+          "word": "affected",
+          "lemma": "affect",
+          "offsetBegin": 348,
+          "offsetEnd": 356,
+          "pos": "VBN"
+        },
+        {
+          "word": "JPEG",
+          "lemma": "JPEG",
+          "offsetBegin": 357,
+          "offsetEnd": 361,
+          "pos": "NNP"
+        },
+        {
+          "word": "files",
+          "lemma": "file",
+          "offsetBegin": 362,
+          "offsetEnd": 367,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 367,
+          "offsetEnd": 368,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 369,
+          "offsetEnd": 372,
+          "pos": "DT"
+        },
+        {
+          "word": "virus",
+          "lemma": "virus",
+          "offsetBegin": 373,
+          "offsetEnd": 378,
+          "pos": "NN"
+        },
+        {
+          "word": "affects",
+          "lemma": "affect",
+          "offsetBegin": 379,
+          "offsetEnd": 386,
+          "pos": "VBZ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 386,
+          "offsetEnd": 387,
+          "pos": ","
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 388,
+          "offsetEnd": 390,
+          "pos": "CC"
+        },
+        {
+          "word": "modifies",
+          "lemma": "modify",
+          "offsetBegin": 391,
+          "offsetEnd": 399,
+          "pos": "VBZ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 399,
+          "offsetEnd": 400,
+          "pos": ","
+        },
+        {
+          "word": "or",
+          "lemma": "or",
+          "offsetBegin": 401,
+          "offsetEnd": 403,
+          "pos": "CC"
+        },
+        {
+          "word": "alters",
+          "lemma": "alter",
+          "offsetBegin": 404,
+          "offsetEnd": 410,
+          "pos": "VBZ"
+        },
+        {
+          "word": "JPEG",
+          "lemma": "JPEG",
+          "offsetBegin": 411,
+          "offsetEnd": 415,
+          "pos": "NNP"
+        },
+        {
+          "word": "files",
+          "lemma": "file",
+          "offsetBegin": 416,
+          "offsetEnd": 421,
+          "pos": "NNS"
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 422,
+          "offsetEnd": 425,
+          "pos": "CC"
+        },
+        {
+          "word": "does",
+          "lemma": "do",
+          "offsetBegin": 426,
+          "offsetEnd": 430,
+          "pos": "VBZ"
+        },
+        {
+          "word": "not",
+          "lemma": "not",
+          "offsetBegin": 431,
+          "offsetEnd": 434,
+          "pos": "RB"
+        },
+        {
+          "word": "``",
+          "lemma": "``",
+          "offsetBegin": 435,
+          "offsetEnd": 436,
+          "pos": "``"
+        },
+        {
+          "word": "infect",
+          "lemma": "infect",
+          "offsetBegin": 436,
+          "offsetEnd": 442,
+          "pos": "VB"
+        },
+        {
+          "word": "\u0027\u0027",
+          "lemma": "\u0027\u0027",
+          "offsetBegin": 442,
+          "offsetEnd": 443,
+          "pos": "\u0027\u0027"
+        },
+        {
+          "word": "them",
+          "lemma": "they",
+          "offsetBegin": 444,
+          "offsetEnd": 448,
+          "pos": "PRP"
+        }
+      ]
+    }
+  ]
+}

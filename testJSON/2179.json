@@ -1,0 +1,1233 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Guidelines",
+          "lemma": "guideline",
+          "offsetBegin": 0,
+          "offsetEnd": 10,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 10,
+          "offsetEnd": 11,
+          "pos": ","
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 12,
+          "offsetEnd": 15,
+          "pos": "DT"
+        },
+        {
+          "word": "Internet",
+          "lemma": "internet",
+          "offsetBegin": 16,
+          "offsetEnd": 24,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 24,
+          "offsetEnd": 25,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 26,
+          "offsetEnd": 29,
+          "pos": "CC"
+        },
+        {
+          "word": "personal",
+          "lemma": "personal",
+          "offsetBegin": 30,
+          "offsetEnd": 38,
+          "pos": "JJ"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 39,
+          "offsetEnd": 45,
+          "pos": "NN"
+        },
+        {
+          "word": ":",
+          "lemma": ":",
+          "offsetBegin": 45,
+          "offsetEnd": 46,
+          "pos": ":"
+        },
+        {
+          "word": "insights",
+          "lemma": "insight",
+          "offsetBegin": 47,
+          "offsetEnd": 55,
+          "pos": "NNS"
+        },
+        {
+          "word": "from",
+          "lemma": "from",
+          "offsetBegin": 56,
+          "offsetEnd": 60,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 61,
+          "offsetEnd": 64,
+          "pos": "DT"
+        },
+        {
+          "word": "Canadian",
+          "lemma": "canadian",
+          "offsetBegin": 65,
+          "offsetEnd": 73,
+          "pos": "JJ"
+        },
+        {
+          "word": "HEALNet",
+          "lemma": "healnet",
+          "offsetBegin": 74,
+          "offsetEnd": 81,
+          "pos": "NN"
+        },
+        {
+          "word": "experience",
+          "lemma": "experience",
+          "offsetBegin": 82,
+          "offsetEnd": 92,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 93,
+          "offsetEnd": 96,
+          "pos": "DT"
+        },
+        {
+          "word": "objectives",
+          "lemma": "objective",
+          "offsetBegin": 97,
+          "offsetEnd": 107,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 108,
+          "offsetEnd": 111,
+          "pos": "VBP"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 112,
+          "offsetEnd": 114,
+          "pos": "TO"
+        },
+        {
+          "word": "summarize",
+          "lemma": "summarize",
+          "offsetBegin": 115,
+          "offsetEnd": 124,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 125,
+          "offsetEnd": 128,
+          "pos": "DT"
+        },
+        {
+          "word": "insights",
+          "lemma": "insight",
+          "offsetBegin": 129,
+          "offsetEnd": 137,
+          "pos": "NNS"
+        },
+        {
+          "word": "gained",
+          "lemma": "gain",
+          "offsetBegin": 138,
+          "offsetEnd": 144,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 145,
+          "offsetEnd": 147,
+          "pos": "IN"
+        },
+        {
+          "word": "collaborative",
+          "lemma": "collaborative",
+          "offsetBegin": 148,
+          "offsetEnd": 161,
+          "pos": "JJ"
+        },
+        {
+          "word": "research",
+          "lemma": "research",
+          "offsetBegin": 162,
+          "offsetEnd": 170,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 171,
+          "offsetEnd": 173,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 174,
+          "offsetEnd": 175,
+          "pos": "DT"
+        },
+        {
+          "word": "Canadian",
+          "lemma": "canadian",
+          "offsetBegin": 176,
+          "offsetEnd": 184,
+          "pos": "JJ"
+        },
+        {
+          "word": "Network",
+          "lemma": "Network",
+          "offsetBegin": 185,
+          "offsetEnd": 192,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 193,
+          "offsetEnd": 195,
+          "pos": "IN"
+        },
+        {
+          "word": "Centres",
+          "lemma": "Centres",
+          "offsetBegin": 196,
+          "offsetEnd": 203,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 204,
+          "offsetEnd": 206,
+          "pos": "IN"
+        },
+        {
+          "word": "Excellence",
+          "lemma": "Excellence",
+          "offsetBegin": 207,
+          "offsetEnd": 217,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 217,
+          "offsetEnd": 218,
+          "pos": ","
+        },
+        {
+          "word": "devoted",
+          "lemma": "devote",
+          "offsetBegin": 219,
+          "offsetEnd": 226,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 227,
+          "offsetEnd": 229,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 230,
+          "offsetEnd": 233,
+          "pos": "DT"
+        },
+        {
+          "word": "promotion",
+          "lemma": "promotion",
+          "offsetBegin": 234,
+          "offsetEnd": 243,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 244,
+          "offsetEnd": 246,
+          "pos": "IN"
+        },
+        {
+          "word": "evidence-based",
+          "lemma": "evidence-based",
+          "offsetBegin": 247,
+          "offsetEnd": 261,
+          "pos": "JJ"
+        },
+        {
+          "word": "practice",
+          "lemma": "practice",
+          "offsetBegin": 262,
+          "offsetEnd": 270,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 270,
+          "offsetEnd": 271,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 272,
+          "offsetEnd": 275,
+          "pos": "CC"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 276,
+          "offsetEnd": 278,
+          "pos": "TO"
+        },
+        {
+          "word": "relate",
+          "lemma": "relate",
+          "offsetBegin": 279,
+          "offsetEnd": 285,
+          "pos": "VB"
+        },
+        {
+          "word": "this",
+          "lemma": "this",
+          "offsetBegin": 286,
+          "offsetEnd": 290,
+          "pos": "DT"
+        },
+        {
+          "word": "experience",
+          "lemma": "experience",
+          "offsetBegin": 291,
+          "offsetEnd": 301,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 302,
+          "offsetEnd": 304,
+          "pos": "TO"
+        },
+        {
+          "word": "Internet",
+          "lemma": "internet",
+          "offsetBegin": 305,
+          "offsetEnd": 313,
+          "pos": "NN"
+        },
+        {
+          "word": "support",
+          "lemma": "support",
+          "offsetBegin": 314,
+          "offsetEnd": 321,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 322,
+          "offsetEnd": 324,
+          "pos": "IN"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 325,
+          "offsetEnd": 331,
+          "pos": "NN"
+        },
+        {
+          "word": "promotion",
+          "lemma": "promotion",
+          "offsetBegin": 332,
+          "offsetEnd": 341,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 342,
+          "offsetEnd": 345,
+          "pos": "CC"
+        },
+        {
+          "word": "consumer",
+          "lemma": "consumer",
+          "offsetBegin": 346,
+          "offsetEnd": 354,
+          "pos": "NN"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 355,
+          "offsetEnd": 361,
+          "pos": "NN"
+        },
+        {
+          "word": "informatics",
+          "lemma": "informatics",
+          "offsetBegin": 362,
+          "offsetEnd": 373,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 373,
+          "offsetEnd": 374,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "A",
+          "lemma": "a",
+          "offsetBegin": 375,
+          "offsetEnd": 376,
+          "pos": "DT"
+        },
+        {
+          "word": "subjective",
+          "lemma": "subjective",
+          "offsetBegin": 377,
+          "offsetEnd": 387,
+          "pos": "JJ"
+        },
+        {
+          "word": "review",
+          "lemma": "review",
+          "offsetBegin": 388,
+          "offsetEnd": 394,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 395,
+          "offsetEnd": 397,
+          "pos": "IN"
+        },
+        {
+          "word": "insights",
+          "lemma": "insight",
+          "offsetBegin": 398,
+          "offsetEnd": 406,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 407,
+          "offsetEnd": 409,
+          "pos": "VBZ"
+        },
+        {
+          "word": "undertaken",
+          "lemma": "undertake",
+          "offsetBegin": 410,
+          "offsetEnd": 420,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 420,
+          "offsetEnd": 421,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Work",
+          "lemma": "work",
+          "offsetBegin": 422,
+          "offsetEnd": 426,
+          "pos": "NN"
+        },
+        {
+          "word": "directed",
+          "lemma": "direct",
+          "offsetBegin": 427,
+          "offsetEnd": 435,
+          "pos": "VBD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 436,
+          "offsetEnd": 439,
+          "pos": "DT"
+        },
+        {
+          "word": "development",
+          "lemma": "development",
+          "offsetBegin": 440,
+          "offsetEnd": 451,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 452,
+          "offsetEnd": 454,
+          "pos": "IN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 455,
+          "offsetEnd": 462,
+          "pos": "NNS"
+        },
+        {
+          "word": "incorporating",
+          "lemma": "incorporate",
+          "offsetBegin": 463,
+          "offsetEnd": 476,
+          "pos": "VBG"
+        },
+        {
+          "word": "guidelines",
+          "lemma": "guideline",
+          "offsetBegin": 477,
+          "offsetEnd": 487,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 487,
+          "offsetEnd": 488,
+          "pos": ","
+        },
+        {
+          "word": "care",
+          "lemma": "care",
+          "offsetBegin": 489,
+          "offsetEnd": 493,
+          "pos": "NN"
+        },
+        {
+          "word": "maps",
+          "lemma": "map",
+          "offsetBegin": 494,
+          "offsetEnd": 498,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 498,
+          "offsetEnd": 499,
+          "pos": ","
+        },
+        {
+          "word": "etc.",
+          "lemma": "etc.",
+          "offsetBegin": 500,
+          "offsetEnd": 504,
+          "pos": "FW"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 504,
+          "offsetEnd": 505,
+          "pos": ","
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 506,
+          "offsetEnd": 509,
+          "pos": "IN"
+        },
+        {
+          "word": "use",
+          "lemma": "use",
+          "offsetBegin": 510,
+          "offsetEnd": 513,
+          "pos": "NN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 514,
+          "offsetEnd": 516,
+          "pos": "IN"
+        },
+        {
+          "word": "professionals",
+          "lemma": "professional",
+          "offsetBegin": 517,
+          "offsetEnd": 530,
+          "pos": "NNS"
+        },
+        {
+          "word": "met",
+          "lemma": "meet",
+          "offsetBegin": 531,
+          "offsetEnd": 534,
+          "pos": "VBD"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 535,
+          "offsetEnd": 539,
+          "pos": "IN"
+        },
+        {
+          "word": "limited",
+          "lemma": "limited",
+          "offsetBegin": 540,
+          "offsetEnd": 547,
+          "pos": "JJ"
+        },
+        {
+          "word": "acceptance",
+          "lemma": "acceptance",
+          "offsetBegin": 548,
+          "offsetEnd": 558,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 558,
+          "offsetEnd": 559,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Evidence-based",
+          "lemma": "evidence-based",
+          "offsetBegin": 560,
+          "offsetEnd": 574,
+          "pos": "JJ"
+        },
+        {
+          "word": "tools",
+          "lemma": "tool",
+          "offsetBegin": 575,
+          "offsetEnd": 580,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 581,
+          "offsetEnd": 584,
+          "pos": "IN"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 585,
+          "offsetEnd": 591,
+          "pos": "NN"
+        },
+        {
+          "word": "care",
+          "lemma": "care",
+          "offsetBegin": 592,
+          "offsetEnd": 596,
+          "pos": "NN"
+        },
+        {
+          "word": "consumers",
+          "lemma": "consumer",
+          "offsetBegin": 597,
+          "offsetEnd": 606,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 607,
+          "offsetEnd": 610,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 611,
+          "offsetEnd": 612,
+          "pos": "DT"
+        },
+        {
+          "word": "desirable",
+          "lemma": "desirable",
+          "offsetBegin": 613,
+          "offsetEnd": 622,
+          "pos": "JJ"
+        },
+        {
+          "word": "complement",
+          "lemma": "complement",
+          "offsetBegin": 623,
+          "offsetEnd": 633,
+          "pos": "NN"
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 634,
+          "offsetEnd": 637,
+          "pos": "CC"
+        },
+        {
+          "word": "require",
+          "lemma": "require",
+          "offsetBegin": 638,
+          "offsetEnd": 645,
+          "pos": "VBP"
+        },
+        {
+          "word": "radically",
+          "lemma": "radically",
+          "offsetBegin": 646,
+          "offsetEnd": 655,
+          "pos": "RB"
+        },
+        {
+          "word": "different",
+          "lemma": "different",
+          "offsetBegin": 656,
+          "offsetEnd": 665,
+          "pos": "JJ"
+        },
+        {
+          "word": "content",
+          "lemma": "content",
+          "offsetBegin": 666,
+          "offsetEnd": 673,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 674,
+          "offsetEnd": 677,
+          "pos": "CC"
+        },
+        {
+          "word": "delivery",
+          "lemma": "delivery",
+          "offsetBegin": 678,
+          "offsetEnd": 686,
+          "pos": "NN"
+        },
+        {
+          "word": "modes",
+          "lemma": "mode",
+          "offsetBegin": 687,
+          "offsetEnd": 692,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 692,
+          "offsetEnd": 693,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "In",
+          "lemma": "in",
+          "offsetBegin": 694,
+          "offsetEnd": 696,
+          "pos": "IN"
+        },
+        {
+          "word": "addition",
+          "lemma": "addition",
+          "offsetBegin": 697,
+          "offsetEnd": 705,
+          "pos": "NN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 706,
+          "offsetEnd": 708,
+          "pos": "TO"
+        },
+        {
+          "word": "evidence-based",
+          "lemma": "evidence-based",
+          "offsetBegin": 709,
+          "offsetEnd": 723,
+          "pos": "JJ"
+        },
+        {
+          "word": "material",
+          "lemma": "material",
+          "offsetBegin": 724,
+          "offsetEnd": 732,
+          "pos": "NN"
+        },
+        {
+          "word": "offered",
+          "lemma": "offer",
+          "offsetBegin": 733,
+          "offsetEnd": 740,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 741,
+          "offsetEnd": 743,
+          "pos": "IN"
+        },
+        {
+          "word": "professionals",
+          "lemma": "professional",
+          "offsetBegin": 744,
+          "offsetEnd": 757,
+          "pos": "NNS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 757,
+          "offsetEnd": 758,
+          "pos": ","
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 759,
+          "offsetEnd": 760,
+          "pos": "DT"
+        },
+        {
+          "word": "wide",
+          "lemma": "wide",
+          "offsetBegin": 761,
+          "offsetEnd": 765,
+          "pos": "JJ"
+        },
+        {
+          "word": "array",
+          "lemma": "array",
+          "offsetBegin": 766,
+          "offsetEnd": 771,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 772,
+          "offsetEnd": 774,
+          "pos": "IN"
+        },
+        {
+          "word": "Internet-based",
+          "lemma": "internet-based",
+          "offsetBegin": 775,
+          "offsetEnd": 789,
+          "pos": "JJ"
+        },
+        {
+          "word": "products",
+          "lemma": "product",
+          "offsetBegin": 790,
+          "offsetEnd": 798,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 799,
+          "offsetEnd": 802,
+          "pos": "CC"
+        },
+        {
+          "word": "services",
+          "lemma": "service",
+          "offsetBegin": 803,
+          "offsetEnd": 811,
+          "pos": "NNS"
+        },
+        {
+          "word": "provided",
+          "lemma": "provide",
+          "offsetBegin": 812,
+          "offsetEnd": 820,
+          "pos": "VBN"
+        },
+        {
+          "word": "by",
+          "lemma": "by",
+          "offsetBegin": 821,
+          "offsetEnd": 823,
+          "pos": "IN"
+        },
+        {
+          "word": "consumers",
+          "lemma": "consumer",
+          "offsetBegin": 824,
+          "offsetEnd": 833,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 834,
+          "offsetEnd": 837,
+          "pos": "IN"
+        },
+        {
+          "word": "consumers",
+          "lemma": "consumer",
+          "offsetBegin": 838,
+          "offsetEnd": 847,
+          "pos": "NNS"
+        },
+        {
+          "word": "emerged",
+          "lemma": "emerge",
+          "offsetBegin": 848,
+          "offsetEnd": 855,
+          "pos": "VBD"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 856,
+          "offsetEnd": 859,
+          "pos": "CC"
+        },
+        {
+          "word": "proved",
+          "lemma": "prove",
+          "offsetBegin": 860,
+          "offsetEnd": 866,
+          "pos": "VBD"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 867,
+          "offsetEnd": 868,
+          "pos": "DT"
+        },
+        {
+          "word": "beneficial",
+          "lemma": "beneficial",
+          "offsetBegin": 869,
+          "offsetEnd": 879,
+          "pos": "JJ"
+        },
+        {
+          "word": "complement",
+          "lemma": "complement",
+          "offsetBegin": 880,
+          "offsetEnd": 890,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 890,
+          "offsetEnd": 891,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 892,
+          "offsetEnd": 895,
+          "pos": "DT"
+        },
+        {
+          "word": "consumer-driven",
+          "lemma": "consumer-driven",
+          "offsetBegin": 896,
+          "offsetEnd": 911,
+          "pos": "JJ"
+        },
+        {
+          "word": "products",
+          "lemma": "product",
+          "offsetBegin": 912,
+          "offsetEnd": 920,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 921,
+          "offsetEnd": 924,
+          "pos": "CC"
+        },
+        {
+          "word": "services",
+          "lemma": "service",
+          "offsetBegin": 925,
+          "offsetEnd": 933,
+          "pos": "NNS"
+        },
+        {
+          "word": "provided",
+          "lemma": "provide",
+          "offsetBegin": 934,
+          "offsetEnd": 942,
+          "pos": "VBN"
+        },
+        {
+          "word": "via",
+          "lemma": "via",
+          "offsetBegin": 943,
+          "offsetEnd": 946,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 947,
+          "offsetEnd": 950,
+          "pos": "DT"
+        },
+        {
+          "word": "Internet",
+          "lemma": "internet",
+          "offsetBegin": 951,
+          "offsetEnd": 959,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 960,
+          "offsetEnd": 963,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 964,
+          "offsetEnd": 965,
+          "pos": "DT"
+        },
+        {
+          "word": "potentially",
+          "lemma": "potentially",
+          "offsetBegin": 966,
+          "offsetEnd": 977,
+          "pos": "RB"
+        },
+        {
+          "word": "important",
+          "lemma": "important",
+          "offsetBegin": 978,
+          "offsetEnd": 987,
+          "pos": "JJ"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 988,
+          "offsetEnd": 991,
+          "pos": "CC"
+        },
+        {
+          "word": "beneficial",
+          "lemma": "beneficial",
+          "offsetBegin": 992,
+          "offsetEnd": 1002,
+          "pos": "JJ"
+        },
+        {
+          "word": "complement",
+          "lemma": "complement",
+          "offsetBegin": 1003,
+          "offsetEnd": 1013,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 1014,
+          "offsetEnd": 1016,
+          "pos": "IN"
+        },
+        {
+          "word": "traditional",
+          "lemma": "traditional",
+          "offsetBegin": 1017,
+          "offsetEnd": 1028,
+          "pos": "JJ"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 1029,
+          "offsetEnd": 1035,
+          "pos": "NN"
+        },
+        {
+          "word": "services",
+          "lemma": "service",
+          "offsetBegin": 1036,
+          "offsetEnd": 1044,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 1044,
+          "offsetEnd": 1045,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "They",
+          "lemma": "they",
+          "offsetBegin": 1046,
+          "offsetEnd": 1050,
+          "pos": "PRP"
+        },
+        {
+          "word": "affect",
+          "lemma": "affect",
+          "offsetBegin": 1051,
+          "offsetEnd": 1057,
+          "pos": "VBP"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 1058,
+          "offsetEnd": 1061,
+          "pos": "DT"
+        },
+        {
+          "word": "health",
+          "lemma": "health",
+          "offsetBegin": 1062,
+          "offsetEnd": 1068,
+          "pos": "NN"
+        },
+        {
+          "word": "consumer-provider",
+          "lemma": "consumer-provider",
+          "offsetBegin": 1069,
+          "offsetEnd": 1086,
+          "pos": "JJ"
+        },
+        {
+          "word": "roles",
+          "lemma": "role",
+          "offsetBegin": 1087,
+          "offsetEnd": 1092,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 1093,
+          "offsetEnd": 1096,
+          "pos": "CC"
+        },
+        {
+          "word": "require",
+          "lemma": "require",
+          "offsetBegin": 1097,
+          "offsetEnd": 1104,
+          "pos": "VB"
+        },
+        {
+          "word": "changes",
+          "lemma": "change",
+          "offsetBegin": 1105,
+          "offsetEnd": 1112,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 1113,
+          "offsetEnd": 1115,
+          "pos": "IN"
+        },
+        {
+          "word": "healthcare",
+          "lemma": "healthcare",
+          "offsetBegin": 1116,
+          "offsetEnd": 1126,
+          "pos": "NN"
+        },
+        {
+          "word": "practices",
+          "lemma": "practice",
+          "offsetBegin": 1127,
+          "offsetEnd": 1136,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

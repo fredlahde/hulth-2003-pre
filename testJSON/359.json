@@ -1,0 +1,731 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Neighborhood",
+          "lemma": "neighborhood",
+          "offsetBegin": 0,
+          "offsetEnd": 12,
+          "pos": "NN"
+        },
+        {
+          "word": "operator",
+          "lemma": "operator",
+          "offsetBegin": 13,
+          "offsetEnd": 21,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 22,
+          "offsetEnd": 29,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 30,
+          "offsetEnd": 33,
+          "pos": "CC"
+        },
+        {
+          "word": "approximations",
+          "lemma": "approximation",
+          "offsetBegin": 34,
+          "offsetEnd": 48,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 49,
+          "offsetEnd": 53,
+          "pos": "DT"
+        },
+        {
+          "word": "paper",
+          "lemma": "paper",
+          "offsetBegin": 54,
+          "offsetEnd": 59,
+          "pos": "NN"
+        },
+        {
+          "word": "presents",
+          "lemma": "present",
+          "offsetBegin": 60,
+          "offsetEnd": 68,
+          "pos": "VBZ"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 69,
+          "offsetEnd": 70,
+          "pos": "DT"
+        },
+        {
+          "word": "framework",
+          "lemma": "framework",
+          "offsetBegin": 71,
+          "offsetEnd": 80,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 81,
+          "offsetEnd": 84,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 85,
+          "offsetEnd": 88,
+          "pos": "DT"
+        },
+        {
+          "word": "study",
+          "lemma": "study",
+          "offsetBegin": 89,
+          "offsetEnd": 94,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 95,
+          "offsetEnd": 97,
+          "pos": "IN"
+        },
+        {
+          "word": "generalizing",
+          "lemma": "generalize",
+          "offsetBegin": 98,
+          "offsetEnd": 110,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 111,
+          "offsetEnd": 114,
+          "pos": "DT"
+        },
+        {
+          "word": "standard",
+          "lemma": "standard",
+          "offsetBegin": 115,
+          "offsetEnd": 123,
+          "pos": "JJ"
+        },
+        {
+          "word": "notion",
+          "lemma": "notion",
+          "offsetBegin": 124,
+          "offsetEnd": 130,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 131,
+          "offsetEnd": 133,
+          "pos": "IN"
+        },
+        {
+          "word": "equivalence",
+          "lemma": "equivalence",
+          "offsetBegin": 134,
+          "offsetEnd": 145,
+          "pos": "JJ"
+        },
+        {
+          "word": "relation",
+          "lemma": "relation",
+          "offsetBegin": 146,
+          "offsetEnd": 154,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 155,
+          "offsetEnd": 157,
+          "pos": "IN"
+        },
+        {
+          "word": "rough",
+          "lemma": "rough",
+          "offsetBegin": 158,
+          "offsetEnd": 163,
+          "pos": "JJ"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 164,
+          "offsetEnd": 167,
+          "pos": "NN"
+        },
+        {
+          "word": "approximation",
+          "lemma": "approximation",
+          "offsetBegin": 168,
+          "offsetEnd": 181,
+          "pos": "NN"
+        },
+        {
+          "word": "space",
+          "lemma": "space",
+          "offsetBegin": 182,
+          "offsetEnd": 187,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 188,
+          "offsetEnd": 192,
+          "pos": "IN"
+        },
+        {
+          "word": "various",
+          "lemma": "various",
+          "offsetBegin": 193,
+          "offsetEnd": 200,
+          "pos": "JJ"
+        },
+        {
+          "word": "categories",
+          "lemma": "category",
+          "offsetBegin": 201,
+          "offsetEnd": 211,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 212,
+          "offsetEnd": 214,
+          "pos": "IN"
+        },
+        {
+          "word": "k-step",
+          "lemma": "k-step",
+          "offsetBegin": 215,
+          "offsetEnd": 221,
+          "pos": "JJ"
+        },
+        {
+          "word": "neighborhood",
+          "lemma": "neighborhood",
+          "offsetBegin": 222,
+          "offsetEnd": 234,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 235,
+          "offsetEnd": 242,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 242,
+          "offsetEnd": 243,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Based",
+          "lemma": "base",
+          "offsetBegin": 244,
+          "offsetEnd": 249,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 250,
+          "offsetEnd": 252,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 253,
+          "offsetEnd": 254,
+          "pos": "DT"
+        },
+        {
+          "word": "binary",
+          "lemma": "binary",
+          "offsetBegin": 255,
+          "offsetEnd": 261,
+          "pos": "JJ"
+        },
+        {
+          "word": "relation",
+          "lemma": "relation",
+          "offsetBegin": 262,
+          "offsetEnd": 270,
+          "pos": "NN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 271,
+          "offsetEnd": 273,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 274,
+          "offsetEnd": 275,
+          "pos": "DT"
+        },
+        {
+          "word": "finite",
+          "lemma": "finite",
+          "offsetBegin": 276,
+          "offsetEnd": 282,
+          "pos": "JJ"
+        },
+        {
+          "word": "universe",
+          "lemma": "universe",
+          "offsetBegin": 283,
+          "offsetEnd": 291,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 291,
+          "offsetEnd": 292,
+          "pos": ","
+        },
+        {
+          "word": "six",
+          "lemma": "six",
+          "offsetBegin": 293,
+          "offsetEnd": 296,
+          "pos": "CD"
+        },
+        {
+          "word": "families",
+          "lemma": "family",
+          "offsetBegin": 297,
+          "offsetEnd": 305,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 306,
+          "offsetEnd": 308,
+          "pos": "IN"
+        },
+        {
+          "word": "binary",
+          "lemma": "binary",
+          "offsetBegin": 309,
+          "offsetEnd": 315,
+          "pos": "JJ"
+        },
+        {
+          "word": "relations",
+          "lemma": "relation",
+          "offsetBegin": 316,
+          "offsetEnd": 325,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 326,
+          "offsetEnd": 329,
+          "pos": "VBP"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 330,
+          "offsetEnd": 338,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 338,
+          "offsetEnd": 339,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 340,
+          "offsetEnd": 343,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 344,
+          "offsetEnd": 347,
+          "pos": "DT"
+        },
+        {
+          "word": "corresponding",
+          "lemma": "corresponding",
+          "offsetBegin": 348,
+          "offsetEnd": 361,
+          "pos": "JJ"
+        },
+        {
+          "word": "six",
+          "lemma": "six",
+          "offsetBegin": 362,
+          "offsetEnd": 365,
+          "pos": "CD"
+        },
+        {
+          "word": "classes",
+          "lemma": "class",
+          "offsetBegin": 366,
+          "offsetEnd": 373,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 374,
+          "offsetEnd": 376,
+          "pos": "IN"
+        },
+        {
+          "word": "k-step",
+          "lemma": "k-step",
+          "offsetBegin": 377,
+          "offsetEnd": 383,
+          "pos": "JJ"
+        },
+        {
+          "word": "neighborhood",
+          "lemma": "neighborhood",
+          "offsetBegin": 384,
+          "offsetEnd": 396,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 397,
+          "offsetEnd": 404,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 405,
+          "offsetEnd": 408,
+          "pos": "VBP"
+        },
+        {
+          "word": "derived",
+          "lemma": "derive",
+          "offsetBegin": 409,
+          "offsetEnd": 416,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 416,
+          "offsetEnd": 417,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Extensions",
+          "lemma": "extension",
+          "offsetBegin": 418,
+          "offsetEnd": 428,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 429,
+          "offsetEnd": 431,
+          "pos": "IN"
+        },
+        {
+          "word": "Pawlak",
+          "lemma": "Pawlak",
+          "offsetBegin": 432,
+          "offsetEnd": 438,
+          "pos": "NNP"
+        },
+        {
+          "word": "\u0027s",
+          "lemma": "\u0027s",
+          "offsetBegin": 438,
+          "offsetEnd": 440,
+          "pos": "POS"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 441,
+          "offsetEnd": 442,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "1982",
+          "lemma": "1982",
+          "offsetBegin": 442,
+          "offsetEnd": 446,
+          "pos": "CD"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 446,
+          "offsetEnd": 447,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "rough",
+          "lemma": "rough",
+          "offsetBegin": 448,
+          "offsetEnd": 453,
+          "pos": "JJ"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 454,
+          "offsetEnd": 457,
+          "pos": "NN"
+        },
+        {
+          "word": "approximation",
+          "lemma": "approximation",
+          "offsetBegin": 458,
+          "offsetEnd": 471,
+          "pos": "NN"
+        },
+        {
+          "word": "operators",
+          "lemma": "operator",
+          "offsetBegin": 472,
+          "offsetEnd": 481,
+          "pos": "NNS"
+        },
+        {
+          "word": "based",
+          "lemma": "base",
+          "offsetBegin": 482,
+          "offsetEnd": 487,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 488,
+          "offsetEnd": 490,
+          "pos": "IN"
+        },
+        {
+          "word": "such",
+          "lemma": "such",
+          "offsetBegin": 491,
+          "offsetEnd": 495,
+          "pos": "JJ"
+        },
+        {
+          "word": "neighborhood",
+          "lemma": "neighborhood",
+          "offsetBegin": 496,
+          "offsetEnd": 508,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 509,
+          "offsetEnd": 516,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 517,
+          "offsetEnd": 520,
+          "pos": "VBP"
+        },
+        {
+          "word": "proposed",
+          "lemma": "propose",
+          "offsetBegin": 521,
+          "offsetEnd": 529,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 529,
+          "offsetEnd": 530,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Properties",
+          "lemma": "Properties",
+          "offsetBegin": 531,
+          "offsetEnd": 541,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 542,
+          "offsetEnd": 544,
+          "pos": "IN"
+        },
+        {
+          "word": "neighborhood",
+          "lemma": "neighborhood",
+          "offsetBegin": 545,
+          "offsetEnd": 557,
+          "pos": "NN"
+        },
+        {
+          "word": "operator",
+          "lemma": "operator",
+          "offsetBegin": 558,
+          "offsetEnd": 566,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 567,
+          "offsetEnd": 574,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 575,
+          "offsetEnd": 578,
+          "pos": "CC"
+        },
+        {
+          "word": "rough",
+          "lemma": "rough",
+          "offsetBegin": 579,
+          "offsetEnd": 584,
+          "pos": "JJ"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 585,
+          "offsetEnd": 588,
+          "pos": "NN"
+        },
+        {
+          "word": "approximation",
+          "lemma": "approximation",
+          "offsetBegin": 589,
+          "offsetEnd": 602,
+          "pos": "NN"
+        },
+        {
+          "word": "operators",
+          "lemma": "operator",
+          "offsetBegin": 603,
+          "offsetEnd": 612,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 613,
+          "offsetEnd": 616,
+          "pos": "VBP"
+        },
+        {
+          "word": "investigated",
+          "lemma": "investigate",
+          "offsetBegin": 617,
+          "offsetEnd": 629,
+          "pos": "VBN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 629,
+          "offsetEnd": 630,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 631,
+          "offsetEnd": 634,
+          "pos": "CC"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 635,
+          "offsetEnd": 640,
+          "pos": "PRP$"
+        },
+        {
+          "word": "connections",
+          "lemma": "connection",
+          "offsetBegin": 641,
+          "offsetEnd": 652,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 653,
+          "offsetEnd": 656,
+          "pos": "VBP"
+        },
+        {
+          "word": "examined",
+          "lemma": "examine",
+          "offsetBegin": 657,
+          "offsetEnd": 665,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

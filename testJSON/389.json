@@ -1,0 +1,552 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Bayesian",
+          "lemma": "bayesian",
+          "offsetBegin": 0,
+          "offsetEnd": 8,
+          "pos": "JJ"
+        },
+        {
+          "word": "nonstationary",
+          "lemma": "nonstationary",
+          "offsetBegin": 9,
+          "offsetEnd": 22,
+          "pos": "JJ"
+        },
+        {
+          "word": "autoregressive",
+          "lemma": "autoregressive",
+          "offsetBegin": 23,
+          "offsetEnd": 37,
+          "pos": "JJ"
+        },
+        {
+          "word": "models",
+          "lemma": "model",
+          "offsetBegin": 38,
+          "offsetEnd": 44,
+          "pos": "NNS"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 45,
+          "offsetEnd": 48,
+          "pos": "IN"
+        },
+        {
+          "word": "biomedical",
+          "lemma": "biomedical",
+          "offsetBegin": 49,
+          "offsetEnd": 59,
+          "pos": "JJ"
+        },
+        {
+          "word": "signal",
+          "lemma": "signal",
+          "offsetBegin": 60,
+          "offsetEnd": 66,
+          "pos": "NN"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 67,
+          "offsetEnd": 75,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "We",
+          "lemma": "we",
+          "offsetBegin": 76,
+          "offsetEnd": 78,
+          "pos": "PRP"
+        },
+        {
+          "word": "describe",
+          "lemma": "describe",
+          "offsetBegin": 79,
+          "offsetEnd": 87,
+          "pos": "VBP"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 88,
+          "offsetEnd": 89,
+          "pos": "DT"
+        },
+        {
+          "word": "variational",
+          "lemma": "variational",
+          "offsetBegin": 90,
+          "offsetEnd": 101,
+          "pos": "JJ"
+        },
+        {
+          "word": "Bayesian",
+          "lemma": "bayesian",
+          "offsetBegin": 102,
+          "offsetEnd": 110,
+          "pos": "JJ"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 111,
+          "offsetEnd": 120,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 121,
+          "offsetEnd": 124,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 125,
+          "offsetEnd": 128,
+          "pos": "DT"
+        },
+        {
+          "word": "estimation",
+          "lemma": "estimation",
+          "offsetBegin": 129,
+          "offsetEnd": 139,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 140,
+          "offsetEnd": 142,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 143,
+          "offsetEnd": 144,
+          "pos": "DT"
+        },
+        {
+          "word": "multivariate",
+          "lemma": "multivariate",
+          "offsetBegin": 145,
+          "offsetEnd": 157,
+          "pos": "JJ"
+        },
+        {
+          "word": "autoregressive",
+          "lemma": "autoregressive",
+          "offsetBegin": 158,
+          "offsetEnd": 172,
+          "pos": "JJ"
+        },
+        {
+          "word": "model",
+          "lemma": "model",
+          "offsetBegin": 173,
+          "offsetEnd": 178,
+          "pos": "NN"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 179,
+          "offsetEnd": 183,
+          "pos": "IN"
+        },
+        {
+          "word": "time-varying",
+          "lemma": "time-varying",
+          "offsetBegin": 184,
+          "offsetEnd": 196,
+          "pos": "JJ"
+        },
+        {
+          "word": "coefficients",
+          "lemma": "coefficient",
+          "offsetBegin": 197,
+          "offsetEnd": 209,
+          "pos": "NNS"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 210,
+          "offsetEnd": 214,
+          "pos": "WDT"
+        },
+        {
+          "word": "adapt",
+          "lemma": "adapt",
+          "offsetBegin": 215,
+          "offsetEnd": 220,
+          "pos": "VBP"
+        },
+        {
+          "word": "according",
+          "lemma": "accord",
+          "offsetBegin": 221,
+          "offsetEnd": 230,
+          "pos": "VBG"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 231,
+          "offsetEnd": 233,
+          "pos": "TO"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 234,
+          "offsetEnd": 235,
+          "pos": "DT"
+        },
+        {
+          "word": "linear",
+          "lemma": "linear",
+          "offsetBegin": 236,
+          "offsetEnd": 242,
+          "pos": "JJ"
+        },
+        {
+          "word": "dynamical",
+          "lemma": "dynamical",
+          "offsetBegin": 243,
+          "offsetEnd": 252,
+          "pos": "JJ"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 253,
+          "offsetEnd": 259,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 259,
+          "offsetEnd": 260,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 261,
+          "offsetEnd": 264,
+          "pos": "DT"
+        },
+        {
+          "word": "algorithm",
+          "lemma": "algorithm",
+          "offsetBegin": 265,
+          "offsetEnd": 274,
+          "pos": "NN"
+        },
+        {
+          "word": "allows",
+          "lemma": "allow",
+          "offsetBegin": 275,
+          "offsetEnd": 281,
+          "pos": "VBZ"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 282,
+          "offsetEnd": 285,
+          "pos": "IN"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 286,
+          "offsetEnd": 290,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 291,
+          "offsetEnd": 294,
+          "pos": "CC"
+        },
+        {
+          "word": "frequency",
+          "lemma": "frequency",
+          "offsetBegin": 295,
+          "offsetEnd": 304,
+          "pos": "NN"
+        },
+        {
+          "word": "domain",
+          "lemma": "domain",
+          "offsetBegin": 305,
+          "offsetEnd": 311,
+          "pos": "NN"
+        },
+        {
+          "word": "characterization",
+          "lemma": "characterization",
+          "offsetBegin": 312,
+          "offsetEnd": 328,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 329,
+          "offsetEnd": 331,
+          "pos": "IN"
+        },
+        {
+          "word": "nonstationary",
+          "lemma": "nonstationary",
+          "offsetBegin": 332,
+          "offsetEnd": 345,
+          "pos": "JJ"
+        },
+        {
+          "word": "multivariate",
+          "lemma": "multivariate",
+          "offsetBegin": 346,
+          "offsetEnd": 358,
+          "pos": "JJ"
+        },
+        {
+          "word": "signals",
+          "lemma": "signal",
+          "offsetBegin": 359,
+          "offsetEnd": 366,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 367,
+          "offsetEnd": 370,
+          "pos": "CC"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 371,
+          "offsetEnd": 373,
+          "pos": "VBZ"
+        },
+        {
+          "word": "especially",
+          "lemma": "especially",
+          "offsetBegin": 374,
+          "offsetEnd": 384,
+          "pos": "RB"
+        },
+        {
+          "word": "suited",
+          "lemma": "suit",
+          "offsetBegin": 385,
+          "offsetEnd": 391,
+          "pos": "VBN"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 392,
+          "offsetEnd": 394,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 395,
+          "offsetEnd": 398,
+          "pos": "DT"
+        },
+        {
+          "word": "analysis",
+          "lemma": "analysis",
+          "offsetBegin": 399,
+          "offsetEnd": 407,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 408,
+          "offsetEnd": 410,
+          "pos": "IN"
+        },
+        {
+          "word": "event-related",
+          "lemma": "event-related",
+          "offsetBegin": 411,
+          "offsetEnd": 424,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 425,
+          "offsetEnd": 429,
+          "pos": "NNS"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 429,
+          "offsetEnd": 430,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Results",
+          "lemma": "result",
+          "offsetBegin": 431,
+          "offsetEnd": 438,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 439,
+          "offsetEnd": 442,
+          "pos": "VBP"
+        },
+        {
+          "word": "presented",
+          "lemma": "present",
+          "offsetBegin": 443,
+          "offsetEnd": 452,
+          "pos": "VBN"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 453,
+          "offsetEnd": 455,
+          "pos": "IN"
+        },
+        {
+          "word": "synthetic",
+          "lemma": "synthetic",
+          "offsetBegin": 456,
+          "offsetEnd": 465,
+          "pos": "JJ"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 466,
+          "offsetEnd": 470,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 471,
+          "offsetEnd": 474,
+          "pos": "CC"
+        },
+        {
+          "word": "real",
+          "lemma": "real",
+          "offsetBegin": 475,
+          "offsetEnd": 479,
+          "pos": "JJ"
+        },
+        {
+          "word": "electroencephalogram",
+          "lemma": "electroencephalogram",
+          "offsetBegin": 480,
+          "offsetEnd": 500,
+          "pos": "NN"
+        },
+        {
+          "word": "data",
+          "lemma": "datum",
+          "offsetBegin": 501,
+          "offsetEnd": 505,
+          "pos": "NNS"
+        },
+        {
+          "word": "recorded",
+          "lemma": "record",
+          "offsetBegin": 506,
+          "offsetEnd": 514,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 515,
+          "offsetEnd": 517,
+          "pos": "IN"
+        },
+        {
+          "word": "event-related",
+          "lemma": "event-related",
+          "offsetBegin": 518,
+          "offsetEnd": 531,
+          "pos": "JJ"
+        },
+        {
+          "word": "desynchronization",
+          "lemma": "desynchronization",
+          "offsetBegin": 532,
+          "offsetEnd": 549,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 550,
+          "offsetEnd": 553,
+          "pos": "CC"
+        },
+        {
+          "word": "photic",
+          "lemma": "photic",
+          "offsetBegin": 554,
+          "offsetEnd": 560,
+          "pos": "JJ"
+        },
+        {
+          "word": "synchronization",
+          "lemma": "synchronization",
+          "offsetBegin": 561,
+          "offsetEnd": 576,
+          "pos": "NN"
+        },
+        {
+          "word": "scenarios",
+          "lemma": "scenario",
+          "offsetBegin": 577,
+          "offsetEnd": 586,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

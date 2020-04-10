@@ -1,0 +1,334 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Java",
+          "lemma": "Java",
+          "offsetBegin": 0,
+          "offsetEnd": 4,
+          "pos": "NNP"
+        },
+        {
+          "word": "portability",
+          "lemma": "portability",
+          "offsetBegin": 5,
+          "offsetEnd": 16,
+          "pos": "NN"
+        },
+        {
+          "word": "put",
+          "lemma": "put",
+          "offsetBegin": 17,
+          "offsetEnd": 20,
+          "pos": "VBD"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 21,
+          "offsetEnd": 23,
+          "pos": "TO"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 24,
+          "offsetEnd": 27,
+          "pos": "DT"
+        },
+        {
+          "word": "test",
+          "lemma": "test",
+          "offsetBegin": 28,
+          "offsetEnd": 32,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Sun",
+          "lemma": "Sun",
+          "offsetBegin": 33,
+          "offsetEnd": 36,
+          "pos": "NNP"
+        },
+        {
+          "word": "Microsystems",
+          "lemma": "Microsystems",
+          "offsetBegin": 37,
+          "offsetEnd": 49,
+          "pos": "NNPS"
+        },
+        {
+          "word": "\u0027",
+          "lemma": "\u0027",
+          "offsetBegin": 49,
+          "offsetEnd": 50,
+          "pos": "POS"
+        },
+        {
+          "word": "recently",
+          "lemma": "recently",
+          "offsetBegin": 51,
+          "offsetEnd": 59,
+          "pos": "RB"
+        },
+        {
+          "word": "launched",
+          "lemma": "launch",
+          "offsetBegin": 60,
+          "offsetEnd": 68,
+          "pos": "VBN"
+        },
+        {
+          "word": "Java",
+          "lemma": "Java",
+          "offsetBegin": 69,
+          "offsetEnd": 73,
+          "pos": "NNP"
+        },
+        {
+          "word": "Verification",
+          "lemma": "Verification",
+          "offsetBegin": 74,
+          "offsetEnd": 86,
+          "pos": "NNP"
+        },
+        {
+          "word": "Program",
+          "lemma": "Program",
+          "offsetBegin": 87,
+          "offsetEnd": 94,
+          "pos": "NNP"
+        },
+        {
+          "word": "aims",
+          "lemma": "aim",
+          "offsetBegin": 95,
+          "offsetEnd": 99,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 100,
+          "offsetEnd": 102,
+          "pos": "TO"
+        },
+        {
+          "word": "enable",
+          "lemma": "enable",
+          "offsetBegin": 103,
+          "offsetEnd": 109,
+          "pos": "VB"
+        },
+        {
+          "word": "companies",
+          "lemma": "company",
+          "offsetBegin": 110,
+          "offsetEnd": 119,
+          "pos": "NNS"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 120,
+          "offsetEnd": 122,
+          "pos": "TO"
+        },
+        {
+          "word": "assess",
+          "lemma": "assess",
+          "offsetBegin": 123,
+          "offsetEnd": 129,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 130,
+          "offsetEnd": 133,
+          "pos": "DT"
+        },
+        {
+          "word": "cross-platform",
+          "lemma": "cross-platform",
+          "offsetBegin": 134,
+          "offsetEnd": 148,
+          "pos": "JJ"
+        },
+        {
+          "word": "portability",
+          "lemma": "portability",
+          "offsetBegin": 149,
+          "offsetEnd": 160,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 161,
+          "offsetEnd": 163,
+          "pos": "IN"
+        },
+        {
+          "word": "applications",
+          "lemma": "application",
+          "offsetBegin": 164,
+          "offsetEnd": 176,
+          "pos": "NNS"
+        },
+        {
+          "word": "written",
+          "lemma": "write",
+          "offsetBegin": 177,
+          "offsetEnd": 184,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 185,
+          "offsetEnd": 187,
+          "pos": "IN"
+        },
+        {
+          "word": "Java",
+          "lemma": "Java",
+          "offsetBegin": 188,
+          "offsetEnd": 192,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 192,
+          "offsetEnd": 193,
+          "pos": ","
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 194,
+          "offsetEnd": 197,
+          "pos": "CC"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 198,
+          "offsetEnd": 200,
+          "pos": "TO"
+        },
+        {
+          "word": "help",
+          "lemma": "help",
+          "offsetBegin": 201,
+          "offsetEnd": 205,
+          "pos": "VB"
+        },
+        {
+          "word": "software",
+          "lemma": "software",
+          "offsetBegin": 206,
+          "offsetEnd": 214,
+          "pos": "NN"
+        },
+        {
+          "word": "vendors",
+          "lemma": "vendor",
+          "offsetBegin": 215,
+          "offsetEnd": 222,
+          "pos": "NNS"
+        },
+        {
+          "word": "ensure",
+          "lemma": "ensure",
+          "offsetBegin": 223,
+          "offsetEnd": 229,
+          "pos": "VB"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 230,
+          "offsetEnd": 234,
+          "pos": "IN"
+        },
+        {
+          "word": "their",
+          "lemma": "they",
+          "offsetBegin": 235,
+          "offsetEnd": 240,
+          "pos": "PRP$"
+        },
+        {
+          "word": "solutions",
+          "lemma": "solution",
+          "offsetBegin": 241,
+          "offsetEnd": 250,
+          "pos": "NNS"
+        },
+        {
+          "word": "can",
+          "lemma": "can",
+          "offsetBegin": 251,
+          "offsetEnd": 254,
+          "pos": "MD"
+        },
+        {
+          "word": "run",
+          "lemma": "run",
+          "offsetBegin": 255,
+          "offsetEnd": 258,
+          "pos": "VB"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 259,
+          "offsetEnd": 261,
+          "pos": "IN"
+        },
+        {
+          "word": "heterogenous",
+          "lemma": "heterogenous",
+          "offsetBegin": 262,
+          "offsetEnd": 274,
+          "pos": "JJ"
+        },
+        {
+          "word": "J2EE",
+          "lemma": "j2ee",
+          "offsetBegin": 275,
+          "offsetEnd": 279,
+          "pos": "NN"
+        },
+        {
+          "word": "application",
+          "lemma": "application",
+          "offsetBegin": 280,
+          "offsetEnd": 291,
+          "pos": "NN"
+        },
+        {
+          "word": "server",
+          "lemma": "server",
+          "offsetBegin": 292,
+          "offsetEnd": 298,
+          "pos": "NN"
+        },
+        {
+          "word": "environments",
+          "lemma": "environment",
+          "offsetBegin": 299,
+          "offsetEnd": 311,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}

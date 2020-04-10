@@ -1,0 +1,762 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 0,
+          "offsetEnd": 3,
+          "pos": "DT"
+        },
+        {
+          "word": "role",
+          "lemma": "role",
+          "offsetBegin": 4,
+          "offsetEnd": 8,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 9,
+          "offsetEnd": 11,
+          "pos": "IN"
+        },
+        {
+          "word": "CAUL",
+          "lemma": "caul",
+          "offsetBegin": 12,
+          "offsetEnd": 16,
+          "pos": "NN"
+        },
+        {
+          "word": "-LRB-",
+          "lemma": "-lrb-",
+          "offsetBegin": 17,
+          "offsetEnd": 18,
+          "pos": "-LRB-"
+        },
+        {
+          "word": "Council",
+          "lemma": "council",
+          "offsetBegin": 18,
+          "offsetEnd": 25,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 26,
+          "offsetEnd": 28,
+          "pos": "IN"
+        },
+        {
+          "word": "Australian",
+          "lemma": "australian",
+          "offsetBegin": 29,
+          "offsetEnd": 39,
+          "pos": "JJ"
+        },
+        {
+          "word": "Libraries",
+          "lemma": "library",
+          "offsetBegin": 40,
+          "offsetEnd": 49,
+          "pos": "NNS"
+        },
+        {
+          "word": "-RRB-",
+          "lemma": "-rrb-",
+          "offsetBegin": 49,
+          "offsetEnd": 50,
+          "pos": "-RRB-"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 51,
+          "offsetEnd": 53,
+          "pos": "IN"
+        },
+        {
+          "word": "consortial",
+          "lemma": "consortial",
+          "offsetBegin": 54,
+          "offsetEnd": 64,
+          "pos": "JJ"
+        },
+        {
+          "word": "purchasing",
+          "lemma": "purchasing",
+          "offsetBegin": 65,
+          "offsetEnd": 75,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 76,
+          "offsetEnd": 79,
+          "pos": "DT"
+        },
+        {
+          "word": "Council",
+          "lemma": "Council",
+          "offsetBegin": 80,
+          "offsetEnd": 87,
+          "pos": "NNP"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 88,
+          "offsetEnd": 90,
+          "pos": "IN"
+        },
+        {
+          "word": "Australian",
+          "lemma": "Australian",
+          "offsetBegin": 91,
+          "offsetEnd": 101,
+          "pos": "NNP"
+        },
+        {
+          "word": "University",
+          "lemma": "University",
+          "offsetBegin": 102,
+          "offsetEnd": 112,
+          "pos": "NNP"
+        },
+        {
+          "word": "Librarians",
+          "lemma": "Librarians",
+          "offsetBegin": 113,
+          "offsetEnd": 123,
+          "pos": "NNPS"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 123,
+          "offsetEnd": 124,
+          "pos": ","
+        },
+        {
+          "word": "constituted",
+          "lemma": "constitute",
+          "offsetBegin": 125,
+          "offsetEnd": 136,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 137,
+          "offsetEnd": 139,
+          "pos": "IN"
+        },
+        {
+          "word": "1965",
+          "lemma": "1965",
+          "offsetBegin": 140,
+          "offsetEnd": 144,
+          "pos": "CD"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 145,
+          "offsetEnd": 148,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 149,
+          "offsetEnd": 152,
+          "pos": "DT"
+        },
+        {
+          "word": "purposes",
+          "lemma": "purpose",
+          "offsetBegin": 153,
+          "offsetEnd": 161,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 162,
+          "offsetEnd": 164,
+          "pos": "IN"
+        },
+        {
+          "word": "cooperative",
+          "lemma": "cooperative",
+          "offsetBegin": 165,
+          "offsetEnd": 176,
+          "pos": "JJ"
+        },
+        {
+          "word": "action",
+          "lemma": "action",
+          "offsetBegin": 177,
+          "offsetEnd": 183,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 184,
+          "offsetEnd": 187,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 188,
+          "offsetEnd": 191,
+          "pos": "DT"
+        },
+        {
+          "word": "sharing",
+          "lemma": "sharing",
+          "offsetBegin": 192,
+          "offsetEnd": 199,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 200,
+          "offsetEnd": 202,
+          "pos": "IN"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 203,
+          "offsetEnd": 214,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 214,
+          "offsetEnd": 215,
+          "pos": ","
+        },
+        {
+          "word": "assumed",
+          "lemma": "assume",
+          "offsetBegin": 216,
+          "offsetEnd": 223,
+          "pos": "VBD"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 224,
+          "offsetEnd": 227,
+          "pos": "DT"
+        },
+        {
+          "word": "role",
+          "lemma": "role",
+          "offsetBegin": 228,
+          "offsetEnd": 232,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 233,
+          "offsetEnd": 235,
+          "pos": "IN"
+        },
+        {
+          "word": "consortial",
+          "lemma": "consortial",
+          "offsetBegin": 236,
+          "offsetEnd": 246,
+          "pos": "JJ"
+        },
+        {
+          "word": "purchasing",
+          "lemma": "purchasing",
+          "offsetBegin": 247,
+          "offsetEnd": 257,
+          "pos": "NN"
+        },
+        {
+          "word": "agent",
+          "lemma": "agent",
+          "offsetBegin": 258,
+          "offsetEnd": 263,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 264,
+          "offsetEnd": 266,
+          "pos": "IN"
+        },
+        {
+          "word": "1996",
+          "lemma": "1996",
+          "offsetBegin": 267,
+          "offsetEnd": 271,
+          "pos": "CD"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 272,
+          "offsetEnd": 274,
+          "pos": "IN"
+        },
+        {
+          "word": "behalf",
+          "lemma": "behalf",
+          "offsetBegin": 275,
+          "offsetEnd": 281,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 282,
+          "offsetEnd": 284,
+          "pos": "IN"
+        },
+        {
+          "word": "its",
+          "lemma": "its",
+          "offsetBegin": 285,
+          "offsetEnd": 288,
+          "pos": "PRP$"
+        },
+        {
+          "word": "members",
+          "lemma": "member",
+          "offsetBegin": 289,
+          "offsetEnd": 296,
+          "pos": "NNS"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 297,
+          "offsetEnd": 300,
+          "pos": "CC"
+        },
+        {
+          "word": "associate",
+          "lemma": "associate",
+          "offsetBegin": 301,
+          "offsetEnd": 310,
+          "pos": "JJ"
+        },
+        {
+          "word": "organisations",
+          "lemma": "organisation",
+          "offsetBegin": 311,
+          "offsetEnd": 324,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 325,
+          "offsetEnd": 327,
+          "pos": "IN"
+        },
+        {
+          "word": "Australia",
+          "lemma": "Australia",
+          "offsetBegin": 328,
+          "offsetEnd": 337,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 338,
+          "offsetEnd": 341,
+          "pos": "CC"
+        },
+        {
+          "word": "New",
+          "lemma": "New",
+          "offsetBegin": 342,
+          "offsetEnd": 345,
+          "pos": "NNP"
+        },
+        {
+          "word": "Zealand",
+          "lemma": "Zealand",
+          "offsetBegin": 346,
+          "offsetEnd": 353,
+          "pos": "NNP"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 353,
+          "offsetEnd": 354,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "This",
+          "lemma": "this",
+          "offsetBegin": 355,
+          "offsetEnd": 359,
+          "pos": "DT"
+        },
+        {
+          "word": "role",
+          "lemma": "role",
+          "offsetBegin": 360,
+          "offsetEnd": 364,
+          "pos": "NN"
+        },
+        {
+          "word": "continues",
+          "lemma": "continue",
+          "offsetBegin": 365,
+          "offsetEnd": 374,
+          "pos": "VBZ"
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 375,
+          "offsetEnd": 377,
+          "pos": "TO"
+        },
+        {
+          "word": "grow",
+          "lemma": "grow",
+          "offsetBegin": 378,
+          "offsetEnd": 382,
+          "pos": "VB"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 383,
+          "offsetEnd": 385,
+          "pos": "IN"
+        },
+        {
+          "word": "tandem",
+          "lemma": "tandem",
+          "offsetBegin": 386,
+          "offsetEnd": 392,
+          "pos": "JJ"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 393,
+          "offsetEnd": 397,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 398,
+          "offsetEnd": 401,
+          "pos": "DT"
+        },
+        {
+          "word": "burgeoning",
+          "lemma": "burgeon",
+          "offsetBegin": 402,
+          "offsetEnd": 412,
+          "pos": "VBG"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 413,
+          "offsetEnd": 415,
+          "pos": "IN"
+        },
+        {
+          "word": "electronic",
+          "lemma": "electronic",
+          "offsetBegin": 416,
+          "offsetEnd": 426,
+          "pos": "JJ"
+        },
+        {
+          "word": "publication",
+          "lemma": "publication",
+          "offsetBegin": 427,
+          "offsetEnd": 438,
+          "pos": "NN"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 439,
+          "offsetEnd": 442,
+          "pos": "CC"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 443,
+          "offsetEnd": 446,
+          "pos": "DT"
+        },
+        {
+          "word": "acceptance",
+          "lemma": "acceptance",
+          "offsetBegin": 447,
+          "offsetEnd": 457,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 458,
+          "offsetEnd": 460,
+          "pos": "IN"
+        },
+        {
+          "word": "publishers",
+          "lemma": "publisher",
+          "offsetBegin": 461,
+          "offsetEnd": 471,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 472,
+          "offsetEnd": 474,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 475,
+          "offsetEnd": 478,
+          "pos": "DT"
+        },
+        {
+          "word": "advantages",
+          "lemma": "advantage",
+          "offsetBegin": 479,
+          "offsetEnd": 489,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 490,
+          "offsetEnd": 492,
+          "pos": "IN"
+        },
+        {
+          "word": "dealing",
+          "lemma": "deal",
+          "offsetBegin": 493,
+          "offsetEnd": 500,
+          "pos": "VBG"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 501,
+          "offsetEnd": 505,
+          "pos": "IN"
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 506,
+          "offsetEnd": 515,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 515,
+          "offsetEnd": 516,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 517,
+          "offsetEnd": 520,
+          "pos": "DT"
+        },
+        {
+          "word": "needs",
+          "lemma": "need",
+          "offsetBegin": 521,
+          "offsetEnd": 526,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 527,
+          "offsetEnd": 529,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 530,
+          "offsetEnd": 533,
+          "pos": "DT"
+        },
+        {
+          "word": "Australian",
+          "lemma": "australian",
+          "offsetBegin": 534,
+          "offsetEnd": 544,
+          "pos": "JJ"
+        },
+        {
+          "word": "university",
+          "lemma": "university",
+          "offsetBegin": 545,
+          "offsetEnd": 555,
+          "pos": "NN"
+        },
+        {
+          "word": "community",
+          "lemma": "community",
+          "offsetBegin": 556,
+          "offsetEnd": 565,
+          "pos": "NN"
+        },
+        {
+          "word": "overlap",
+          "lemma": "overlap",
+          "offsetBegin": 566,
+          "offsetEnd": 573,
+          "pos": "VBP"
+        },
+        {
+          "word": "significantly",
+          "lemma": "significantly",
+          "offsetBegin": 574,
+          "offsetEnd": 587,
+          "pos": "RB"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 588,
+          "offsetEnd": 592,
+          "pos": "IN"
+        },
+        {
+          "word": "consortia",
+          "lemma": "consortia",
+          "offsetBegin": 593,
+          "offsetEnd": 602,
+          "pos": "NN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 603,
+          "offsetEnd": 605,
+          "pos": "IN"
+        },
+        {
+          "word": "North",
+          "lemma": "North",
+          "offsetBegin": 606,
+          "offsetEnd": 611,
+          "pos": "NNP"
+        },
+        {
+          "word": "America",
+          "lemma": "America",
+          "offsetBegin": 612,
+          "offsetEnd": 619,
+          "pos": "NNP"
+        },
+        {
+          "word": "and",
+          "lemma": "and",
+          "offsetBegin": 620,
+          "offsetEnd": 623,
+          "pos": "CC"
+        },
+        {
+          "word": "Europe",
+          "lemma": "Europe",
+          "offsetBegin": 624,
+          "offsetEnd": 630,
+          "pos": "NNP"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 630,
+          "offsetEnd": 631,
+          "pos": ","
+        },
+        {
+          "word": "but",
+          "lemma": "but",
+          "offsetBegin": 632,
+          "offsetEnd": 635,
+          "pos": "CC"
+        },
+        {
+          "word": "important",
+          "lemma": "important",
+          "offsetBegin": 636,
+          "offsetEnd": 645,
+          "pos": "JJ"
+        },
+        {
+          "word": "differences",
+          "lemma": "difference",
+          "offsetBegin": 646,
+          "offsetEnd": 657,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 658,
+          "offsetEnd": 661,
+          "pos": "VBP"
+        },
+        {
+          "word": "highlighted",
+          "lemma": "highlight",
+          "offsetBegin": 662,
+          "offsetEnd": 673,
+          "pos": "VBN"
+        }
+      ]
+    }
+  ]
+}

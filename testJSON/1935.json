@@ -1,0 +1,527 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Identification",
+          "lemma": "identification",
+          "offsetBegin": 0,
+          "offsetEnd": 14,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 15,
+          "offsetEnd": 17,
+          "pos": "IN"
+        },
+        {
+          "word": "states",
+          "lemma": "state",
+          "offsetBegin": 18,
+          "offsetEnd": 24,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 25,
+          "offsetEnd": 27,
+          "pos": "IN"
+        },
+        {
+          "word": "complex",
+          "lemma": "complex",
+          "offsetBegin": 28,
+          "offsetEnd": 35,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 36,
+          "offsetEnd": 43,
+          "pos": "NNS"
+        },
+        {
+          "word": "with",
+          "lemma": "with",
+          "offsetBegin": 44,
+          "offsetEnd": 48,
+          "pos": "IN"
+        },
+        {
+          "word": "estimation",
+          "lemma": "estimation",
+          "offsetBegin": 49,
+          "offsetEnd": 59,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 60,
+          "offsetEnd": 62,
+          "pos": "IN"
+        },
+        {
+          "word": "admissible",
+          "lemma": "admissible",
+          "offsetBegin": 63,
+          "offsetEnd": 73,
+          "pos": "JJ"
+        },
+        {
+          "word": "measurement",
+          "lemma": "measurement",
+          "offsetBegin": 74,
+          "offsetEnd": 85,
+          "pos": "NN"
+        },
+        {
+          "word": "errors",
+          "lemma": "error",
+          "offsetBegin": 86,
+          "offsetEnd": 92,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 93,
+          "offsetEnd": 95,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 96,
+          "offsetEnd": 99,
+          "pos": "DT"
+        },
+        {
+          "word": "basis",
+          "lemma": "basis",
+          "offsetBegin": 100,
+          "offsetEnd": 105,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 106,
+          "offsetEnd": 108,
+          "pos": "IN"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 109,
+          "offsetEnd": 114,
+          "pos": "JJ"
+        },
+        {
+          "word": "information",
+          "lemma": "information",
+          "offsetBegin": 115,
+          "offsetEnd": 126,
+          "pos": "NN"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "The",
+          "lemma": "the",
+          "offsetBegin": 127,
+          "offsetEnd": 130,
+          "pos": "DT"
+        },
+        {
+          "word": "problem",
+          "lemma": "problem",
+          "offsetBegin": 131,
+          "offsetEnd": 138,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 139,
+          "offsetEnd": 141,
+          "pos": "IN"
+        },
+        {
+          "word": "identification",
+          "lemma": "identification",
+          "offsetBegin": 142,
+          "offsetEnd": 156,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 157,
+          "offsetEnd": 159,
+          "pos": "IN"
+        },
+        {
+          "word": "states",
+          "lemma": "state",
+          "offsetBegin": 160,
+          "offsetEnd": 166,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 167,
+          "offsetEnd": 169,
+          "pos": "IN"
+        },
+        {
+          "word": "complex",
+          "lemma": "complex",
+          "offsetBegin": 170,
+          "offsetEnd": 177,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 178,
+          "offsetEnd": 185,
+          "pos": "NNS"
+        },
+        {
+          "word": "on",
+          "lemma": "on",
+          "offsetBegin": 186,
+          "offsetEnd": 188,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 189,
+          "offsetEnd": 192,
+          "pos": "DT"
+        },
+        {
+          "word": "basis",
+          "lemma": "basis",
+          "offsetBegin": 193,
+          "offsetEnd": 198,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 199,
+          "offsetEnd": 201,
+          "pos": "IN"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 202,
+          "offsetEnd": 207,
+          "pos": "JJ"
+        },
+        {
+          "word": "values",
+          "lemma": "value",
+          "offsetBegin": 208,
+          "offsetEnd": 214,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 215,
+          "offsetEnd": 217,
+          "pos": "IN"
+        },
+        {
+          "word": "informative",
+          "lemma": "informative",
+          "offsetBegin": 218,
+          "offsetEnd": 229,
+          "pos": "JJ"
+        },
+        {
+          "word": "attributes",
+          "lemma": "attribute",
+          "offsetBegin": 230,
+          "offsetEnd": 240,
+          "pos": "NNS"
+        },
+        {
+          "word": "is",
+          "lemma": "be",
+          "offsetBegin": 241,
+          "offsetEnd": 243,
+          "pos": "VBZ"
+        },
+        {
+          "word": "considered",
+          "lemma": "consider",
+          "offsetBegin": 244,
+          "offsetEnd": 254,
+          "pos": "VBN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 254,
+          "offsetEnd": 255,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Some",
+          "lemma": "some",
+          "offsetBegin": 256,
+          "offsetEnd": 260,
+          "pos": "DT"
+        },
+        {
+          "word": "estimates",
+          "lemma": "estimate",
+          "offsetBegin": 261,
+          "offsetEnd": 270,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 271,
+          "offsetEnd": 273,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 274,
+          "offsetEnd": 275,
+          "pos": "DT"
+        },
+        {
+          "word": "maximally",
+          "lemma": "maximally",
+          "offsetBegin": 276,
+          "offsetEnd": 285,
+          "pos": "RB"
+        },
+        {
+          "word": "admissible",
+          "lemma": "admissible",
+          "offsetBegin": 286,
+          "offsetEnd": 296,
+          "pos": "JJ"
+        },
+        {
+          "word": "degree",
+          "lemma": "degree",
+          "offsetBegin": 297,
+          "offsetEnd": 303,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 304,
+          "offsetEnd": 306,
+          "pos": "IN"
+        },
+        {
+          "word": "measurement",
+          "lemma": "measurement",
+          "offsetBegin": 307,
+          "offsetEnd": 318,
+          "pos": "NN"
+        },
+        {
+          "word": "error",
+          "lemma": "error",
+          "offsetBegin": 319,
+          "offsetEnd": 324,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 325,
+          "offsetEnd": 328,
+          "pos": "VBP"
+        },
+        {
+          "word": "obtained",
+          "lemma": "obtain",
+          "offsetBegin": 329,
+          "offsetEnd": 337,
+          "pos": "VBN"
+        },
+        {
+          "word": "that",
+          "lemma": "that",
+          "offsetBegin": 338,
+          "offsetEnd": 342,
+          "pos": "IN"
+        },
+        {
+          "word": "make",
+          "lemma": "make",
+          "offsetBegin": 343,
+          "offsetEnd": 347,
+          "pos": "VBP"
+        },
+        {
+          "word": "it",
+          "lemma": "it",
+          "offsetBegin": 348,
+          "offsetEnd": 350,
+          "pos": "PRP"
+        },
+        {
+          "word": "possible",
+          "lemma": "possible",
+          "offsetBegin": 351,
+          "offsetEnd": 359,
+          "pos": "JJ"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 359,
+          "offsetEnd": 360,
+          "pos": ","
+        },
+        {
+          "word": "using",
+          "lemma": "use",
+          "offsetBegin": 361,
+          "offsetEnd": 366,
+          "pos": "VBG"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 367,
+          "offsetEnd": 370,
+          "pos": "DT"
+        },
+        {
+          "word": "apparatus",
+          "lemma": "apparatus",
+          "offsetBegin": 371,
+          "offsetEnd": 380,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 381,
+          "offsetEnd": 383,
+          "pos": "IN"
+        },
+        {
+          "word": "fuzzy",
+          "lemma": "fuzzy",
+          "offsetBegin": 384,
+          "offsetEnd": 389,
+          "pos": "JJ"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 390,
+          "offsetEnd": 393,
+          "pos": "NN"
+        },
+        {
+          "word": "theory",
+          "lemma": "theory",
+          "offsetBegin": 394,
+          "offsetEnd": 400,
+          "pos": "NN"
+        },
+        {
+          "word": ",",
+          "lemma": ",",
+          "offsetBegin": 400,
+          "offsetEnd": 401,
+          "pos": ","
+        },
+        {
+          "word": "to",
+          "lemma": "to",
+          "offsetBegin": 402,
+          "offsetEnd": 404,
+          "pos": "TO"
+        },
+        {
+          "word": "correctly",
+          "lemma": "correctly",
+          "offsetBegin": 405,
+          "offsetEnd": 414,
+          "pos": "RB"
+        },
+        {
+          "word": "identify",
+          "lemma": "identify",
+          "offsetBegin": 415,
+          "offsetEnd": 423,
+          "pos": "VB"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 424,
+          "offsetEnd": 427,
+          "pos": "DT"
+        },
+        {
+          "word": "current",
+          "lemma": "current",
+          "offsetBegin": 428,
+          "offsetEnd": 435,
+          "pos": "JJ"
+        },
+        {
+          "word": "state",
+          "lemma": "state",
+          "offsetBegin": 436,
+          "offsetEnd": 441,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 442,
+          "offsetEnd": 444,
+          "pos": "IN"
+        },
+        {
+          "word": "a",
+          "lemma": "a",
+          "offsetBegin": 445,
+          "offsetEnd": 446,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 447,
+          "offsetEnd": 453,
+          "pos": "NN"
+        }
+      ]
+    }
+  ]
+}

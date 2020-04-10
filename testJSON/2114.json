@@ -1,0 +1,429 @@
+{
+  "sentences": [
+    {
+      "tokens": [
+        {
+          "word": "Automation",
+          "lemma": "automation",
+          "offsetBegin": 0,
+          "offsetEnd": 10,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 11,
+          "offsetEnd": 13,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 14,
+          "offsetEnd": 17,
+          "pos": "DT"
+        },
+        {
+          "word": "recovery",
+          "lemma": "recovery",
+          "offsetBegin": 18,
+          "offsetEnd": 26,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 27,
+          "offsetEnd": 29,
+          "pos": "IN"
+        },
+        {
+          "word": "efficiency",
+          "lemma": "efficiency",
+          "offsetBegin": 30,
+          "offsetEnd": 40,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 41,
+          "offsetEnd": 43,
+          "pos": "IN"
+        },
+        {
+          "word": "complex",
+          "lemma": "complex",
+          "offsetBegin": 44,
+          "offsetEnd": 51,
+          "pos": "JJ"
+        },
+        {
+          "word": "structure",
+          "lemma": "structure",
+          "offsetBegin": 52,
+          "offsetEnd": 61,
+          "pos": "NN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 62,
+          "offsetEnd": 69,
+          "pos": "NNS"
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Basic",
+          "lemma": "basic",
+          "offsetBegin": 70,
+          "offsetEnd": 75,
+          "pos": "JJ"
+        },
+        {
+          "word": "features",
+          "lemma": "feature",
+          "offsetBegin": 76,
+          "offsetEnd": 84,
+          "pos": "NNS"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 85,
+          "offsetEnd": 88,
+          "pos": "VBP"
+        },
+        {
+          "word": "set",
+          "lemma": "set",
+          "offsetBegin": 89,
+          "offsetEnd": 92,
+          "pos": "VBN"
+        },
+        {
+          "word": "forth",
+          "lemma": "forth",
+          "offsetBegin": 93,
+          "offsetEnd": 98,
+          "pos": "RB"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 99,
+          "offsetEnd": 101,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 102,
+          "offsetEnd": 105,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 106,
+          "offsetEnd": 112,
+          "pos": "NN"
+        },
+        {
+          "word": "for",
+          "lemma": "for",
+          "offsetBegin": 113,
+          "offsetEnd": 116,
+          "pos": "IN"
+        },
+        {
+          "word": "automation",
+          "lemma": "automation",
+          "offsetBegin": 117,
+          "offsetEnd": 127,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 128,
+          "offsetEnd": 130,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 131,
+          "offsetEnd": 134,
+          "pos": "DT"
+        },
+        {
+          "word": "serviceability",
+          "lemma": "serviceability",
+          "offsetBegin": 135,
+          "offsetEnd": 149,
+          "pos": "NN"
+        },
+        {
+          "word": "recovery",
+          "lemma": "recovery",
+          "offsetBegin": 150,
+          "offsetEnd": 158,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 159,
+          "offsetEnd": 161,
+          "pos": "IN"
+        },
+        {
+          "word": "systems",
+          "lemma": "system",
+          "offsetBegin": 162,
+          "offsetEnd": 169,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 170,
+          "offsetEnd": 172,
+          "pos": "IN"
+        },
+        {
+          "word": "complex",
+          "lemma": "complex",
+          "offsetBegin": 173,
+          "offsetEnd": 180,
+          "pos": "JJ"
+        },
+        {
+          "word": "structures",
+          "lemma": "structure",
+          "offsetBegin": 181,
+          "offsetEnd": 191,
+          "pos": "NNS"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 192,
+          "offsetEnd": 194,
+          "pos": "IN"
+        },
+        {
+          "word": "real",
+          "lemma": "real",
+          "offsetBegin": 195,
+          "offsetEnd": 199,
+          "pos": "JJ"
+        },
+        {
+          "word": "time",
+          "lemma": "time",
+          "offsetBegin": 200,
+          "offsetEnd": 204,
+          "pos": "NN"
+        },
+        {
+          "word": "without",
+          "lemma": "without",
+          "offsetBegin": 205,
+          "offsetEnd": 212,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 213,
+          "offsetEnd": 216,
+          "pos": "DT"
+        },
+        {
+          "word": "interruption",
+          "lemma": "interruption",
+          "offsetBegin": 217,
+          "offsetEnd": 229,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 230,
+          "offsetEnd": 232,
+          "pos": "IN"
+        },
+        {
+          "word": "operation",
+          "lemma": "operation",
+          "offsetBegin": 233,
+          "offsetEnd": 242,
+          "pos": "NN"
+        },
+        {
+          "word": ".",
+          "lemma": ".",
+          "offsetBegin": 242,
+          "offsetEnd": 243,
+          "pos": "."
+        }
+      ]
+    },
+    {
+      "tokens": [
+        {
+          "word": "Specific",
+          "lemma": "specific",
+          "offsetBegin": 244,
+          "offsetEnd": 252,
+          "pos": "JJ"
+        },
+        {
+          "word": "features",
+          "lemma": "feature",
+          "offsetBegin": 253,
+          "offsetEnd": 261,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 262,
+          "offsetEnd": 264,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 265,
+          "offsetEnd": 268,
+          "pos": "DT"
+        },
+        {
+          "word": "method",
+          "lemma": "method",
+          "offsetBegin": 269,
+          "offsetEnd": 275,
+          "pos": "NN"
+        },
+        {
+          "word": "are",
+          "lemma": "be",
+          "offsetBegin": 276,
+          "offsetEnd": 279,
+          "pos": "VBP"
+        },
+        {
+          "word": "revealed",
+          "lemma": "reveal",
+          "offsetBegin": 280,
+          "offsetEnd": 288,
+          "pos": "VBN"
+        },
+        {
+          "word": "in",
+          "lemma": "in",
+          "offsetBegin": 289,
+          "offsetEnd": 291,
+          "pos": "IN"
+        },
+        {
+          "word": "an",
+          "lemma": "a",
+          "offsetBegin": 292,
+          "offsetEnd": 294,
+          "pos": "DT"
+        },
+        {
+          "word": "important",
+          "lemma": "important",
+          "offsetBegin": 295,
+          "offsetEnd": 304,
+          "pos": "JJ"
+        },
+        {
+          "word": "example",
+          "lemma": "example",
+          "offsetBegin": 305,
+          "offsetEnd": 312,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 313,
+          "offsetEnd": 315,
+          "pos": "IN"
+        },
+        {
+          "word": "the",
+          "lemma": "the",
+          "offsetBegin": 316,
+          "offsetEnd": 319,
+          "pos": "DT"
+        },
+        {
+          "word": "system",
+          "lemma": "system",
+          "offsetBegin": 320,
+          "offsetEnd": 326,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 327,
+          "offsetEnd": 329,
+          "pos": "IN"
+        },
+        {
+          "word": "control",
+          "lemma": "control",
+          "offsetBegin": 330,
+          "offsetEnd": 337,
+          "pos": "NN"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 338,
+          "offsetEnd": 340,
+          "pos": "IN"
+        },
+        {
+          "word": "hardware",
+          "lemma": "hardware",
+          "offsetBegin": 341,
+          "offsetEnd": 349,
+          "pos": "NN"
+        },
+        {
+          "word": "components",
+          "lemma": "component",
+          "offsetBegin": 350,
+          "offsetEnd": 360,
+          "pos": "NNS"
+        },
+        {
+          "word": "of",
+          "lemma": "of",
+          "offsetBegin": 361,
+          "offsetEnd": 363,
+          "pos": "IN"
+        },
+        {
+          "word": "ships",
+          "lemma": "ship",
+          "offsetBegin": 364,
+          "offsetEnd": 369,
+          "pos": "NNS"
+        }
+      ]
+    }
+  ]
+}
